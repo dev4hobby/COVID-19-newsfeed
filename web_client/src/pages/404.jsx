@@ -28,14 +28,14 @@ const codeStyles = {
 const NotFoundPage = () => {
   return (
     <main style={pageStyles}>
-      <title>Not found</title>
-      <h1 style={headingStyles}>Page not found</h1>
+      <title>서비스 준비중입니다</title>
+      <h1 style={headingStyles}>서비스 준비중입니다</h1>
       <p style={paragraphStyles}>
-        Sorry{" "}
+        미안해요 ㅎㅎ;{" "}
         <span role="img" aria-label="Pensive emoji">
           😔
         </span>{" "}
-        we couldn’t find what you were looking for.
+        준비되는대로 서비스가 오픈 될 예정입니다.
         <br />
         {process.env.NODE_ENV === "development" ? (
           <>
@@ -45,7 +45,7 @@ const NotFoundPage = () => {
           </>
         ) : null}
         <br />
-        <Link to="/">Go home</Link>.
+        <Link to="/">새로고침</Link>.
       </p>
     </main>
   )

@@ -1,5 +1,6 @@
 import React from 'react'
 import Feed from './feed'
+import NotFoundPage from '../pages/404.jsx'
 
 class Feeds extends React.Component {
   constructor(props) {
@@ -32,12 +33,16 @@ class Feeds extends React.Component {
         feed={this.state.feeds[key]}
       />
     )
+    if (feedList[0]) {
+      return (
+        <div>
+          {feedList}    
+        </div>
+      )
+    } else {
+      return <NotFoundPage/>
+    }
     
-    return (
-      <div>
-        {feedList}    
-      </div>
-    )
   }
 }
 
