@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: '/COVID-19-web-client',
+  pathPrefix: '/COVID-19-newsfeed',
   siteMetadata: {
     title: "COVID-19-newsfeed",
     description: "Newsfeed crawl automation",
