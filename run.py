@@ -30,27 +30,31 @@ try:
     feed_data = json.load(json_file)
 except FileNotFoundError:
   feed_data = dict()
+new_feed_data = dict() # for ordering
 
 url_manager = UrlManager()
 hash_manager = HashManager()
 
+index = 0
 for element in elements:
   upload_time = element.find('span', 'tt').text
   feed_content = element.find('div', 'news-con')
   feed_title = feed_content.a.text
   feed_link = feed_content.a.get('href')
-  feed_id = hash_manager.generate_hmac_hash(feed_title)
-  feed_data[feed_id] = {
-    'title': feed_title,
-    'link': url_manager.remove_url_prefix(feed_link),
-    'date': upload_time
-  }
+  feed_hash = hash_manager.generate_hmac_hash(feed_title)
+  if not feed_data.get(feed_hash):
+    new_feed_data[feed_hash] = {
+      'title': feed_title,
+      'link': url_manager.remove_url_prefix(feed_link),
+      'date': upload_time
+    }
+  new_feed_data.update(feed_data)
 
 with open(
   os.path.join(BASE_DIR, FILE_NAME),
-  'w+',
+  'w',
   encoding='utf-8') as json_file:
-  json.dump(feed_data, json_file, ensure_ascii=False, indent='\t')
+  json.dump(new_feed_data, json_file, ensure_ascii=False, indent='\t')
 
 end = datetime.now()
 print('''
