@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 import json
 import os
 import sys
-from utils import UrlManager
+from utils import UrlManager, HashManager
 
 FILE_NAME = 'feed.json'
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -32,13 +32,16 @@ except FileNotFoundError:
   feed_data = dict()
 
 url_manager = UrlManager()
+hash_manager = HashManager()
 
 for element in elements:
   upload_time = element.find('span', 'tt').text
   feed_content = element.find('div', 'news-con')
   feed_title = feed_content.a.text
   feed_link = feed_content.a.get('href')
-  feed_data[feed_title] = {
+  feed_id = hash_manager.generate_hmac_hash(feed_title)
+  feed_data[feed_id] = {
+    'title': feed_title,
     'link': url_manager.remove_url_prefix(feed_link),
     'date': upload_time
   }
