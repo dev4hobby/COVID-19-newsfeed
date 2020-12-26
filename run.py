@@ -7,6 +7,7 @@ import sys
 from utils import UrlManager, HashManager, MessageFormatter
 from alert import Telegram
 
+FEED_MAX = 100
 FILE_NAME = 'feed.json'
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 begin = datetime.now()
@@ -31,7 +32,7 @@ try:
     feed_data = json.load(json_file)
 except FileNotFoundError:
   feed_data = dict()
-new_feed_data = dict() # for ordering
+new_feed_data = dict()  # for ordering
 
 url_manager = UrlManager()
 hash_manager = HashManager()
@@ -45,18 +46,26 @@ for element in elements:
   feed_title = feed_content.a.text
   feed_link = feed_content.a.get('href')
   feed_hash = hash_manager.generate_hmac_hash(feed_title)
-  if not feed_data.get(feed_hash):
+  if not feed_data.get(feed_hash) and len(new_feed_data) <= FEED_MAX:
     new_feed_data[feed_hash] = {
       'title': feed_title,
       'link': url_manager.remove_url_prefix(feed_link),
       'date': upload_time
     }
-  new_feed_data.update(feed_data)
-  if len(new_feed_data) > 0:
-    telegram.sendMessage(
-      formatter.dict_as_message(
-        new_feed_data
-    ))
+
+dist = FEED_MAX - len(new_feed_data)
+old_feed_filter = list(feed_data)[:dist]
+feed_data = { k: feed_data[k]
+              for k
+              in feed_data
+              if k in old_feed_filter }
+new_feed_data.update(feed_data)
+
+if len(new_feed_data) > 0:
+  telegram.sendMessage(
+    formatter.dict_as_message(
+      new_feed_data
+  ))
 
 with open(
   os.path.join(BASE_DIR, FILE_NAME),
