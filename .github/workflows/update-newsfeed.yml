@@ -27,6 +27,8 @@ jobs:
         pip install -r requirements.txt
         sudo apt-get install yarn
         yarn global add gatsby-cli
+        git config --global user.email "aciddust20@gmail.com"
+        git config --global user.name "Seongchuel Ahn"
         cd web_client && yarn && yarn deploy
         
     - name: Update newsfeed by using Python
