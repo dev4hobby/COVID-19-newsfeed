@@ -30,7 +30,8 @@ class HashManager():
   def __init__(self):	
     '''	
     HashManger init method	
-    '''	
+    '''
+    pass
 
   def hash_hmac(self, algorithm, data, key):	
     res = self.hmac.new(key.encode(), data.encode(), algorithm).hexdigest()	
@@ -38,3 +39,21 @@ class HashManager():
 
   def generate_hmac_hash(self, source):	
     return self.hash_hmac("sha256", source, self.MASTER_KEY)
+
+class MessageFormatter():
+  '''
+  for message formatting
+  '''
+  def __init__(self):
+    '''
+    MessageFormatter init method
+    '''
+  
+  def dict_as_message(self, origin):
+    message = str()
+    for key in origin:
+      message += '{}\n{}\n\n'.format(
+        origin[key]['date'],
+        origin[key]['title']
+      )
+    return message
