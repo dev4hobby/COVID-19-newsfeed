@@ -5,7 +5,7 @@ name: update newsfeed
 
 on:
   schedule:
-    - cron: '*/3 * * * *' # every 20 minutes
+    - cron: '*/20 * * * *' # every 20 minutes
 jobs:
   build:
 
@@ -41,19 +41,3 @@ jobs:
       with:
         branch: "master"
         github_token: $
-    - name: Install Node dependencies and deploy
-      env:
-        GITHUB_TOKEN: ${{ secrets.API_SECRET }}
-      with:
-        email: aciddust20@gmail.com
-        build_dir: public
-        branch: gh-pages
-      run: |
-        sudo apt-get install yarn
-        yarn global add gatsby-cli
-        cd web_client
-        git config --global user.email "aciddust20@gmail.com"
-        git config --global user.name "Seongchuel Ahn"
-        yarn install
-        yarn deploy
-
