@@ -25,8 +25,6 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
-        cd web_client && yarn && yarn deploy
-        
     - name: Update newsfeed by using Python
       env:
         TELEGRAM_API_TOKEN: ${{ secrets.TELEGRAM_API_TOKEN }}
