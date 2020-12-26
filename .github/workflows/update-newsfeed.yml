@@ -5,7 +5,7 @@ name: update newsfeed
 
 on:
   schedule:
-    - cron: '*/20 * * * *' # every 20 minutes
+    - cron: '*/3 * * * *' # every 20 minutes
 jobs:
   build:
 
@@ -25,7 +25,7 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
-        apt-get install yarn
+        sudo apt-get install yarn
         yarn global add gatsby-cli
         cd web_client && yarn && yarn deploy
         
