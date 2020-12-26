@@ -43,7 +43,11 @@ jobs:
         github_token: $
     - name: Install Node dependencies and deploy
       env:
-        GH_API_KEY: ${{ secrets.API_SECRET }}
+        GITHUB_TOKEN: ${{ secrets.API_SECRET }}
+      with:
+        email: aciddust20@gmail.com
+        build_dir: public
+        branch: gh-pages
       run: |
         sudo apt-get install yarn
         yarn global add gatsby-cli
