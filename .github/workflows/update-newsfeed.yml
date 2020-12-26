@@ -26,6 +26,8 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
     - name: Update newsfeed by using Python
+      env:
+        TELEGRAM_API_TOKEN: ${{ secrets.TELEGRAM_API_TOKEN }}
       run: |
         python "run.py"
     - name: Commits
