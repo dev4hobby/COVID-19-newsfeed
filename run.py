@@ -4,7 +4,8 @@ from bs4 import BeautifulSoup
 import json
 import os
 import sys
-from utils import UrlManager, HashManager
+from utils import UrlManager, HashManager, MessageFormatter
+from alert import Telegram
 
 FILE_NAME = 'feed.json'
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -34,6 +35,8 @@ new_feed_data = dict() # for ordering
 
 url_manager = UrlManager()
 hash_manager = HashManager()
+telegram = Telegram()
+formatter = MessageFormatter()
 
 index = 0
 for element in elements:
@@ -49,6 +52,11 @@ for element in elements:
       'date': upload_time
     }
   new_feed_data.update(feed_data)
+  if len(new_feed_data) > 0:
+    telegram.sendMessage(
+      formatter.dict_as_message(
+        new_feed_data
+    ))
 
 with open(
   os.path.join(BASE_DIR, FILE_NAME),
