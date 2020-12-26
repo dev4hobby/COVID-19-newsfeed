@@ -53,6 +53,12 @@ for element in elements:
       'date': upload_time
     }
 
+if len(new_feed_data) > 0:
+  telegram.sendMessage(
+    formatter.dict_as_message(
+      new_feed_data
+  ))
+
 dist = FEED_MAX - len(new_feed_data)
 old_feed_filter = list(feed_data)[:dist]
 feed_data = { k: feed_data[k]
@@ -61,11 +67,7 @@ feed_data = { k: feed_data[k]
               if k in old_feed_filter }
 new_feed_data.update(feed_data)
 
-if len(new_feed_data) > 0:
-  telegram.sendMessage(
-    formatter.dict_as_message(
-      new_feed_data
-  ))
+
 
 with open(
   os.path.join(BASE_DIR, FILE_NAME),
