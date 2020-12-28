@@ -1,4 +1,154 @@
 {
+	"a619974bfe28d34906c8ad90cfbf0283c95a51180d7774a034c8d8e63773ee07": {
+		"title": "음성 소망병원, 정신질환자 감염병 전담 치료시설 본격 가동(종합)",
+		"link": "www.yna.co.kr/view/AKR20201228038751064?section=safe/news",
+		"date": "12-28 10:40"
+	},
+	"699414de7d95209b9a3165aa3df82840aceda4b0bbf915cd5d1d21b9dab95850": {
+		"title": "전해철 행안장관 첫 현장점검…코로나19 방역현장 살펴",
+		"link": "www.yna.co.kr/view/AKR20201228049600530?section=safe/news",
+		"date": "12-28 10:40"
+	},
+	"12b521844932db15a31b58d82de6a0617d67b441f1eab142aece70912263f301": {
+		"title": "브라질 부통령 코로나19 양성판정 나와 관저 격리",
+		"link": "www.yna.co.kr/view/AKR20201228052200094?section=safe/news",
+		"date": "12-28 10:36"
+	},
+	"cab4a5643aff0909e93e784e7469720a156512f47456d015729dc8c81219f806": {
+		"title": "트럼프, 코로나 부양책 포함 내년도 예산안 서명…셧다운 피해",
+		"link": "www.yna.co.kr/view/AKR20201228051200009?section=safe/news",
+		"date": "12-28 10:36"
+	},
+	"aae355f7e63707c5b9e4d8706c6f4210623c32f50bdd14317779a9420cca6bd2": {
+		"title": "일단 1천명 아래 '수도권 2.5단계+연말연시특별방역'으로 잡힐까(종합)",
+		"link": "www.yna.co.kr/view/AKR20201227036651530?section=safe/news",
+		"date": "12-28 10:33"
+	},
+	"1e271d48f0c89872df34c97018ec59b6bc2db2fe0b4b6314157e34c1ac76b67a": {
+		"title": "베트남, 코로나19 팬데믹에도 올해 GDP 2.91% 성장",
+		"link": "www.yna.co.kr/view/AKR20201228049500084?section=safe/news",
+		"date": "12-28 10:33"
+	},
+	"f0c63892a7f53cabe26908c56d98ee0aee6532fbb9a1f92a07d897a607ebd551": {
+		"title": "제주 12월 확진자만 300명 넘어…사우나·카페발 집단감염 계속",
+		"link": "www.yna.co.kr/view/AKR20201228041600056?section=safe/news",
+		"date": "12-28 10:31"
+	},
+	"8e38e3d38d78e228687c11b41cdf8dff7f37156a2e6c429b193a5dc591ef71fc": {
+		"title": "독일 아마추어 조종사, 백신접종 기념해 비행경로로 주사기 그려",
+		"link": "www.yna.co.kr/view/AKR20201228043800009?section=safe/news",
+		"date": "12-28 10:20"
+	},
+	"ccfc4779621e5710f75a5c1ff3510d7d082f4fd3c021a1b064a33934fa6f33a6": {
+		"title": "[속보] \"트럼프, 코로나19 부양안과 내년도 예산안 서명\"<로이터>",
+		"link": "www.yna.co.kr/view/AKR20201228047300009?section=safe/news",
+		"date": "12-28 10:16"
+	},
+	"fe3067d9985f835c80b06b2517397e0847d12b1b0838fdb0e9c11156914639a4": {
+		"title": "포항 구룡포에서 무슨 일이…나흘 새 17명 확진",
+		"link": "www.yna.co.kr/view/AKR20201228043700053?section=safe/news",
+		"date": "12-28 10:15"
+	},
+	"f74933b2370132050387bf79f1acad111a9ae0c782fcebd7b5da1489963242a2": {
+		"title": "[봉화소식] 코로나19에 전통시장 오일장 2곳 임시 휴장",
+		"link": "www.yna.co.kr/view/AKR20201228045000053?section=safe/news",
+		"date": "12-28 10:14"
+	},
+	"46b30cce3e7b9a54c814abd26499f04ca1317ea569e677ab35f1d91b0810360a": {
+		"title": "경남 8명 추가 확진…절반이 기존 확진자 접촉 사례",
+		"link": "www.yna.co.kr/view/AKR20201228044100052?section=safe/news",
+		"date": "12-28 10:13"
+	},
+	"935557a4d50415ab9882a31509e150ce4e29b4f44706a23a36fb613f4052310c": {
+		"title": "광주 제조업체 10곳 중 8곳 \"코로나19 피해 봤다\"",
+		"link": "www.yna.co.kr/view/AKR20201228043500054?section=safe/news",
+		"date": "12-28 10:10"
+	},
+	"de27f31f1069da210adc7b816de3db8655444f02d344d1f9932f13eb9fb387a0": {
+		"title": "경기 어제 193명 확진…사망자 10명 늘어",
+		"link": "www.yna.co.kr/view/AKR20201228043300061?section=safe/news",
+		"date": "12-28 10:08"
+	},
+	"13b29b826476204a67e02341d2f64a396f035ed6d7dab07c0ba5d9af8ac4d2d9": {
+		"title": "울산서 초등생 포함 일가족 3명·해외입국자 확진…누적 621명",
+		"link": "www.yna.co.kr/view/AKR20201228044000057?section=safe/news",
+		"date": "12-28 10:06"
+	},
+	"152a7c7fa058e6e6f347de7fac72246ea62ff7b4a54bc5947dfabc14721a3b4d": {
+		"title": "SGI서울보증, 코로나19 보증지원 프로그램 내년 6월까지 연장",
+		"link": "www.yna.co.kr/view/AKR20201228042700002?section=safe/news",
+		"date": "12-28 10:04"
+	},
+	"7baa3799468d1e3db3dd619438e75d816d18a335de5d6a976afe00433c7c6f36": {
+		"title": "음성 소망병원, 정신질환자 감염병 전담 치료시설 본격 가동",
+		"link": "www.yna.co.kr/view/AKR20201228038700064?section=safe/news",
+		"date": "12-28 10:03"
+	},
+	"ea9001645b7711c2cb1e93dbf75ecb3aa0b5d37dcab8e0cfaa345e6413ef2c56": {
+		"title": "인공지능으로 신종감염병 대응한다…삼성서울병원 실증랩 개소",
+		"link": "www.yna.co.kr/view/AKR20201228040700017?section=safe/news",
+		"date": "12-28 10:01"
+	},
+	"0617e489aad5ca90dae9a37c20b1198ac15b07970ce3d83abd2d0ad83d0f8190": {
+		"title": "영국발 변이 바이러스 국내유입 첫 확인 \"22일 입국자한테 검출\"(종합)",
+		"link": "www.yna.co.kr/view/AKR20201228036451530?section=safe/news",
+		"date": "12-28 10:01"
+	},
+	"60d64998472eb18691416fb80e901541918c7fa1a9f404323ea583c55f8d7933": {
+		"title": "수도권 임시검사소 '익명 검사'서 88명 확진…지역발생의 11.2%",
+		"link": "www.yna.co.kr/view/AKR20201228040400530?section=safe/news",
+		"date": "12-28 10:00"
+	},
+	"908b94016d1524859dc3d172e91d3f6737b761c3771d9ab96fe872369ff1c09c": {
+		"title": "동부구치소 확진 수용자들 청송교도소로 이송 시작",
+		"link": "www.yna.co.kr/view/AKR20201228040300004?section=safe/news",
+		"date": "12-28 09:59"
+	},
+	"b07865429d1cecd02334d387bd1908b57d0a87b1a82466b6255d15756e2958b3": {
+		"title": "터키, 중국 코로나19 확산 여파 시노백 백신 조달 지연",
+		"link": "www.yna.co.kr/view/AKR20201228036600009?section=safe/news",
+		"date": "12-28 09:58"
+	},
+	"22ee554511227fdfbf953db6ff0b6dc2edd3719ca7596ebe9158d8d674d44e8e": {
+		"title": "서울 확진자 13일째 300명 초과…사망자 2명 늘어 159명",
+		"link": "www.yna.co.kr/view/AKR20201228023200004?section=safe/news",
+		"date": "12-28 09:55"
+	},
+	"dc5c75818ae9878e3d4b94f113ee657ff36a8bdffd3103b271e2d709c825ffc4": {
+		"title": "신규확진 808명, 연휴 영향 이틀째 1천명 아래…사망 11명 늘어(종합)",
+		"link": "www.yna.co.kr/view/AKR20201228021451530?section=safe/news",
+		"date": "12-28 09:54"
+	},
+	"b664d2188e8724b75904b54732db1cf854cea86d9aba295e72ec1e6d7c12e9ee": {
+		"title": "스위스 스키장에서 격리대상 영국인 수백명 도주…방역 비상",
+		"link": "www.yna.co.kr/view/AKR20201228030000009?section=safe/news",
+		"date": "12-28 09:49"
+	},
+	"b1c90ffd6f0ed2d38236eeb434ddaa35bcb5938539f3a6077b557fa3eff137cd": {
+		"title": "영국발 변이 바이러스 국내유입 첫 확인 \"22일 입국자한테 검출\"",
+		"link": "www.yna.co.kr/view/AKR20201228036400530?section=safe/news",
+		"date": "12-28 09:49"
+	},
+	"30c5548b500773f554e14de0daf396bb1c69adca8be4ddbfdca957b00b28e3cb": {
+		"title": "33일 만에 신규확진 '0명'…제천시 지긋지긋한 감염고리 끊기나",
+		"link": "www.yna.co.kr/view/AKR20201228033300064?section=safe/news",
+		"date": "12-28 09:43"
+	},
+	"01dd078516f23e9c80931b8ce997fd1ec5dc90600deb2a37ae8092724743c479": {
+		"title": "요르단·노르웨이서도 코로나19 변이 바이러스 발견",
+		"link": "www.yna.co.kr/view/AKR20201228029600009?section=safe/news",
+		"date": "12-28 09:42"
+	},
+	"b93a6d971daf65c4585ce605ba028d95f6d3ed144361fb842d3c3a589c062eee": {
+		"title": "[3보] 신규확진 808명, 연휴 영향 이틀째 1천명 아래…사망 11명 늘어",
+		"link": "www.yna.co.kr/view/AKR20201228021400530?section=safe/news",
+		"date": "12-28 09:41"
+	},
+	"6bdad0b1a50cc3453ff7619de429cbac65be912f2af03ea528b6eb99d3f05ee6": {
+		"title": "대구 신규 확진 24명…영신교회 누적 82명",
+		"link": "www.yna.co.kr/view/AKR20201228032700053?section=safe/news",
+		"date": "12-28 09:41"
+	},
 	"480527aa188ff16ac2be3a59861332ec86dd61fb7846d50a25ab763917a001e1": {
 		"title": "[속보] 당국 \"영국발 입국자에서 코로나19 변이 바이러스 확인\"",
 		"link": "www.yna.co.kr/view/AKR20201228033800530?section=safe/news",
@@ -348,155 +498,5 @@
 		"title": "수도권 3단계 대신 2.5단계 연장…경제적 타격·특별방역 고려",
 		"link": "www.yna.co.kr/view/AKR20201227042500530?section=safe/news",
 		"date": "12-27 17:34"
-	},
-	"1723bf913156c41a4e911a9e24ff1e8d669d5ae24efba360357e4caea630492d": {
-		"title": "영국서 입국한 일가족 3명 확진…변이 바이러스 여부 분석중(종합)",
-		"link": "www.yna.co.kr/view/AKR20201227033651060?section=safe/news",
-		"date": "12-27 17:25"
-	},
-	"a5144b32d51934dd78bc6e7d77d5b0ec51267872cb67086d04ace0ed7568b85d": {
-		"title": "WHO 사무총장 \"코로나19, 마지막 팬데믹 아닐 것\"",
-		"link": "www.yna.co.kr/view/AKR20201227045300088?section=safe/news",
-		"date": "12-27 17:20"
-	},
-	"ecfc474a4aebc1ae8df263ea38ee0f2c7ff9c5caf2c0027aed67523b4c74058d": {
-		"title": "프랑스, 코로나 재확산에 제3차 '전면 봉쇄' 검토",
-		"link": "www.yna.co.kr/view/AKR20201227044300009?section=safe/news",
-		"date": "12-27 17:17"
-	},
-	"16129d17feb3a76634e0fc1f55ff09cb8a369ac8db354f27d7b1f489c0d4d148": {
-		"title": "경남서 29명 확진…산청 집단감염·거제 목욕탕 관련 계속(종합2보)",
-		"link": "www.yna.co.kr/view/AKR20201227015152052?section=safe/news",
-		"date": "12-27 17:15"
-	},
-	"9d7ad8d02f19e3d1cd4ab60bf9d5d4a211637962e2dd2882a9a86887860a568d": {
-		"title": "수도권 2.5단계 내년 1월 3일까지 6일 연장…3단계 격상은 안해(종합)",
-		"link": "www.yna.co.kr/view/AKR20201227040551530?section=safe/news",
-		"date": "12-27 17:13"
-	},
-	"4f67f339906a5544860db4d099c55d9913a1addde6711072e2f8b4ccf5a28a68": {
-		"title": "청송군, 확진자 이감 경북북부 2교도소 방역·안전대책 요구",
-		"link": "www.yna.co.kr/view/AKR20201227044500053?section=safe/news",
-		"date": "12-27 17:12"
-	},
-	"71f415405a1d48e7f1da1754abbee752504d7bc14f2e45ba306d20d7fbe41b42": {
-		"title": "강원 20명 확진…춘천·철원서 일가족 감염 속출",
-		"link": "www.yna.co.kr/view/AKR20201227043500062?section=safe/news",
-		"date": "12-27 17:03"
-	},
-	"d1488003d2553381c0172c495a0c3773c761f40838bd198f969fc10c20452324": {
-		"title": "김포서 확진자 접촉자 등 6명 코로나19 양성",
-		"link": "www.yna.co.kr/view/AKR20201227043400065?section=safe/news",
-		"date": "12-27 16:58"
-	},
-	"2130c82cdb3337275737fae7137e092a3cfd3320f5858b0cd6dde6e72225b284": {
-		"title": "[속보] \"수도권 감염 재생산지수 1.27→1.07 떨어져…긍정적 신호\"",
-		"link": "www.yna.co.kr/view/AKR20201227042600530?section=safe/news",
-		"date": "12-27 16:45"
-	},
-	"0ccd5e83003ca59ebdfe1cdb79b02cc89cc98b69938d63c1798e22f636880817": {
-		"title": "[속보] \"수도권 병상대기 환자 96명으로 줄어…병상 차질없이 확보중\"",
-		"link": "www.yna.co.kr/view/AKR20201227042200530?section=safe/news",
-		"date": "12-27 16:39"
-	},
-	"3767f445c93fcb2fffb6851a025560eb2133b333943a5fd71c79f190038aa468": {
-		"title": "[속보] 권덕철 \"코로나19 급격한 증가세 둔화됐지만 반전도 없는 상태\"",
-		"link": "www.yna.co.kr/view/AKR20201227041700530?section=safe/news",
-		"date": "12-27 16:35"
-	},
-	"59377f400c1328f5200133ab70885dba2c0bf5345075d0d65506915febef285d": {
-		"title": "[속보] 정부 \"내년 1월 3일 이후 거리두기 단계 종합 검토 계획\"",
-		"link": "www.yna.co.kr/view/AKR20201227040800530?section=safe/news",
-		"date": "12-27 16:30"
-	},
-	"484ad16d5d90d129e1b181c05e3890fc69f954defa0986edae091e1945409b91": {
-		"title": "수도권 2.5단계 내년 1월 3일까지 6일 연장…3단계 격상은 안해",
-		"link": "www.yna.co.kr/view/AKR20201227040500530?section=safe/news",
-		"date": "12-27 16:30"
-	},
-	"fc23963b31b849a6622fdf8489dfd1cac2b341d4f4919894451a389b4fb50af2": {
-		"title": "구례 육용오리 농장서 고병원성 AI 확진…국내 농장 29번째",
-		"link": "www.yna.co.kr/view/AKR20201227041200530?section=safe/news",
-		"date": "12-27 16:29"
-	},
-	"15f3933f20e89e49b8adb970521d23e5a2badfdcf0d337653aac3141a80e44f5": {
-		"title": "변종 코로나, 일본 공항 검역망 뚫었다…조종사·가족 감염",
-		"link": "www.yna.co.kr/view/AKR20201227038800073?section=safe/news",
-		"date": "12-27 16:05"
-	},
-	"952f85ba2c3d570dec2acf4ad9ca36a7c1a662dc77242b350b149683d58f7957": {
-		"title": "요양시설-어린이집-교회 신규감염 확산…감염경로 불명 28.5%(종합)",
-		"link": "www.yna.co.kr/view/AKR20201227032751530?section=safe/news",
-		"date": "12-27 16:02"
-	},
-	"2f6592e984906be13248f056c9e025b3dc541975aa40778c4444d8c5dfcd6aa1": {
-		"title": "유로폴 '가짜 코로나 백신' 주의보…절도 위험성도 지적",
-		"link": "www.yna.co.kr/view/AKR20201227037300009?section=safe/news",
-		"date": "12-27 15:55"
-	},
-	"740c570e3269644ef96875d03580f7d786efa58eee8ccda3332d1aae77f60c1e": {
-		"title": "정총리 \"現 방역조치, 3단계보다 강한 것 포함…실천 중요\"",
-		"link": "www.yna.co.kr/view/AKR20201227038300001?section=safe/news",
-		"date": "12-27 15:40"
-	},
-	"54c973a8f55bc0c0a08e925a2f0a43a4b137943b09db2938891c66015e046855": {
-		"title": "野 '한미 백신스와프' 공식제안…\"한미FTA에 근거규정\"",
-		"link": "www.yna.co.kr/view/AKR20201227038500001?section=safe/news",
-		"date": "12-27 15:37"
-	},
-	"81858c19a93484069d04516c0df1b02d2173ad878e8c50ced9b5288abe6d30fb": {
-		"title": "러, 트럼프 극찬 단일클론 항체 기반 코로나19 치료제 개발키로",
-		"link": "www.yna.co.kr/view/AKR20201227037500096?section=safe/news",
-		"date": "12-27 15:37"
-	},
-	"1dc99fc439103510cfee409a57747e5d0d81ce8e980d9b7118ab236cc0003e3b": {
-		"title": "'집단 격리' 화순 요양병원 환자 18명 타병원 이송",
-		"link": "www.yna.co.kr/view/AKR20201227038400054?section=safe/news",
-		"date": "12-27 15:32"
-	},
-	"e183674982e53d2dfa40c63e859b45e366bdd21d7eeedf7241630c6e9e3151b5": {
-		"title": "아산서도 천안 식품판매점 관련 외국인 1명 확진…누적 86명",
-		"link": "www.yna.co.kr/view/AKR20201227038000063?section=safe/news",
-		"date": "12-27 15:30"
-	},
-	"fa7bfa3ad89b34c8064b998115cf34217e4e765ff662ea5395a93c491bb35e63": {
-		"title": "[속보] 당정, 코로나 피해 소상공인에 100만∼300만원 차등지원",
-		"link": "www.yna.co.kr/view/AKR20201227037600001?section=safe/news",
-		"date": "12-27 15:18"
-	},
-	"a87da7f54efc316df1a75b06e79c8a4f2279eb1375b0eb74197d066781f55814": {
-		"title": "우상호, 확진자 접촉…\"음성이지만 2주간 자발적 격리\"",
-		"link": "www.yna.co.kr/view/AKR20201227033700001?section=safe/news",
-		"date": "12-27 15:03"
-	},
-	"ac157472a6cbc4a47cfbd803294307635947d6c8853c72055f1d7419f854813b": {
-		"title": "코로나19 집단발생 음성소망병원 '정신질환자 전담병원' 지정",
-		"link": "www.yna.co.kr/view/AKR20201227034800064?section=safe/news",
-		"date": "12-27 15:02"
-	},
-	"d9fb93fea0e578dda5225376a5e474a21dba6771bcbf94620c65d710618bc06e": {
-		"title": "광주 에버그린 요양원 80대 확진자 사망",
-		"link": "www.yna.co.kr/view/AKR20201227033000054?section=safe/news",
-		"date": "12-27 14:52"
-	},
-	"7acdc8134581325bbd68b051bb39472a72fa9533f4a259d6face52db4883c7b2": {
-		"title": "울산 양지요양병원 확진자 2명 사망…해외입국자 1명 확진",
-		"link": "www.yna.co.kr/view/AKR20201227033200057?section=safe/news",
-		"date": "12-27 14:51"
-	},
-	"3c18ac73664ee93442c1a942daf6b73c44b71117775f34503a957499611a58ba": {
-		"title": "요양시설-어린이집-교회 신규감염 확산…감염경로 불명 28.5%",
-		"link": "www.yna.co.kr/view/AKR20201227032700530?section=safe/news",
-		"date": "12-27 14:45"
-	},
-	"0109eeca1d202e869f64048c8177d385e7087c082ca35f9397478cea24b96f27": {
-		"title": "'집단감염' 청주 참사랑요양원서 10명 추가 확진…누적 105명(종합)",
-		"link": "www.yna.co.kr/view/AKR20201227006051064?section=safe/news",
-		"date": "12-27 14:44"
-	},
-	"63306ede627e4f948f0d00b55962cfda65d6d190cc3b80a0e0bea317b6783e7f": {
-		"title": "군 코로나 신규 확진없어…논산훈련소 1천600여명 내일 2차검사",
-		"link": "www.yna.co.kr/view/AKR20201227033400504?section=safe/news",
-		"date": "12-27 14:44"
 	}
 }
