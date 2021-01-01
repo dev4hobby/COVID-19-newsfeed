@@ -1,4 +1,44 @@
 {
+	"d7ff7529bbe4ace77c861653bf5f5c4fb2c9d7500a48dd2da36de5268c4b35e2": {
+		"title": "[속보] 경기 이천시 물류센터 관련 누적 확진자 80명으로 늘어",
+		"link": "www.yna.co.kr/view/AKR20210101041700530?section=safe/news",
+		"date": "01-01 14:21"
+	},
+	"bcc4f05681774b53a50550bd0f5756d45103159b54b598b6ee295d569c119b28": {
+		"title": "[속보] 충남 천안시 자동차 부품회사 관련 누적 확진자 12명으로 늘어",
+		"link": "www.yna.co.kr/view/AKR20210101041600530?section=safe/news",
+		"date": "01-01 14:20"
+	},
+	"8ef56d6ef8a8ba4be63d4d5f354efec18e4d43aae1d9d98689540cdef9df1066": {
+		"title": "[속보] 대구 달서구 의료기관 관련 누적 확진자 21명으로 늘어",
+		"link": "www.yna.co.kr/view/AKR20210101041500530?section=safe/news",
+		"date": "01-01 14:19"
+	},
+	"420a42179f3d1f452d33e83f9d2dbad701b0e46dd719630ccbf20c300fba2b2a": {
+		"title": "[속보] 부산 영도구 파랑새 노인건강센터 누적 확진자 47명으로 늘어",
+		"link": "www.yna.co.kr/view/AKR20210101041300530?section=safe/news",
+		"date": "01-01 14:17"
+	},
+	"62125770b64fc383ea2e362b3ee286deb52c7200c3d662177a1aa2304d93d636": {
+		"title": "[속보] 울산 중구 선교단체 관련 34명 추가 확진…누적 83명",
+		"link": "www.yna.co.kr/view/AKR20210101041200530?section=safe/news",
+		"date": "01-01 14:13"
+	},
+	"b8b71325073583b144656ad2120e24e718e65614afdb133987192c9efbd9eb9a": {
+		"title": "[속보] 광주 북구 요양원 관련 누적 확진자 66명으로 늘어",
+		"link": "www.yna.co.kr/view/AKR20210101041000530?section=safe/news",
+		"date": "01-01 14:12"
+	},
+	"e17142414e72c7ba97979e2d5c5cd7069124d998d3b16634839bbdab20282082": {
+		"title": "[속보] 서울 동부구치소 관련 누적 확진자 945명으로 늘어",
+		"link": "www.yna.co.kr/view/AKR20210101040900530?section=safe/news",
+		"date": "01-01 14:11"
+	},
+	"3c14cdd9c12b3f14ec1c25eb98927aa0bc5dac5e8a20702385612daf99ce1c74": {
+		"title": "확진자 나온 서울 동작구 산후조리원, 산모·아기 모두 음성",
+		"link": "www.yna.co.kr/view/AKR20210101040100004?section=safe/news",
+		"date": "01-01 13:57"
+	},
 	"42572a3256251d458a526deafb615c576c7ab09e5ece955b25ffa41e0602b1ba": {
 		"title": "秋, 동부구치소 감염사태 뒤늦게 사과…\"심려 끼쳐 송구\"",
 		"link": "www.yna.co.kr/view/AKR20210101038400004?section=safe/news",
@@ -458,45 +498,5 @@
 		"title": "이스라엘의 코로나 백신 속도전…벌써 인구 8%가 접종",
 		"link": "www.yna.co.kr/view/AKR20201231147300079?section=safe/news",
 		"date": "12-31 18:16"
-	},
-	"b230912b9cf60afd0933eb98bafcac7aa19f470950b527a8de8eba4d49399937": {
-		"title": "동부구치소→강원북부교도소 이송 수용자 5명 추가 확진",
-		"link": "www.yna.co.kr/view/AKR20201231147900004?section=safe/news",
-		"date": "12-31 18:16"
-	},
-	"cccae8be3bf6e893d7678b5d0bbb30595076642750cfe6b9c14fd6b00d71bbd6": {
-		"title": "부천서 10살 미만 아이 포함 12명 확진…누적 1천180명",
-		"link": "www.yna.co.kr/view/AKR20201231148000065?section=safe/news",
-		"date": "12-31 18:14"
-	},
-	"25dc0a2a2b98350efb1488c76c820608a355eaf3fe8fd8811b02085fdbbddd6b": {
-		"title": "코로나19에도 관광객 끄는 몰디브…이달에만 8만7천여명 찾아",
-		"link": "www.yna.co.kr/view/AKR20201231147200009?section=safe/news",
-		"date": "12-31 18:11"
-	},
-	"96e7be7683ffb5b3c271428b6808f5695ebb48bfc0498f0e4baa5626e4730fa5": {
-		"title": "고양서 미소아침요양병원 관련 1명 추가 확진…누적 102명",
-		"link": "www.yna.co.kr/view/AKR20201231147800060?section=safe/news",
-		"date": "12-31 18:08"
-	},
-	"3fb6fa27d122987892da44cad457ddd64c3a94268c6a97ef7140206a1702e6d2": {
-		"title": "'해변 폐쇄·진입로 봉쇄'…을씨년스러운 동해안 \"내일이 걱정\"",
-		"link": "www.yna.co.kr/view/AKR20201231146100062?section=safe/news",
-		"date": "12-31 18:07"
-	},
-	"d36292e416784da0b4429a9fcc11dc9949569714e8912ba9be2db67ceea05046": {
-		"title": "충북 5명 추가 확진…교회 관련 연쇄감염 '비상'",
-		"link": "www.yna.co.kr/view/AKR20201231146200064?section=safe/news",
-		"date": "12-31 18:06"
-	},
-	"40225c322a4090afe57e34d9b3281df9f89f206e2cf57df29bd65a75b8472739": {
-		"title": "스크린골프 모임 매개로 대전·세종·서산서 7명 연쇄 확진(종합)",
-		"link": "www.yna.co.kr/view/AKR20201231032751063?section=safe/news",
-		"date": "12-31 18:02"
-	},
-	"f8e27d0d9b4e96961f3051006407fed7065d1b837903134aaa9baca30c929b6e": {
-		"title": "강원 확진자 29명…동부구치소서 이감된 5명 '양성'(종합)",
-		"link": "www.yna.co.kr/view/AKR20201231145400062?section=safe/news",
-		"date": "12-31 18:02"
 	}
 }
