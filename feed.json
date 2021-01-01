@@ -1,4 +1,34 @@
 {
+	"fbf3763654ad8e6cecff82e3b7d8ad0fdc859c24fe039dcd2bbf4810ad71209e": {
+		"title": "오후 6시까지 640명 확진…어제 같은 시간보다 37명 적어",
+		"link": "www.yna.co.kr/view/AKR20210101054600530?section=safe/news",
+		"date": "01-01 18:41"
+	},
+	"a3189a7b283d49cba55f455c2f469127034a39e1673760b99eb9c5d8a04a6f8a": {
+		"title": "서울서 오후 6시까지 코로나19 신규 확진 196명",
+		"link": "www.yna.co.kr/view/AKR20210101054800004?section=safe/news",
+		"date": "01-01 18:36"
+	},
+	"e156d166fbc9298d23a92df80261285df97e5f16db961b515dc222c0882e3de8": {
+		"title": "\"벨기에 요양원서 산타 방문 뒤 코로나19로 20여 명 사망\"",
+		"link": "www.yna.co.kr/view/AKR20210101053900098?section=safe/news",
+		"date": "01-01 18:31"
+	},
+	"844d6573582b9ac9d79b83266fad6bb9d9f43086024d7afbd05d6884a5e260c8": {
+		"title": "\"헝가리, 대규모 코로나 백신 접종에 러시아산 사용 안할 것\"",
+		"link": "www.yna.co.kr/view/AKR20210101053700088?section=safe/news",
+		"date": "01-01 18:28"
+	},
+	"e826ba3dc907d58e3ed4fffb1ba2b3d78e4cb147f25123291745d92b572962d4": {
+		"title": "서울동부구치소 내 수용자 13명·직원 1명 추가 확진",
+		"link": "www.yna.co.kr/view/AKR20210101054000004?section=safe/news",
+		"date": "01-01 18:22"
+	},
+	"e01062ea2b8883322e56c5ef8cb095ad33e9cb0f96f1a98186903465e2be8e14": {
+		"title": "인천서 종교시설 집단감염 10명 포함 83명 신규 확진(종합)",
+		"link": "www.yna.co.kr/view/AKR20210101033151065?section=safe/news",
+		"date": "01-01 18:12"
+	},
 	"2d4ec224cff45fb8c7e531fe59df7997782c465615ddd6ef6ceb56f9274b359e": {
 		"title": "제주 강정마을 공동생활시설서 코로나19 확진자 3명 발생",
 		"link": "www.yna.co.kr/view/AKR20210101052500056?section=safe/news",
@@ -468,35 +498,5 @@
 		"title": "'코호트 격리' 진천 도은병원서 13명 또 확진…누적 78명째",
 		"link": "www.yna.co.kr/view/AKR20201231160300064?section=safe/news",
 		"date": "12-31 21:32"
-	},
-	"362483583e1123a0451bc6cd15e3f22de522c5379324b32f608af793e860b4cf": {
-		"title": "시진핑 \"코로나 맞서 생명 최우선 방역 서사시 써\"",
-		"link": "www.yna.co.kr/view/AKR20201231159800089?section=safe/news",
-		"date": "12-31 21:16"
-	},
-	"d6c51709327a853421f33816b0be477b6d880adad8ed13ba8fb070b4b6945ccd": {
-		"title": "서울 산후조리원서 잇따라 확진…동작구도 1명 발생",
-		"link": "www.yna.co.kr/view/AKR20201231159600004?section=safe/news",
-		"date": "12-31 21:11"
-	},
-	"f509fc125218420af499839065528a7ee6a25dc787ecbe3d07a9e568377747ba": {
-		"title": "'해변 폐쇄·진입로 봉쇄'…폭풍전야 동해안 \"내일이 더 걱정\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20201231146151062?section=safe/news",
-		"date": "12-31 20:47"
-	},
-	"dc4591e5be4fde0cfee033f8998eaa421e4390075be186e0e1205812e001c99c": {
-		"title": "민주당 황운하 의원, 확진자 밀접 접촉해 검사받고 자가격리(종합)",
-		"link": "www.yna.co.kr/view/AKR20201231129351001?section=safe/news",
-		"date": "12-31 20:46"
-	},
-	"3b590ce3166cec54939291a941c6553fe2e89bb06e76df8910aad3655732f886": {
-		"title": "올해 세계 코로나19 사망자 180만명 넘어…미국 34만명",
-		"link": "www.yna.co.kr/view/AKR20201231158600009?section=safe/news",
-		"date": "12-31 20:45"
-	},
-	"778fc0d30b9af4bd1150e3a4ee9c4f7aadf132bcf745568072885b7cd031e413": {
-		"title": "정부, 모더나 백신 2천만명분 계약완료…총 5천600만명분 확보(종합)",
-		"link": "www.yna.co.kr/view/AKR20201231153751530?section=safe/news",
-		"date": "12-31 20:22"
 	}
 }
