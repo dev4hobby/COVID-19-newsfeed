@@ -1,4 +1,34 @@
 {
+	"8a3770ee441f7bfb37204d82a5cc25062d62310773087d9770952de94225b483": {
+		"title": "[2보] 코로나19 어제 1천29명 신규확진…다시 1천명대로",
+		"link": "www.yna.co.kr/view/AKR20210101012800530?section=safe/news",
+		"date": "01-01 09:31"
+	},
+	"8e47607b5cf2fce02d0f3bcb5df27c2a81c1df05e7a317ab3842914a2b5e20da": {
+		"title": "[속보] 코로나19 사망자 어제 17명 늘어 총 917명",
+		"link": "www.yna.co.kr/view/AKR20210101023700530?section=safe/news",
+		"date": "01-01 09:31"
+	},
+	"18c21383586a7ce639911ceca08c8a39fb46b5ea00db04e5749c645909f3d690": {
+		"title": "[1보] 코로나19 어제 1천29명 신규확진…다시 1천명대로",
+		"link": "www.yna.co.kr/view/AKR20210101012700530?section=safe/news",
+		"date": "01-01 09:30"
+	},
+	"09cd81dccdb46e5ec9594e8398200b3c8032a2b3a0ad531e5a5615ef272e89e1": {
+		"title": "미국 접종지연 원인은…인프라 구축 없이 무작정 백신만 배포",
+		"link": "www.yna.co.kr/view/AKR20210101019700071?section=safe/news",
+		"date": "01-01 09:29"
+	},
+	"f65bf539a48c90b321c8bc090dfa3c94e86bf4c7630e7e5d32bef8be7e883119": {
+		"title": "광주서 의사 동호회·교회 관련 연쇄 감염 계속(종합)",
+		"link": "www.yna.co.kr/view/AKR20210101016701054?section=safe/news",
+		"date": "01-01 08:52"
+	},
+	"5ff1b06233375c211ca3b7065a355f771390639aea2caa4b466fda3f4b1a623b": {
+		"title": "올해 마지막 날 충북서 21명 확진…병원·교회 감염고리 지속(종합)",
+		"link": "www.yna.co.kr/view/AKR20201231146251064?section=safe/news",
+		"date": "12-31 22:19"
+	},
 	"56a6b0c8a0aa92b75ec29a83d1d7a5d92d118055c70d11f28d998c41f230ba2a": {
 		"title": "광주서 의사 동호회·교회 관련 연쇄 감염 계속",
 		"link": "www.yna.co.kr/view/AKR20210101016700054?section=safe/news",
@@ -468,35 +498,5 @@
 		"title": "서울구치소 확진자 구급차서 숨져…구치소 사망 누적 2명(종합)",
 		"link": "www.yna.co.kr/view/AKR20201231069451004?section=safe/news",
 		"date": "12-31 15:06"
-	},
-	"9ed559f76ce96a156d58146d905f270bcfac2047cb0d762a02d5a13650d94431": {
-		"title": "[속보] 학생 52명·교직원 4명 어제 코로나19 신규 확진",
-		"link": "www.yna.co.kr/view/AKR20201231112500530?section=safe/news",
-		"date": "12-31 15:04"
-	},
-	"68db7a560b79ee5285bf4c73147f54dd7d988f6fb16373522b7756387ebb3bc0": {
-		"title": "[속보] 코로나19에 전국 1만527개교 등교 못 해…어제보다 235곳 감소",
-		"link": "www.yna.co.kr/view/AKR20201231112400530?section=safe/news",
-		"date": "12-31 15:03"
-	},
-	"d58c69d8be28461894066f26c61dd0ff4d7a6af2a3d384a0addd886a770edc07": {
-		"title": "서울중앙지검 직원 3명 코로나19 확진",
-		"link": "www.yna.co.kr/view/AKR20201231108600004?section=safe/news",
-		"date": "12-31 14:56"
-	},
-	"75c703cca1afb7e24422bb2e1a1e4e34263301058c426a03f6e5979c90098bbc": {
-		"title": "[속보] 정은경 \"백신 5천600만명분 확보해 추가 물량은 아직 고려 안해\"",
-		"link": "www.yna.co.kr/view/AKR20201231108400530?section=safe/news",
-		"date": "12-31 14:53"
-	},
-	"fda31e8d8057e84ba0fe38cbc07c62e30f34c7340916c33a8cd02e189e0a24bb": {
-		"title": "요양시설·구치소 집단발병 지속 확산…직장서도 새 감염",
-		"link": "www.yna.co.kr/view/AKR20201231103400530?section=safe/news",
-		"date": "12-31 14:52"
-	},
-	"f633698a23d9a08399207f6e551f54dcafbff53f0e8dc34e63ce0958042008f8": {
-		"title": "[속보] \"서울구치소-동부구치소간 감염 관련성 확인 안돼…별건 조사중\"",
-		"link": "www.yna.co.kr/view/AKR20201231106900530?section=safe/news",
-		"date": "12-31 14:47"
 	}
 }
