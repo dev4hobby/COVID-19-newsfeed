@@ -1,4 +1,9 @@
 {
+	"08f813e2838a42b935c486d3736d1c7b418376076cf26ef334a8de6b1eb03dd9": {
+		"title": "영국 코로나19 신규 확진자 5만7천명으로 최다",
+		"link": "www.yna.co.kr/view/AKR20210103001300081?section=safe/news",
+		"date": "01-03 02:06"
+	},
 	"51746ca523cfab8c1858153eae513548cdc9c5041d91a868f8559174dbeaa194": {
 		"title": "日코로나 신규확진 3천59명…지자체장 '긴급사태 발령' 요구",
 		"link": "www.yna.co.kr/view/AKR20210102046800073?section=safe/news",
@@ -493,10 +498,5 @@
 		"title": "수도권 임시검사소 '익명 검사' 91명 확진…지역확진자의 11.5%",
 		"link": "www.yna.co.kr/view/AKR20210102016300530?section=safe/news",
 		"date": "01-02 09:49"
-	},
-	"31a91772738b7c46b866c587b2cd93902a44ea139549deb028255fa0c3b55257": {
-		"title": "美 롬니 \"연방 차원 백신 접종계획 없어…용납 못할 일\"",
-		"link": "www.yna.co.kr/view/AKR20210102015300091?section=safe/news",
-		"date": "01-02 09:46"
 	}
 }
