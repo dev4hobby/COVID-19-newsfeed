@@ -1,4 +1,34 @@
 {
+	"2f5fc21e09dddea2ab9c513d6ca97353eab3a308119ba9af5233580c2e184188": {
+		"title": "독일, 코로나위기에 실업자 270만명…7년만에 증가 반전",
+		"link": "www.yna.co.kr/view/AKR20210106002900082?section=safe/news",
+		"date": "01-06 01:22"
+	},
+	"a8763dc4afaac3bb11020d22085945e78e1939fb0e843329d9345c2bbf2b0fdc": {
+		"title": "미 애리조나서 주지사는 '집콕' 당부…아들은 '노마스크' 파티",
+		"link": "www.yna.co.kr/view/AKR20210106003200071?section=safe/news",
+		"date": "01-06 01:17"
+	},
+	"9075c1ed060aa8aadeb12f423579fba133bf0c58df477886cc48e83e01df0b19": {
+		"title": "'코로나 대응에 전력'…영국 존슨 총리, 이달 인도 방문 취소",
+		"link": "www.yna.co.kr/view/AKR20210106003000085?section=safe/news",
+		"date": "01-06 01:10"
+	},
+	"e998b3044054fdce992d64c42cfadc9208e0441d624ca9404890c651b3197434": {
+		"title": "세계은행, 올 세계성장률 4% 전망…코로나 통제안되면 1.6% 그쳐",
+		"link": "www.yna.co.kr/view/AKR20210106002000071?section=safe/news",
+		"date": "01-06 01:00"
+	},
+	"1ad09e465c574d5b227b227fc5841080dd37ef6a546c4e74ebe494e714343f11": {
+		"title": "케냐 초중고 학생 수천 명, 열 달 만의 개학에도 등교 못 해",
+		"link": "www.yna.co.kr/view/AKR20210106001600009?section=safe/news",
+		"date": "01-06 00:51"
+	},
+	"b4c30be45381a3a87ecd749af88b67c7daba89180e69eef743bf460603f7f6f5": {
+		"title": "\"스웨덴 총리·장관, 코로나19 방역지침 무시에 신뢰도 급락\"",
+		"link": "www.yna.co.kr/view/AKR20210106002200098?section=safe/news",
+		"date": "01-06 00:50"
+	},
 	"77acbcdad7446779fb4d12fa2293f499296cc6ea673933ed8314d58cbbc940d2": {
 		"title": "그리스, 코로나19 사태 속 소폭 개각…첫 동성애자 차관 눈길",
 		"link": "www.yna.co.kr/view/AKR20210106000400109?section=safe/news",
@@ -468,35 +498,5 @@
 		"title": "[속보] 경북 구미시 교회 2번 사례 관련 누적 확진자 100명으로 늘어",
 		"link": "www.yna.co.kr/view/AKR20210105104800530?section=safe/news",
 		"date": "01-05 14:26"
-	},
-	"7c259258a31bccdf6ad69c17178c4023d25a748993cba758f7ef051d93338ffe": {
-		"title": "[속보] 당국 \"새해 첫 주 신규 확진자, '3차 유행' 이후 첫 감소세\"",
-		"link": "www.yna.co.kr/view/AKR20210105103900530?section=safe/news",
-		"date": "01-05 14:25"
-	},
-	"380878a40c6fb6e1fc604e2cc69195e56bb73e8b72e33c098d1b0aaf43d12214": {
-		"title": "영국발 변이 바이러스 감염자 2명 늘어…변이 감염자 총 12명",
-		"link": "www.yna.co.kr/view/AKR20210105104400530?section=safe/news",
-		"date": "01-05 14:24"
-	},
-	"448535d60fe405eb6c8e3cdf2b51d248341cb3bf72f892ad90dd7d8a8d558ae0": {
-		"title": "코로나 대응 사령탑 맞나?…멕시코 보건차관 해변 여행 빈축",
-		"link": "www.yna.co.kr/view/AKR20210105086400009?section=safe/news",
-		"date": "01-05 14:23"
-	},
-	"0e743462399ba4d0b72736c088365060118ecd7e58b67bf5069289a165ed0dc0": {
-		"title": "[속보] 광주 효정요양병원 관련 13명 추가 확진…누적 78명",
-		"link": "www.yna.co.kr/view/AKR20210105104200530?section=safe/news",
-		"date": "01-05 14:20"
-	},
-	"084216357d7a4fc2b127ff182701b43de3674da1023a7bd17d72cc070ce10a89": {
-		"title": "감염 잠복기 지난 부산 요양병원 또 확진…\"교차감염 우려\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20210105100700051?section=safe/news",
-		"date": "01-05 14:19"
-	},
-	"ad244c4e37f9e3089c224e6b27e59c9779a93a33e3a10e79b4cba9350511fbaf": {
-		"title": "[속보] 충북 청주시 교회 2번 사례 누적 확진자 16명으로 늘어",
-		"link": "www.yna.co.kr/view/AKR20210105103300530?section=safe/news",
-		"date": "01-05 14:18"
 	}
 }
