@@ -1,4 +1,69 @@
 {
+	"adb384fbab4c857b52e02de7e67bc98ce46c43eb3d5a576b274664ee8019aded": {
+		"title": "싱가포르, 접촉자 추적조사 정보 경찰 활용 놓고 논란 가열",
+		"link": "www.yna.co.kr/view/AKR20210106089000076?section=safe/news",
+		"date": "01-06 12:25"
+	},
+	"c3e72b122cb98d316febb635a994f59732bcde6affb5d6eb1bcc004a2c187fc3": {
+		"title": "정부 \"3차 대유행 정점 지나 완만한 감소세…거리두기 효과\"(종합)",
+		"link": "www.yna.co.kr/view/AKR20210106084151530?section=safe/news",
+		"date": "01-06 12:22"
+	},
+	"2d068f8a65ce12628363cecf76344ae79f1a620d4580fd4b02fc7637f103c220": {
+		"title": "'세계의 약공장' 인도 \"백신수출 금지한 적 없다\"…보도 부인",
+		"link": "www.yna.co.kr/view/AKR20210106088600077?section=safe/news",
+		"date": "01-06 12:17"
+	},
+	"4976aca5d3b239fc02b9459b61b78967f5ea07b55f17ba084eaef5c21ac22a2a": {
+		"title": "\"코로나19 변이 1시간 안에 안다\" 중국업체 진단키트 개발",
+		"link": "www.yna.co.kr/view/AKR20210106088500083?section=safe/news",
+		"date": "01-06 12:10"
+	},
+	"cbd8ef396861014c65596d2f6b4750b66b4404fbd3fb1abe665df7f66200ac90": {
+		"title": "KT 등 22개사 노사나눔협의체, 코로나19 의료진에 1억원 성품",
+		"link": "www.yna.co.kr/view/AKR20210106088800017?section=safe/news",
+		"date": "01-06 12:07"
+	},
+	"f9573ca0e9ec751a5a4b4a128d5bb1c0f888e31b868ab937e6b27fdd4ac00fcf": {
+		"title": "일본은행 코로나에 돈 풀기 확대…자산 1천366조원 늘어",
+		"link": "www.yna.co.kr/view/AKR20210106087300073?section=safe/news",
+		"date": "01-06 12:03"
+	},
+	"6ca9e6c451c00ce3634aa649e239353e960c4f7e895e93c9bedd8e779739604a": {
+		"title": "정부 \"정신병원 집단감염 339명…접촉자 분산 대책 마련\"",
+		"link": "www.yna.co.kr/view/AKR20210106088200530?section=safe/news",
+		"date": "01-06 11:59"
+	},
+	"003b754cff51c604685fc41f518aa3165185f7850a44c621d8ff1c76b0a44a3b": {
+		"title": "서울 코로나19 확진자 100명 중 1명꼴로 사망(종합)",
+		"link": "www.yna.co.kr/view/AKR20210106075251004?section=safe/news",
+		"date": "01-06 11:57"
+	},
+	"b2eebcebf8b1ceec1a67cbd3978433ac7eb2296f7c385a4d6f036aa6ac287303": {
+		"title": "정부 \"3차 대유행 정점 지나 완만한 감소세…거리두기 효과\"",
+		"link": "www.yna.co.kr/view/AKR20210106084100530?section=safe/news",
+		"date": "01-06 11:57"
+	},
+	"89f6086f249c19c30c29432e2e03e066d6bff91525019def49aa28eb3a70e1f8": {
+		"title": "대구서 22명 신규 확진…8명은 자가격리 중 양성(종합2보)",
+		"link": "www.yna.co.kr/view/AKR20210106040852053?section=safe/news",
+		"date": "01-06 11:55"
+	},
+	"b3d3d0ae34bde39330901d80fd6a5bea21f4f948ca56772ef0c2f5e0e96bb8ce": {
+		"title": "중국 허베이성 대규모 검사…산둥성서 변이 감염자 나와",
+		"link": "www.yna.co.kr/view/AKR20210106085700097?section=safe/news",
+		"date": "01-06 11:53"
+	},
+	"4b1dca11986963747a45adde071e70b33d68ef9bc279b8cf82b91788eaa36a31": {
+		"title": "서울 요양·장애인시설 코로나 확진 계속…\"추적검사로 파악\"",
+		"link": "www.yna.co.kr/view/AKR20210106083700004?section=safe/news",
+		"date": "01-06 11:47"
+	},
+	"9ea9f3509e333eac9d76eb79c7fe225003634ceeaa7b617322625f4ddd873c72": {
+		"title": "순창 요양병원 입소자 12명 추가 확진…누적 13명",
+		"link": "www.yna.co.kr/view/AKR20210106080300055?section=safe/news",
+		"date": "01-06 11:26"
+	},
 	"6d6f5f648a217614e69daf930d2bd4ad3a6cb846616714075aad14fd4044a80c": {
 		"title": "부천 한 교회서 나흘간 확진자 15명 나와…방역당국 비상",
 		"link": "www.yna.co.kr/view/AKR20210106083800065?section=safe/news",
@@ -433,70 +498,5 @@
 		"title": "교황, 코로나19로 신생아 세례 행사 취소",
 		"link": "www.yna.co.kr/view/AKR20210105166100109?section=safe/news",
 		"date": "01-05 22:45"
-	},
-	"d1345bc8596bcb76c3e2f623feb5ee17a500819a5ea388c0bda4fe2ad7c78b50": {
-		"title": "오후 9시까지 738명 확진…6일 신규 확진자 1천명 밑돌듯(종합)",
-		"link": "www.yna.co.kr/view/AKR20210105152851530?section=safe/news",
-		"date": "01-05 22:30"
-	},
-	"82a86324daf40f0ff430a318dc2ca35cff1aeec183ebf216dc210545fc51612d": {
-		"title": "충북 19명 추가 확진…열방센터·병원발 산발적 확산 이어져(종합)",
-		"link": "www.yna.co.kr/view/AKR20210105151651064?section=safe/news",
-		"date": "01-05 22:02"
-	},
-	"a41227340bb68ba8e18f7b91ff89b7cc0c301cf25d0ae21c07751a5ba25ff7d4": {
-		"title": "서울 오후 9시까지 코로나 신규 확진 248명",
-		"link": "www.yna.co.kr/view/AKR20210105164400004?section=safe/news",
-		"date": "01-05 21:59"
-	},
-	"6fcf05566b4a55fca99b10d9a80986eee1e08c6e7606351aa48dc78b8cd5239f": {
-		"title": "당국 \"코로나19 사망자 증가 원인은 요양병원-요양시설 감염\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20210105121751530?section=safe/news",
-		"date": "01-05 21:57"
-	},
-	"752e7e867238215b9a1b96ede30f0be1c63edeb024a4d6e4536931fbe5a87184": {
-		"title": "중국 허베이성 코로나 '전시상태'…일부 대학 즉시 방학(종합)",
-		"link": "www.yna.co.kr/view/AKR20210105074551097?section=safe/news",
-		"date": "01-05 21:44"
-	},
-	"f9d6a1cac5f83ca27934f87fba9adec59bc9c84dfa1f95f92b6b6e10a7c7b09d": {
-		"title": "11번째 변이 바이러스 감염자는 외국인…완치후 격리해제 상태",
-		"link": "www.yna.co.kr/view/AKR20210105162000530?section=safe/news",
-		"date": "01-05 21:39"
-	},
-	"7b7734337adc2a9e0982ad14e331883f310239356bb22f04533f3818ce2970b2": {
-		"title": "일본 코로나 신규 확진 또 최다…7일 긴급사태 발령 결정(종합)",
-		"link": "www.yna.co.kr/view/AKR20210105158051073?section=safe/news",
-		"date": "01-05 21:36"
-	},
-	"1fe021bf8138f40857b189314f4ee2688617153598249223fb26881040575d05": {
-		"title": "\"러시아 코로나19 백신 접종자 100만명 넘어…부작용 없어\"",
-		"link": "www.yna.co.kr/view/AKR20210105161700080?section=safe/news",
-		"date": "01-05 21:31"
-	},
-	"259b20f85f98a39067356fe277c7590374c62903ec189efeed88e399c72b37cb": {
-		"title": "이란서도 영국발 변이 코로나19 감염 확인",
-		"link": "www.yna.co.kr/view/AKR20210105161800009?section=safe/news",
-		"date": "01-05 21:30"
-	},
-	"4ed4c5a3cf9d60f977221243d9208842d0fb06d5ecf10a98e6ef7746b3f49913": {
-		"title": "푸틴-메르켈, 새해 첫 통화…\"코로나19 백신 공동생산 논의\"",
-		"link": "www.yna.co.kr/view/AKR20210105161200080?section=safe/news",
-		"date": "01-05 21:27"
-	},
-	"8638db459ea626380d87364ef6dc9f978395b75c1fe919a966dc3d4314472e17": {
-		"title": "부안 종오리 농장에서 고병원성 AI 확진…국내 농장 46번째",
-		"link": "www.yna.co.kr/view/AKR20210105161400530?section=safe/news",
-		"date": "01-05 21:06"
-	},
-	"7b56c6cb4d5e00f18a7ea8172304cee0cae1df2d59e72b456651ed97fd733508": {
-		"title": "울산서 의료시설 종사자 2명 확진…집단·연쇄감염 우려 커져",
-		"link": "www.yna.co.kr/view/AKR20210105159800057?section=safe/news",
-		"date": "01-05 20:17"
-	},
-	"404464f48451b37b8fa911396b15edc078d200567b6f3dbe0bf34009b5c99869": {
-		"title": "영국, 코로나 3차 봉쇄 돌입…소매업체 등에 6조8천억원 지급",
-		"link": "www.yna.co.kr/view/AKR20210105159300085?section=safe/news",
-		"date": "01-05 20:06"
 	}
 }
