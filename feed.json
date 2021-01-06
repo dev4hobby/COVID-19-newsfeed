@@ -1,4 +1,69 @@
 {
+	"e14df7a330c3f4da26897701cbb0c00768296352f67af6538fa1d95e4a61ee42": {
+		"title": "서울대 기숙사 관련 확진자 1명 추가…누적 3명",
+		"link": "www.yna.co.kr/view/AKR20210106156500004?section=safe/news",
+		"date": "01-06 17:58"
+	},
+	"0f545754f7209826d810ce6c86f8c4467ffeedd47c4bb384d09fd44d7a1eeb51": {
+		"title": "정부 \"정신병원 집단감염 총 339명…접촉자 분산 대책 마련\"(종합)",
+		"link": "www.yna.co.kr/view/AKR20210106088251530?section=safe/news",
+		"date": "01-06 17:57"
+	},
+	"682360fd3e6abc36ab45de7d248f12ee49559eb73fc97fc2eb5b01f1d3fba1e7": {
+		"title": "강원 입영장정 2명 확진…동부구치소 이감 409명 중 22명 감염(종합)",
+		"link": "www.yna.co.kr/view/AKR20210106103051062?section=safe/news",
+		"date": "01-06 17:53"
+	},
+	"0532529831c2505ed8420c229d76e7cf9a1662305cfc6f86ef7951ec6c50cf54": {
+		"title": "정총리, '코로나 검사' 씨젠 방문…\"K방역의 숨은 영웅\"",
+		"link": "www.yna.co.kr/view/AKR20210106146800001?section=safe/news",
+		"date": "01-06 17:46"
+	},
+	"6a6fb116e92fbc7adeb12706595387d638b0185ba330b23f4381eb2542fcd58c": {
+		"title": "'코호트격리' 괴산성모병원 1명 추가 확진…누적 53명째",
+		"link": "www.yna.co.kr/view/AKR20210106152700064?section=safe/news",
+		"date": "01-06 17:40"
+	},
+	"2c2c3d3e5b24efbf2c1dc003c6506dba29abbbf43e6d195b72afa07eabca283a": {
+		"title": "소방청, 생활치료센터 등 코로나19 관련 시설 화재안전 점검",
+		"link": "www.yna.co.kr/view/AKR20210106151400530?section=safe/news",
+		"date": "01-06 17:39"
+	},
+	"3f721d59b3f094893da4828a04919dd3f04115d9798d67113b3d7f0d356280a6": {
+		"title": "늘어난 집단 감염에 자가격리 해제 전 검사 확진 사례도 속출(종합)",
+		"link": "www.yna.co.kr/view/AKR20210106111051054?section=safe/news",
+		"date": "01-06 17:34"
+	},
+	"54a497c6477b203b2447e6d8faa63ef8d01bd4bc4dd3730b402db1a15a0ffc0b": {
+		"title": "네덜란드 10대, 스위스서 코로나 음성 위조해 귀국하다 덜미",
+		"link": "www.yna.co.kr/view/AKR20210106151000088?section=safe/news",
+		"date": "01-06 17:33"
+	},
+	"abb7d663c3dcea303c6d6c13de920a2199d876f8431926471416d0f3189af392": {
+		"title": "[영상] 두번째 코로나 긴급사태 초읽기…일본, 얼마나 심각하길래",
+		"link": "www.yna.co.kr/view/AKR20210106147900704?section=safe/news",
+		"date": "01-06 17:31"
+	},
+	"a782e8d6ebd36576522adefa46f37aa95ef72a720482163d2e375473ce01960d": {
+		"title": "'코로나 확산' 동부구치소 수용자들, 정부 상대 소송",
+		"link": "www.yna.co.kr/view/AKR20210106150600004?section=safe/news",
+		"date": "01-06 17:29"
+	},
+	"701117571997fc0c06fba4621b065aee09008704b4fd5c7cf501d49f337100dc": {
+		"title": "청주시 \"상주 BTJ열방센터 관련 확진자 37명으로 추정\"",
+		"link": "www.yna.co.kr/view/AKR20210106148900064?section=safe/news",
+		"date": "01-06 17:27"
+	},
+	"e71633c4ef6682a2306755abc734e08e9caa6098b5c74b5d518f52a9f9224e8b": {
+		"title": "제주 한라사우나 관련 코로나 확진자 1명 추가…지역 누적 462명",
+		"link": "www.yna.co.kr/view/AKR20210106149100056?section=safe/news",
+		"date": "01-06 17:26"
+	},
+	"6bebf0026c7aa41efc558bbc4adf6c7da92b8580058ff91fcb36631a7cbbb370": {
+		"title": "이영애 \"정인이 같은 아동·코로나 의료진 위해\"…1억 기부(종합)",
+		"link": "www.yna.co.kr/view/AKR20210106074151005?section=safe/news",
+		"date": "01-06 17:25"
+	},
 	"2efbc903dc1ac34065bd4c0b0680fe50bbc079082e00b67fd7b9a624d156500e": {
 		"title": "인천서 38명 코로나19 확진…요양시설 확진자 2명 사망(종합)",
 		"link": "www.yna.co.kr/view/AKR20210106081651065?section=safe/news",
@@ -433,70 +498,5 @@
 		"title": "근절 안 되는 교회발 확산…청주·충주서 6명 추가 확진(종합)",
 		"link": "www.yna.co.kr/view/AKR20210106029651064?section=safe/news",
 		"date": "01-06 11:05"
-	},
-	"d0269e3f520526f4ca3962370b7f157209339fec1172a8c30f5093e8e41c7239": {
-		"title": "서울 264명 신규 확진…장례식장서 집단감염 10명 발생",
-		"link": "www.yna.co.kr/view/AKR20210106075200004?section=safe/news",
-		"date": "01-06 11:04"
-	},
-	"bbc52e313f263b2e0f3a8fd0e7e856b3ffe33220f33877fc5a03d1817a49a817": {
-		"title": "[속보] 고층 교정시설 환자 발생땐 비접촉자 대구교도소 신축건물 이송",
-		"link": "www.yna.co.kr/view/AKR20210106073000530?section=safe/news",
-		"date": "01-06 11:00"
-	},
-	"ae76980c25b09a649a3268a0c56475b6ddb862e9ecccf9de116599d0d2209b3a": {
-		"title": "대구서 22명 신규 확진…8명은 자가격리 중 양성(종합)",
-		"link": "www.yna.co.kr/view/AKR20210106040851053?section=safe/news",
-		"date": "01-06 10:57"
-	},
-	"cfe4f671c45f6451cbac5a5b97b711fdcacb85b8701f79d5525fc6425f789645": {
-		"title": "영암군, 코로나19 장기화에 농기계 임대료 50% 감면 연장",
-		"link": "www.yna.co.kr/view/AKR20210106069700054?section=safe/news",
-		"date": "01-06 10:56"
-	},
-	"abc5dd980f5a5f70280f3076d7bf8ab91c595ec0762ef8da94247617f8e72936": {
-		"title": "포항서 BTJ열방센터 관련 1명 추가 확진…2명으로 늘어",
-		"link": "www.yna.co.kr/view/AKR20210106070200053?section=safe/news",
-		"date": "01-06 10:53"
-	},
-	"d22da57da4308c17cdbd2276b07b8077b69751b02c60d22fadaeaed9e3538300": {
-		"title": "전북 경찰, 코로나19 방역수칙 위반 32명 '기소 의견' 송치",
-		"link": "www.yna.co.kr/view/AKR20210106070300055?section=safe/news",
-		"date": "01-06 10:52"
-	},
-	"c407f0a04ba5a8085234ca19aa16ed1a32bc962b695c29d05b0a8eb1696fc066": {
-		"title": "청주의료원 격리병동 의료진 확진…치료시설 방역 비상",
-		"link": "www.yna.co.kr/view/AKR20210106065900064?section=safe/news",
-		"date": "01-06 10:48"
-	},
-	"79409c293b0b1a8b728a1629181bf181a5d58ed2ba89ae16521bc09132edca0f": {
-		"title": "3차 지원금 설까지 90% 완료…모더나 백신 등 대금 1조 배정",
-		"link": "www.yna.co.kr/view/AKR20210106066700002?section=safe/news",
-		"date": "01-06 10:36"
-	},
-	"74b1d7b21ec66d5d03fe065f9555a609381b6c37393217e363a3304d87779793": {
-		"title": "BTS도 후보 오른 그래미 시상식, 코로나 확산에 3월로 연기(종합)",
-		"link": "www.yna.co.kr/view/AKR20210106011051075?section=safe/news",
-		"date": "01-06 10:35"
-	},
-	"1493baf0b93b2dbb2f84e3a2afacb6f2fd0c558a0d724c6587b6b7fc37d67f2d": {
-		"title": "동부구치소, 6차 전수조사서 66명 추가 확진",
-		"link": "www.yna.co.kr/view/AKR20210106064500004?section=safe/news",
-		"date": "01-06 10:32"
-	},
-	"acda7f2e0a7ffe59d197b27ea5a7b2bacb9466c677c0b1dc103147e26046b53d": {
-		"title": "백신보다 빠른 전염…새해 됐지만 여전히 '우울한 1월'",
-		"link": "www.yna.co.kr/view/AKR20210106059500009?section=safe/news",
-		"date": "01-06 10:30"
-	},
-	"8e18a0771aeed53759f1560ab29ed6a95d6f53ddba7d36947d711dffa43e32da": {
-		"title": "\"장병들의 코로나 블루를 해소하라\" 해군 1함대 대책 '눈길'",
-		"link": "www.yna.co.kr/view/AKR20210106061200062?section=safe/news",
-		"date": "01-06 10:25"
-	},
-	"cd10c3cb0177bae358a64b13a2123ba6a33e354a6d639f3037e6106be8dd9524": {
-		"title": "인도네시아 재벌3세 '코로나 걱정' 발리행 여객기 통째로 빌려",
-		"link": "www.yna.co.kr/view/AKR20210106062000104?section=safe/news",
-		"date": "01-06 10:22"
 	}
 }
