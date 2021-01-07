@@ -1,4 +1,74 @@
 {
+	"f59cf883ee38c3e0078179afbb7a9a11327e84ebf44e5cf4e37d54bffe9de8f4": {
+		"title": "[3보] 신규확진 870명, 사흘연속 1천명 아래…사망자 19명 늘어",
+		"link": "www.yna.co.kr/view/AKR20210107036800530?section=safe/news",
+		"date": "01-07 09:42"
+	},
+	"1fbe4d77e4b213fc47ce9dc8418346232e4d828baef43ce417cfe183f33c77ad": {
+		"title": "수도권 '숨은 감염' 120명 임시검사소서 확진…지역발생의 14.4%",
+		"link": "www.yna.co.kr/view/AKR20210107052500530?section=safe/news",
+		"date": "01-07 09:39"
+	},
+	"09d77070ad6c4104589cc01d8258db03f0960db8394a9099c00b928dd3937046": {
+		"title": "대구 교회 등에서 신규 확진 10명…누적 8천명 육박",
+		"link": "www.yna.co.kr/view/AKR20210107050900053?section=safe/news",
+		"date": "01-07 09:35"
+	},
+	"fa72289abcd2b51cc8712b6b6aad33c297d70b6ed8e3368f16c9445ac15f274d": {
+		"title": "[속보] 경기 303명-서울 298명-인천 41명-경북 36명-강원 30명 등 확진",
+		"link": "www.yna.co.kr/view/AKR20210107050600530?section=safe/news",
+		"date": "01-07 09:31"
+	},
+	"46ee1fb993c5a8a2b4cc7f6c6c61e8370b4537a0ff0212a90801872fc95fe528": {
+		"title": "[2보] 코로나19 어제 870명 신규확진…사흘 연속 1천명 아래",
+		"link": "www.yna.co.kr/view/AKR20210107036700530?section=safe/news",
+		"date": "01-07 09:30"
+	},
+	"90317de0a2964cae8b693bc97a94091315395fcfe4850e2377cb5cab2eb033ec": {
+		"title": "[속보] 코로나19로 어제 하루 19명 사망…누적 1천46명",
+		"link": "www.yna.co.kr/view/AKR20210107040400530?section=safe/news",
+		"date": "01-07 09:30"
+	},
+	"877f79e187721cacb972d344ae3cc8bd82ed3e6f141620c411e20e13945e3c01": {
+		"title": "[1보] 코로나19 어제 870명 신규확진…사흘 연속 1천명 아래",
+		"link": "www.yna.co.kr/view/AKR20210107036500530?section=safe/news",
+		"date": "01-07 09:30"
+	},
+	"28a8cff68d68eb68770a1eb62b561822b2a986e2dd5c9153ef6bb37021c0af3c": {
+		"title": "제천서 80대 확진자 치료 중 사망…충북 35번째",
+		"link": "www.yna.co.kr/view/AKR20210107048700064?section=safe/news",
+		"date": "01-07 09:26"
+	},
+	"b0323d1ab60ed6a092ed8990d77e9f47b66c2197f866e863d6cb9fe02e83bba1": {
+		"title": "싱가포르 체류 한국인 코로나 확진…변이 바이러스도 예비 양성",
+		"link": "www.yna.co.kr/view/AKR20210107044000076?section=safe/news",
+		"date": "01-07 09:12"
+	},
+	"0564cb4ab1a4b05199a72b98cd4a56d9b5053a11a6e8132b5f40ec6f4afd40a7": {
+		"title": "경남도, 코로나19 피해 소상공인에 300억 규모 긴급 보증",
+		"link": "www.yna.co.kr/view/AKR20210106144200052?section=safe/news",
+		"date": "01-07 09:00"
+	},
+	"94a795b4a93d9eaa6708473bdf9d6ae081b3847a29d12cc868b151da8c587c4c": {
+		"title": "병원·열방센터발 감염 이어져…충북 밤새 5명 확진",
+		"link": "www.yna.co.kr/view/AKR20210107038800064?section=safe/news",
+		"date": "01-07 08:57"
+	},
+	"5ebf1cdd36a16cc048a016252c5d08e7855ef93dbfc527c468b7d25981379b2d": {
+		"title": "울산서 코로나19 확진자 3명 발생…누적 763명",
+		"link": "www.yna.co.kr/view/AKR20210107039800057?section=safe/news",
+		"date": "01-07 08:55"
+	},
+	"a8dfd0838299094e0f701a10113043d22aded4d7506fe2faecc6be6e225c8bf1": {
+		"title": "용산 근무 미국인 군무원 일가족 3명 코로나19 확진",
+		"link": "www.yna.co.kr/view/AKR20210107037100504?section=safe/news",
+		"date": "01-07 08:47"
+	},
+	"ea6825009cbf88caca054172a6e38d8075fc6c7f2f0b925f87995600adee4cfa": {
+		"title": "일본야구 한신 이와타, 코로나19 확진…기저 질환자 '우려'",
+		"link": "www.yna.co.kr/view/AKR20210107035200007?section=safe/news",
+		"date": "01-07 08:34"
+	},
 	"e67704fae7ead82cbd7acc4ef60e288631c37d8d4a01fa8603de75e0c94ed5c9": {
 		"title": "간호학원 관련 15명 등 경북 36명 신규 확진",
 		"link": "www.yna.co.kr/view/AKR20210107032700053?section=safe/news",
@@ -428,75 +498,5 @@
 		"title": "코로나19 확산에…조국·송철호·이재용 재판일정 연기",
 		"link": "www.yna.co.kr/view/AKR20210106138200004?section=safe/news",
 		"date": "01-06 16:33"
-	},
-	"3ca38341d687ec3e7385c0883f3ca8c528a9d4098a74180a6d35e420f1104475": {
-		"title": "울산서 확진자 7명 발생…혈액투석 환자도 감염 '비상'(종합2보)",
-		"link": "www.yna.co.kr/view/AKR20210106044652057?section=safe/news",
-		"date": "01-06 16:26"
-	},
-	"7de81d8c39cd27d1ddbc8744f3e765eeb2d26dbf20b65316638fdd03ad503956": {
-		"title": "코로나19가 바꾼 졸업식…온라인이 대세, 차에서 졸업장 수령",
-		"link": "www.yna.co.kr/view/AKR20210106125900053?section=safe/news",
-		"date": "01-06 16:22"
-	},
-	"667d821297464ca4d130f51310ae9549e38c9b4042d1f0b4b513b326fc0ee3aa": {
-		"title": "日해상자위대 수뇌부 감염 진원지, 아베 조카 참석 망년회?",
-		"link": "www.yna.co.kr/view/AKR20210106131600073?section=safe/news",
-		"date": "01-06 16:15"
-	},
-	"92acf8a4f4f487b3dc65347744a65c2c22444ee71fd182f9a8a8b5d32a9387aa": {
-		"title": "미국 병원들, 코로나 와중 병원비 밀린 환자에 무더기소송",
-		"link": "www.yna.co.kr/view/AKR20210106130500009?section=safe/news",
-		"date": "01-06 16:12"
-	},
-	"34151bee2ac6495382ce68f351fa7b452c823fda1e90bc6cb012e640f045ea08": {
-		"title": "괴산서 열방센터 고리 2명 추가 감염…확진자 가족",
-		"link": "www.yna.co.kr/view/AKR20210106129000064?section=safe/news",
-		"date": "01-06 15:57"
-	},
-	"4214f3d9b2618e31373153dc789ed10fe6a3c9692588b5d4add1e65d3d91c558": {
-		"title": "교정시설·교회 중심 집단감염 확산…동부구치소 누적 1천160명",
-		"link": "www.yna.co.kr/view/AKR20210106121300530?section=safe/news",
-		"date": "01-06 15:47"
-	},
-	"929da7e68a4d577f51a48dca6ad64d9456279afc95da09a3a7eeb7f7c4a86e50": {
-		"title": "코로나19 확진자 증가 속 위중증 환자도 400명대…30대 3명",
-		"link": "www.yna.co.kr/view/AKR20210106124800530?section=safe/news",
-		"date": "01-06 15:47"
-	},
-	"7a48b2829e2cf408bf6694094b4bbbe39b4db91d0911488be60206666120b972": {
-		"title": "에버그린요양원 코로나19 확진자 3명째 사망…광주 누적 8명",
-		"link": "www.yna.co.kr/view/AKR20210106127900054?section=safe/news",
-		"date": "01-06 15:45"
-	},
-	"83e674885496dfc54fb517d477adbe5e440514b3b81be426343f768913b4fbb3": {
-		"title": "[카메라뉴스] 제주공항 흡연실은 코로나 '무풍지대?'…거리두기 안 지켜",
-		"link": "www.yna.co.kr/view/AKR20210106124300056?section=safe/news",
-		"date": "01-06 15:41"
-	},
-	"69676c1c9499470b20a7b6dc2d2043e7f51486b9a02ad98f2eca7eea03827f5e": {
-		"title": "울산서 혈액투석 환자 확진…연쇄 감염·환자 관리 '우려'",
-		"link": "www.yna.co.kr/view/AKR20210106125600057?section=safe/news",
-		"date": "01-06 15:33"
-	},
-	"4f4b44de70009ae1392db62b8ad226a39895c903b975dc9e8c1c40649c2e87b5": {
-		"title": "학생 47명 코로나19 신규 확진…8천922개교 등교 불발",
-		"link": "www.yna.co.kr/view/AKR20210106124100530?section=safe/news",
-		"date": "01-06 15:30"
-	},
-	"bd2726a1ae83a3e6ed6f3e002a63e53f666b0a8fe8850791ce22cacc5116c246": {
-		"title": "코로나19 확산 속 대구권 4년제 대학 잇단 등록금 동결 전망",
-		"link": "www.yna.co.kr/view/AKR20210106118900053?section=safe/news",
-		"date": "01-06 15:22"
-	},
-	"feefd68be8ecbda134758690a1462a61bc3586b1db40d215ce1b2a043a96ed29": {
-		"title": "한라산 탐방 예약도 '주춤'…코로나19 5인 이상 집합 금지 영향",
-		"link": "www.yna.co.kr/view/AKR20210106108900056?section=safe/news",
-		"date": "01-06 15:17"
-	},
-	"dd3ff37a546d432264d2766e5e861ee61296e716070b20f236b110617df2bf6f": {
-		"title": "천안 식품판매점 관련 외국인 1명 더 확진…누적 116명",
-		"link": "www.yna.co.kr/view/AKR20210106122400063?section=safe/news",
-		"date": "01-06 15:16"
 	}
 }
