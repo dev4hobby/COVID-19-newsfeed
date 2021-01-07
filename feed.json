@@ -1,4 +1,84 @@
 {
+	"6ec3795617f9e1d55012a9a9658fb84251ae3aa67de0d963b9bab90fc43e18e7": {
+		"title": "코로나19 여파에 지난해 119 신고 전년보다 29만건 줄어",
+		"link": "www.yna.co.kr/view/AKR20210107052000530?section=safe/news",
+		"date": "01-07 12:00"
+	},
+	"53d9f43ce266ee13580b3ea1998ae0ae9758941dd381f658a72d326b2f9b7707": {
+		"title": "중국 허베이성 코로나 감염 급증세…'베이징 방어' 안간힘",
+		"link": "www.yna.co.kr/view/AKR20210107092700097?section=safe/news",
+		"date": "01-07 11:59"
+	},
+	"9808d162b54166e4449baa1ceae3916bc599426b1106c7946bc3cc0bbb18a5ea": {
+		"title": "정부, 노래방 등 수도권 집합금지 업종 17일 이후 영업 허용키로",
+		"link": "www.yna.co.kr/view/AKR20210107089400530?section=safe/news",
+		"date": "01-07 11:50"
+	},
+	"166c5f6a331bfac74f09d6f77608b7b86baff4f1d529020dcb9695b50be42322": {
+		"title": "오산 소규모 급식업체 관련 1명 추가 확진…누적 13명",
+		"link": "www.yna.co.kr/view/AKR20210107093400061?section=safe/news",
+		"date": "01-07 11:48"
+	},
+	"01257a148aad970f5d04f62c596cd54302a7ca2283fa828394537aefce13d70a": {
+		"title": "전북 코로나19 확진자 4명 추가 발생…누적 907명",
+		"link": "www.yna.co.kr/view/AKR20210107092000055?section=safe/news",
+		"date": "01-07 11:47"
+	},
+	"886710b1ae0662f313d31bfbb63ec73f1bb13211bc2ab920886056f80ef3641e": {
+		"title": "캐나다 퀘벡, 코로나 차단 '충격요법'…한달간 야간 통금",
+		"link": "www.yna.co.kr/view/AKR20210107082500009?section=safe/news",
+		"date": "01-07 11:44"
+	},
+	"1bdc3dee5dce7b6878920b566ba4de401be2d026d35ac95113f1ef4c813a6bc6": {
+		"title": "'코로나 극복' 부산시 정부 재난지원금 별개로 2천200억원 푼다(종합)",
+		"link": "www.yna.co.kr/view/AKR20210107076751051?section=safe/news",
+		"date": "01-07 11:36"
+	},
+	"8ad8d8f2e501fa170a15742aa3b4b8854115fc5d6521f3c1ddc64fee486af3ef": {
+		"title": "\"연초 계획은 무슨…\" 새해 희망마저 잠식한 코로나 블루",
+		"link": "www.yna.co.kr/view/AKR20210107084000057?section=safe/news",
+		"date": "01-07 11:34"
+	},
+	"f2f5d320b7c8a224f80b19c908ee8795d7b1e2c23357e74b5a2d512262f69a92": {
+		"title": "대구 교회 등에서 신규 확진 10명…누적 8천명 육박(종합2보)",
+		"link": "www.yna.co.kr/view/AKR20210107050952053?section=safe/news",
+		"date": "01-07 11:32"
+	},
+	"b2c7e78e7769fc8c5533f01ba79df892fc083e06cbf4961710bd3848b15c6037": {
+		"title": "[속보] \"학원도 17일 이후 방역수칙 준수 전제로 운영 허용 검토중\"",
+		"link": "www.yna.co.kr/view/AKR20210107088600530?section=safe/news",
+		"date": "01-07 11:29"
+	},
+	"18178c0b900252dc2d7a8cead0035c1931fcf7ccac31ba0bc8aa03c3e4751152": {
+		"title": "동해시 전 시민 대상 코로나19 무료 선별 검사 종료",
+		"link": "www.yna.co.kr/view/AKR20210107086500062?section=safe/news",
+		"date": "01-07 11:26"
+	},
+	"c5e031de04c66395d40c5e98e7dde1386e3610ab19e0e92160734597772a78d6": {
+		"title": "인천서 요양시설 9명 등 25명 확진…1명은 한국지엠 직원",
+		"link": "www.yna.co.kr/view/AKR20210107085500065?section=safe/news",
+		"date": "01-07 11:26"
+	},
+	"94ccdd0c3001fb33d50a04dc165ca8644fd25fa0f39e3c864560ef844915b212": {
+		"title": "성남시의회 , 감염병·천재지변시 원격회의 인정 규칙 개정 추진",
+		"link": "www.yna.co.kr/view/AKR20210107084400061?section=safe/news",
+		"date": "01-07 11:26"
+	},
+	"dc32093e12de13600476aace576adbebb7740500b1c0b7593a729e8c270797d8": {
+		"title": "사랑의열매, 코로나 실직·폐업 가구에 25억원 긴급지원",
+		"link": "www.yna.co.kr/view/AKR20210107077800004?section=safe/news",
+		"date": "01-07 11:20"
+	},
+	"bb1fca0948222e8038388755aff335d102d165b9d6ae18ee487c812ba889d3a8": {
+		"title": "경기 양주 육류가공업체 관련 4명 추가 확진…누적 47명",
+		"link": "www.yna.co.kr/view/AKR20210107083900060?section=safe/news",
+		"date": "01-07 11:13"
+	},
+	"25ded43ef26a9739a5dae50d9dc5f1a23aa97df6d3ac610e290c9c900335eccc": {
+		"title": "[속보] 정부, 노래방 등 수도권 집합금지 업종 17일 이후 영업허용 가닥",
+		"link": "www.yna.co.kr/view/AKR20210107082700530?section=safe/news",
+		"date": "01-07 11:08"
+	},
 	"3e5b3861205f37971b7e39e51f1af038b5077315c021a2427bfcc49b3cd00d25": {
 		"title": "제주한길정보통신학교 83명 음성…도내 추가 9명 신규 확진",
 		"link": "www.yna.co.kr/view/AKR20210107083800056?section=safe/news",
@@ -418,85 +498,5 @@
 		"title": "'코로나19 직격탄'…영국 지난해 자동차 판매 30년만에 최소",
 		"link": "www.yna.co.kr/view/AKR20210106167900085?section=safe/news",
 		"date": "01-06 19:54"
-	},
-	"592defb08488b7adedeb22a61567acc9e5a4742edd944b86676067b575f0ab99": {
-		"title": "전국 교정시설 확진자 1천200명 넘어",
-		"link": "www.yna.co.kr/view/AKR20210106166100004?section=safe/news",
-		"date": "01-06 19:44"
-	},
-	"84f8e4e007bdfd0ffd0d5a6ddab46f3b965c2fac7546cd99c21720dd7ff72b30": {
-		"title": "경기 양주 식품공장서 집단감염…4개 시·군서 43명 확진(종합)",
-		"link": "www.yna.co.kr/view/AKR20210106163051060?section=safe/news",
-		"date": "01-06 19:31"
-	},
-	"525993378e4692126ac13188c437f06c8bf4ea05a8144f6727af1e4ca898e197": {
-		"title": "네덜란드, 코로나19 백신 접종 시작…EU서 마지막으로 합류",
-		"link": "www.yna.co.kr/view/AKR20210106163900098?section=safe/news",
-		"date": "01-06 19:07"
-	},
-	"00234b09a547ce9ef50a74529dd2caeaa1d5a3f391dd2d523fe27e075b94e924": {
-		"title": "CJ대한통운 곤지암허브터미널, 확진자 발생으로 부분 폐쇄",
-		"link": "www.yna.co.kr/view/AKR20210106161900030?section=safe/news",
-		"date": "01-06 19:04"
-	},
-	"079a617bcbedeb2662d8ba63f62052279ae3df4047cd85c8cfdb32c8ba82193b": {
-		"title": "\"남아공 변이 바이러스, 코로나 백신 완전 무효화 못할 것\"",
-		"link": "www.yna.co.kr/view/AKR20210106162700099?section=safe/news",
-		"date": "01-06 18:58"
-	},
-	"17c8cbcd4de0b5abac14db17018152b6329746f5114f5bf008930b8798658ded": {
-		"title": "오후 6시까지 전국서 648명 확진…동부구치소 66명 포함시 714명",
-		"link": "www.yna.co.kr/view/AKR20210106161400530?section=safe/news",
-		"date": "01-06 18:52"
-	},
-	"169ddb7c66d91d8f0b2cda703c08a4c4aeed01cde05782cb01a538f8b5a3f8d0": {
-		"title": "철통봉쇄에도 독일 하루 코로나19 사망자 1천명 상회",
-		"link": "www.yna.co.kr/view/AKR20210106162200082?section=safe/news",
-		"date": "01-06 18:50"
-	},
-	"de205265eb151ea0bad21f985a10293dbb2ed724932bcd62711753c90b5c235f": {
-		"title": "의정부·양주·동두천서 식품공장 관련 40여명 확진",
-		"link": "www.yna.co.kr/view/AKR20210106163000060?section=safe/news",
-		"date": "01-06 18:50"
-	},
-	"870e9b1b79fee965388029c28af26ce9aaa53c83fb1952d260e1241449cd32be": {
-		"title": "오후 6시까지 서울 신규확진 구치소 빼고 193명",
-		"link": "www.yna.co.kr/view/AKR20210106162800004?section=safe/news",
-		"date": "01-06 18:48"
-	},
-	"5b41fd0fce3b0c1a0c9f34d836304b2476f6438ed3ebec8ca1b2d077ed0f4dcd": {
-		"title": "한 달 만에 3번째 고병원성 AI 확진…음성군 방역 비상",
-		"link": "www.yna.co.kr/view/AKR20210106161700064?section=safe/news",
-		"date": "01-06 18:44"
-	},
-	"887caf0d0b5226f88881bcfb7c5f29362651a5bb89b833f1b5e726c603fc1656": {
-		"title": "[속보] 양주 식품공장 관련 의정부·양주·동두천서 40여명 확진",
-		"link": "www.yna.co.kr/view/AKR20210106161800060?section=safe/news",
-		"date": "01-06 18:37"
-	},
-	"7d99a164ecc620a19135f37536426e1a5b3ccee1938735d46e70f3c6195bf0d1": {
-		"title": "이스라엘 내각, 코로나19 폭증에 '완전 봉쇄령' 승인",
-		"link": "www.yna.co.kr/view/AKR20210106160000079?section=safe/news",
-		"date": "01-06 18:21"
-	},
-	"23d59ab37f4cd67c8a9e8c33ac694f5b9252513bc95f32cff732dd148c7b50eb": {
-		"title": "충북 열방센터 'n차 감염' 등 9명 추가…사망도 1명 늘어",
-		"link": "www.yna.co.kr/view/AKR20210106159700064?section=safe/news",
-		"date": "01-06 18:18"
-	},
-	"925f10375ffd30cc908fae4cd7e99cee60b57a83b51f33796aea185c9f4d81ac": {
-		"title": "유럽의약품청, 모더나 코로나19 백신 승인 여부 평가",
-		"link": "www.yna.co.kr/view/AKR20210106159000098?section=safe/news",
-		"date": "01-06 18:12"
-	},
-	"772edff8d3d37a3b3296fd48c654a2929e10d9e3d7f857583bb26a4d22ab3a5b": {
-		"title": "화성 동탄역 주상복합 공사 현장서 7명 확진",
-		"link": "www.yna.co.kr/view/AKR20210106158100061?section=safe/news",
-		"date": "01-06 18:04"
-	},
-	"24dd7ac04a4d43f4a855e3bb38b91b83c123d06638a67fca55f9edac8001f67f": {
-		"title": "'동부구치소 코로나 확진' 수용자들, 정부 상대 소송(종합)",
-		"link": "www.yna.co.kr/view/AKR20210106150651004?section=safe/news",
-		"date": "01-06 18:02"
 	}
 }
