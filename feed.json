@@ -1,4 +1,44 @@
 {
+	"5a8a8a6c609881db5ad49dc3389dfe05f4455a7c497a672f1ebbd61d95565bb5": {
+		"title": "서울 코로나19 신규 확진 191명…38일만에 최소(종합)",
+		"link": "www.yna.co.kr/view/AKR20210108050651004?section=safe/news",
+		"date": "01-08 11:16"
+	},
+	"7282dd977f253b10b7f9302f559a04f8d61293b7179bdbb8f8120ad20da26b50": {
+		"title": "고양서 정신병원 직원 3명 확진…입소자 207명 전수조사",
+		"link": "www.yna.co.kr/view/AKR20210108072900060?section=safe/news",
+		"date": "01-08 11:15"
+	},
+	"6da97749fd2dfe3f9476e20ef496549e86d4e3f577809b3943a3e12a960a9a22": {
+		"title": "[속보] \"코로나19 중환자 전담간호사 보상 강화…하루 5만원 수당 지급\"",
+		"link": "www.yna.co.kr/view/AKR20210108072600530?section=safe/news",
+		"date": "01-08 11:14"
+	},
+	"506c247980f09b38567ac5b4313fef16344a3d27e2096d87860accae61f634d5": {
+		"title": "애스턴빌라 확진자 발생…리버풀·토트넘과 경기 불투명(종합)",
+		"link": "www.yna.co.kr/view/AKR20210108031351007?section=safe/news",
+		"date": "01-08 11:12"
+	},
+	"9f80ec0882054be02beb482345d5cb706d28e487c8dbcbc558c8de241061dde6": {
+		"title": "철원군 코로나19 역학조사 지원반 확대 운영",
+		"link": "www.yna.co.kr/view/AKR20210108070200062?section=safe/news",
+		"date": "01-08 11:06"
+	},
+	"b9fd84f393b52e6c39bc514dc81eddbd26a609a60f43138d7b873cf73f64f7e8": {
+		"title": "육군 8군단 ASF 감염 멧돼지 폐사체 수색 작전",
+		"link": "www.yna.co.kr/view/AKR20210108068600062?section=safe/news",
+		"date": "01-08 11:05"
+	},
+	"81dc931c09f8fd7b1e1f6b62a2ffd8bc4441f865f7e3a88287c29731bdfb95c1": {
+		"title": "[속보] 정부 \"코로나19 3차 유행 정점 지나 감소세…일평균 700명대\"",
+		"link": "www.yna.co.kr/view/AKR20210108069400530?section=safe/news",
+		"date": "01-08 11:03"
+	},
+	"5a0267ae6f50e59187b42e5d49e82a643bf28be0871361095f1bf83174ea79e9": {
+		"title": "태국 \"코로나 동선추적 앱 미설치 땐 처벌\" 발표했다 철회",
+		"link": "www.yna.co.kr/view/AKR20210108061500076?section=safe/news",
+		"date": "01-08 10:40"
+	},
 	"c12e4b3b47af3917eb4066e4005aaf35e316d0d71256d5cb202981df56b13aa4": {
 		"title": "정세균 \"코로나19 '3차 대유행' 피크 통과했다\"",
 		"link": "www.yna.co.kr/view/AKR20210108062400001?section=safe/news",
@@ -458,45 +498,5 @@
 		"title": "고양서 아름다운인생요양원 입소자 2명 등 25명 확진",
 		"link": "www.yna.co.kr/view/AKR20210107148500060?section=safe/news",
 		"date": "01-07 16:42"
-	},
-	"cd819dd89efc469e3f19b88899fc7c18faf4c44f86046a383dbf39d09b143cb2": {
-		"title": "전북 4명 코로나19 추가 확진…상주 BTJ열방센터 방문 2명 양성(종합)",
-		"link": "www.yna.co.kr/view/AKR20210107092051055?section=safe/news",
-		"date": "01-07 16:39"
-	},
-	"38b0bf184777a75661d5d4aaf694fe41abb4ba0af59a4f8f50eeca4bcc82a1c8": {
-		"title": "김해시 코로나19 역학조사서 거짓 진술한 시민 고발",
-		"link": "www.yna.co.kr/view/AKR20210107143600052?section=safe/news",
-		"date": "01-07 16:33"
-	},
-	"8cc0a049b1085ddd8e7878ec6723bb94701862d0a76c6fa82c01b98c581a9e97": {
-		"title": "영국발 변이 감염자의 일가족 3명도 확진 총 15명,지역전파 우려(종합)",
-		"link": "www.yna.co.kr/view/AKR20210107117351530?section=safe/news",
-		"date": "01-07 16:27"
-	},
-	"f8801358f881f83d7b3b524a8b1b179f8f229bdc1b2fd1c792010651b7536b96": {
-		"title": "안성 소재 정신병원서 5명 추가 확진…누적 31명",
-		"link": "www.yna.co.kr/view/AKR20210107142900061?section=safe/news",
-		"date": "01-07 16:26"
-	},
-	"e9fb23e655a98f5c7aafaafccde1490c7372dd9be65aa649d667b92232147792": {
-		"title": "당진서 코로나19 확진 80대 2명 사망…충남 26·27번째",
-		"link": "www.yna.co.kr/view/AKR20210107143800063?section=safe/news",
-		"date": "01-07 16:26"
-	},
-	"f0f045eaca00f62e191c20e925bcc37c736133f7aeb412172506d57dec587265": {
-		"title": "의정부시 일용직 직원 확진…\"전수 검사 불필요\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20210107069251060?section=safe/news",
-		"date": "01-07 16:20"
-	},
-	"2a1c4f44a08b1a3eab52ac3880c92f2953c5ae75f67cdec4b52d4fe5078bc6c7": {
-		"title": "동부구치소 70대 남성 확진자 사망…누적 사망자 3명(종합2보)",
-		"link": "www.yna.co.kr/view/AKR20210107113552004?section=safe/news",
-		"date": "01-07 16:19"
-	},
-	"9786510fbb7349ff9c4734957894a7c87627a947bb779a934b0bef16c151807a": {
-		"title": "코로나19로 사용 못 한 학급비 기부한 중학생들",
-		"link": "www.yna.co.kr/view/AKR20210107140600062?section=safe/news",
-		"date": "01-07 16:14"
 	}
 }
