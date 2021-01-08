@@ -1,4 +1,69 @@
 {
+	"5b37d61971a757d1b34ec63775420f61ec49b6cb345184cd2094d995952e8f06": {
+		"title": "대전서 BTJ열방센터 관련 2명 더 확진…지역 누적 88명째",
+		"link": "www.yna.co.kr/view/AKR20210108147100063?section=safe/news",
+		"date": "01-08 18:02"
+	},
+	"4c11b9cae3a7dffddaadbebb81d934684bee67b1098b6d9729b594311081ff6c": {
+		"title": "부천 심곡동 교회 관련 1명 포함 14명 코로나19 확진",
+		"link": "www.yna.co.kr/view/AKR20210108148500065?section=safe/news",
+		"date": "01-08 18:00"
+	},
+	"2b6a0ab5d26cf19e8a3cd1096aba2449e26611e3abb6751b334d0ab0dce5988e": {
+		"title": "구미시 11일부터 사회적 거리두기 2.5단계 격상",
+		"link": "www.yna.co.kr/view/AKR20210108147300053?section=safe/news",
+		"date": "01-08 17:58"
+	},
+	"cb1feb9b9b66a0669dc4bd9fcf45b8eee9e6ca17ca1d66a5710706b363f7361e": {
+		"title": "日 '사랑의 불시착展' 개막…\"한일관계 악화보다 코로나가 걱정\"",
+		"link": "www.yna.co.kr/view/AKR20210108143400073?section=safe/news",
+		"date": "01-08 17:47"
+	},
+	"e08fa4e347898f89eb288bae1e4490511aa3029881ce6dc1e91056195d8f60e1": {
+		"title": "충주 유치원·학교 등교중지 1주일 연장…\"15일까지 원격수업\"",
+		"link": "www.yna.co.kr/view/AKR20210108144500064?section=safe/news",
+		"date": "01-08 17:44"
+	},
+	"815617a70ab20356559468c066a477ac5dadd608b39378ec12f7ac4735225921": {
+		"title": "경기북부경찰청 경찰관 1명 확진…접촉자 60명 검사(종합)",
+		"link": "www.yna.co.kr/view/AKR20210108060351060?section=safe/news",
+		"date": "01-08 17:40"
+	},
+	"d7b0ee458914ac593bb3c67b7d68a231521f3dc5275b9565d03c100f9d17c24c": {
+		"title": "병원 2곳·열방센터 관련 여진 이어져…충북서 23명 확진",
+		"link": "www.yna.co.kr/view/AKR20210108142600064?section=safe/news",
+		"date": "01-08 17:36"
+	},
+	"7be62a1fdcf762fd7a8f588c155a8979cb80fa83e94016a692d4f745d9c0bf9b": {
+		"title": "안성 소재 정신병원서 3명 추가 확진…누적 34명",
+		"link": "www.yna.co.kr/view/AKR20210108144800061?section=safe/news",
+		"date": "01-08 17:34"
+	},
+	"c53c04c71f001b25f43bad3e7c7d240d787d54f67dfb3f750fdf3c752f02f4a5": {
+		"title": "인천서 종교·요양시설 감염 이어져…48명 코로나19 확진(종합)",
+		"link": "www.yna.co.kr/view/AKR20210108081751065?section=safe/news",
+		"date": "01-08 17:33"
+	},
+	"3b297008cb8f1276ee0f9127b4a68e6852ef97988b4f2f1fc75ca7046377ff00": {
+		"title": "코로나 극성 우크라도 식당·헬스장 폐쇄 등 강력한 봉쇄조치",
+		"link": "www.yna.co.kr/view/AKR20210108143000080?section=safe/news",
+		"date": "01-08 17:30"
+	},
+	"5f4180ec325856a1cc4b9ca868c0af899ee1802d7486e9606c3f96eea03a730f": {
+		"title": "경남 21명 확진…산발적 지역감염 지속·누적 1천513명(종합)",
+		"link": "www.yna.co.kr/view/AKR20210108093051052?section=safe/news",
+		"date": "01-08 17:30"
+	},
+	"cea3cc8d3871221bbd6f06cd826c2073721dcb44ea090407b8c271666a41c203": {
+		"title": "헝가리, 코로나19 부분 봉쇄 2월 1일까지 재연장",
+		"link": "www.yna.co.kr/view/AKR20210108142200088?section=safe/news",
+		"date": "01-08 17:29"
+	},
+	"c2e829d24052ff93a05473b9eb2c4a96fa65c9598523b7a67b5050ce088cfdda": {
+		"title": "천안서 교회 관련 2명 더 코로나19 확진…교회 2곳서 36명째",
+		"link": "www.yna.co.kr/view/AKR20210108140600063?section=safe/news",
+		"date": "01-08 17:27"
+	},
 	"c51faf8fe0f8bc9f32a4d79ef17913642c79b9c7325a87e1156e3254e78a204b": {
 		"title": "싱가포르 총리, 코로나19 백신 접종…\"국민 여러분도 맞으세요\"",
 		"link": "www.yna.co.kr/view/AKR20210108139300076?section=safe/news",
@@ -433,70 +498,5 @@
 		"title": "서울 코로나19 신규 확진 191명…사망자 10명 추가",
 		"link": "www.yna.co.kr/view/AKR20210108050600004?section=safe/news",
 		"date": "01-08 10:00"
-	},
-	"f3095f26009e429f9bc22ff68cbcf47b8b4a57bc7c5eec7067c176d3f388f911": {
-		"title": "부산 노인시설 등 9명 추가 확진…집 밖 흡연 자가격리자 적발",
-		"link": "www.yna.co.kr/view/AKR20210108033100051?section=safe/news",
-		"date": "01-08 10:00"
-	},
-	"3550fe83d9a73dad210687441225fd8ae78c1148218b6b4db0d163df954f1948": {
-		"title": "세브란스병원, 연세대 기숙사에 코로나19 생활치료센터 운영",
-		"link": "www.yna.co.kr/view/AKR20210108049100017?section=safe/news",
-		"date": "01-08 09:56"
-	},
-	"e69ae6fb15e24e907e94bd687bb8b67bdb29f5350b63f257c548f435f3e67c3e": {
-		"title": "신규확진 674명 나흘째 1천명아래-5일만에 600명대…사망 35명↑(종합)",
-		"link": "www.yna.co.kr/view/AKR20210108032451530?section=safe/news",
-		"date": "01-08 09:56"
-	},
-	"4a48716c37fba24b063ecc4b36f7ca2bd585afc24b3db685d2321c70ec135bf7": {
-		"title": "동부구치소 확진자 2명 추가…오늘 7차 전수조사 실시",
-		"link": "www.yna.co.kr/view/AKR20210108046300004?section=safe/news",
-		"date": "01-08 09:53"
-	},
-	"3cf1df8b87b7d826372c9495d07542cc2d9c489c2bfd2b99900ec806894dc98c": {
-		"title": "기술보증기금 코로나19 특례보증 재개…9천억원 규모",
-		"link": "www.yna.co.kr/view/AKR20210108048400051?section=safe/news",
-		"date": "01-08 09:49"
-	},
-	"1b173d703ef24012785b6ccaa0215d8b0a8a323928303d73096dd64a1aec881d": {
-		"title": "삼성전자 코로나 효과로 더 잘했다…4분기는 숨고르기 마감",
-		"link": "www.yna.co.kr/view/AKR20210108046000003?section=safe/news",
-		"date": "01-08 09:47"
-	},
-	"1f58591fca82ac222ca2181fa194083a26248d9e8a65968f9e5beedaa66a454d": {
-		"title": "식약처, 코로나19 백신·치료제 정보 제공 사이트 개설",
-		"link": "www.yna.co.kr/view/AKR20210108045400017?section=safe/news",
-		"date": "01-08 09:47"
-	},
-	"c4bb047ee3310629e749c5001dbcbee0a4ab3fd0d18ecc5db26f0c460d73e7a2": {
-		"title": "[3보] 신규확진 674명 나흘째 1천명아래-5일만에 600명대…사망 35명↑",
-		"link": "www.yna.co.kr/view/AKR20210108032400530?section=safe/news",
-		"date": "01-08 09:46"
-	},
-	"8f69506426d72cef664594b5a3f0566cbcb80afa6d1b2e9a0ef1195ab299a63f": {
-		"title": "용인 처인구 제조업체 근로자 7명·자녀 1명 확진",
-		"link": "www.yna.co.kr/view/AKR20210108048600061?section=safe/news",
-		"date": "01-08 09:46"
-	},
-	"8b444ab6902c6882bd22fd1f9347fc351b524b221e58273b9cd89cb31834dde0": {
-		"title": "수도권 임시검사소 '익명검사' 178명 확진…한파로 검사수 감소",
-		"link": "www.yna.co.kr/view/AKR20210108047100530?section=safe/news",
-		"date": "01-08 09:44"
-	},
-	"c22bf592d99f51509f1ed14b41f5f3a590c0c678780a6ec7a27f43262b538c8a": {
-		"title": "[속보] 경기 258명-서울 191명-인천·경북 각 30명-부산 24명 등 확진",
-		"link": "www.yna.co.kr/view/AKR20210108045100530?section=safe/news",
-		"date": "01-08 09:32"
-	},
-	"658b4699a4579dfb0ff09a76412679713cb3f2a67526e821e58ae265d97c53e7": {
-		"title": "마스크 안 썼다고 다투다가? 태국서 평소 앙숙 총 쏴 숨지게 해",
-		"link": "www.yna.co.kr/view/AKR20210108044700076?section=safe/news",
-		"date": "01-08 09:31"
-	},
-	"b89bafa05e6e62d12bdcc96b1bf354f0655f840d87e34fb0b7831ecc0b5738e9": {
-		"title": "[2보] 코로나19 어제 674명 신규확진…닷새만에 600명대로 내려와",
-		"link": "www.yna.co.kr/view/AKR20210108032200530?section=safe/news",
-		"date": "01-08 09:31"
 	}
 }
