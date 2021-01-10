@@ -32,8 +32,8 @@ jobs:
         python "run.py"
     - name: Commits
       run: |
-        git config --local user.email "acidlab.help@gmail.com"
-        git config --local user.name "Seongchuel Ahn"
+        git config --local user.email "aciddust21@gmail.com"
+        git config --local user.name "upd8bot"
         git add feed.json
         git commit -m "Update, newsfeed"
     - name: Push
