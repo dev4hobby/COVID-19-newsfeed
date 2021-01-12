@@ -1,4 +1,44 @@
 {
+	"a8e1b828983f546bec9cb8a87f427824e4e51f1d304f2e873c69af3e9cfb94e3": {
+		"title": "오후 6시까지 전국서 440명 확진…어제보다 18명 많아",
+		"link": "www.yna.co.kr/view/AKR20210112158300530?section=safe/news",
+		"date": "01-12 18:42"
+	},
+	"d0df0998b5aaa5609600fc19442484431c884fbcce3e99bc49c5c5938c6234a6": {
+		"title": "오후 6시까지 서울 123명 확진…전날보다 17명 적어",
+		"link": "www.yna.co.kr/view/AKR20210112155300004?section=safe/news",
+		"date": "01-12 18:29"
+	},
+	"8d2a84faa22dd5e58f201f9d1c2ee272017d10bd98e1c997dff190c76e141719": {
+		"title": "제천 요양병원 간호조무사 확진…입원환자 49명 전수검사",
+		"link": "www.yna.co.kr/view/AKR20210112156100064?section=safe/news",
+		"date": "01-12 18:13"
+	},
+	"feeefabea0b74938fe8391958309a1b01882d55055ce39cb92ad7e6e8dd95c51": {
+		"title": "남아공 코로나 백신 2천만회분 확보",
+		"link": "www.yna.co.kr/view/AKR20210112155200099?section=safe/news",
+		"date": "01-12 18:10"
+	},
+	"d24b8b8da01035ee2bafb910c40ffbe82dcbe6ed400fde963dff8d1b1d281c82": {
+		"title": "\"러시아 코로나19 환자 1명서 무려 18가지 변이 바이러스 발견\"",
+		"link": "www.yna.co.kr/view/AKR20210112153700080?section=safe/news",
+		"date": "01-12 18:05"
+	},
+	"fb30282cf6484e83503bb236a034f217d88c801eedb83f3ac9012412a8ba36fd": {
+		"title": "대전서 BTJ열방센터 관련 2명 더 확진…지역 누적 96명",
+		"link": "www.yna.co.kr/view/AKR20210112152200063?section=safe/news",
+		"date": "01-12 18:02"
+	},
+	"db9bf459fcbb7cb3bd090d58ff135e5c6c2537446f758b04553f38b46824a3a3": {
+		"title": "이감 재소자 11명 감염…강원 21명 확진·사망자 23명으로 늘어",
+		"link": "www.yna.co.kr/view/AKR20210112153600062?section=safe/news",
+		"date": "01-12 18:00"
+	},
+	"1289ce93943c37ec923df58857c20e167d048768dd9a7b14d46dc754a103bd4c": {
+		"title": "원정검사·경로불명 산발적 발생…충북 6명 추가 확진",
+		"link": "www.yna.co.kr/view/AKR20210112154200064?section=safe/news",
+		"date": "01-12 18:00"
+	},
 	"1f56badb1e8a46ea516223f1e4bbe086e3ac027e810dd94e3fb274c22a54383d": {
 		"title": "유럽의약품청 \"아스트라제네카, 백신 승인 신청…이달 말 결론\"(종합)",
 		"link": "www.yna.co.kr/view/AKR20210112150551098?section=safe/news",
@@ -458,45 +498,5 @@
 		"title": "중증 코로나 전담 '서울재난병원' 서울대병원이 설립",
 		"link": "www.yna.co.kr/view/AKR20210112069700004?section=safe/news",
 		"date": "01-12 11:00"
-	},
-	"5b9a3cbf83f9c710ceba4bfd6976ccb2fcb8e77126a005f60f20cfde04e98951": {
-		"title": "인천서 해외 입국자 2명 포함 12명 코로나19 확진",
-		"link": "www.yna.co.kr/view/AKR20210112069900065?section=safe/news",
-		"date": "01-12 10:52"
-	},
-	"977a056768fb8414200121a3e993ee51634a4a90e87441b44c4e4ebbc39c47ec": {
-		"title": "영월교도소 재소자 11명 무더기 확진…동부구치소 이감자",
-		"link": "www.yna.co.kr/view/AKR20210112066000062?section=safe/news",
-		"date": "01-12 10:43"
-	},
-	"4847d759e6504449cf0050b919f414cacd2aa0ae70b8788f025a8aa26db55288": {
-		"title": "경기 어제 175명 확진…사흘 연속 100명대",
-		"link": "www.yna.co.kr/view/AKR20210112064200061?section=safe/news",
-		"date": "01-12 10:33"
-	},
-	"fc31969aba0ff542584722d3f00f61dc6dd67bf146e49df4fe6ea6a7d09abf92": {
-		"title": "천안시 \"올해 확진자 51%는 가족 간 전파…가정 내 방역 중요\"",
-		"link": "www.yna.co.kr/view/AKR20210112059700063?section=safe/news",
-		"date": "01-12 10:28"
-	},
-	"8a86adb16155452c60e196c3e84424fe54c4f2cd4cea50e4a23f3f14c5ca5b60": {
-		"title": "말레이 확진자 급증에 이동통제령 재발령…백신 확보량 늘려",
-		"link": "www.yna.co.kr/view/AKR20210112061700104?section=safe/news",
-		"date": "01-12 10:24"
-	},
-	"5f1c1a0e20f68349eff29860ce8e4489366163975884f672fa0057a3f83d262d": {
-		"title": "동부구치소서 7명 신규 확진…5명은 여성수용자",
-		"link": "www.yna.co.kr/view/AKR20210112055400004?section=safe/news",
-		"date": "01-12 10:10"
-	},
-	"3b8bfb1888ebd3119f8dc6e87a57f4ac8d556e0ffb76a6683487718c6627672c": {
-		"title": "진주 국제기도원 다녀온 순천시민 확진…\"방문자 즉시 검사를\"",
-		"link": "www.yna.co.kr/view/AKR20210112057200054?section=safe/news",
-		"date": "01-12 10:09"
-	},
-	"89c685ca5ffe651cb32837876b08ce1d4df4150d3f92cd421c843e7e12546179": {
-		"title": "코로나19에도 작년 체력단련장업 역대 최다 개업",
-		"link": "www.yna.co.kr/view/AKR20210112058000003?section=safe/news",
-		"date": "01-12 10:09"
 	}
 }
