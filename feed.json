@@ -1,4 +1,74 @@
 {
+	"28c6d683fa0511cd98d9f7e154407a7ee2388f547a44400f96b167d9fb9b9efe": {
+		"title": "아프리카 말라위 각료 2명 코로나19 사망",
+		"link": "www.yna.co.kr/view/AKR20210113163200099?section=safe/news",
+		"date": "01-13 19:02"
+	},
+	"8cca6573f3dc77f54dd18bcbd7ec3ed3ae281ccc7c8d9814f4d379282402be65": {
+		"title": "오후 6시까지 전국서 379명 확진…어제보다 61명 적어",
+		"link": "www.yna.co.kr/view/AKR20210113163000530?section=safe/news",
+		"date": "01-13 18:57"
+	},
+	"e3ef5ed3589d209a0b476384384fddc132d280dea401363efda43c286920dc15": {
+		"title": "이재명 \"여야 동의한 '코로나 휴업 손실 보상' 서둘러야\"",
+		"link": "www.yna.co.kr/view/AKR20210113160700061?section=safe/news",
+		"date": "01-13 18:56"
+	},
+	"efe728c135b021872c3eb7454884a237d9afe61d5e1e4659976b36bac9f7bb45": {
+		"title": "셀트리온 \"코로나 항체치료제, 중증환자 발생률 54% 감소\"(종합)",
+		"link": "www.yna.co.kr/view/AKR20210113157051017?section=safe/news",
+		"date": "01-13 18:53"
+	},
+	"a415be3017853d08016f59894b38b2ab22e9e0689eef80df59fb160b1def76a4": {
+		"title": "프랑스, 영국발 코로나19 변이 이미 확산…\"추가 조치 필요\"",
+		"link": "www.yna.co.kr/view/AKR20210113161800081?section=safe/news",
+		"date": "01-13 18:53"
+	},
+	"4bd85990d615d4b54d0edc1690e140cb5f269c026e905a10076a5c8d90ad2b49": {
+		"title": "오후 6시까지 서울 111명 확진…전날보다 12명 적어",
+		"link": "www.yna.co.kr/view/AKR20210113162700004?section=safe/news",
+		"date": "01-13 18:51"
+	},
+	"5a1d50979607bb9a5dbd61db8cf5a4a2a620a8f5927480c8e1a4b83da175a1e7": {
+		"title": "日긴급사태 11개 지역으로 확대…경기 중시하다 폭발적 감염",
+		"link": "www.yna.co.kr/view/AKR20210113156500073?section=safe/news",
+		"date": "01-13 18:39"
+	},
+	"1ecdcd93c033b0ba811d4573eddfe224491d8cd8123813ba54190fc16ce7e5d3": {
+		"title": "\"아프리카, 코로나19 백신 근 3억회분 확보\"",
+		"link": "www.yna.co.kr/view/AKR20210113159100099?section=safe/news",
+		"date": "01-13 18:34"
+	},
+	"eb585c54a80e3397d3d541aa4b146e24add200f75ab7c4b909e12296c890ed53": {
+		"title": "[속보] 일본 7개 광역단체에 코로나19 긴급사태 추가 선포",
+		"link": "www.yna.co.kr/view/AKR20210113160400073?section=safe/news",
+		"date": "01-13 18:32"
+	},
+	"8be7776b4d788098eaf0892505614607a007d40a904451a4257c307e40b86f98": {
+		"title": "대전서 BTJ열방센터 관련 1명 더 확진…지역 누적 99명",
+		"link": "www.yna.co.kr/view/AKR20210113158100063?section=safe/news",
+		"date": "01-13 18:18"
+	},
+	"938f2dabfa502551ee98caefed57a2f8d35883a92a99f5c91ee11a928c314cf2": {
+		"title": "셀트리온 \"코로나19 항체치료제, 회복기간 단축·중증 54% 감소\"",
+		"link": "www.yna.co.kr/view/AKR20210113157000017?section=safe/news",
+		"date": "01-13 18:05"
+	},
+	"fcf85f46b858a05b5e1e77e7b6643f2361628fc8d1437c13a46045a17b8365e2": {
+		"title": "청주의료원·열방센터 연쇄감염…충북서 12명 추가 확진",
+		"link": "www.yna.co.kr/view/AKR20210113054951064?section=safe/news",
+		"date": "01-13 18:01"
+	},
+	"9dafd6d468e98c6c983a6a77aede87ceb48100434900d11f66811fd955b11a22": {
+		"title": "법무부, 14일 900여명 가석방…코로나19 대응 차원(종합)",
+		"link": "www.yna.co.kr/view/AKR20210113152151004?section=safe/news",
+		"date": "01-13 17:58"
+	},
+	"1208eafab0a7c4b6d0113028bf04e3cb8b992703ee3906c249a1128e070f3a04": {
+		"title": "포항서 상주 열방센터 관련 연쇄감염 늘어…누계 35명",
+		"link": "www.yna.co.kr/view/AKR20210113154800053?section=safe/news",
+		"date": "01-13 17:56"
+	},
 	"d47470a786e1dd093bb26c71f91cd23822d1f3b3c434c77f34a3d3385e76465f": {
 		"title": "이만희 '방역방해' 무죄…\"명단요구 역학조사로 볼 수 없어\"(종합2보)",
 		"link": "www.yna.co.kr/view/AKR20210113108353061?section=safe/news",
@@ -428,75 +498,5 @@
 		"title": "대만 매체 \"중국, 우한봉쇄 1주년 앞두고 여론통제 강화\"",
 		"link": "www.yna.co.kr/view/AKR20210113078800089?section=safe/news",
 		"date": "01-13 11:47"
-	},
-	"bfe2234a01d589eeff551677e763134e59a3c8c4f574b8db236e700c1d4e571c": {
-		"title": "홍콩 코로나19 백신 무료접종 방침에 37%만 \"맞겠다\"",
-		"link": "www.yna.co.kr/view/AKR20210113078700074?section=safe/news",
-		"date": "01-13 11:43"
-	},
-	"3bd4a3be64b61f590144c76aa82ecaff427efcc2f17c32be09d9d16fb538a82d": {
-		"title": "대구 신규 확진 13명…감염경로 불상 3명(종합2보)",
-		"link": "www.yna.co.kr/view/AKR20210113050252053?section=safe/news",
-		"date": "01-13 11:30"
-	},
-	"4a68aa1e4a64812c1cae0f014aa9e2c8bfa9a3ed70c9fd3fecaab3bd72bfad4b": {
-		"title": "작년 최고의 철도 서비스는 '코로나 대비 안심 서비스 지원'",
-		"link": "www.yna.co.kr/view/AKR20210113081200063?section=safe/news",
-		"date": "01-13 11:28"
-	},
-	"3e942caced97643d4d4283d00796392db871e8ecf2703eb45e9b959b37576c1f": {
-		"title": "인천서 요양원 관련 1명 등 15명 코로나19 확진…2명 사망(종합)",
-		"link": "www.yna.co.kr/view/AKR20210113074851065?section=safe/news",
-		"date": "01-13 11:26"
-	},
-	"c014202d19c3e9e67ada123338df95aa75faa210d5ba7a65ff3397182aa4ccf9": {
-		"title": "전북 6명 코로나19 추가 확진…누적 959명",
-		"link": "www.yna.co.kr/view/AKR20210113081400055?section=safe/news",
-		"date": "01-13 11:22"
-	},
-	"3fa412f17d3cc1665b55c4561e33fead0570ee29822a7b1eb93ec6fbb496c620": {
-		"title": "서울 신규확진 152명…확진율 0.6%로 하락(종합)",
-		"link": "www.yna.co.kr/view/AKR20210113056751004?section=safe/news",
-		"date": "01-13 11:17"
-	},
-	"889ec843e31c85a16dcb5ec230ab908a67b46dca62b9c9df0a28827974a3f865": {
-		"title": "테슬라, 인도 진출 본격화…지사 설립·지방 정부 접촉 시작",
-		"link": "www.yna.co.kr/view/AKR20210113079900077?section=safe/news",
-		"date": "01-13 11:15"
-	},
-	"955bfe4247a62aed253fb744ccd09959f305999510e0f92ebc6baacd18cdf1a7": {
-		"title": "세종 소방공무원 530명 전원 코로나19 선제 검사",
-		"link": "www.yna.co.kr/view/AKR20210113076900063?section=safe/news",
-		"date": "01-13 11:15"
-	},
-	"d32c417667dfc7c0f6c5d0179640e2408bfd22313abe7dbfada1625067de9a73": {
-		"title": "'나도 확진자 마주쳤나?'…동선 겹치면 알려주는 교통 앱",
-		"link": "www.yna.co.kr/view/AKR20210112159300004?section=safe/news",
-		"date": "01-13 11:15"
-	},
-	"0764de3bde2278ed235ab0023c8bba253e5449825d659668d8ffa7c33ebd140d": {
-		"title": "[속보] \"지난달 8일 이후 '집합금지' 위반 434명 수사…22명 기소\"",
-		"link": "www.yna.co.kr/view/AKR20210113079200530?section=safe/news",
-		"date": "01-13 11:12"
-	},
-	"49967b1052f6d001fe85003883ea4235960f0e616b3926d57e340cb18603f12a": {
-		"title": "[속보] \"외부전문가 참여 '교정시설 코로나19 긴급 대응팀' 신설\"",
-		"link": "www.yna.co.kr/view/AKR20210113078600530?section=safe/news",
-		"date": "01-13 11:10"
-	},
-	"365b6bbc2877559db263b9dc81ff92b3b77f5494e241c7e5f0f08aa1e7d1ceb8": {
-		"title": "[속보] \"교정시설 확진자 발생시 기관내에 '감염병 신속대응팀' 구성\"",
-		"link": "www.yna.co.kr/view/AKR20210113078400530?section=safe/news",
-		"date": "01-13 11:09"
-	},
-	"4b598e0082c500f5313bc5588ceb2bce1ab9ffd1193ab1fccb743d1944697570": {
-		"title": "[속보] \"교정시설 신입 수용자 예방격리기간 2주에서 3주로 연장\"",
-		"link": "www.yna.co.kr/view/AKR20210113078100530?section=safe/news",
-		"date": "01-13 11:08"
-	},
-	"d6b375f323da25f62ec77838561b09d4911729e4172a857e30da66044d580dd6": {
-		"title": "[속보] \"수도권내 병상 대기환자 열흘째 '0명'…병상여력 회복\"",
-		"link": "www.yna.co.kr/view/AKR20210113077800530?section=safe/news",
-		"date": "01-13 11:08"
 	}
 }
