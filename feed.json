@@ -1,4 +1,129 @@
 {
+	"e3d8476fc7af126f0e31c6be0b3fa447b33b746cb662192693f92b4fab487032": {
+		"title": "방역당국 \"사회적 거리두기, 유행 특성따라 유연하게 적용해야\"",
+		"link": "www.yna.co.kr/view/AKR20210118091800530?section=safe/news",
+		"date": "01-18 12:16"
+	},
+	"0f6885f8e1b17c6e2129b0141ffad78a36b98b1420967c8e9a06c5cff2258ad3": {
+		"title": "정부 \"확진자 감소시 2주후 거리두기 조정 기대…이달까진 유지\"",
+		"link": "www.yna.co.kr/view/AKR20210118089900530?section=safe/news",
+		"date": "01-18 12:09"
+	},
+	"64f73758960a455b851d88f623406f3a9f219d370b3d1e2b034a7976b71bfd98": {
+		"title": "안산 모 병원서 사흘 새 14명 확진…입원환자 23명 집단격리",
+		"link": "www.yna.co.kr/view/AKR20210118090300061?section=safe/news",
+		"date": "01-18 12:04"
+	},
+	"53c5cb36f7808b57b049fd280cd64df82604f80c2f48472585d10e2fb8e828c0": {
+		"title": "부경대·고신대 코로나19 스마트 진료 시스템 운영",
+		"link": "www.yna.co.kr/view/AKR20210118087400051?section=safe/news",
+		"date": "01-18 12:00"
+	},
+	"798fcc14f9cc74b0636b0dab0cc7931889b99066a6faca0684e9cba11e3ba3e9": {
+		"title": "중국, 코로나로 미국과 GDP 격차 좁혀…'2028년 추월' 관측도",
+		"link": "www.yna.co.kr/view/AKR20210118082800089?section=safe/news",
+		"date": "01-18 11:59"
+	},
+	"248db0cd7332b818e2a23c7b72dbe81f06e12e03b345eb1b9f923d0f9be50823": {
+		"title": "[영상] 중국 경찰, 코로나 검사 거부한 노인 제압해 강제 검사",
+		"link": "www.yna.co.kr/view/AKR20210118083300704?section=safe/news",
+		"date": "01-18 11:52"
+	},
+	"350e2ad15f083bc11359239d58c1fabd76b6fa626d47d3e2b62f7392d2b1bdc9": {
+		"title": "조코위 인니 대통령 \"백신이 게임체인저…경제 회복될 것\"",
+		"link": "www.yna.co.kr/view/AKR20210118085700104?section=safe/news",
+		"date": "01-18 11:45"
+	},
+	"719e5fff9603dc6d7dc17538f21076a7a5f8ac3d451b47de535cf46407cc0cdb": {
+		"title": "\"숨통 트였다\" 방역수칙 완화 첫날, 한숨돌린 자영업자들",
+		"link": "www.yna.co.kr/view/AKR20210118084900061?section=safe/news",
+		"date": "01-18 11:44"
+	},
+	"68d28da6aeeffae90a5e0e17f32c02761eda47ec2dea1396e12156aeef98c37e": {
+		"title": "'24시간 영업' 동대문구 사우나서 22명 집단감염",
+		"link": "www.yna.co.kr/view/AKR20210118085000004?section=safe/news",
+		"date": "01-18 11:42"
+	},
+	"46bd63e7b61897907ea7d538da0c3131556315ed67ecca9d4ab0e96a3bb58594": {
+		"title": "중국 작년 경제성장률 2.3%…코로나 딛고 'V자' 회복(종합)",
+		"link": "www.yna.co.kr/view/AKR20210118075951083?section=safe/news",
+		"date": "01-18 11:42"
+	},
+	"97ded5935bfa63f0f7540875a0dc722707b65adab6145b309ab7b078302f978b": {
+		"title": "전북 코로나19 확진자 '0명'…확산세 주춤",
+		"link": "www.yna.co.kr/view/AKR20210118083200055?section=safe/news",
+		"date": "01-18 11:40"
+	},
+	"6592b3201971d828cc9c97db58fb07df26a88352f291f499d4ddda65a7bacde5": {
+		"title": "영암 사찰 이어 고구마 농장서도 확진자…집단감염 우려 초긴장",
+		"link": "www.yna.co.kr/view/AKR20210118080300054?section=safe/news",
+		"date": "01-18 11:31"
+	},
+	"64885f13d571398ad775e55e72922ec458a824d89ab6d516784f97680e36b4df": {
+		"title": "\"코로나는 핑계 vs 감염 위험 커\" 태국서 반정부 시위 논란 여전",
+		"link": "www.yna.co.kr/view/AKR20210118077800076?section=safe/news",
+		"date": "01-18 11:28"
+	},
+	"a7d0874ffd60377406d9a253bff8d261275fb2cf620684ff1b5a6a90687d7bdb": {
+		"title": "서울 132명 신규 확진…지난주 하루 평균 146명(종합)",
+		"link": "www.yna.co.kr/view/AKR20210118046751004?section=safe/news",
+		"date": "01-18 11:19"
+	},
+	"2a0ac3db03a4115387c80d2c52aead5a2c01b23943999efa0a72f9e0f5d4fd87": {
+		"title": "[영상] 거리두기·5인 이상 모임금지 2주 연장…커피 마시고 운동한다",
+		"link": "www.yna.co.kr/view/AKR20210118070300704?section=safe/news",
+		"date": "01-18 11:16"
+	},
+	"e7c1b7e83e62a8a15e931c4325ceebfd4b9929f3cd12741a8f63ef4c002c6272": {
+		"title": "문대통령 \"백신접종, 안심해도 돼…부작용은 보상\"",
+		"link": "www.yna.co.kr/view/AKR20210118071800001?section=safe/news",
+		"date": "01-18 11:16"
+	},
+	"bb110a67662b87332ab7e64c5937468bc02b938878a5b765e00fa37e372471cb": {
+		"title": "코로나 사태로 위생·의료용품 전자거래 피해 20배 증가",
+		"link": "www.yna.co.kr/view/AKR20210117009800004?section=safe/news",
+		"date": "01-18 11:15"
+	},
+	"28280953e355ee5c5b994eef94210ae80346b9147305fdaa039937624ee34354": {
+		"title": "대구 신규 확진 13명…확진자 접촉자가 대부분(종합)",
+		"link": "www.yna.co.kr/view/AKR20210118026951053?section=safe/news",
+		"date": "01-18 11:13"
+	},
+	"ef36c9d361a1ae49b0798c0f5b509981df9e5eb28536b63cf766c2b75fead7a8": {
+		"title": "용인 수지구 요양시설 이용자·종사자 등 7명 확진",
+		"link": "www.yna.co.kr/view/AKR20210118071600061?section=safe/news",
+		"date": "01-18 11:12"
+	},
+	"72a766bc61a6553c48e82a6ef9269e761bde9737c45edbad481206ac9d245100": {
+		"title": "\"5초 소독 후 다시 검사\"…문경시 첨단 감염병센터 운영",
+		"link": "www.yna.co.kr/view/AKR20210118071100053?section=safe/news",
+		"date": "01-18 11:11"
+	},
+	"47ef5c453e0fb183216415eb3c1b3753c9aa69712697285b9044a81c71924e0e": {
+		"title": "코로나로 콘텐츠업계 프리랜서 고용한파…프로젝트 건수 62%↓",
+		"link": "www.yna.co.kr/view/AKR20210118070800005?section=safe/news",
+		"date": "01-18 11:11"
+	},
+	"229567020e43c5eeb28ef03e275450397dc40d9337057771d2acffe1149b30fd": {
+		"title": "[속보] 정부 \"확진자 안정적으로 감소하면 2주 뒤 거리두기 조정 기대\"",
+		"link": "www.yna.co.kr/view/AKR20210118071700530?section=safe/news",
+		"date": "01-18 11:05"
+	},
+	"1fd266bd6e69b29b0e1aebbb4a0c32d89e53b08f0598eda75076cb20cb9ef762": {
+		"title": "민주, '노르웨이 접종 사망' 주시…\"백신 안전 전제돼야\"",
+		"link": "www.yna.co.kr/view/AKR20210118068400001?section=safe/news",
+		"date": "01-18 11:03"
+	},
+	"b89a04e5c356477f37c956aefce890bee26c56c6d56878892fb1d63c4eae2413": {
+		"title": "군, '휴가·외출' 31일까지 계속 통제…2.5단계 2주 연장(종합)",
+		"link": "www.yna.co.kr/view/AKR20210118052751504?section=safe/news",
+		"date": "01-18 10:55"
+	},
+	"56d03bb5acfbafdc2f049ae1cbf34d2af9fb4e18252e4a3ad481e6f10f10bd24": {
+		"title": "인천서 확진자 접촉한 15명 포함 18명 감염…1명 사망",
+		"link": "www.yna.co.kr/view/AKR20210118066200065?section=safe/news",
+		"date": "01-18 10:54"
+	},
 	"bcc5eafc35d48bf11a1ebacc086db5eca1ecdd78df96226785a8086231d6f934": {
 		"title": "中무증상 감염 이틀째 100명대…'이상없음' 거짓보고 조사",
 		"link": "www.yna.co.kr/view/AKR20210118060300097?section=safe/news",
@@ -373,130 +498,5 @@
 		"title": "부천서 확진자 접촉한 1명 추가 확진, 누적 1천441명",
 		"link": "www.yna.co.kr/view/AKR20210117044300065?section=safe/news",
 		"date": "01-17 17:08"
-	},
-	"b1a7ec8329e442b43053192e39eb64d3e37b6898e661008c978562d01fde02b0": {
-		"title": "경남서 23명 신규 확진…창원 요양병원 일부 병동 격리(종합2보)",
-		"link": "www.yna.co.kr/view/AKR20210117018452052?section=safe/news",
-		"date": "01-17 17:06"
-	},
-	"cf9305cb16679ef2ae58cf238a8585b112bd283a39743d97635406ac1e8bcc0b": {
-		"title": "[속보] \"대구시 거리두기 완화 관련해 내일 모든 지자체 모여 논의키로\"",
-		"link": "www.yna.co.kr/view/AKR20210117043300530?section=safe/news",
-		"date": "01-17 17:00"
-	},
-	"b5ddcd0c2de472df30737568f81a1cf523a5c772577dd3c6b9dc631642a8664e": {
-		"title": "[속보] \"대구시 타 지자체와 협의없이 거리두기 완화…주의 줄 예정\"",
-		"link": "www.yna.co.kr/view/AKR20210117042400530?section=safe/news",
-		"date": "01-17 16:48"
-	},
-	"321b6d890925b58b3d0b5a3d9f54b47f622dd22e8f1e364c9ff3586fbc07a942": {
-		"title": "[속보] \"현재 코로나19 유행 교회·요양병원·가족-친구간 접촉이 주도\"",
-		"link": "www.yna.co.kr/view/AKR20210117041900530?section=safe/news",
-		"date": "01-17 16:37"
-	},
-	"09e083937f467b008cb6988fe54daa8c375cac75d2e4217927c633902b5c721b": {
-		"title": "[속보] 정부 \"코로나19 유행수준 더 낮아져야 거리두기 조정 검토 가능\"",
-		"link": "www.yna.co.kr/view/AKR20210117041800530?section=safe/news",
-		"date": "01-17 16:37"
-	},
-	"a826983562b55708180f866b6d36a24cd8b77bf61b99245ff11c42d6dd5f1cad": {
-		"title": "중국 2020년 경제성적 18일 발표…'코로나 속 주요국 유일 성장'",
-		"link": "www.yna.co.kr/view/AKR20210117040000089?section=safe/news",
-		"date": "01-17 16:28"
-	},
-	"ade84027923a2b6b9df7ad71c76861e143a0220312ef46b6c4dab222337ce099": {
-		"title": "대전 코로나 임시검사소 내달 14일까지 연장…무료 비대면 검사",
-		"link": "www.yna.co.kr/view/AKR20210117040200063?section=safe/news",
-		"date": "01-17 16:26"
-	},
-	"21d061bc0ed7aa7c5eb2fcde892dfbac5cc2fedb2ce854dbf0ff8ca4aea65dc1": {
-		"title": "경주시 완화된 거리두기 2단계 적용…식당·카페 11시까지 영업",
-		"link": "www.yna.co.kr/view/AKR20210117039700053?section=safe/news",
-		"date": "01-17 16:25"
-	},
-	"2e0b82ea45a84a1e135a766f18dd24b3f391ccd84bef6a2b79f32b6c353e2633": {
-		"title": "\"비정규직 37% 코로나 실직…77%는 실업급여도 못받아\"",
-		"link": "www.yna.co.kr/view/AKR20210117021500004?section=safe/news",
-		"date": "01-17 16:00"
-	},
-	"85680b0b1506ba0ea6943338853068b0f24316a2dcc49c673ee2aaf444a91c3f": {
-		"title": "무서운 전염력…영국발 변이 코로나, 한달여만 50개국 넘게 확산",
-		"link": "www.yna.co.kr/view/AKR20210117038400009?section=safe/news",
-		"date": "01-17 15:44"
-	},
-	"c970db2cb4b13edaa5d8a54d80ac9b0a1f02d2e959a223d5b796835423a42fe5": {
-		"title": "싱가포르, 입국자 전원 코로나19 검사",
-		"link": "www.yna.co.kr/view/AKR20210117037000084?section=safe/news",
-		"date": "01-17 15:29"
-	},
-	"d985595435113865f01b1e22a957f2c77ec03c1d20cef41522f186c9e8731069": {
-		"title": "美취임식 무장시위 우려 속 우체통 철거하고 교도소도 폐쇄",
-		"link": "www.yna.co.kr/view/AKR20210117037200009?section=safe/news",
-		"date": "01-17 15:28"
-	},
-	"c010c041b578e652e4cc6768a0c1642700a9e9559ad51619741ac7b8dada0170": {
-		"title": "요양원·과외교습 새 집단감염…BTJ열방센터 누적 763명",
-		"link": "www.yna.co.kr/view/AKR20210117033200530?section=safe/news",
-		"date": "01-17 14:47"
-	},
-	"4ec062bcacbac38bfae1f84b9c0e58d50a943e2e505d61ef7c27fa617efb6be9": {
-		"title": "광주 코로나19 신규 확진자 6명…n차 감염 계속",
-		"link": "www.yna.co.kr/view/AKR20210117034200054?section=safe/news",
-		"date": "01-17 14:44"
-	},
-	"34da7a99c1797b94009c2b8bceed4929ba562c041b66e3f148d4cda90de11b40": {
-		"title": "광주시민 10명 중 3명 코로나19 검사…확진율 0.34％",
-		"link": "www.yna.co.kr/view/AKR20210117033400054?section=safe/news",
-		"date": "01-17 14:39"
-	},
-	"9e3271b86c7ec61683359e70e8cba131d4e4ac5df03f0a837586be559febbbe8": {
-		"title": "군 코로나19 확진자 2명 추가…양주·홍천 육군 간부",
-		"link": "www.yna.co.kr/view/AKR20210117033500504?section=safe/news",
-		"date": "01-17 14:36"
-	},
-	"bc444d4b3c11431bb2538d785a8c69275559385a7006a0cf426b6485d6b69804": {
-		"title": "부산 23명 추가 확진…일부 교회는 폐쇄명령 반발 지속(종합)",
-		"link": "www.yna.co.kr/view/AKR20210117018351051?section=safe/news",
-		"date": "01-17 14:33"
-	},
-	"665c4992beb9df01b0c1988a535233b9bf0525ab86ad61f10a257a893bf21e89": {
-		"title": "울산서 교회 관련 연쇄감염 등 5명 추가 확진(종합)",
-		"link": "www.yna.co.kr/view/AKR20210117015451057?section=safe/news",
-		"date": "01-17 14:26"
-	},
-	"f7cc971f81eddb2d36a9eee814a7cc17c687db5588065caa01be81690bce5a54": {
-		"title": "전북 코로나19 누적 사망자 36명…80∼90대가 90% 넘어",
-		"link": "www.yna.co.kr/view/AKR20210117032500055?section=safe/news",
-		"date": "01-17 14:23"
-	},
-	"a5cde75c40b798c6eceda393930973966534a24cf1803d3bc5c8d3cd56e43f5b": {
-		"title": "[속보] 경남 진주시 국제기도원 관련 누적 확진자 102명으로 늘어",
-		"link": "www.yna.co.kr/view/AKR20210117032600530?section=safe/news",
-		"date": "01-17 14:19"
-	},
-	"284b2faccf8fb02bb54d41afdfe6d9bba79c0f72d2340bf7257bf798519bb3e0": {
-		"title": "[속보] 광주 광산구 효정요양병원 12명 추가 확진…누적 149명",
-		"link": "www.yna.co.kr/view/AKR20210117032400530?section=safe/news",
-		"date": "01-17 14:17"
-	},
-	"ca1b777fcb8c387d50f2b1bc31423414d96769c6cef53e9134d17ebf4ad08585": {
-		"title": "[속보] 서울 성동구 거주·요양시설 관련 누적 확진자 24명으로 늘어",
-		"link": "www.yna.co.kr/view/AKR20210117032300530?section=safe/news",
-		"date": "01-17 14:15"
-	},
-	"ef6ac6474533bedb534a74f7965879f6282ec44d72cc64069cc347e607a81098": {
-		"title": "[속보] 경북 상주시 BTJ열방센터 관련 7명 추가 확진…누적 763명",
-		"link": "www.yna.co.kr/view/AKR20210117032100530?section=safe/news",
-		"date": "01-17 14:13"
-	},
-	"379c365208c7345cd5a5e6ad5496bba81eb768b020c83e6015c00141a273a307": {
-		"title": "경남서 18명 신규 확진…맞춤형 핀셋방역 지속(종합)",
-		"link": "www.yna.co.kr/view/AKR20210117018451052?section=safe/news",
-		"date": "01-17 13:51"
-	},
-	"19571c71f3313b76fcc52501232f1cc9d3037fddee54dcd023bc5a49a753b4fe": {
-		"title": "주한미군, 용산기지발 코로나 확산에 19일까지 '자택 대기령'(종합)",
-		"link": "www.yna.co.kr/view/AKR20210117025451504?section=safe/news",
-		"date": "01-17 13:36"
 	}
 }
