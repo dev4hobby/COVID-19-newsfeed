@@ -1,4 +1,34 @@
 {
+	"db0d927f8b7095de6811a7a4beff1df890ffebf621cc116c33c2599c569b3bb3": {
+		"title": "미, 코로나 사망 또 4천명 넘겨…\"한달내 10만명 더 희생\" 전망",
+		"link": "www.yna.co.kr/view/AKR20210122005000091?section=safe/news",
+		"date": "01-22 04:09"
+	},
+	"14c09801a226482c0ec726f2647b6e0965412959470d77e2592d88317cef1eca": {
+		"title": "\"코로나 정책, 고쳐서 쓸만한 것도 없어\"…바이든 행정부 '답답'",
+		"link": "www.yna.co.kr/view/AKR20210122004800071?section=safe/news",
+		"date": "01-22 03:51"
+	},
+	"5792080f4a30b045769fb3f1c691d187193611d34464057f5d1a52b8d51f514c": {
+		"title": "백신 맞은 74살 터미네이터의 한마디…\"살고 싶다면 따라와라\"",
+		"link": "www.yna.co.kr/view/AKR20210122004400075?section=safe/news",
+		"date": "01-22 03:35"
+	},
+	"9ea5f53f3b08359d89a27c98c5a953dcaf8030dbd529e88b78558533c9648ecd": {
+		"title": "페르난데스 아르헨 대통령, 러시아 코로나19 백신 접종",
+		"link": "www.yna.co.kr/view/AKR20210122004000087?section=safe/news",
+		"date": "01-22 03:19"
+	},
+	"0054f582e46edf930b5671f8710115bf4c9752dfe8b6c42a09e2a147a58d322a": {
+		"title": "메르켈 \"코로나19 고독사 마음 아파…팬데믹 힘든 단계\"",
+		"link": "www.yna.co.kr/view/AKR20210122003900082?section=safe/news",
+		"date": "01-22 03:11"
+	},
+	"6d37aba68253836a0c4be555e2b4405b249c6511983dde1707f0f24f78f07249": {
+		"title": "피치 \"브라질, 코로나 재확산·재정적자로 경제회복력 떨어져\"",
+		"link": "www.yna.co.kr/view/AKR20210122003100094?section=safe/news",
+		"date": "01-22 02:39"
+	},
 	"5f6c49f3b65dfc76461046909862234cc2cc22d9ba310af0e7fdd5657b07e085": {
 		"title": "브라질, 말라리아약·구충제 사용한 도시 코로나 사망률 더 높아",
 		"link": "www.yna.co.kr/view/AKR20210122002700094?section=safe/news",
@@ -468,35 +498,5 @@
 		"title": "제주서 또 집단감염 나오나…참솔식당 관련 확진 5명 발생",
 		"link": "www.yna.co.kr/view/AKR20210121084700056?section=safe/news",
 		"date": "01-21 11:29"
-	},
-	"3d5f8b2ec18952822d9411cf8fd5d1565bde1103092b9a6601a1a2f67ab13ce5": {
-		"title": "[바이든 취임] 시작은 '트럼프 지우기'…코로나 극복·국제사회 복귀 '방점'",
-		"link": "www.yna.co.kr/view/AKR20210121072500071?section=safe/news",
-		"date": "01-21 11:28"
-	},
-	"a547c7f262b3e8bddabb1822dbff6735315b5632bd61ea1579ae84febadc453c": {
-		"title": "서울 125명 신규 확진…사우나 집단감염 속출(종합)",
-		"link": "www.yna.co.kr/view/AKR20210121052051004?section=safe/news",
-		"date": "01-21 11:12"
-	},
-	"36fc49553e5de27729cd1ad34f646e2a4da04e2accf08e7ca9ff92708bc72216": {
-		"title": "인천서 5명 코로나19 확진…교회 관련 감염은 11명으로",
-		"link": "www.yna.co.kr/view/AKR20210121078800065?section=safe/news",
-		"date": "01-21 11:09"
-	},
-	"abd85b88f6f733076a70905782fba001e7922219b138029ea56b5016adca3d0a": {
-		"title": "대구 확진자 41일 만에 한 자릿수…노래방 관련 확산 가능성(종합)",
-		"link": "www.yna.co.kr/view/AKR20210121048951053?section=safe/news",
-		"date": "01-21 11:05"
-	},
-	"2f0d8d637404e2d33884a0beae01959aa3fc7f64488ae9aa98a7965b289eb2d8": {
-		"title": "영국 옥스퍼드대, 변이 바이러스 백신 연구 착수",
-		"link": "www.yna.co.kr/view/AKR20210121046100079?section=safe/news",
-		"date": "01-21 10:52"
-	},
-	"9922a656fb2343a7c3fba658f9291e434818a8da3014acb36ee4ff5b3a68a0a1": {
-		"title": "[바이든 취임] 국정 최우선순위는…코로나·경제 등 7개 항목 제시",
-		"link": "www.yna.co.kr/view/AKR20210121066900071?section=safe/news",
-		"date": "01-21 10:50"
 	}
 }
