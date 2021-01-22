@@ -1,4 +1,69 @@
 {
+	"c48b54c3cfbea753a97058c3db76f6e79fef6105682150754862f507545a5d31": {
+		"title": "경기도 버스 운전자 2만6천명 전수검사서 7명 확진",
+		"link": "www.yna.co.kr/view/AKR20210122033000060?section=safe/news",
+		"date": "01-22 09:09"
+	},
+	"df5fc923ea8b63f7490659c60ac921f428a5002b774d07d0414f75d81f126171": {
+		"title": "[특파원 시선] 독일 마스크 의무화…한국산 KF94는 '인정 투쟁'중",
+		"link": "www.yna.co.kr/view/AKR20210122013700082?section=safe/news",
+		"date": "01-22 09:03"
+	},
+	"fd9d517d229fadb37ffcacec39727504452a0973b4f58c90de1ed3eadf1b3a2e": {
+		"title": "점점 까다로워지는 미국 입국…코로나 음성 증명에 격리까지(종합)",
+		"link": "www.yna.co.kr/view/AKR20210122013051071?section=safe/news",
+		"date": "01-22 08:53"
+	},
+	"b2d19b5eb2d1f71491bb419d0b28d704c8f21127c9c7cca686ce1c86f969b14d": {
+		"title": "\"일본 정부, 코로나19로 도쿄올림픽 취소 내부 결론\"<더타임스>",
+		"link": "www.yna.co.kr/view/AKR20210122030200009?section=safe/news",
+		"date": "01-22 08:52"
+	},
+	"8cb5702efae6c31bef8933584f662b2ab795ba946790aab8618057c84be8ee17": {
+		"title": "포항 8명 등 경북 확진자 15명 추가…가족 감염 잇따라",
+		"link": "www.yna.co.kr/view/AKR20210122028400053?section=safe/news",
+		"date": "01-22 08:40"
+	},
+	"4e7c1c9e6377ad448a2ac54a6ef45d17e41867b666a1e200028a712f9c7ca2fe": {
+		"title": "대구 신규 확진 6명…이틀 연속 한 자릿수",
+		"link": "www.yna.co.kr/view/AKR20210122027700053?section=safe/news",
+		"date": "01-22 08:36"
+	},
+	"9ef6a4c04cb111d20547839ba839931620d0308fc2db3df7f4aedc61d87ee950": {
+		"title": "파우치 \"코로나 백신 2차 접종 후 '피로·통증' 경미한 부작용\"",
+		"link": "www.yna.co.kr/view/AKR20210122024100009?section=safe/news",
+		"date": "01-22 08:23"
+	},
+	"e485c90c9c42326ac3f06f313b6aad223f316b42ca4e3300082028c38ce7555d": {
+		"title": "설 연휴 부산 영락·추모공원 폐쇄…사전예약제 시행",
+		"link": "www.yna.co.kr/view/AKR20210122024700051?section=safe/news",
+		"date": "01-22 08:20"
+	},
+	"0da64f51e798c5d2b11619fdf7425831e8b4c58986285d0c109db0d41c6aa9b0": {
+		"title": "경기북부경찰청 경찰관 1명 코로나19 확진",
+		"link": "www.yna.co.kr/view/AKR20210122025700060?section=safe/news",
+		"date": "01-22 08:16"
+	},
+	"8b3001b312c3e4d875c5619fd746b0b78f932e5f7ec7f09825557f0a654ec633": {
+		"title": "택시 이어 부산 버스기사 6천800명 코로나19 전수조사",
+		"link": "www.yna.co.kr/view/AKR20210122024900051?section=safe/news",
+		"date": "01-22 08:13"
+	},
+	"48a3aa5e3adec045690c9a301cac94950d28466c04260db485f979d8c25db1b9": {
+		"title": "[르포] 우한봉쇄 1년…깊은 상흔 뒤로한 채 '승리'로 미화",
+		"link": "www.yna.co.kr/view/AKR20210121145900089?section=safe/news",
+		"date": "01-22 08:08"
+	},
+	"41c6f6b87867ae37c11e93c1df6207166fe135be77a4ce1f7a76535618a1a6c5": {
+		"title": "집에 간 트럼프, 굴욕 계속…거래 은행서 계좌 폐쇄",
+		"link": "www.yna.co.kr/view/AKR20210122017000071?section=safe/news",
+		"date": "01-22 08:07"
+	},
+	"47f86dd216923c17a10010235c0a2a92482371c97410b54ad68e03e9ed23a4f4": {
+		"title": "바이든 \"미 입국승객 격리\"…코로나대응 10개 행정명령 '총력전'(종합)",
+		"link": "www.yna.co.kr/view/AKR20210122008351071?section=safe/news",
+		"date": "01-22 07:58"
+	},
 	"912063d7d1575d0677a760f433c92909fd66ac486a4adcee7dc84ad5179e25ea": {
 		"title": "2차 접종 마친 이스라엘 의료진 37% 부작용…대부분 경증",
 		"link": "www.yna.co.kr/view/AKR20210122004100079?section=safe/news",
@@ -433,70 +498,5 @@
 		"title": "한국화이자제약, 이달 안에 코로나19 백신 허가 신청",
 		"link": "www.yna.co.kr/view/AKR20210121111100017?section=safe/news",
 		"date": "01-21 14:27"
-	},
-	"8e5b6edf19972c6b994208a583afebf921f1e1558eca55ce80cd273abfe4f9e1": {
-		"title": "중국 코로나 '수도 방어' 총력전에도 베이징서 계속 확산",
-		"link": "www.yna.co.kr/view/AKR20210121095300097?section=safe/news",
-		"date": "01-21 14:20"
-	},
-	"9296bc7b515c536595c537b235ee5248efbd0a16646a985b12537a2d16faed1f": {
-		"title": "행안부 \"코로나19 백신 접종센터 전국에 250곳 지정 목표\"",
-		"link": "www.yna.co.kr/view/AKR20210121109700530?section=safe/news",
-		"date": "01-21 14:20"
-	},
-	"0d7c3d8c339f0f85fc819172e47656fc24f972b0fa76cf9be97acfe17e15e25d": {
-		"title": "[속보] 경기 용인시 수지산성교회 관련 8명 추가 확진…누적 224명",
-		"link": "www.yna.co.kr/view/AKR20210121109100530?section=safe/news",
-		"date": "01-21 14:16"
-	},
-	"c9647edc4972109effeed034aecb3e7207c71717f1fe25283965efbc915a9fb9": {
-		"title": "부산지법 직원 1명 추가 감염…잠잠하던 요양병원 또 확진(종합)",
-		"link": "www.yna.co.kr/view/AKR20210121036851051?section=safe/news",
-		"date": "01-21 14:15"
-	},
-	"217d360df6126ecda5a499cfa6109dccb4012949aa1535092ea55d18f13c81e3": {
-		"title": "[속보] 경기 광명시 보험회사 관련 누적 확진자 14명으로 늘어",
-		"link": "www.yna.co.kr/view/AKR20210121108600530?section=safe/news",
-		"date": "01-21 14:14"
-	},
-	"f46b213ff49d7034ac5d151b5088c437072392d4ff92e0c04811d3e33dac0b04": {
-		"title": "[속보] 서울 강남구 사우나 관련 누적 확진자 18명으로 늘어",
-		"link": "www.yna.co.kr/view/AKR20210121108000530?section=safe/news",
-		"date": "01-21 14:14"
-	},
-	"798d140916a99ef8c254190eb8a801e9367c9786ad8aedd5bc477d1a73a45d25": {
-		"title": "경남 16명 신규 확진…거제서 가족 집단감염 발생(종합)",
-		"link": "www.yna.co.kr/view/AKR20210121058251052?section=safe/news",
-		"date": "01-21 14:07"
-	},
-	"5e63950688546cfb75f5d4e012e86fc8ffbea649a92ad44c74f3061199eb544f": {
-		"title": "코로나에 반정부시위 그치니 보복?…태국, 왕실모독죄 칼 빼들어",
-		"link": "www.yna.co.kr/view/AKR20210121093800076?section=safe/news",
-		"date": "01-21 12:50"
-	},
-	"83792ad9d8b175df4fc1c2d5abde50f6eb0a2f62206223b32927397850f21387": {
-		"title": "권덕철 \"백신 70% 맞아도 감염자는 나올 것…거리두기 계속해야\"",
-		"link": "www.yna.co.kr/view/AKR20210121095000530?section=safe/news",
-		"date": "01-21 13:30"
-	},
-	"59bf11d0b0c5ebf94b7aa6318236dd0adc0fb465401fb0e0eaa144912ff8eb05": {
-		"title": "호주 코로나 여파로 사라진 일자리 90% 회복…파트타임직 급증",
-		"link": "www.yna.co.kr/view/AKR20210121094700093?section=safe/news",
-		"date": "01-21 13:25"
-	},
-	"1429ef5d8665af1c14c3afbdfffd5568fcd164fca5ab63f6277fb4247d1d5fdc": {
-		"title": "코로나로 반정부 시위 중단되자 태국, 왕실모독죄 칼을 빼들었다",
-		"link": "www.yna.co.kr/view/AKR20210121093800076?section=safe/news",
-		"date": "01-21 12:50"
-	},
-	"d1fedaa92caae9551e54b667cd8fcc2fd5389f57a3d75d7320735aebc7472e6c": {
-		"title": "올해 스마트공장 6천개 구축…백신주사기 업체 등 우선 선정",
-		"link": "www.yna.co.kr/view/AKR20210121047100030?section=safe/news",
-		"date": "01-21 12:00"
-	},
-	"9adad99b52c2bc515f9077a18bb24bc64ea46935b1c5dd245c481ebcb9f1815e": {
-		"title": "소상공인 10명 중 8명 \"코로나19 사태로 매출 감소\"",
-		"link": "www.yna.co.kr/view/AKR20210121057300030?section=safe/news",
-		"date": "01-21 12:00"
 	}
 }
