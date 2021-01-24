@@ -1,4 +1,34 @@
 {
+	"49f9ae687dd6a5aa28203dc43699a4a4b315b9b965857e6e1c7cf2f4e8232546": {
+		"title": "[속보] 전북 순창군 요양병원 관련 누적 확진자 119명으로 늘어",
+		"link": "www.yna.co.kr/view/AKR20210124030400530?section=safe/news",
+		"date": "01-24 14:17"
+	},
+	"825894f848181f9bd2d7f08166496f4f2281c83c8d64813cc2e7756123ac3d58": {
+		"title": "[속보] 강원 동해시 다문화센터 17일 첫 확진자 발생후 총 10명 감염",
+		"link": "www.yna.co.kr/view/AKR20210124030200530?section=safe/news",
+		"date": "01-24 14:16"
+	},
+	"7c157e890d66ff763f138bfd1aba1f69efbadcb33775b732e1862a325d18e54b": {
+		"title": "[속보] 인천 남동구 주간보호센터 13일 첫 확진자 발생후 총 10명 감염",
+		"link": "www.yna.co.kr/view/AKR20210124030000530?section=safe/news",
+		"date": "01-24 14:15"
+	},
+	"e3e53f03f837a1156d924af5015d995bc9aa667c5948064ad248586e70ddbd42": {
+		"title": "경남 확진자 11명 발생…대부분 확진자 접촉(종합)",
+		"link": "www.yna.co.kr/view/AKR20210124018851052?section=safe/news",
+		"date": "01-24 14:11"
+	},
+	"080755203b2eae5432bdf9c7f2389880d251a6e9bea01972d9cf923c8fa761d1": {
+		"title": "부산 부곡요양병원서 종사자·환자 10명 집단 확진(종합)",
+		"link": "www.yna.co.kr/view/AKR20210124014551051?section=safe/news",
+		"date": "01-24 14:08"
+	},
+	"6b5e6f4b36d747b734ce189c2c5a813e53256e63d9d242f3d92c0257c553af06": {
+		"title": "홍콩 1만명 봉쇄한 날 코로나 누적환자 1만명 넘어(종합)",
+		"link": "www.yna.co.kr/view/AKR20210124014051074?section=safe/news",
+		"date": "01-24 13:17"
+	},
 	"fe3ac2528bf0fe6f64699cefef5d91298f9073418592905f94baf80ddc4dcc7f": {
 		"title": "싱가포르 '코로나 롤러코스터' 1년…'경계 태세' 더 강화",
 		"link": "www.yna.co.kr/view/AKR20210124027600076?section=safe/news",
@@ -468,35 +498,5 @@
 		"title": "격리병원 환자·종합병원 간호사 등 충북 8명 확진",
 		"link": "www.yna.co.kr/view/AKR20210123044000064?section=safe/news",
 		"date": "01-23 16:19"
-	},
-	"5188613ab45d1c21f077f2c619c5bf356c511cbebd43b85dfe7f61850d73484c": {
-		"title": "정부, 모더나와 mRNA 백신 기술협력 본격화…\"백신주권 확보\"",
-		"link": "www.yna.co.kr/view/AKR20210123042500530?section=safe/news",
-		"date": "01-23 16:11"
-	},
-	"71b534aa49b7dacd0399b56815e3599c67561cca229093f497470d7a1f3f6eb6": {
-		"title": "당국 \"변이 바이러스 큰 변수…12월 악몽 상황으로 돌아갈 수도\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20210123038551530?section=safe/news",
-		"date": "01-23 15:49"
-	},
-	"061ce3c7cf370c7f27af94ca8529fc1192d191e7fe7a096a5f57e8063aac3850": {
-		"title": "당국, '코로나19 예방백신 접종 시행계획' 28일 발표",
-		"link": "www.yna.co.kr/view/AKR20210123042100530?section=safe/news",
-		"date": "01-23 15:40"
-	},
-	"8d7170cd2ba15fa7394679ae8cd971a742d78b768fc36f5bcb8bfc0622627370": {
-		"title": "방역당국 \"초등학교 감염 위험성 세밀 평가 후 등교수업 검토\"",
-		"link": "www.yna.co.kr/view/AKR20210123039900530?section=safe/news",
-		"date": "01-23 15:06"
-	},
-	"1927ddd1b2d74adb253a3f580d2b8fe0cbf2a1a2bef4048bbff2d749e9d9ec43": {
-		"title": "당국 \"변이 바이러스 큰 변수…12월 악몽 상황으로 돌아갈 수도\"",
-		"link": "www.yna.co.kr/view/AKR20210123038500530?section=safe/news",
-		"date": "01-23 14:55"
-	},
-	"d22cb29e982d2508e523ddb7429b9815bd997585c90a0203b897a9d65301d7d9": {
-		"title": "코로나 백신 1차 접종한 빌 게이츠 \"65살 되면 받는 혜택\"",
-		"link": "www.yna.co.kr/view/AKR20210123039000009?section=safe/news",
-		"date": "01-23 14:49"
 	}
 }
