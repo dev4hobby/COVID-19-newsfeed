@@ -1,4 +1,74 @@
 {
+	"7f26dc1f2ae272307911890ad88969473b9a7925552d8b603da04483bb086cf5": {
+		"title": "작년 서울지하철 수송인원 27% 감소…코로나19 영향",
+		"link": "www.yna.co.kr/view/AKR20210127153600004?section=safe/news",
+		"date": "01-28 11:15"
+	},
+	"33372c986fa854e7e99833757b2491303bebac722292bcc332b9caf1c448d5db": {
+		"title": "중국, 노인 백신 접종 안전성 우려에 일반인 뒤로 미뤄",
+		"link": "www.yna.co.kr/view/AKR20210128083300083?section=safe/news",
+		"date": "01-28 11:14"
+	},
+	"99731d4d3c0ccd6b7dab074489f834d08aa964af50c8cd573e99c75b9431f2a7": {
+		"title": "제주 외국인 근로자 무료 코로나 검사…무자격 체류자 익명 보장",
+		"link": "www.yna.co.kr/view/AKR20210128087500056?section=safe/news",
+		"date": "01-28 11:12"
+	},
+	"7c1c7d02cee902aa6ae55364c8c5146f4e273a33631e0442b4deb7163bf394dc": {
+		"title": "보성군청 직원 1명 코로나19 확진…청사 폐쇄",
+		"link": "www.yna.co.kr/view/AKR20210128086100054?section=safe/news",
+		"date": "01-28 11:10"
+	},
+	"2352dbb6bc821f4bc04e0992c735c541ef49d94c31329d730ebfc1e12da5fef6": {
+		"title": "[속보] 정부, '사회적 거리두기' 조정안 내일 아닌 주말에 발표",
+		"link": "www.yna.co.kr/view/AKR20210128085800530?section=safe/news",
+		"date": "01-28 11:05"
+	},
+	"40835010f5a92499dc630b9e5bea70c8da495bac1f76a46440b9194cfd1cb078": {
+		"title": "인천서 16명 확진…연수구 가족·지인 집단감염 관련 6명",
+		"link": "www.yna.co.kr/view/AKR20210128084100065?section=safe/news",
+		"date": "01-28 11:05"
+	},
+	"13c85492086c7aa53c315241b9e9ec1f4206053068bf3fc5c985debfab4c2190": {
+		"title": "일본서 백신 접종 모의훈련 해보니…의료진 부족난 예상",
+		"link": "www.yna.co.kr/view/AKR20210128080900073?section=safe/news",
+		"date": "01-28 11:05"
+	},
+	"66fcd77bdc9ec8ee8b9704c8466f395b17877e5a433bb4862386724252a2680c": {
+		"title": "서울서 105명 신규 확진…노숙인시설 감염 확산(종합)",
+		"link": "www.yna.co.kr/view/AKR20210128057251004?section=safe/news",
+		"date": "01-28 11:04"
+	},
+	"3e3a732298aefd252853040c0214b39f515c1f5e489ad275e485d698748187a9": {
+		"title": "미 유나이티드항공, 코로나 여파로 인력 이어 본사 규모 축소",
+		"link": "www.yna.co.kr/view/AKR20210128071900009?section=safe/news",
+		"date": "01-28 10:50"
+	},
+	"8b047382a8b4f4860eb58996a5a5608b037aeeeb5975b336830ef202108eeaf0": {
+		"title": "화이자 \"코로나 백신, 남아공발 변이에 효력 감소 거의 없어\"",
+		"link": "www.yna.co.kr/view/AKR20210128077600009?section=safe/news",
+		"date": "01-28 10:48"
+	},
+	"e9cadeb4dd55fec34a713b5c8757f1a2c0ed1e6139a998a1d37c11fda0589a58": {
+		"title": "이철우 경북지사 코로나19 검사…확진자와 접촉",
+		"link": "www.yna.co.kr/view/AKR20210128079300053?section=safe/news",
+		"date": "01-28 10:46"
+	},
+	"a1b212e8231753b6b5695aa696922edb856046b12a025c9f098a3cb6c3e6120f": {
+		"title": "대구서 감염경로 불상 등 신규 확진 11명 늘어(종합)",
+		"link": "www.yna.co.kr/view/AKR20210128034951053?section=safe/news",
+		"date": "01-28 10:46"
+	},
+	"301b754787e5e0f0e251e3d8e3a21975123ca9b38e6e9e9f6cd00f1a226b1883": {
+		"title": "방글라·네팔, 인도산 아스트라제네카 백신으로 접종 시작",
+		"link": "www.yna.co.kr/view/AKR20210128072200104?section=safe/news",
+		"date": "01-28 10:42"
+	},
+	"002cc275187fd05df844f0d143d3296f7d17c01c7e82b1d5a45f10032dade00e": {
+		"title": "안성TCS국제학교 n차감염 추정 용인확진자 수지구교회서 예배",
+		"link": "www.yna.co.kr/view/AKR20210128070600061?section=safe/news",
+		"date": "01-28 10:31"
+	},
 	"f6351f027f0b4ce4d53c77a0a411bb3eaaa8c1b372d1456ca8a46e81daa8b5e5": {
 		"title": "광주 IM 선교회 시설 10명 중 8명 감염…교사는 모두 확진",
 		"link": "www.yna.co.kr/view/AKR20210128068400054?section=safe/news",
@@ -428,75 +498,5 @@
 		"title": "경기도서 IM선교회 관련 4명 추가 확진…누적 7명",
 		"link": "www.yna.co.kr/view/AKR20210127159500061?section=safe/news",
 		"date": "01-27 17:45"
-	},
-	"845c8b22dc6fb01b8723a3b633841597357a183eac9dbc31e93a0e06788aa8ca": {
-		"title": "안성시, TCS 국제학교 폐쇄·접촉자 자가 격리",
-		"link": "www.yna.co.kr/view/AKR20210127159100061?section=safe/news",
-		"date": "01-27 17:44"
-	},
-	"b8c8e28618932428eb79eb5690c9ce2bdfece324c786a5328a56b7e4d572e00a": {
-		"title": "김포서 확진자 가족 등 2명 코로나19 감염",
-		"link": "www.yna.co.kr/view/AKR20210127161000065?section=safe/news",
-		"date": "01-27 17:43"
-	},
-	"dcd40687859060dd07f9a7a4655a272546f58988a7b65ebadb68a7aa55fab94c": {
-		"title": "'외부 동선 없다더니' IEM국제학교 확진자들 주변 '활보'",
-		"link": "www.yna.co.kr/view/AKR20210127157000063?section=safe/news",
-		"date": "01-27 17:42"
-	},
-	"be70065abcee4ddda0f9f793b1598ab2cd46bbf7de0ad2c66f1ac8c134760afb": {
-		"title": "포항 '가구당 1인 이상 검사' 행정명령 이후 2명 확진",
-		"link": "www.yna.co.kr/view/AKR20210127159800053?section=safe/news",
-		"date": "01-27 17:41"
-	},
-	"ab0e6becc84180d2d034e23fa26ae247a268918d96fef3a13a1f428348dbb3c2": {
-		"title": "부천서 3명 코로나19 확진…2명은 기존 확진자 접촉",
-		"link": "www.yna.co.kr/view/AKR20210127160000065?section=safe/news",
-		"date": "01-27 17:41"
-	},
-	"68fcc73a772f10cb5503996efbe87e656303dab1be43e2ff71bed5729dc980db": {
-		"title": "\"길고양이 밥주지말라\" 반려동물 확진에 동물 혐오 우려↑",
-		"link": "www.yna.co.kr/view/AKR20210127157900051?section=safe/news",
-		"date": "01-27 17:33"
-	},
-	"e4a68ccde4a424affa8e38d56dedaecf80113d1126761327cf14a90f0e650af8": {
-		"title": "광주 TCS학교 집단감염 경남에도 '불똥'…6명 양성(종합)",
-		"link": "www.yna.co.kr/view/AKR20210127107251052?section=safe/news",
-		"date": "01-27 17:30"
-	},
-	"af1efdbf8863468db0575cd686700ab2281b9099fd820c63d3afbfbb4d161601": {
-		"title": "적십자 자가격리자용 비상식량 세트 1만1천명에게 전달",
-		"link": "www.yna.co.kr/view/AKR20210127156100062?section=safe/news",
-		"date": "01-27 17:28"
-	},
-	"8f9ecccb23ca11fe860783e67fbec6c27eb824e1ecf6e6abc42f75d224d5eb89": {
-		"title": "스웨덴 의대 \"중증 코로나19 관여하는 면역세포 발견\"",
-		"link": "www.yna.co.kr/view/AKR20210127147900009?section=safe/news",
-		"date": "01-27 17:24"
-	},
-	"b3de6a0dc5b7bdf9b141b57eb9ee6288aa999aea3412eeffce494ca1734ade6b": {
-		"title": "\"영국발 변이, 젊은층·여성에게 기존 바이러스보다 더 위험\"",
-		"link": "www.yna.co.kr/view/AKR20210127154600009?section=safe/news",
-		"date": "01-27 17:21"
-	},
-	"21d440534a406799cc70d9585a07cf2eb26c605647804a7c56fc53ac75e16d4c": {
-		"title": "[영상] 새 진원지 되나?…급속 확산하는 IM선교회 교육시설 집단감염",
-		"link": "www.yna.co.kr/view/AKR20210127151000704?section=safe/news",
-		"date": "01-27 17:11"
-	},
-	"eb8b46bf34e1f3690133aef8fb7112d762f17cddd93a57fac898e62fdae7d4d1": {
-		"title": "조희연 \"교직원·돌봄전담사, 코로나19 백신 우선접종 해달라\"",
-		"link": "www.yna.co.kr/view/AKR20210127152900530?section=safe/news",
-		"date": "01-27 17:04"
-	},
-	"8ba0573d8ba1881fd3eb49215c4e5fe4210ba30756b0029aca9b0b085e340352": {
-		"title": "국민의힘, 방역수칙 어기고 고스톱 친 제천시의원에 징계(종합)",
-		"link": "www.yna.co.kr/view/AKR20210127105851064?section=safe/news",
-		"date": "01-27 17:00"
-	},
-	"be789f5c371fba550f0a45d147fbd6e7a82b2be11ba662e317893e9c6440db1f": {
-		"title": "현대차·기아, 코로나 속 '고공 행진'…2년 연속 매출 160조원대",
-		"link": "www.yna.co.kr/view/AKR20210127149000003?section=safe/news",
-		"date": "01-27 16:51"
 	}
 }
