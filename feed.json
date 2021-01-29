@@ -1,4 +1,44 @@
 {
+	"58d1d3f85f914582ddfb9fa6777cb0ea2b6c0f9810ca011f8801c6366d18fcc8": {
+		"title": "[속보] 경기 수원시 요양원 관련 27일 첫 환자 발생후 총 26명 감염",
+		"link": "www.yna.co.kr/view/AKR20210129101100530?section=safe/news",
+		"date": "01-29 14:13"
+	},
+	"ef67b2b8cad7c7c7a27cfe0a473b2b6a15f5d7b48b3898e54463b0610beb7368": {
+		"title": "[속보] 서울 중구 복지시설 관련 확진자 14명 추가…누적 35명",
+		"link": "www.yna.co.kr/view/AKR20210129100900530?section=safe/news",
+		"date": "01-29 14:11"
+	},
+	"3692ee1ef4428635f1fc2b38b6b382269604a8ef352dee5752fcb0e76c3fb087": {
+		"title": "부곡요양병원·감천항 연쇄감염 지속…감염재생산지수 급상승",
+		"link": "www.yna.co.kr/view/AKR20210129095300051?section=safe/news",
+		"date": "01-29 14:04"
+	},
+	"68f264891676fbad979001d2853b7f71b6a725b3c3547effdb961917e213e010": {
+		"title": "경남 11명 신규 확진…거제 목욕탕 2곳 관련 확진자 늘어",
+		"link": "www.yna.co.kr/view/AKR20210129098300052?section=safe/news",
+		"date": "01-29 14:00"
+	},
+	"370d1f2c5d1d1d8a1c627e887568b7297d233c469e203e2b9136b61df56a480b": {
+		"title": "모디 총리 \"인도산 백신 더 생산…다른 나라 도울 것\"",
+		"link": "www.yna.co.kr/view/AKR20210129094200077?section=safe/news",
+		"date": "01-29 13:57"
+	},
+	"bcb385f214d17f32963be522f97925a7936118f63b9530b8321dd2ce358beeb2": {
+		"title": "군 코로나19 확진자 1명 추가…화천 육군 간부",
+		"link": "www.yna.co.kr/view/AKR20210129096300504?section=safe/news",
+		"date": "01-29 13:53"
+	},
+	"82056f44c2b8be3546a92f75bfdb0f29b624a308e605d74af87f7526ef3cc086": {
+		"title": "영주서 시청 직원 등 2명 확진…본관 3층 폐쇄·소독",
+		"link": "www.yna.co.kr/view/AKR20210129096600053?section=safe/news",
+		"date": "01-29 13:53"
+	},
+	"0487a65b1e1dc6a805eefe4552488edecdc66f545e20484e494ff3f09fd1b219": {
+		"title": "서울역 노숙인 14명 추가 확진…밀접접촉자 70여명",
+		"link": "www.yna.co.kr/view/AKR20210129075000004?section=safe/news",
+		"date": "01-29 11:25"
+	},
 	"5627803f7c67bc1230ba3e62ad549c3ffa8c4f99f5dc1f3453831d6381a56c28": {
 		"title": "안동서 확진자 4명 더 나와…태권도장 관련 집단 감염 49명",
 		"link": "www.yna.co.kr/view/AKR20210129092400053?section=safe/news",
@@ -458,45 +498,5 @@
 		"title": "\"EU, 코로나19 백신 수출 차단 가능한 새 시스템 도입 예정\"",
 		"link": "www.yna.co.kr/view/AKR20210129003900098?section=safe/news",
 		"date": "01-29 01:41"
-	},
-	"5090f763f2283718899325413f13e481e0fcda1cb8e5962a865952e2258ac3c8": {
-		"title": "'미 관광객 끊길라' 코로나19 검사소 늘린 카리브해 휴양지들",
-		"link": "www.yna.co.kr/view/AKR20210129002900087?section=safe/news",
-		"date": "01-29 01:21"
-	},
-	"73a320abce6e85fdba7016615e2c0170af12fa0ba7929095214a7f96c0a8d949": {
-		"title": "헝가리, 코로나19 부분 봉쇄 3월 1일까지 연장",
-		"link": "www.yna.co.kr/view/AKR20210129003100088?section=safe/news",
-		"date": "01-29 01:20"
-	},
-	"d7429f553ba4e97760060e4ef180ad1b2eed36a9b0fa28c2e867bb6a0497a8dd": {
-		"title": "케냐, 코로나 백신 구매자금 4천300억원 확보…1회분 7천700원",
-		"link": "www.yna.co.kr/view/AKR20210129002200009?section=safe/news",
-		"date": "01-29 01:09"
-	},
-	"69a406fa9112e7d2295dcaa5fd5741fc681cb96bca832a1850509d8f74776935": {
-		"title": "탄자니아 대통령 이번에는 \"코로나 백신 조심해야\"",
-		"link": "www.yna.co.kr/view/AKR20210129000800099?section=safe/news",
-		"date": "01-29 00:17"
-	},
-	"ee3b4d10b492afb70d49e51993f2f9947bfeaca3f29fd449b477d99829a39e0f": {
-		"title": "'백신공급차질' EU·아스트라제네카 분란 고조…법적 다툼 되나",
-		"link": "www.yna.co.kr/view/AKR20210128205900082?section=safe/news",
-		"date": "01-28 23:55"
-	},
-	"1e93b8d9e31fc0f3399b3bff25e884d3bfd7fbdf42563672f715c814a06188c6": {
-		"title": "\"EU, 벨기에에 아스트라제네카 코로나19 백신 공장 점검 요청\"",
-		"link": "www.yna.co.kr/view/AKR20210128204800098?section=safe/news",
-		"date": "01-28 23:42"
-	},
-	"6fa6c40e03407bd365f79dc5f7ab3c3e73e6029f4da27410aa1dcb6c66d09fe8": {
-		"title": "일본 코로나 신규 확진 4천명대…사망자 113명 하루 최다 기록",
-		"link": "www.yna.co.kr/view/AKR20210128204700073?section=safe/news",
-		"date": "01-28 23:13"
-	},
-	"01ae388fcc6ca4ecc8aad67cdd9bdb3aea0f8f5538cc5f6cd9037f2b9e087e04": {
-		"title": "독일 예방접종위 \"아스트라제네카백신 65세 미만에만 접종\" 권고",
-		"link": "www.yna.co.kr/view/AKR20210128203700082?section=safe/news",
-		"date": "01-28 22:38"
 	}
 }
