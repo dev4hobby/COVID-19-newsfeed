@@ -49,7 +49,8 @@ for element in elements:
   if not feed_data.get(feed_hash) and len(new_feed_data) <= FEED_MAX:
     new_feed_data[feed_hash] = {
       'title': feed_title,
-      'link': url_manager.remove_url_prefix(feed_link),
+      # 'link': url_manager.remove_url_prefix(feed_link),
+      'link': feed_link,
       'date': upload_time
     }
 
