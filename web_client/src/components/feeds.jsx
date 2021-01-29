@@ -42,7 +42,6 @@ class Feeds extends React.Component {
     } else {
       return <NotFoundPage/>
     }
-    
   }
 }
 

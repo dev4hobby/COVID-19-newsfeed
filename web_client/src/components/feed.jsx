@@ -1,8 +1,6 @@
 import React from 'react'
 import Card from '@material-ui/core/Card';
-// import CardActions from '@material-ui/core/CardActions';
 import CardContent from '@material-ui/core/CardContent';
-// import Button from '@material-ui/core/Button';
 import Typography from '@material-ui/core/Typography';
 import { makeStyles } from '@material-ui/core';
 
@@ -39,30 +37,32 @@ const checkColor = (title) => {
   return ''
 }
 
+const checkStartsWithHttp = (url) => {
+  if (!url.startsWith('http')) {
+    url = 'https://' + url;
+  }
+  return url;
+}
+
 export default function Feed({ feed }) {
   const classes = useStyles();
   const colorString = checkColor(feed.title)
+  const refinedUrl = checkStartsWithHttp(feed.link)
   return (
     <Card className={classes.root} style={{
-      backgroundColor: colorString
+          backgroundColor: colorString
     }}>
-      <CardContent>
-        {/* <Typography className={classes.title} color="textSecondary" gutterBottom>
-          Word of the Day
-        </Typography> */}
-        {/* <Typography variant="h5" component="h2">
-          Subject
-        </Typography> */}
-        <Typography className={classes.pos} color="textSecondary">
-          <b>{feed.title}</b>
-        </Typography>
-        <Typography variant="body2" component="p">
-          {feed.date}
-        </Typography>
-      </CardContent>
-      {/* <CardActions>
-        <Button size="small">Learn More</Button>
-      </CardActions> */}
+      <a href={refinedUrl} style={{textDecoration:'none'}} >
+        <CardContent>
+          <Typography className={classes.pos} color="textSecondary">
+            <b>{feed.title}</b>
+            
+          </Typography>
+          <Typography variant="body2" component="p">
+            {feed.date}
+          </Typography>
+        </CardContent>
+      </a>
     </Card>
   )
 } 
