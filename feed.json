@@ -1,4 +1,44 @@
 {
+	"13eee6763698eeeb4509729fac68196c957541dd9d4d7e13732b99abf3d2177b": {
+		"title": "[속보] \"자영업 협회·단체도 방역수칙 준수 자율 감시체계 가동\"",
+		"link": "www.yna.co.kr/view/AKR20210206029200530?section=safe/news",
+		"date": "02-06 11:07"
+	},
+	"1e9527c7278013262f75b829061906ecce7daccc8a8fb2fe31ae0972c26b0ff2": {
+		"title": "서울 143명 신규 확진…사우나 등 집단감염 이어져(종합)",
+		"link": "www.yna.co.kr/view/AKR20210206024951004?section=safe/news",
+		"date": "02-06 11:04"
+	},
+	"4bacf800ee080a92b9aaa8550743f4bed0bd14211e1cd8e00b60944eef582812": {
+		"title": "[속보] 정부 \"코로나19 전파력 0.79까지 감소했다가 최근 1.0에 근접\"",
+		"link": "www.yna.co.kr/view/AKR20210206028900530?section=safe/news",
+		"date": "02-06 11:02"
+	},
+	"b149e190f4bd7ed6ffc421c27a1afdbc78dd55be21c37935c677c0872b7f0ed5": {
+		"title": "[속보] 수도권 2.5단계-비수도권 2단계,5인이상 모임금지 14일까지 유지",
+		"link": "www.yna.co.kr/view/AKR20210206027700530?section=safe/news",
+		"date": "02-06 11:00"
+	},
+	"ab2eb6ef49865996dfa3b787318dfc0549b4cbd11cdc117450b3f988069e89d0": {
+		"title": "[속보] 다중이용시설 방역수칙 1회만 위반해도 2주간 집합금지",
+		"link": "www.yna.co.kr/view/AKR20210206028000530?section=safe/news",
+		"date": "02-06 11:00"
+	},
+	"61ed34f0de988af88d8af7fedc451ab5f5c943d8b4c124b79681e9d8e103755a": {
+		"title": "전주 1명 코로나19 확진…전북 누적 1천59명",
+		"link": "www.yna.co.kr/view/AKR20210206027800055?section=safe/news",
+		"date": "02-06 10:56"
+	},
+	"44fc98f8af8a9fa69aa418707fdd80c30ab008dd39703eeba0731a612bfae503": {
+		"title": "인천서 17명 코로나19 양성…13명은 확진자 접촉 감염",
+		"link": "www.yna.co.kr/view/AKR20210206027500065?section=safe/news",
+		"date": "02-06 10:48"
+	},
+	"4a95a4e5c674e3630c121e33c8384bf461c9eb8d562ef1d2dbd8415fbfaaa6d2": {
+		"title": "확진자 폭증하는데 또 대면 예배…광주서 개신교회 적발",
+		"link": "www.yna.co.kr/view/AKR20210206027400054?section=safe/news",
+		"date": "02-06 10:45"
+	},
 	"2db4f65753b905dfbce9d6aefafc0e94575278dedb169a7ec414ff4e15e0dc79": {
 		"title": "광주서 일가족 4명 확진…자녀 다니는 유치원 전수 검사",
 		"link": "www.yna.co.kr/view/AKR20210206027200054?section=safe/news",
@@ -458,45 +498,5 @@
 		"title": "경남 9명 신규 확진…변이 바이러스 전파 차단 총력",
 		"link": "www.yna.co.kr/view/AKR20210205087300052?section=safe/news",
 		"date": "02-05 13:46"
-	},
-	"ad363a98d8f665ffaccccba1d0c4922f2c01baeeedd814a74cbada80ecf2a04f": {
-		"title": "질병청 \"자문단·예방접종위 거쳐 AZ백신 고령층 접종계획 결정\"",
-		"link": "www.yna.co.kr/view/AKR20210205085900530?section=safe/news",
-		"date": "02-05 13:46"
-	},
-	"5d3b136f1ad5328f5b686a07a182e12dd26d3ac9ccfea8cabb301f1dd79efcc7": {
-		"title": "중국 코로나 백신 논란 속 시노백 \"우리 것은 고령자도 안전\"",
-		"link": "www.yna.co.kr/view/AKR20210205084200083?section=safe/news",
-		"date": "02-05 13:32"
-	},
-	"12d1e8d0c1c7dc0dfc8aefbf393aa575ba50fd41670afe14e058426e1bca31be": {
-		"title": "[속보] 부산 감천항 확진자서 GR 바이러스 검출…해외 유입 가능성",
-		"link": "www.yna.co.kr/view/AKR20210205082500051?section=safe/news",
-		"date": "02-05 13:30"
-	},
-	"d0703669b909b7d67bb3ae8a87fba72fb39bbded55942ba4961457cc808a5416": {
-		"title": "인도(印度) 정부 \"어린이 4명 중 1명꼴로 코로나19에 이미 감염\"",
-		"link": "www.yna.co.kr/view/AKR20210205083700077?section=safe/news",
-		"date": "02-05 13:25"
-	},
-	"043c22a2abfbff9e30f446c4b0fd3951bc5f8e6dc70794840eebfe5418a920ba": {
-		"title": "아스트라제네카 백신 허가권고…고령자 접종, 질병청에 판단넘겨(종합)",
-		"link": "www.yna.co.kr/view/AKR20210205066751017?section=safe/news",
-		"date": "02-05 12:46"
-	},
-	"6daae5a7f533363f91f20856a9996c86016d50c628d4017ee7a351985173723b": {
-		"title": "코로나19 걸린 멕시코 대통령 \"항원검사 음성…며칠 더 회복\"",
-		"link": "www.yna.co.kr/view/AKR20210205081200087?section=safe/news",
-		"date": "02-05 13:12"
-	},
-	"ad9f98027848f2e963f013bbaf8ef399204e289d9705112a7adbbbbc9248f70b": {
-		"title": "베트남, 코로나19 특별입국자 격리기간 3주로 연장 고심",
-		"link": "www.yna.co.kr/view/AKR20210205080600084?section=safe/news",
-		"date": "02-05 12:57"
-	},
-	"f1a4e57a9b2fa6c16b4482a336196afd4cf804d63c580f4b88a993505c26d759": {
-		"title": "아스트라제네카 백신 허가 권고…고령자 접종, 질병청 판단에(종합)",
-		"link": "www.yna.co.kr/view/AKR20210205066751017?section=safe/news",
-		"date": "02-05 12:46"
 	}
 }
