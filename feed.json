@@ -1,4 +1,34 @@
 {
+	"a089ed13d46ea23974b9e0a07b8bd284eeb4435c61a0eaf3298b41437d0c9b89": {
+		"title": "[속보] '시리아인 친척 집단발생' 관련 1명 추가 확진…무증상 감염",
+		"link": "www.yna.co.kr/view/AKR20210209110100530?section=safe/news",
+		"date": "02-09 14:21"
+	},
+	"b668e781897f6b65554211662a1cb0ceea194e86ec0d05491afffd6a8ee3db52": {
+		"title": "광주 격리 해제 전 검사서 확진 잇따라",
+		"link": "www.yna.co.kr/view/AKR20210209108500054?section=safe/news",
+		"date": "02-09 14:20"
+	},
+	"4ca54f6bba486b2c1fe17e434834e86ea9ae4b06203739437ed5a3d1a769bf0f": {
+		"title": "[속보] 신규 변이 감염자 26명중 4명은 '시리아인 친척 집단발생' 관련",
+		"link": "www.yna.co.kr/view/AKR20210209108600530?section=safe/news",
+		"date": "02-09 14:14"
+	},
+	"e1c318187e98cdf2e9fb1b0ab839fc818e3cb433a89946127fabd8375b5aff92": {
+		"title": "[속보] 해외유입 변이 바이러스 감염자 26명 추가 확인…누적 80명",
+		"link": "www.yna.co.kr/view/AKR20210209108100530?section=safe/news",
+		"date": "02-09 14:11"
+	},
+	"7fdea61aeaaa182c86e277682b6fde29b05b27f6b318f72e79ce67fce7da85f1": {
+		"title": "경남 13명 추가 확진…외국인 확진자 변이 바이러스 검사 요청(종합)",
+		"link": "www.yna.co.kr/view/AKR20210209052551052?section=safe/news",
+		"date": "02-09 14:07"
+	},
+	"0e317a67827e46e72c30fb4f6ef19560d045b2da2058039f0e37ac6369f62d18": {
+		"title": "부산 교차감염 요양시설·병원 5명 추가…항운노조도 3명 확진(종합)",
+		"link": "www.yna.co.kr/view/AKR20210209032251051?section=safe/news",
+		"date": "02-09 13:53"
+	},
 	"a194eb207b3b1d9ff3be8bc3ec0e3bdff0c053e0c9caba1c0770e12e4980febd": {
 		"title": "부산 교차감염 요양시설·병원 11명 추가…항운노조도 3명 확진(종합)",
 		"link": "www.yna.co.kr/view/AKR20210209032251051?section=safe/news",
@@ -468,35 +498,5 @@
 		"title": "오후 6시까지 전국서 202명 신규확진…어제보다 48명 적어",
 		"link": "www.yna.co.kr/view/AKR20210208158000530?section=safe/news",
 		"date": "02-08 18:38"
-	},
-	"5842c52ad9125e4e78b84e4aa3e555260dfca49f3799233a641dc53386964fc9": {
-		"title": "오후 6시까지 서울 67명 확진…전날보다 40명 적어",
-		"link": "www.yna.co.kr/view/AKR20210208155900004?section=safe/news",
-		"date": "02-08 18:25"
-	},
-	"93f1c00187fc6d4f2176ef3728d7a2161c5476d47c4d8143f7ef819bfd460e03": {
-		"title": "변이 바이러스에도 백신 효과 있을까…전문가 \"접종이 유리\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20210208113751530?section=safe/news",
-		"date": "02-08 18:19"
-	},
-	"9473c2fc2d83aee061dbfdcb73f2b7b47d1f8aa8431b0adf75b298a36a47c32e": {
-		"title": "코로나19 치료 길어지면 신종 코로나 변이 속출할 수도",
-		"link": "www.yna.co.kr/view/AKR20210208148500009?section=safe/news",
-		"date": "02-08 18:13"
-	},
-	"04adf9a9f76c9ccfc9895d51002bcef3d6feda280a8fc8aec92cd937d52d5f09": {
-		"title": "광주·전남 코로나19 진정세…신규 확진자 1명",
-		"link": "www.yna.co.kr/view/AKR20210208150000054?section=safe/news",
-		"date": "02-08 17:47"
-	},
-	"f48f7f9fc1f1a2b9c23269cd860bc9de0bd9240feb6cbba97c95eeaa369ee8fd": {
-		"title": "베트남 코로나19 북부 진정되자 호찌민서 급속 확산세",
-		"link": "www.yna.co.kr/view/AKR20210208149000084?section=safe/news",
-		"date": "02-08 17:41"
-	},
-	"e701d440b88084b1f3e044181d90aa0f62530784058fcc52179c327f7d2632d6": {
-		"title": "당국 \"화이자 백신 첫 물량 도입계획 변동없어…이달 중순 이후\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20210208066251530?section=safe/news",
-		"date": "02-08 17:35"
 	}
 }
