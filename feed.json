@@ -1,4 +1,44 @@
 {
+	"b923b1c697b9f481ef30c465c6251a3a8fd1ba0dba54ba8ae789ebf8e1827c1c": {
+		"title": "전북도, 사회적 거리두기 1.5단계 하향 조정",
+		"link": "www.yna.co.kr/view/AKR20210213027000055?section=safe/news",
+		"date": "02-13 11:11"
+	},
+	"05cd8d7b0a7bea5fbb7531b38046771f3efc526f7056597e6ff54e8d5e678d23": {
+		"title": "[속보] 정부 \"코로나19 3차 유행 재확산 경향 나타나면 거리두기 상향\"",
+		"link": "www.yna.co.kr/view/AKR20210213027100530?section=safe/news",
+		"date": "02-13 11:08"
+	},
+	"eeacef503a3ae7a2feaf81e5789cda688aad4b1656aa4e4c9e1218a2aa655850": {
+		"title": "서울 순천향대병원서 코로나19 확진자 37명 발생",
+		"link": "www.yna.co.kr/view/AKR20210213026200017?section=safe/news",
+		"date": "02-13 11:07"
+	},
+	"4553940715eb5ea1dfe97d17071f9e22e131ffe64021bb0fa724606f4510fcd6": {
+		"title": "[속보] 전국 유흥업소 4만곳 집합금지 해제…밤 10시까지만 영업",
+		"link": "www.yna.co.kr/view/AKR20210213026900530?section=safe/news",
+		"date": "02-13 11:06"
+	},
+	"7f81510062120ca6bb36d2dfc86b6c22f3015a9cfb516d58eec70df048dd5345": {
+		"title": "\"영국서 코로나 백신 접종 사각지대는 80대이상 독거노인\"",
+		"link": "www.yna.co.kr/view/AKR20210213025300009?section=safe/news",
+		"date": "02-13 10:56"
+	},
+	"5c43dfead20d816dfb2935c4dbfadac6dfe22adc42a8a6c828d868698d59ee19": {
+		"title": "[전문가진단] 거리두기 완화에 '잘못된 신호' 우려…'적절' 의견도",
+		"link": "www.yna.co.kr/view/AKR20210213025000530?section=safe/news",
+		"date": "02-13 10:53"
+	},
+	"48d5238de295419236bee140b23e64212f72118c399183820ed82bee127333e5": {
+		"title": "\"코로나 백신 전세계 공평히 공급돼야 팬데믹 통제\"",
+		"link": "www.yna.co.kr/view/AKR20210213025100009?section=safe/news",
+		"date": "02-13 10:52"
+	},
+	"c0d96247a930d5304ee0e55eb7c7f8ff9d9a9a84b3a13b038a822552a4f75b2f": {
+		"title": "인천서 14명 코로나19 확진…가족·지인 집단감염 관련 5명",
+		"link": "www.yna.co.kr/view/AKR20210213025800065?section=safe/news",
+		"date": "02-13 10:52"
+	},
 	"4ecb72d6594b70b09ca3323112349dc8111fbb9665709e682dd73d8d06cd9d0c": {
 		"title": "서울 136명 신규 확진…체육시설 집단감염 확산(종합)",
 		"link": "www.yna.co.kr/view/AKR20210213022351004?section=safe/news",
@@ -458,45 +498,5 @@
 		"title": "신규확진 403명, 설연휴 영향에 다시 400명대로…수도권이 78%(종합)",
 		"link": "www.yna.co.kr/view/AKR20210212016651530?section=safe/news",
 		"date": "02-12 09:50"
-	},
-	"4363f66df4e02ec8c87c25999f03142ecb5286dd0839f1bd890645d8daa48d4c": {
-		"title": "[3보] 신규확진 403명, 설연휴 영향에 다시 400명대로…수도권이 78%",
-		"link": "www.yna.co.kr/view/AKR20210212016600530?section=safe/news",
-		"date": "02-12 09:44"
-	},
-	"fb36475091581c852d792604f0d8aaf6ee0b1366ad84d30cd607445c363db76b": {
-		"title": "[속보] 서울 158명-경기 105명-인천 43명-부산 27명-충남 13명 등 확진",
-		"link": "www.yna.co.kr/view/AKR20210212018700530?section=safe/news",
-		"date": "02-12 09:32"
-	},
-	"8ef64e659f37963381f8991efcf2ad6079bd39393d9d3305133c9fc317b69c67": {
-		"title": "[2보] 코로나19 어제 403명 신규확진…하루만에 다시 400명대로",
-		"link": "www.yna.co.kr/view/AKR20210212016500530?section=safe/news",
-		"date": "02-12 09:31"
-	},
-	"5376842ab56584c5e85a32c7662543f24860bc6884c8ee5e6dc933b92edd32f3": {
-		"title": "[속보] 코로나19로 어제 11명 사망…누적 1천507명",
-		"link": "www.yna.co.kr/view/AKR20210212019100530?section=safe/news",
-		"date": "02-12 09:31"
-	},
-	"841ca1d4b67996264add3aaccfba7abeda80206ca12433f4baa9ff69b41cba20": {
-		"title": "[1보] 코로나19 어제 403명 신규확진…하루만에 다시 400명대로",
-		"link": "www.yna.co.kr/view/AKR20210212016400530?section=safe/news",
-		"date": "02-12 09:30"
-	},
-	"2b227f9a126b60142d5fe1dacd41722a5716815650d59c33c6023690031247b8": {
-		"title": "충북서 격리 해제 앞둔 60대 부부 등 3명 확진",
-		"link": "www.yna.co.kr/view/AKR20210212018900064?section=safe/news",
-		"date": "02-12 09:28"
-	},
-	"7be6660347776677ab447102bb9db44e809064d20a4401a16e68df8e58426894": {
-		"title": "[르포] '즉석식품에 떡 썰어넣은 떡국'…취약계층의 코로나19 명절나기",
-		"link": "www.yna.co.kr/view/AKR20210209061800054?section=safe/news",
-		"date": "02-12 09:00"
-	},
-	"3c9bafc56f591c80879d6299442497681239d52e993a6f3d62ce202d1066aebe": {
-		"title": "브라질 보건장관 \"연내 모든 국민 백신 접종\"…실현 가능성 의문",
-		"link": "www.yna.co.kr/view/AKR20210212015200094?section=safe/news",
-		"date": "02-12 08:53"
 	}
 }
