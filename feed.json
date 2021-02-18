@@ -1,4 +1,69 @@
 {
+	"fed9707958e89a3aca82f5e15cd5b5c828b08fb8357f4410118a38d0ecbebb64": {
+		"title": "여수 배낚시 관련 전북도민 3명 코로나19 추가 확진…누적 15명",
+		"link": "www.yna.co.kr/view/AKR20210218069700055?section=safe/news",
+		"date": "02-18 10:50"
+	},
+	"b6bf9ff5b8b6d296c9330d42aa22a64f83fbcfb82c75514cfc07fd3cac021c41": {
+		"title": "서정진 \"코로나19 백신 기술자립 못 하면 백신 개발 나서겠다\"",
+		"link": "www.yna.co.kr/view/AKR20210218066500017?section=safe/news",
+		"date": "02-18 10:37"
+	},
+	"2aec06da4591723b83a22468ae7babbc21039dcfe11048c57e508274cdea99b5": {
+		"title": "코로나시대 스마트폰 앱으로 보는 전시 등장",
+		"link": "www.yna.co.kr/view/AKR20210218062900005?section=safe/news",
+		"date": "02-18 10:36"
+	},
+	"53e304e9e68eeca589cdafd88fe2ad77c44bea83d73d5be09ff07fa0f81a6841": {
+		"title": "울산서 부산 장례식장 관련 8명 확진…학생·교직원 630명 검사",
+		"link": "www.yna.co.kr/view/AKR20210218063400057?section=safe/news",
+		"date": "02-18 10:34"
+	},
+	"157ffc4ba2ca889dc04d57de8ab2b38c72d69d8c65377a9e7f696c3d662e351e": {
+		"title": "용인 기흥구 요양원서 요양보호사·입소자 5명 확진",
+		"link": "www.yna.co.kr/view/AKR20210218064400061?section=safe/news",
+		"date": "02-18 10:31"
+	},
+	"93899c6a0ecf3434433dfa6dd01e7a0246cb406f5ed7722254132580345a01e9": {
+		"title": "600명대 확진에 이틀째 거리두기 2.5단계 범위…'4차 유행' 우려(종합)",
+		"link": "www.yna.co.kr/view/AKR20210217154851530?section=safe/news",
+		"date": "02-18 10:30"
+	},
+	"1082bcc2aeb8d2936987beae96b4ca6ee021d519e0a1223488c32c444bec4767": {
+		"title": "코로나 쇼크 정유업계, 일본 지진·미국 한파 호재로 반등 기대",
+		"link": "www.yna.co.kr/view/AKR20210218061400003?section=safe/news",
+		"date": "02-18 10:29"
+	},
+	"1ed63654e2f338157820d3228e80c7a6813aa49f49980a096affd7e9aebc03a1": {
+		"title": "빌 게이츠, 변이 확산 속 \"코로나19 백신 세번 맞아야 할 수도\"",
+		"link": "www.yna.co.kr/view/AKR20210218061100009?section=safe/news",
+		"date": "02-18 10:27"
+	},
+	"0a1d66f516cc5750f2b5994a32909fd718da80f2301b18e03a770e8f7431a0b7": {
+		"title": "장흥 첫 지역 감염자 발생…정종순 군수 \"추가 감염 차단 총력\"",
+		"link": "www.yna.co.kr/view/AKR20210218060000054?section=safe/news",
+		"date": "02-18 10:21"
+	},
+	"3c925fdd539deb7a49bc47261575dd9834e522600e1b04ab1ed625a0b54f7ca4": {
+		"title": "전세계 코로나 사태 속 중국 설 연휴 내수 '대박'",
+		"link": "www.yna.co.kr/view/AKR20210218060100083?section=safe/news",
+		"date": "02-18 10:18"
+	},
+	"59ef15f34eacfc50570f59b3001778fa53d6c390f27c31b7b3ded26c8e4100b5": {
+		"title": "횡성군 코로나19 선제 대응…지역 감염 조기 차단",
+		"link": "www.yna.co.kr/view/AKR20210218058900062?section=safe/news",
+		"date": "02-18 10:15"
+	},
+	"59622f8b956999af65a1c04b37b5d3787b5f91fceca818c2845b61fd2d2160fe": {
+		"title": "포천 육군 간부 1명 코로나19 확진",
+		"link": "www.yna.co.kr/view/AKR20210218059800504?section=safe/news",
+		"date": "02-18 10:13"
+	},
+	"637e6cfc203fbb4f77378cabe84ec6106c90e0982b83df5ee42d6dbd012ad33a": {
+		"title": "\"해외 근무 미 외교관들, 러시아 등 주재국에 백신접종 요청\"",
+		"link": "www.yna.co.kr/view/AKR20210218050600085?section=safe/news",
+		"date": "02-18 10:12"
+	},
 	"711a51c62dc0d0a9f473c39471d33311d57424fb46f1f3557d20db5e2da0d7ed": {
 		"title": "'코로나 백신' 미 제약사 임원 작년 5천억원대 주식 처분",
 		"link": "www.yna.co.kr/view/AKR20210218052900009?section=safe/news",
@@ -433,70 +498,5 @@
 		"title": "정은경 \"요양병원 고령층 백신접종은 2분기…화이자-AZ 다 검토\"",
 		"link": "www.yna.co.kr/view/AKR20210217147100530?section=safe/news",
 		"date": "02-17 16:59"
-	},
-	"3cc59364e991c794f650b1e061479740f75bfe153d486969a7b9183583637168": {
-		"title": "코로나19 원격학습의 그늘…\"미국서 자녀 ADHD 상담 급증\"",
-		"link": "www.yna.co.kr/view/AKR20210217146600009?section=safe/news",
-		"date": "02-17 16:55"
-	},
-	"68a996ab930b36448a0ae5912b8a67d3ff2ca238b60feadc21f10accd597a27f": {
-		"title": "[속보] 서울 광진구 음식점 관련 누적 확진자 82명으로 늘어",
-		"link": "www.yna.co.kr/view/AKR20210217111400530?section=safe/news",
-		"date": "02-17 14:17"
-	},
-	"7a1a8e4e41f518b2586c5e0c1ca9a43debaaa98af424f2ce529d48e8458922a0": {
-		"title": "남양주 진관산단 공장서 115명 집단감염…\"상당수 합숙\"(종합2보)",
-		"link": "www.yna.co.kr/view/AKR20210217064253060?section=safe/news",
-		"date": "02-17 16:22"
-	},
-	"7ca8a2cda71e65a72bbe354d866d7d46a7dee9d3ee3d2d7efcac9da2a1bfda2c": {
-		"title": "김강립 식약처장 \"아스트라제네카 백신, 믿고 맞으셔도 된다\"",
-		"link": "www.yna.co.kr/view/AKR20210217140300017?section=safe/news",
-		"date": "02-17 16:21"
-	},
-	"3b8896a401f8ddf966b8bf4a969c148e90ff0f36b5694ce02c51ae2eba045816": {
-		"title": "정의당 강원 \"코로나19 시국에 해외연수 잔치 벌이려는 것인가\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20210217083451062?section=safe/news",
-		"date": "02-17 16:17"
-	},
-	"3d7cdcd1059fa26e3234efdced1ced456506f89ce6b164484e0969c79e25353a": {
-		"title": "외국인 친척모임 38명중 변이 감염 13명으로 늘어…국내 총 99명(종합)",
-		"link": "www.yna.co.kr/view/AKR20210216102151530?section=safe/news",
-		"date": "02-17 15:58"
-	},
-	"b2c0bcbdf4c6da1d4866166c8e05fb4c31237b41d2705565790c5f1251ff432b": {
-		"title": "권덕철 복지장관 \"자율·책임에 의한 업종별 방역수칙 만들 것\"",
-		"link": "www.yna.co.kr/view/AKR20210217133000530?section=safe/news",
-		"date": "02-17 15:50"
-	},
-	"fa995f3fd84b5adf5a8daed8c2ecb5a605eade08a937bc3fc80332054ee2db57": {
-		"title": "귀뚜라미보일러 아산공장 관련 4명 더 확진…누적 121명",
-		"link": "www.yna.co.kr/view/AKR20210217051951063?section=safe/news",
-		"date": "02-17 15:47"
-	},
-	"396a95e068390c7e84442f8e696d4e30240f14587cdf5a7a2130f835db4f8b32": {
-		"title": "어린이집-병원-공장 등서 감염 지속…가족감염 사례도 잇따라(종합)",
-		"link": "www.yna.co.kr/view/AKR20210217115651530?section=safe/news",
-		"date": "02-17 15:45"
-	},
-	"a9168c9a772fd25476915ce2d82cc0968b8786dc8ffb14b534bfe0918dffd6b4": {
-		"title": "계속되는 기장군 마스크 복지…올해도 2차례 마스크 지급",
-		"link": "www.yna.co.kr/view/AKR20210217131100051?section=safe/news",
-		"date": "02-17 15:43"
-	},
-	"11a4eed25506d954a7535d7d0be27b45c1fc594113410911cd76eeecf91ea158": {
-		"title": "신천지 간부 9명 '감염병예방법 위반' 혐의 전원 무죄",
-		"link": "www.yna.co.kr/view/AKR20210217130100061?section=safe/news",
-		"date": "02-17 15:42"
-	},
-	"42e4e9509e073313234ed77eef9dc7a95e10a0696b82f46a2a526bb8fccf8f1c": {
-		"title": "독일 '코로나 국경 통제'에 자동차 업체들 타격",
-		"link": "www.yna.co.kr/view/AKR20210217125700009?section=safe/news",
-		"date": "02-17 15:24"
-	},
-	"0de5dd28b241e6d1fa2d91996f16a32b5158eceb94f3f0e80bb07b702d3ac61e": {
-		"title": "정부, 19일 관계기관 백신 모의훈련 실시…AZ백신 공급 대비(종합)",
-		"link": "www.yna.co.kr/view/AKR20210217117551530?section=safe/news",
-		"date": "02-17 15:22"
 	}
 }
