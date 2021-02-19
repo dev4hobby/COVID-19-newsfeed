@@ -1,4 +1,104 @@
 {
+	"6d4a7fd0b97f71e48f5c26867212c01c88583346afc2d40b90c15a0bbbba8767": {
+		"title": "인천서 35명 양성판정…28명은 확진자 접촉 뒤 감염",
+		"link": "www.yna.co.kr/view/AKR20210219060400065?section=safe/news",
+		"date": "02-19 10:47"
+	},
+	"f25c7cb6056709036d7b7433038c57332988fef29ea7b83e3ccfc60a452cc23c": {
+		"title": "화이자 백신 대만 공급권 쥔 중국…'구매 방해' 공방",
+		"link": "www.yna.co.kr/view/AKR20210219057700089?section=safe/news",
+		"date": "02-19 10:37"
+	},
+	"7c5ed243f68f2b4d079be05d2ec07edc56397f7a2355833e76feff927b549397": {
+		"title": "코로나19백신 출시 더 빨라진다…허가전 국가출하승인 신청가능",
+		"link": "www.yna.co.kr/view/AKR20210219055400017?section=safe/news",
+		"date": "02-19 10:32"
+	},
+	"df7bd3ed369a393d21dfe12823a3ff8c2b3fa839b7660fa89aeb4f87685b34a5": {
+		"title": "500명대로 줄었지만 확산세 여전…거리두기 개편·적용시점 고심(종합)",
+		"link": "www.yna.co.kr/view/AKR20210218161151530?section=safe/news",
+		"date": "02-19 10:31"
+	},
+	"47352d50cfdc84252fcbf4f7ffc1cb3c3681f2ea77cf169fc23f51fb3575b864": {
+		"title": "공주의료원 관련 코로나19 1명 더 확진…누적 12명",
+		"link": "www.yna.co.kr/view/AKR20210219055900063?section=safe/news",
+		"date": "02-19 10:29"
+	},
+	"a39e67d1e3239976f0ddfdf97cdfcef9c2d0c5deb10bc2f46e914be973561b98": {
+		"title": "'4명 확진' 삼성전자 광주공장 비상…압축기 차질에 냉장고 불똥",
+		"link": "www.yna.co.kr/view/AKR20210219054600054?section=safe/news",
+		"date": "02-19 10:27"
+	},
+	"8dbebb4fc9d29d31c81fafbcb650129bcd601fc7f169aa920377722b62aa07f8": {
+		"title": "\"다른 백신 좀…\" 유럽서 아스트라제네카 접종 거부감 확산",
+		"link": "www.yna.co.kr/view/AKR20210219052300009?section=safe/news",
+		"date": "02-19 10:24"
+	},
+	"e1f3ef50bbb4dff9480618c3110b6c99974bdc4531f4d6b8e65b9813bce4f5d1": {
+		"title": "중국 후베이성, 코로나 딛고 첨단기술 연구소 7곳 세운다",
+		"link": "www.yna.co.kr/view/AKR20210219055100083?section=safe/news",
+		"date": "02-19 10:24"
+	},
+	"d8674ba09860a42eccc566ee49947cf6311a8dfcdeb89aa34d0adc61ceedd5a7": {
+		"title": "용인 기흥구 요양원서 입소자 3명 추가 확진…누적 8명",
+		"link": "www.yna.co.kr/view/AKR20210219039800061?section=safe/news",
+		"date": "02-19 10:23"
+	},
+	"6e61281519f781d8808bde7e3c5be807c39c7dc7a2471a4f4b93838e44d8d465": {
+		"title": "군 코로나 확진자 3명 추가…누적 566명·12명 치료중",
+		"link": "www.yna.co.kr/view/AKR20210219055200504?section=safe/news",
+		"date": "02-19 10:21"
+	},
+	"da7acdba5b759f61f32dce689bf0ef527c6e82e002282e09a0693fafa1b42a6d": {
+		"title": "백신 접종 앞두고 가짜뉴스 난무…부산시 엄정 대응키로",
+		"link": "www.yna.co.kr/view/AKR20210219050800051?section=safe/news",
+		"date": "02-19 10:18"
+	},
+	"71d1fd9f167fd50dbafc39b6a3c694c21ad531f66a6a8d40a22089320465d670": {
+		"title": "마스크 등 7가지 K-방역 물품 6개국에 133억원어치 수출",
+		"link": "www.yna.co.kr/view/AKR20210219051800063?section=safe/news",
+		"date": "02-19 10:17"
+	},
+	"a3a78bd23a0eeea1a6aa4da4b581aaa063e1e25c42bffee9015dbada9efaea30": {
+		"title": "성남 무도장 관련 2명 추가 확진…누적 12명",
+		"link": "www.yna.co.kr/view/AKR20210219052000061?section=safe/news",
+		"date": "02-19 10:12"
+	},
+	"2bc905997857af66b574bf8663833ed27a1efb64ad7def9a4bf9bbcda14c6b5b": {
+		"title": "코이카, 과테말라 모자병원에 코로나19 방역품 지원",
+		"link": "www.yna.co.kr/view/AKR20210219051500371?section=safe/news",
+		"date": "02-19 10:11"
+	},
+	"1a8f0543e11a7cc7fd3d1c1ea2f04740859f2358419b3a9c8b93c99bf6e85fbd": {
+		"title": "경기 어제 189명 확진…성남 요양병원 관련 22명 추가",
+		"link": "www.yna.co.kr/view/AKR20210219050600061?section=safe/news",
+		"date": "02-19 10:08"
+	},
+	"54ead5f9728a1a9f8e0d1260cd32f6a9daa48b9cde39b315e2a087f6c75efb18": {
+		"title": "고양시, 24일까지 외국인 근로자 코로나19 검사 의무화",
+		"link": "www.yna.co.kr/view/AKR20210219047400060?section=safe/news",
+		"date": "02-19 10:07"
+	},
+	"46f1528c85332470be39db6e7376eef21c7a27157383d868ebaa53ddfe79830a": {
+		"title": "서울 영등포구, 코로나로 어려움 겪는 체납자 지원",
+		"link": "www.yna.co.kr/view/AKR20210219046500004?section=safe/news",
+		"date": "02-19 10:06"
+	},
+	"f2580d67c2040b0ad427758c1cd955407e131764583165e4e5b567eb7a7e91c0": {
+		"title": "부산 3명 추가 감염…설 연휴 이후 하루 평균 19명 발생",
+		"link": "www.yna.co.kr/view/AKR20210219029500051?section=safe/news",
+		"date": "02-19 10:00"
+	},
+	"cab470f51837383a6bbaaacf4f932a1f9cad47aa648d67bb15a7729d88aac408": {
+		"title": "중국 시노팜 백신 접종 필리핀 귀국노동자, 코로나19 확진",
+		"link": "www.yna.co.kr/view/AKR20210219046700084?section=safe/news",
+		"date": "02-19 09:54"
+	},
+	"6ef83bccd9554ac3e8be16074eef11f464a1d80cb793f69b6e3a1e3c33448867": {
+		"title": "중국 '백신외교' 가속하나…양제츠 중동·아프리카 순방",
+		"link": "www.yna.co.kr/view/AKR20210219044400083?section=safe/news",
+		"date": "02-19 09:51"
+	},
 	"66b54b675c4e8d48857f976f365ba1e38621e4614ecafa70b6797ecce50cab3d": {
 		"title": "평균 16년씩 미리 떠났다…81개국 코로나 사망자 분석결과",
 		"link": "www.yna.co.kr/view/AKR20210219040900085?section=safe/news",
@@ -398,105 +498,5 @@
 		"title": "인천서 충남 귀뚜라미보일러 공장 관련 4명 등 39명 확진(종합)",
 		"link": "www.yna.co.kr/view/AKR20210218071951065?section=safe/news",
 		"date": "02-18 17:15"
-	},
-	"576befc82108961bc9cabba018c9af94d923a2682ab9bc79153adb9a157a870e": {
-		"title": "네팔, 중국 시노팜백신 긴급사용 승인…AZ백신 이어 두번째",
-		"link": "www.yna.co.kr/view/AKR20210218153200077?section=safe/news",
-		"date": "02-18 17:11"
-	},
-	"35bbc29ebab04df00f1806bc01793e580a79805cd71973110716456ae6a7b75c": {
-		"title": "김포서 6명 코로나19 확진…4명 감염경로 불명",
-		"link": "www.yna.co.kr/view/AKR20210218151200065?section=safe/news",
-		"date": "02-18 17:02"
-	},
-	"8107cf5898f9ec70ada7049d6e5a70ee1790ec6560b5914d359bc9f4f20d117b": {
-		"title": "보은서 외국인근로자 1명 확진…직원 50명 전수검사",
-		"link": "www.yna.co.kr/view/AKR20210218150300064?section=safe/news",
-		"date": "02-18 17:01"
-	},
-	"f071beff2c78275d2ecd969225911b1b9ddab7391fc6ad1f412f67b65c9ecaee": {
-		"title": "홍콩, 시노백 백신 긴급사용 승인…\"26일부터 접종\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20210218109451074?section=safe/news",
-		"date": "02-18 17:01"
-	},
-	"e6963637e45f7537a1d4b6accfc4fe57a53d314dab43a2f220993e3aa6622f24": {
-		"title": "경기 고양서 교회 14명·물류센터 5명 확진…전수검사",
-		"link": "www.yna.co.kr/view/AKR20210218147500060?section=safe/news",
-		"date": "02-18 16:53"
-	},
-	"a9e60aaf42ba90c1dac994dda6d982e669bbd4d77c8e73288ec4023f66eb48c4": {
-		"title": "윤종원 행장 \"코로나 대출 연착륙 프로그램 운용할 계획\"",
-		"link": "www.yna.co.kr/view/AKR20210218145700002?section=safe/news",
-		"date": "02-18 16:44"
-	},
-	"64a0e570b4bbffa890443bfe49a59c6b7dba10b99f542f242eea5f1b721e60ce": {
-		"title": "최근 입국 주한미군 관련 14명 코로나 확진(종합)",
-		"link": "www.yna.co.kr/view/AKR20210218103951504?section=safe/news",
-		"date": "02-18 16:35"
-	},
-	"a8246e994281202b5f2855201625517dfbb4ae10b7622c1eef29e69132a3e142": {
-		"title": "미 당국, 뉴욕주 '코로나 사망자수 은폐 의혹' 예비조사 착수",
-		"link": "www.yna.co.kr/view/AKR20210218136100009?section=safe/news",
-		"date": "02-18 16:31"
-	},
-	"e8fcf8d34194d71ac5dbb48081de96b144f1de1aff99166c3314b35be73c76cf": {
-		"title": "코로나19 대구지역 발생 1년 돌아보는 국제심포지엄",
-		"link": "www.yna.co.kr/view/AKR20210218140000053?section=safe/news",
-		"date": "02-18 16:27"
-	},
-	"879ba4eb6063d55d9c9efd8f1c981b9980fdf9019dcceae9bf161f0dfb52df0f": {
-		"title": "국산 코로나 백신주사기 월 생산 1천만개→2천만개 확대",
-		"link": "www.yna.co.kr/view/AKR20210218063700030?section=safe/news",
-		"date": "02-18 16:26"
-	},
-	"0eaa3abf5d19424c64760b260ae12badd7d39bf8445c7fc7ab00ac7f1426f225": {
-		"title": "'코로나19 사각지대'…무방비 노출된 외국인 근로자들",
-		"link": "www.yna.co.kr/view/AKR20210218133600060?section=safe/news",
-		"date": "02-18 16:24"
-	},
-	"78d50a1aceba23513ffe9025a32e2aa670c5ed75f8141b1c5f6e1bc14095f4de": {
-		"title": "울산서 초등학교 급식종사자 5명 확진…학생·교직원 638명 검사",
-		"link": "www.yna.co.kr/view/AKR20210218140200057?section=safe/news",
-		"date": "02-18 16:23"
-	},
-	"a1b882c6b6e44405a358c76d8d972a23c5c98da627e86749be76e8baff0a683f": {
-		"title": "의료기관·요양시설 집단발병 확산…설 가족모임 감염도 잇따라(종합)",
-		"link": "www.yna.co.kr/view/AKR20210218115251530?section=safe/news",
-		"date": "02-18 16:11"
-	},
-	"bc49f7fc6909df4c1d7640acb03b6c546cede5fb754cc460c13e70d650dacccb": {
-		"title": "당국 \"외국보다 자연면역 낮아…거리두기 실천 한층 중요해져\"",
-		"link": "www.yna.co.kr/view/AKR20210218132400530?section=safe/news",
-		"date": "02-18 16:09"
-	},
-	"0777b9e155c6c5b36ddef26fe79425cc3a491db95a5c337453d99974f097999a": {
-		"title": "영국 학생들, 등교 수업시 주2회 가정에서 코로나 검사 의무화",
-		"link": "www.yna.co.kr/view/AKR20210218131400009?section=safe/news",
-		"date": "02-18 15:53"
-	},
-	"8c08a88b2b1e0c5f012f7e02476dfaad921bb32f19e3684422a693d3a618cfc1": {
-		"title": "\"미국 라틴계·흑인 접종률 훨씬 낮아…백신 인종차별\"",
-		"link": "www.yna.co.kr/view/AKR20210218130600009?section=safe/news",
-		"date": "02-18 15:52"
-	},
-	"8762d67b5958656fb871dd99bd71a3de3217063893693cb9c5fab418e5517bb5": {
-		"title": "진천 오리가공업체 관련 확진자 4명 추가…나흘새 19명 감염(종합)",
-		"link": "www.yna.co.kr/view/AKR20210218028051064?section=safe/news",
-		"date": "02-18 15:46"
-	},
-	"ce4bebcfba74b5372d24494adb89b9863bda09e5809d987dcb5515ee73a5a3e2": {
-		"title": "의료인 백신 강제접종 안한다…거부해도 요양시설 업무 배제안해",
-		"link": "www.yna.co.kr/view/AKR20210218128700530?section=safe/news",
-		"date": "02-18 15:43"
-	},
-	"e85ce30c01f5e55b86d3d2c1f10a8461228392b2d7b80cb7a9b7f2316e3b1138": {
-		"title": "마스크·거리두기의 힘…독감 등 호흡기감염병 대폭 줄어",
-		"link": "www.yna.co.kr/view/AKR20210218128000530?section=safe/news",
-		"date": "02-18 15:35"
-	},
-	"d991d01f57fede11947ce25a5415e4c1f6ae19685a6c20a3dfed269a062e7c20": {
-		"title": "설연휴 가족감염 이미 5건…부산-광주-경북 3건서만 22명 확진",
-		"link": "www.yna.co.kr/view/AKR20210218116400530?section=safe/news",
-		"date": "02-18 15:17"
 	}
 }
