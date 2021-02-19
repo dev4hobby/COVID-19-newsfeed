@@ -1,4 +1,119 @@
 {
+	"a1527f3ea3dd51d3d734deca5288a393dd413436ce72913e804468c2bc764636": {
+		"title": "미 시카고, 코로나19 연방정부 지원금 3천억원 유용 논란",
+		"link": "www.yna.co.kr/view/AKR20210219060500009?section=safe/news",
+		"date": "02-19 11:32"
+	},
+	"b97b2f1bae27c915c9b391532932744475416890cbe6e9ee1520f9fa0dc1ce1b": {
+		"title": "경남지역 1년간 코로나19 집단발병 종교시설 관련 최다",
+		"link": "www.yna.co.kr/view/AKR20210219068400052?section=safe/news",
+		"date": "02-19 11:32"
+	},
+	"24f81f8db8cbdf06540a4c50c54cabbf494d5ce06c524f3e159ccc0338ea622d": {
+		"title": "정부, 내주 감염 취약 사업장 1천곳 점검…수칙 위반시 과태료",
+		"link": "www.yna.co.kr/view/AKR20210219070700530?section=safe/news",
+		"date": "02-19 11:30"
+	},
+	"6451c933931a3d249878fe8d99a270837fdd8193e9b39c4f55d7b8c148531cc0": {
+		"title": "캐나다, 6월까지 1천450만명에 코로나19 백신 접종 계획",
+		"link": "www.yna.co.kr/view/AKR20210219066700009?section=safe/news",
+		"date": "02-19 11:29"
+	},
+	"ef64dbebd5fd78295789a1fff3a0c92721161780040e8fddc6e9e1b38deeb328": {
+		"title": "미국 대형 약국들 \"백신, 없어서 못 맞힌다\"…수요 빗발쳐",
+		"link": "www.yna.co.kr/view/AKR20210219069900091?section=safe/news",
+		"date": "02-19 11:27"
+	},
+	"275a7c10efb14bad66e8f6f25e4688be82a3620130a8827a4d4763e618ecc8ea": {
+		"title": "고열로 법사위 불출석한 이용구 코로나 검사서 '음성'",
+		"link": "www.yna.co.kr/view/AKR20210219069400004?section=safe/news",
+		"date": "02-19 11:21"
+	},
+	"41630ead35f59256ccd0f695243c1935569e5fda8feb1b808f606c912e0d1853": {
+		"title": "\"2030세대 94%, 백신 맞아도 마스크 계속 쓰겠다\"",
+		"link": "www.yna.co.kr/view/AKR20210219060300030?section=safe/news",
+		"date": "02-19 11:19"
+	},
+	"7d1e4f36193cfcb0a142320601c5215706b8f69a86193255a419d365e60bf69d": {
+		"title": "전남농협, 코로나19 극복 '의료진 감사 응원 캠페인'",
+		"link": "www.yna.co.kr/view/AKR20210219068200054?section=safe/news",
+		"date": "02-19 11:18"
+	},
+	"263fde8e04c858773dc0d75f491db6a0e2da6accdd4e3abf059371b96356a992": {
+		"title": "제주시 아라동 일가족 관련 연쇄 감염 이어져…3명 추가 확진",
+		"link": "www.yna.co.kr/view/AKR20210219068600056?section=safe/news",
+		"date": "02-19 11:17"
+	},
+	"323040f7ba6e64633b69c4b56c98090ef0189eba149de35c8f7d83797b0de73c": {
+		"title": "\"코로나백신 '접종 의향' 71%…'부작용 걱정'도 71%\"",
+		"link": "www.yna.co.kr/view/AKR20210219062600001?section=safe/news",
+		"date": "02-19 11:16"
+	},
+	"658193fa089c7449700386f6a0db0c3f7ba661693003f163a2e8c90fb4ae3a66": {
+		"title": "대구시 코로나19 생활치료센터 운영 종료…병상 가동률 낮아",
+		"link": "www.yna.co.kr/view/AKR20210219067800053?section=safe/news",
+		"date": "02-19 11:16"
+	},
+	"b23e21abc72485538e0e9d995eebf649752d65306651cc04c0584a8b032c663c": {
+		"title": "보령서 휴가 해병대원·친구 등 6명 확진…방역수칙 위반 정황",
+		"link": "www.yna.co.kr/view/AKR20210219064900063?section=safe/news",
+		"date": "02-19 11:15"
+	},
+	"9e9e7020122cff000b22121d297cb21cf7d771bdacba76048fdf622c7c2372d9": {
+		"title": "[속보] 정부 \"이번 주말까지 현 거리두기 유지하며 3차 유행 상황 주시\"",
+		"link": "www.yna.co.kr/view/AKR20210219067600530?section=safe/news",
+		"date": "02-19 11:13"
+	},
+	"7f9987de73abe396e25b50421176b275c3b8db50105cd4d41014c8852a4c511f": {
+		"title": "\"홍콩인들 '코로나 추적앱' 설치 위해 대포폰 구매\"",
+		"link": "www.yna.co.kr/view/AKR20210219066400074?section=safe/news",
+		"date": "02-19 11:12"
+	},
+	"ea7df825e192d1a0416290918635d0142b6b0b86cd554fd9199b3f602ee03b32": {
+		"title": "재활병원·어린이집 관련 등 대구 11명 추가 확진(종합)",
+		"link": "www.yna.co.kr/view/AKR20210219030751053?section=safe/news",
+		"date": "02-19 11:11"
+	},
+	"ae36c8de3305ae0ba23fb32d4e2da45b36bcb0f879f0ee7d5b801d16e56e8c36": {
+		"title": "'코로나 사망자 은폐의혹' 쿠오모, 이번엔 주의원 협박 논란",
+		"link": "www.yna.co.kr/view/AKR20210219066200009?section=safe/news",
+		"date": "02-19 11:09"
+	},
+	"4fc846cd9d0f3bab58930201ba62acd22a7879ec42636d7f50f0161581bbc643": {
+		"title": "청주서 8명 확진, 이틀새 20명…설 이후 'n차 감염' 급증",
+		"link": "www.yna.co.kr/view/AKR20210219060100064?section=safe/news",
+		"date": "02-19 11:05"
+	},
+	"74a8bb834cecd06ded5f080eac1e53279e8fe763688ada039c9ae559485a192f": {
+		"title": "[속보] 정부 \"코로나19 '3차 유행' 다시 확산할 위험 커지고 있어\"",
+		"link": "www.yna.co.kr/view/AKR20210219065400530?section=safe/news",
+		"date": "02-19 11:03"
+	},
+	"516b2f4f17e40a849f1539bbe246c6867e029b6ab13d8f065173be004bd0faf8": {
+		"title": "'초과근무만 1천750시간'…코로나19 막아낸 선별진료소 영웅들",
+		"link": "www.yna.co.kr/view/AKR20210219063200054?section=safe/news",
+		"date": "02-19 11:03"
+	},
+	"c429af64f33fed29e6cb92e73e75180fcd1ae773b3622c1f2208b0a9ab65da85": {
+		"title": "서울서 180명 신규 확진…병원·사우나 등 집단감염 확산(종합)",
+		"link": "www.yna.co.kr/view/AKR20210219043151004?section=safe/news",
+		"date": "02-19 11:02"
+	},
+	"f785e605bbb608565554498ce453b7c330c18eb262e6889d77429028367d811f": {
+		"title": "[속보] 정부, 내주 감염 취약 사업장 1천곳 점검…위반시 과태료 부과",
+		"link": "www.yna.co.kr/view/AKR20210219061900530?section=safe/news",
+		"date": "02-19 11:00"
+	},
+	"da0af0707527f21ac1be6900d875da5cd4e0fae9bc96aaa0690ee42d24792729": {
+		"title": "전북도민 3명 코로나19 확진…누적 1천108명",
+		"link": "www.yna.co.kr/view/AKR20210219063500055?section=safe/news",
+		"date": "02-19 10:59"
+	},
+	"1d8e811449e9e554117d8e301abdf9ef2478148c405bf25ba03abb69a70802ec": {
+		"title": "포천 육가공업체서 사흘간 직원·가족 11명 확진",
+		"link": "www.yna.co.kr/view/AKR20210219062500060?section=safe/news",
+		"date": "02-19 10:55"
+	},
 	"6d4a7fd0b97f71e48f5c26867212c01c88583346afc2d40b90c15a0bbbba8767": {
 		"title": "인천서 35명 양성판정…28명은 확진자 접촉 뒤 감염",
 		"link": "www.yna.co.kr/view/AKR20210219060400065?section=safe/news",
@@ -383,120 +498,5 @@
 		"title": "이탈리아도 65세 미만 성인에 아스트라제네카 백신 사용 권고",
 		"link": "www.yna.co.kr/view/AKR20210218174200109?section=safe/news",
 		"date": "02-18 19:49"
-	},
-	"b238decd8d2cb8396dd97637d9c47bd3275f2170498aac7df76ef1562d456616": {
-		"title": "거리두기 개편…\"사적모임 규제에 '소셜 버블' 도입도 검토\"(종합2보)",
-		"link": "www.yna.co.kr/view/AKR20210218070252530?section=safe/news",
-		"date": "02-18 19:18"
-	},
-	"81130733a71f59bf9514b3287c9e2687f5c0f7b34d478917f2ba1a61a1aca9d8": {
-		"title": "성남 요양병원 간병인·환자 14명 추가 확진…누적 34명",
-		"link": "www.yna.co.kr/view/AKR20210218171000061?section=safe/news",
-		"date": "02-18 19:09"
-	},
-	"77042eecdcedd270b24795a6860bed31f6470cf073bf1015eaae33aeaa1db1bd": {
-		"title": "베를린 도심 코로나19 숨은 감염자 2.2배 더 있었다",
-		"link": "www.yna.co.kr/view/AKR20210218170800082?section=safe/news",
-		"date": "02-18 19:08"
-	},
-	"9f55521601b6a81b12314c7f432f35e5419a318dc9e88970a96a336431a7ae59": {
-		"title": "아프리카 코로나19 누적사망 10만명 근접…2차파동 충격",
-		"link": "www.yna.co.kr/view/AKR20210218170500099?section=safe/news",
-		"date": "02-18 19:05"
-	},
-	"304e1c490483ee121f05c87eb97c7909e150d1e61a67ef13997762771e238eac": {
-		"title": "에어버스, 작년 1조4천700억원 손실…코로나 여파로 매출 29%↓",
-		"link": "www.yna.co.kr/view/AKR20210218170300081?section=safe/news",
-		"date": "02-18 19:00"
-	},
-	"e2ba73f2ec8e5e5b2d200da62d9f848efb478170d6c81afada5261af488032a0": {
-		"title": "산발적 연쇄확진에 귀뚜라미보일러 관련 누적 감염자 최소 149명(종합)",
-		"link": "www.yna.co.kr/view/AKR20210218101851063?section=safe/news",
-		"date": "02-18 18:51"
-	},
-	"390b05c0a5cc8a308e97783f9cdcab310ada9dbe1765a3803618ef15041f90d0": {
-		"title": "변이유입 막아라…영국, 미국·스페인 입국자도 호텔격리 검토",
-		"link": "www.yna.co.kr/view/AKR20210218167900085?section=safe/news",
-		"date": "02-18 18:40"
-	},
-	"45cbf9c7d6b920fe3259a65ee22698fbb69d1f85eca7142c5afb5f39dae51442": {
-		"title": "서울 오후 6시까지 156명 신규 확진…전날보다 5명 많아",
-		"link": "www.yna.co.kr/view/AKR20210218161400004?section=safe/news",
-		"date": "02-18 18:35"
-	},
-	"d0d5f2d06d4fb95a50cd26762cfb2f90fc173b561d7c868d767afb97d6657f82": {
-		"title": "충북 11명 확진, 이틀째 두자릿수…공장발 산발감염 지속",
-		"link": "www.yna.co.kr/view/AKR20210218166900064?section=safe/news",
-		"date": "02-18 18:31"
-	},
-	"81e61f064d4be5c4dbb2a0283c8715110080485d8519556c86513d1fbb09b968": {
-		"title": "이철우 경북지사 \"백신 신속 접종하고 민생 살리기에 주력\"",
-		"link": "www.yna.co.kr/view/AKR20210218166700053?section=safe/news",
-		"date": "02-18 18:29"
-	},
-	"0f483e4fefe62962ee6b71f48b602c67e68f418ce2ce8cd2fb6f1f4fe88a1a6a": {
-		"title": "코로나19에 휘청…에어프랑스-KLM, 작년 9조5천억원 순손실",
-		"link": "www.yna.co.kr/view/AKR20210218164800081?section=safe/news",
-		"date": "02-18 18:19"
-	},
-	"5ca580f7057ca1b7af8365f04c732e0a858ceafa728cf1563b0b0b5326c59b9b": {
-		"title": "러시아와 척진 옛소련 우크라 \"AZ 백신으로 코로나 접종 시작\"",
-		"link": "www.yna.co.kr/view/AKR20210218163600080?section=safe/news",
-		"date": "02-18 18:16"
-	},
-	"fc62281447dbfa27f1ecac96a74b79bc4167213b54413f124604dfc1888158aa": {
-		"title": "파우치 \"이스라엘 접종에서 백신의 유행 억제 가능성 확인\"",
-		"link": "www.yna.co.kr/view/AKR20210218163300079?section=safe/news",
-		"date": "02-18 18:15"
-	},
-	"94da0a067aec1e4aa30a93f4d13b44039c703a2c64459e2913d6ac2d44ac4b8b": {
-		"title": "격리해제 전 잇단 확진에 대전 행정복지센터 매개 25명째 감염",
-		"link": "www.yna.co.kr/view/AKR20210218161900063?section=safe/news",
-		"date": "02-18 18:05"
-	},
-	"049d599bfa0a2aa729eb18aec8c522d6ba24d7d6630bbd6190e9e21bc0450b8a": {
-		"title": "러시아 1회 접종 코로나19 백신 '스푸트니크 라이트' 3상 허가",
-		"link": "www.yna.co.kr/view/AKR20210218160500080?section=safe/news",
-		"date": "02-18 17:50"
-	},
-	"246d2807acefe478fa5119ef0ea0ea2c0ae2e743e260eb2cff2d77c3470ee73f": {
-		"title": "터키, 다음달부터 주말봉쇄 등 코로나19 규제 점진적 해제",
-		"link": "www.yna.co.kr/view/AKR20210218159600108?section=safe/news",
-		"date": "02-18 17:47"
-	},
-	"9b0a751537ccc55043ffa9cfd468666d1bb96da4d2fbc655643572cf4e58acf7": {
-		"title": "광주서 설 가족 모임 8명 확진…연쇄 감염에 근무지 폐쇄(종합)",
-		"link": "www.yna.co.kr/view/AKR20210218115751054?section=safe/news",
-		"date": "02-18 17:46"
-	},
-	"b1248a2fb466fa3921f4950b6c13ed58ba2e57a591bceae45c4968fed2b2cc4a": {
-		"title": "서울대병원 코로나19 확진 의사 접촉자 32명 검사 '음성'",
-		"link": "www.yna.co.kr/view/AKR20210218158900017?section=safe/news",
-		"date": "02-18 17:39"
-	},
-	"fe6b0693f130758cfc12956265342699924b55e0859edf78ea50cd01618a66bd": {
-		"title": "화이자 백신 접종센터외 의료기관서도 접종…고령층도 접종 가능",
-		"link": "www.yna.co.kr/view/AKR20210218143500530?section=safe/news",
-		"date": "02-18 17:38"
-	},
-	"a35d226117b1f788cd65a4250b18665ff55da2262f3a477774aa8f768f8c8bc2": {
-		"title": "대구시 코로나 영업제한업종 행복페이 수수료 전액 환급",
-		"link": "www.yna.co.kr/view/AKR20210218154200053?section=safe/news",
-		"date": "02-18 17:29"
-	},
-	"edc4aaeee7818550c2e5194d309d8d047859566c97dcf843c88a41e9db7458c0": {
-		"title": "코로나19 집단감염 순천향대 서울병원, 21일까지 외래진료 중단",
-		"link": "www.yna.co.kr/view/AKR20210218155200017?section=safe/news",
-		"date": "02-18 17:24"
-	},
-	"12979707ff9c0f38a3c579ef1c4f79f96eaf4be84305e445f2d08086544b5ebb": {
-		"title": "윤종원 기업은행장 \"코로나 대출 연착륙 프로그램 운용할 계획\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20210218145751002?section=safe/news",
-		"date": "02-18 17:20"
-	},
-	"007fd32a57aeea5a30f89d5fb00b5f41ec5588e3ff0082ff9d10d9c005c64072": {
-		"title": "인천서 충남 귀뚜라미보일러 공장 관련 4명 등 39명 확진(종합)",
-		"link": "www.yna.co.kr/view/AKR20210218071951065?section=safe/news",
-		"date": "02-18 17:15"
 	}
 }
