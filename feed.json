@@ -1,4 +1,24 @@
 {
+	"8f63ba1a8f72d9bb2a1f4e197227d02d566b90c3b10d7c90445d528f2c68809c": {
+		"title": "서울 오후 6시까지 114명 신규 확진…전날보다 13명 증가",
+		"link": "www.yna.co.kr/view/AKR20210220050300004?section=safe/news",
+		"date": "02-20 18:10"
+	},
+	"46e26be9172e34d8e0b5f2836a4d792be7be8f2277b51352c281c752b463fefe": {
+		"title": "변이 바이러스 감염자 20명 늘어 누적 119명…집단전파 2건 추가(종합2보)",
+		"link": "www.yna.co.kr/view/AKR20210220039552530?section=safe/news",
+		"date": "02-20 18:07"
+	},
+	"61730ac4612edd4adc97e534fc30a6b6def254080e63f1949beb1ef0a4be1c6f": {
+		"title": "인천 코로나19 확진 21명 증가…5명 감염 경로 조사 중(종합)",
+		"link": "www.yna.co.kr/view/AKR20210220029651065?section=safe/news",
+		"date": "02-20 17:56"
+	},
+	"ebfc7d1d4f1a6c4dcbc56bd80ec45e7849f9270a8e93efc97b18593757dd337c": {
+		"title": "청주·영동서 '감염경로 불명' 2명 확진…충북 누적 1천708명",
+		"link": "www.yna.co.kr/view/AKR20210220046400064?section=safe/news",
+		"date": "02-20 17:51"
+	},
 	"ea7b00b60ea129902141fd8069488f76914254c54322832306b94bdff66a31a7": {
 		"title": "남양주 플라스틱공장 관련 19명 추가 확진…누적 151명",
 		"link": "www.yna.co.kr/view/AKR20210220048500060?section=safe/news",
@@ -478,25 +498,5 @@
 		"title": "성남시 무도장 관련 16명 추가 확진…누적 26명(종합)",
 		"link": "www.yna.co.kr/view/AKR20210219052051061?section=safe/news",
 		"date": "02-19 17:45"
-	},
-	"4b11dee9256131cd09ad2adeb0d9fe52f8e39fc7ac4b80c65cc53589101fd1f3": {
-		"title": "\"아프리카 20개국에 내주부터 코로나 백신 전달\"",
-		"link": "www.yna.co.kr/view/AKR20210219142700099?section=safe/news",
-		"date": "02-19 17:39"
-	},
-	"34d34d0a83187acc24697469abaac1caf0109f9327a77ac73ec2ea23e9e5a3ac": {
-		"title": "남양주 플라스틱공장 관련 9명 추가 확진…누적 132명(종합)",
-		"link": "www.yna.co.kr/view/AKR20210219034451060?section=safe/news",
-		"date": "02-19 17:36"
-	},
-	"2a709e709b4772193a6f8a48c55d50b7571710fcd81088504c1b42acc664be96": {
-		"title": "보령서 휴가 해병대원·친구 등 8명 확진…방역수칙 위반 정황(종합)",
-		"link": "www.yna.co.kr/view/AKR20210219064951063?section=safe/news",
-		"date": "02-19 17:34"
-	},
-	"0e161d25ece85fa91cadb55a02de14762f1525775acaed47590db6fa231247bd": {
-		"title": "경남 코로나19 10명 추가 확진…지역감염 중심 확산(종합)",
-		"link": "www.yna.co.kr/view/AKR20210219088351052?section=safe/news",
-		"date": "02-19 17:30"
 	}
 }
