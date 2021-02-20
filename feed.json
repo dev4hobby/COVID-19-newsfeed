@@ -1,4 +1,64 @@
 {
+	"f7768e734bd4c33ad34d89d2390a79be280b43494cef3bedd2e7ac286559e853": {
+		"title": "[속보] 당국 \"본인 차례에 접종 거부하면 11월 이후 다시 차례 돌아와\"",
+		"link": "www.yna.co.kr/view/AKR20210220039300530?section=safe/news",
+		"date": "02-20 14:33"
+	},
+	"1fafca794f1e3ec2cb6b45d0cbe2a65681c6f784242f1c983d08806425978cf6": {
+		"title": "일본 코로나 백신 부작용 사망 일시 보상금 4억6천만원",
+		"link": "www.yna.co.kr/view/AKR20210220037700073?section=safe/news",
+		"date": "02-20 14:32"
+	},
+	"9b9896bd9bac045b9dde3563cb0997ff51d50ef58fdefaacd6e28ad92ab543ac": {
+		"title": "기장군, 자체 예산으로 코로나19 임시선별검사소 연장 운영",
+		"link": "www.yna.co.kr/view/AKR20210220038700051?section=safe/news",
+		"date": "02-20 14:31"
+	},
+	"659b25981b55b9a56824619fe7bac860ba8013d2d74aac35cfb2d7527d3d3bbb": {
+		"title": "요양병원·시설 입소-종사자 93.8%, AZ백신 접종 동의",
+		"link": "www.yna.co.kr/view/AKR20210220039100530?section=safe/news",
+		"date": "02-20 14:30"
+	},
+	"98899c6f76a8c24f4e6152a76f7bba74ecfebd9632e9ecb21aefbe630e5277f8": {
+		"title": "캄보디아서 코로나19 집단감염…\"격리시설 이탈 중국인 등\"",
+		"link": "www.yna.co.kr/view/AKR20210220038100084?section=safe/news",
+		"date": "02-20 14:30"
+	},
+	"a7648a2b41a4c85dd31ac4d907ffd531e49693145f7ef9e451b76409fc6d96a4": {
+		"title": "[속보] AZ백신 25일부터 배송…요양병원은 5일 이내 자체접종 완료",
+		"link": "www.yna.co.kr/view/AKR20210220039200530?section=safe/news",
+		"date": "02-20 14:27"
+	},
+	"3dfbe520c99d4260ddc7960c502347d6b415c0778e526cd0926a6eb27cd88378": {
+		"title": "[속보] 요양병원 코로나19 접종 동의율 환자 90.0%, 종사자 93.9%",
+		"link": "www.yna.co.kr/view/AKR20210220039000530?section=safe/news",
+		"date": "02-20 14:25"
+	},
+	"14aed73c998342380e328471c9b98fc59c7658d5b845aeb35ea23f1c0fdf4ab8": {
+		"title": "부산 신규 확진 11명…병원·가족 간 감염 이어져",
+		"link": "www.yna.co.kr/view/AKR20210220038000051?section=safe/news",
+		"date": "02-20 14:24"
+	},
+	"b73254ed32fea043f39c15907d4e0be8b4359b14fa3fcf6149d891fc2a0a571d": {
+		"title": "[속보] 요양병원·시설 입소-종사자 93.8%, 코로나19 백신 접종 동의",
+		"link": "www.yna.co.kr/view/AKR20210220038600530?section=safe/news",
+		"date": "02-20 14:21"
+	},
+	"036c833b49d6e5facde5d0689324d9265d2667f40ba348a0de8e4e3828a1189f": {
+		"title": "전남 무안 신협발 n차 감염 광주로 전파…1명 추가 확진",
+		"link": "www.yna.co.kr/view/AKR20210220037900054?section=safe/news",
+		"date": "02-20 14:18"
+	},
+	"4e72583f52a58d531acb5bd55e3dd3770a4cce522bff7c00b9f68dbfcd1ab09f": {
+		"title": "[속보] 해외유입 변이 바이러스 감염자 20명 추가 확인…누적 119명",
+		"link": "www.yna.co.kr/view/AKR20210220038400530?section=safe/news",
+		"date": "02-20 14:16"
+	},
+	"2c31fa6c6a5e84e3ee5a1d135973efbdde7c21b277ec0bb2af5fe5ddc6563719": {
+		"title": "[속보] 경기 부천시 영생교-보습학원 관련 누적 확진자 161명으로 늘어",
+		"link": "www.yna.co.kr/view/AKR20210220038200530?section=safe/news",
+		"date": "02-20 14:15"
+	},
 	"293e7e05e472f545e641e02749d69f65510bd9d9506b1d2fb01d497796b01f3a": {
 		"title": "[2보] 코로나19 어제 448명 신규확진…나흘만에 400명대로 내려와",
 		"link": "www.yna.co.kr/view/AKR20210220022600530?section=safe/news",
@@ -438,65 +498,5 @@
 		"title": "부천 영생교·학원 관련 4명 등 10명 코로나19 확진",
 		"link": "www.yna.co.kr/view/AKR20210219120000065?section=safe/news",
 		"date": "02-19 15:54"
-	},
-	"38b51e8779f007ce8d1d8ae730f8fa30cb0abd247e6da5014466de204925da29": {
-		"title": "인천 대학들, 코로나19 장기화로 올해도 '온라인 졸업식'",
-		"link": "www.yna.co.kr/view/AKR20210219118100065?section=safe/news",
-		"date": "02-19 15:53"
-	},
-	"ac3eb58b5476d31f78d1bdf24bf83cadb1d3ad4f7970e559ae1c7607fce97f46": {
-		"title": "5인 이상 식사결제 다수…금산군청 공무원들 방역수칙 위반 논란",
-		"link": "www.yna.co.kr/view/AKR20210219113700063?section=safe/news",
-		"date": "02-19 15:47"
-	},
-	"a0fe5e025b308cfaf7bdfbe95255d4c68599e04cfd6c00da0af2ae1467357513": {
-		"title": "역학조사 거짓말 확진자들 줄줄이 수사·재판…억대 청구소송도",
-		"link": "www.yna.co.kr/view/AKR20210219117500054?section=safe/news",
-		"date": "02-19 15:46"
-	},
-	"134a4991d0645984bf07ed6a49e8d344082c1fe4a02158270a81c52f58304a94": {
-		"title": "특전사 호위 받으며 도착한 백신, 철통경계 속 보관 장소로",
-		"link": "www.yna.co.kr/view/AKR20210219116000054?section=safe/news",
-		"date": "02-19 15:43"
-	},
-	"6546d5571d66f73ecb15f8ec1794401889df318292c2fff156134a001f129b17": {
-		"title": "野 \"아스트라 물백신에 국민 상처…1분기 접종계획 어긋나\"",
-		"link": "www.yna.co.kr/view/AKR20210219075700001?section=safe/news",
-		"date": "02-19 15:36"
-	},
-	"5a14b0d33acc99a1cbecc7f8a6ba9f1f0ff247cec9c57ebb5b2402e8cf855207": {
-		"title": "이스라엘 \"화이자 백신 1회만 맞아도 효과 85% 달해\"",
-		"link": "www.yna.co.kr/view/AKR20210219111300085?section=safe/news",
-		"date": "02-19 15:26"
-	},
-	"1dc5da6165a757a601e4c6e438d780b9b339e2b86e6f6bc689b4a2c017b5b74a": {
-		"title": "아프리카 코로나19 사망자 10만 명 넘어…변이 공포감 확산",
-		"link": "www.yna.co.kr/view/AKR20210219110300009?section=safe/news",
-		"date": "02-19 15:23"
-	},
-	"c9f3d038d66f5604caee8dd541e31c6fac72ab685d9545c745af0bcee44d1c37": {
-		"title": "대형병원·사업장·가족모임서 전파 지속…23%는 감염경로 몰라",
-		"link": "www.yna.co.kr/view/AKR20210219105000530?section=safe/news",
-		"date": "02-19 15:06"
-	},
-	"1b767cb5dfde6559a84451374cedc32bf13795e0fc721922ce505b9d413aeb06": {
-		"title": "'4명 확진' 삼성전자 광주3공장 검사 확대…가동재개 미뤄질 듯",
-		"link": "www.yna.co.kr/view/AKR20210219105400054?section=safe/news",
-		"date": "02-19 15:01"
-	},
-	"6e28d87a7ce04b177c7ba42c50b036168f821a88f56796b3edf4d35b4cb24123": {
-		"title": "군사작전 방불케한 백신수송…차량째 수송기 실려 제주도까지",
-		"link": "www.yna.co.kr/view/AKR20210219096500504?section=safe/news",
-		"date": "02-19 14:49"
-	},
-	"7811b3e38aff2c37ac36e13b6ceba3f653a05c935911bb37f2a587e71a4176f2": {
-		"title": "[2보] 문대통령 \"코로나 벗어날 상황되면 국민 위로지원금 검토\"",
-		"link": "www.yna.co.kr/view/AKR20210219097500001?section=safe/news",
-		"date": "02-19 14:32"
-	},
-	"f2cd57c437f116dd2c291ed89340ef6e289dcdda2ceb1bd94288a2474dd336ea": {
-		"title": "[1보] 문대통령 \"코로나 벗어날 상황되면 국민 위로지원금 검토\"",
-		"link": "www.yna.co.kr/view/AKR20210219096300001?section=safe/news",
-		"date": "02-19 14:31"
 	}
 }
