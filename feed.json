@@ -1,4 +1,94 @@
 {
+	"79bd09bad1a2c240e603c55fc8bc194c15a19ab23e51b7b2a307b38a1eebb6fc": {
+		"title": "MLB 스프링캠프 코로나 검사서 총 20명 확진…확진률 0.1%",
+		"link": "www.yna.co.kr/view/AKR20210227025300007?section=safe/news",
+		"date": "02-27 10:00"
+	},
+	"032c0068090a1acfb02d0b74b82e9dc440b6cf7bb484dbeb2341e7958a236c6e": {
+		"title": "신규확진 415명, 이틀째 400명대…AZ 이어 화이자 백신도 접종(종합)",
+		"link": "www.yna.co.kr/view/AKR20210227021751530?section=safe/news",
+		"date": "02-27 09:59"
+	},
+	"043f13395d4ce7c58cc718bfb7a40d43e86fcf599d473f6d4c40d4439a0bb41f": {
+		"title": "수도권 임시 선별검사소서 82명 확진…수도권 지역발생의 25.4%",
+		"link": "www.yna.co.kr/view/AKR20210227025600530?section=safe/news",
+		"date": "02-27 09:59"
+	},
+	"0851b42bb513affd19cac0753f96303ca13a0f92b4c71535cea8a16c94c7c537": {
+		"title": "서울 코로나 백신 첫날 1천922명 접종…예정인원의 90%",
+		"link": "www.yna.co.kr/view/AKR20210227025500004?section=safe/news",
+		"date": "02-27 09:58"
+	},
+	"df2287e14d6217ed15154669b4815c533cebd4efa9d6050610effeb360e1f26d": {
+		"title": "자가격리 기간 9차례 외출한 20대 벌금 200만원",
+		"link": "www.yna.co.kr/view/AKR20210226117300053?section=safe/news",
+		"date": "02-27 09:48"
+	},
+	"4234f67d367285c795e37bc66fe142fb9b14b03c13e1c7d6fcb100525e82d840": {
+		"title": "코로나19 백신 첫날 1만8천489명 접종…경기>광주>서울 순",
+		"link": "www.yna.co.kr/view/AKR20210227025000530?section=safe/news",
+		"date": "02-27 09:43"
+	},
+	"d005fd7a946bce84ba994335ef3b4b9084ad92872b3a906b4cb2aabd0d56d1b5": {
+		"title": "브라질 코로나 상황 \"최악\"…하루 사망 1천300여명",
+		"link": "www.yna.co.kr/view/AKR20210227024600094?section=safe/news",
+		"date": "02-27 09:43"
+	},
+	"21d51f7a5c3c52f4ecf5df45b280de7a62db4a4e1487093b41bc5523d62729b5": {
+		"title": "[3보] 신규확진 415명, 이틀째 400명대…AZ 이어 화이자 백신도 접종",
+		"link": "www.yna.co.kr/view/AKR20210227021700530?section=safe/news",
+		"date": "02-27 09:40"
+	},
+	"3a332844a70c8072ccb32c3ccdc9d3b815263d5dd1a4a13639961b19e1ee3462": {
+		"title": "[속보] 경기 169명-서울 131명-인천 27명-전북 20명-광주 12명 등 확진",
+		"link": "www.yna.co.kr/view/AKR20210227022200530?section=safe/news",
+		"date": "02-27 09:32"
+	},
+	"e8dd94b28bd6df27a3e1a5a23cf5e8f138c9019773fecca04e463ea6f3ac998e": {
+		"title": "[2보] 코로나19 어제 415명 신규확진…이틀 연속 400명대",
+		"link": "www.yna.co.kr/view/AKR20210227021600530?section=safe/news",
+		"date": "02-27 09:31"
+	},
+	"15a4c1e1dbd18cb71e1a59a8c33e9575724d26b04f34f343aa6ed57ace8c76d2": {
+		"title": "[속보] 코로나19로 어제 10명 사망…누적 1천595명",
+		"link": "www.yna.co.kr/view/AKR20210227021800530?section=safe/news",
+		"date": "02-27 09:30"
+	},
+	"e7b75fb15288d9735f8ce0735e0699129bebc2ddd910978fa9ac30d079a36009": {
+		"title": "[1보] 코로나19 어제 415명 신규확진…이틀 연속 400명대",
+		"link": "www.yna.co.kr/view/AKR20210227021500530?section=safe/news",
+		"date": "02-27 09:30"
+	},
+	"d7c16cc1e7ca2cb108e34a5b7dd83c2f96b21a9c38e2298712a402f7f0fcff64": {
+		"title": "바이든 \"코로나, 긴장 풀 때 아니다…변이로 감염 늘 수도\"",
+		"link": "www.yna.co.kr/view/AKR20210227024200071?section=safe/news",
+		"date": "02-27 09:26"
+	},
+	"b8832fdacf3ab76d376aa6476bf7e5f45836a61efe83680c2c33347818c741fe": {
+		"title": "경기도 \"어제 3천523명 AZ 백신 접종…1분기 접종인원의 4.8%\"",
+		"link": "www.yna.co.kr/view/AKR20210227024300061?section=safe/news",
+		"date": "02-27 09:24"
+	},
+	"88b1f3b021ea6e8e85d3cf4c5aabfc22c6c3df47ca55afca94c58220c1bab051": {
+		"title": "울산서 장례식장 관련 연쇄 감염 2명 추가…격리 중 확진",
+		"link": "www.yna.co.kr/view/AKR20210227023700057?section=safe/news",
+		"date": "02-27 09:16"
+	},
+	"e0b449b01c6d434ec7a701eaa20b8eab326a1d97ecc94b77cdd4a27d1ab837c5": {
+		"title": "화이자 백신도 접종 시작…1호 접종자는 코로나19 병동 미화원",
+		"link": "www.yna.co.kr/view/AKR20210227021300530?section=safe/news",
+		"date": "02-27 09:15"
+	},
+	"6ce4b13b28568e08ac9074561ec754793a561dcde0b22b578c37be25db373727": {
+		"title": "[속보] 화이자 백신도 접종 시작…1호 접종자는 코로나19 병동 미화원",
+		"link": "www.yna.co.kr/view/AKR20210227023200530?section=safe/news",
+		"date": "02-27 09:04"
+	},
+	"504e04d0d1e1b53207287b78cb8454f6c115ccc73fc24ed8afdbd4cddcf3607b": {
+		"title": "[특파원 시선] 코로나19 검사전략…한국의 성공, 독일의 패배?",
+		"link": "www.yna.co.kr/view/AKR20210227005100082?section=safe/news",
+		"date": "02-27 09:00"
+	},
 	"cf3419eba37f12254ef919c93582d98419f2befc942626b14cf0a37fcb14c3db": {
 		"title": "중대본 \"어제 1만8천489명 AZ백신 접종…오늘도 400명대 확진\"",
 		"link": "www.yna.co.kr/view/AKR20210227020400530?section=safe/news",
@@ -408,95 +498,5 @@
 		"title": "자가격리 불만 40대 보건소에 인화물질 뿌리며 난동(종합)",
 		"link": "www.yna.co.kr/view/AKR20210226126551053?section=safe/news",
 		"date": "02-26 16:28"
-	},
-	"fa953996ccd2dbb2099ce1962a5b61c0f140b6796c9ddcfc9f84440762fc17eb": {
-		"title": "\"BTS는 코로나\" 독일 라디오 진행자 막말…방송사 사과",
-		"link": "www.yna.co.kr/view/AKR20210226131800009?section=safe/news",
-		"date": "02-26 16:19"
-	},
-	"5255b1e26ef7b04d07078c542fbd3dfb7d0cac85bcc6d2a4f46af112a6414076": {
-		"title": "자가격리 불만 40대 보건소에 인화물질 뿌리며 난동",
-		"link": "www.yna.co.kr/view/AKR20210226126500053?section=safe/news",
-		"date": "02-26 15:55"
-	},
-	"a40458d134305e5e340eec3d5acaef94be1b4e3403be7414ce340599974e11f8": {
-		"title": "[백신접종] 경기 2천300명 첫날 접종…\"불안감보다 기대감으로\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20210226067651061?section=safe/news",
-		"date": "02-26 16:08"
-	},
-	"f3aee602840f3260c6560c0f9db20d2e0efd00d6abe69d266871ff00bdfa82f3": {
-		"title": "전주시, '코로나 확진자 집단 발생' 피트니스센터에 과태료 처분",
-		"link": "www.yna.co.kr/view/AKR20210226126400055?section=safe/news",
-		"date": "02-26 15:57"
-	},
-	"eade5aee065dfe481c6fc9d23314293ec69c280055283ccc89031a3f9025f845": {
-		"title": "[백신접종] 화이자 백신 국내 첫 수송까지…드라이아이스 430㎏ 투입",
-		"link": "www.yna.co.kr/view/AKR20210226107300003?section=safe/news",
-		"date": "02-26 15:19"
-	},
-	"288ec00948b90f26700251c31765fe9ea15379ffead11be4274aad0a8207a7bd": {
-		"title": "원광대, 기숙사 입소생 2천800명 코로나19 검사",
-		"link": "www.yna.co.kr/view/AKR20210226113500055?section=safe/news",
-		"date": "02-26 15:11"
-	},
-	"e55791da48a66946d7050bd79e9ebd63169699b607decd6f0a69f8a8d399d9ea": {
-		"title": "미 코로나 핫스폿 요양원…백신 접종 후 신규확진 80% '뚝'",
-		"link": "www.yna.co.kr/view/AKR20210226115400009?section=safe/news",
-		"date": "02-26 15:08"
-	},
-	"b2ffc26b92263fa77623d7bb273417d8f9e1a2397010efd614f53dccfde28815": {
-		"title": "[백신접종] \"마스크 벗는 날 빨리 왔으면\"…제주 백신 접종 첫날 순조(종합2보)",
-		"link": "www.yna.co.kr/view/AKR20210226059952056?section=safe/news",
-		"date": "02-26 15:04"
-	},
-	"391e4f1b1ff53410cb847079fb520f541836eaaf185e20658882620d487e3db2": {
-		"title": "전교조 \"교직원 코로나19 백신 접종 앞당겨야\"",
-		"link": "www.yna.co.kr/view/AKR20210226115200530?section=safe/news",
-		"date": "02-26 15:04"
-	},
-	"7fb86abb76838403566631db057612f73fada72984eaee51fe1b2a75787f3fd1": {
-		"title": "평택시청 출입기자 1명 확진…접촉한 공무원들 진단검사",
-		"link": "www.yna.co.kr/view/AKR20210226111000061?section=safe/news",
-		"date": "02-26 14:57"
-	},
-	"8eedbe290ecdfa8bc5c7b962cb539c49361dff759f5b90b9620aa5d84a873d45": {
-		"title": "식약처, 태반주사 '라이넥주' 코로나19 치료제 임상 계획 승인",
-		"link": "www.yna.co.kr/view/AKR20210226110600017?section=safe/news",
-		"date": "02-26 14:52"
-	},
-	"704f1a66d9cb0dc63090a1b8f6abb802c389f891b5d4c1f221005d1dab7ee09e": {
-		"title": "코로나19 산발 감염 지속…가족 모임-직장 등 감염 불씨 잇따라",
-		"link": "www.yna.co.kr/view/AKR20210226108100530?section=safe/news",
-		"date": "02-26 14:51"
-	},
-	"1bb7bc379334d48a9596c0770a8ede390201d6b6df2e682ea7d3d804153d037a": {
-		"title": "하남경찰서 경찰관 2명 확진…전 직원 진단검사",
-		"link": "www.yna.co.kr/view/AKR20210226109400061?section=safe/news",
-		"date": "02-26 14:48"
-	},
-	"2173dd4972bf33507e51fa90f3bba2fa6f554537f9458c437629fd14dbdf28c3": {
-		"title": "[백신접종] \"코로나에 반격 시작됐다\" 안산시 첫 접종현장",
-		"link": "www.yna.co.kr/view/AKR20210226103400061?section=safe/news",
-		"date": "02-26 14:42"
-	},
-	"662e5ea9afa73fc1f83ff3c5992505af37a7c95eb7a64f9694106a1e96b393bd": {
-		"title": "첫 백신접종 순조롭게 진행…전국 요양병원 등서 동시다발 접종(종합)",
-		"link": "www.yna.co.kr/view/AKR20210226042351530?section=safe/news",
-		"date": "02-26 14:42"
-	},
-	"51d99cf089fdc4b61a71c636edf8e5d20ed82c7122fd81078f6c0ab5509074f5": {
-		"title": "광주시 \"방역수칙 위반 업소 집합금지·지원대상 제외\"",
-		"link": "www.yna.co.kr/view/AKR20210226107800054?section=safe/news",
-		"date": "02-26 14:41"
-	},
-	"495d77c2e6339f9f70c5ef5ddcb7ff333e8959676f2034e2db92c4bd56b47174": {
-		"title": "[연합시론] 국내 첫 백신 접종·거리두기 연장, 시너지 효과 내길",
-		"link": "www.yna.co.kr/view/AKR20210226106400022?section=safe/news",
-		"date": "02-26 14:37"
-	},
-	"8349b57c932700d60c33536b55f2ecb07348be787acb16fdd33c1da8feea2aaa": {
-		"title": "[백신접종] 충북 첫날 접종자 52% 몰린 옥천군, 연휴 비상근무",
-		"link": "www.yna.co.kr/view/AKR20210226095600064?section=safe/news",
-		"date": "02-26 14:29"
 	}
 }
