@@ -1,4 +1,39 @@
 {
+	"4e49dc6fecbf21807a00695c73e6081f7297aa0ab475f53af6f30b40f678a6fd": {
+		"title": "스위스, 6월에 코로나19 제한법 타당성 국민투표",
+		"link": "www.yna.co.kr/view/AKR20210304163500088?section=safe/news",
+		"date": "03-04 18:22"
+	},
+	"e3e1252d484512e5de6057afe7b18745b300700f9b388cbb1d7cb7069cc32018": {
+		"title": "\"남아공 코로나19 변이 바이러스, 다른 변이에 면역 '순기능'도\"",
+		"link": "www.yna.co.kr/view/AKR20210304163300099?section=safe/news",
+		"date": "03-04 18:19"
+	},
+	"0f1becd02c0986782c01a7d677d4454a8e0ba74ee0669bf78454e0773f1cbc0e": {
+		"title": "오후 6시까지 서울 101명 신규확진…전날보다 6명↑",
+		"link": "www.yna.co.kr/view/AKR20210304163700004?section=safe/news",
+		"date": "03-04 18:18"
+	},
+	"c2cd73958ef95c48ffa0b63026479dc2b4c7c9c23e094913ca8ad9c014829cc2": {
+		"title": "'코로나 치료제' 렉키로나주 건보혜택 받을까…적정성 평가 착수",
+		"link": "www.yna.co.kr/view/AKR20210304164300530?section=safe/news",
+		"date": "03-04 18:16"
+	},
+	"26f3d3dc19871a373612518ae41491ba7dfdbfc32f5b6c11069ad669412f3298": {
+		"title": "충북 직장·가정 내 코로나19 전파 잇따라…15명 추가 확진",
+		"link": "www.yna.co.kr/view/AKR20210304162600064?section=safe/news",
+		"date": "03-04 18:08"
+	},
+	"fe043511f56ff52466c124ac0dbe097f9bffd7fb6c3c7bf11a5c8d7c55c54153": {
+		"title": "충북 요양병원 53곳서 4천978명 백신접종 마쳐…대상자 80.1%",
+		"link": "www.yna.co.kr/view/AKR20210304162200064?section=safe/news",
+		"date": "03-04 18:08"
+	},
+	"08c2209aaf5b286a7365085ac42764d94184bb4465dd02081462a8615614a09d": {
+		"title": "유럽의약품청, 오는 11일 J&J 백신 승인 권고 여부 결정",
+		"link": "www.yna.co.kr/view/AKR20210304162000098?section=safe/news",
+		"date": "03-04 18:07"
+	},
 	"4175cdd4a922a8b98798bff29a39c9b7b4c97776d624d1ffea50e81f9e51338a": {
 		"title": "접종률 50% 넘긴 이스라엘 최근 사망자 78%는 백신 미접종자",
 		"link": "www.yna.co.kr/view/AKR20210304161300079?section=safe/news",
@@ -463,40 +498,5 @@
 		"title": "\"아스트라제네카 백신, 고령층 중증 예방 효과 80%\"(종합)",
 		"link": "www.yna.co.kr/view/AKR20210304033651009?section=safe/news",
 		"date": "03-04 10:06"
-	},
-	"525a64dff6e942bb3f03f9ea52ee7f514dc99f1230e1cbc6cb1c586a6a5dfea6": {
-		"title": "MLB 애리조나 로카스트로, 코로나 양성…한 달 사이 3명 확진",
-		"link": "www.yna.co.kr/view/AKR20210304057400007?section=safe/news",
-		"date": "03-04 10:00"
-	},
-	"61e66ca8c33aafd4277dc87dd68771d4863c5abcbefa96c6444cefb4f8eb976a": {
-		"title": "부산 감염원인 불명 2명 추가 확진…자가격리 이탈 1명 적발",
-		"link": "www.yna.co.kr/view/AKR20210304035400051?section=safe/news",
-		"date": "03-04 10:00"
-	},
-	"6afa1da3c6c4b175633903b87ed97ba6b1bce571303da4e67fce24bfcece55b6": {
-		"title": "코로나19 백신 어제 6만5천446명 접종…6일간 누적 15만4천421명",
-		"link": "www.yna.co.kr/view/AKR20210304055100530?section=safe/news",
-		"date": "03-04 09:57"
-	},
-	"4179dba1c1ea056f865c47cb709166463280dbcbdd8ca9ff053f95d513b68221": {
-		"title": "광주 광산구 코로나19 예방접종 지역협의체 출범",
-		"link": "www.yna.co.kr/view/AKR20210304052500054?section=safe/news",
-		"date": "03-04 09:50"
-	},
-	"4ee2c903ca87774e145bfb28dfa78520ac04162c550c2f7113e9664e4875abac": {
-		"title": "이천 스티로폼공장서 외국인 근로자 10명 등 12명 확진",
-		"link": "www.yna.co.kr/view/AKR20210304052600061?section=safe/news",
-		"date": "03-04 09:50"
-	},
-	"60dee3dd74e64c33b6c0454b765a5469c824ce71274ef5b574f275628b0c96ff": {
-		"title": "'3월 전통' 되찾은 중국 양회…대표들 코로나 백신 맞고 참석",
-		"link": "www.yna.co.kr/view/AKR20210303144300083?section=safe/news",
-		"date": "03-04 09:49"
-	},
-	"a08e5cc99fbb225d2c79dc1e16ca7086baf3f4a3cb9df0e3c056304bf91f9eb3": {
-		"title": "\"지난해 국내 가전시장, 코로나19 '집콕' 속에 14％ 성장\"",
-		"link": "www.yna.co.kr/view/AKR20210304049400003?section=safe/news",
-		"date": "03-04 09:49"
 	}
 }
