@@ -1,4 +1,34 @@
 {
+	"a422ee28a3493112796940d7827345ba45e874d3bd7fd075af6b325303aedc1e": {
+		"title": "광주 보험사 콜센터 관련 자가격리 해제 전 검사서 29명 확진",
+		"link": "www.yna.co.kr/view/AKR20210308094000054?section=safe/news",
+		"date": "03-08 14:25"
+	},
+	"3ccf3eeebbe4db45e7a9eb7cafe92b462005de2fcd1ea37f95cc8fd02e7e52b9": {
+		"title": "[속보] 당국 \"접종후 사망신고 8명 사례 인과성 없는 것으로 잠정 결론\"",
+		"link": "www.yna.co.kr/view/AKR20210308095200530?section=safe/news",
+		"date": "03-08 14:23"
+	},
+	"f98d60987a702e16b3fa9a53307fbbd2d59261cdbb0d21689e04e6615ab13747": {
+		"title": "[속보] 변이 바이러스 감염자 20명 추가, 9명은 국내 감염…누적 182명",
+		"link": "www.yna.co.kr/view/AKR20210308094500530?section=safe/news",
+		"date": "03-08 14:19"
+	},
+	"9747bb6ea199a43a02cfc78c811d53247cfa456d4b180aa935324e6f33c4ef58": {
+		"title": "'비좁고 밀폐된 작업환경' 안성 축산물공판장 집단감염",
+		"link": "www.yna.co.kr/view/AKR20210308091100061?section=safe/news",
+		"date": "03-08 14:16"
+	},
+	"c15878fd20f97f6a697f0f19706e3990f42e6280e03023be7b0a724568e6f4ab": {
+		"title": "\"백신 안전해요\" 전남지역 병원장들 릴레이 접종 참여",
+		"link": "www.yna.co.kr/view/AKR20210308091700054?section=safe/news",
+		"date": "03-08 14:14"
+	},
+	"76ba292a11c5b74d80bd5898242fa98222335b9e915c87fef3f9ca73b3d6d655": {
+		"title": "삼육부산병원 5명 추가 확진…부산공동어시장도 연쇄감염(종합)",
+		"link": "www.yna.co.kr/view/AKR20210308028951051?section=safe/news",
+		"date": "03-08 14:09"
+	},
 	"bc4fe09cf472fc5ef78fbf45dd5f7c099052cc1b4dcbe747c318ae885534bd65": {
 		"title": "주요병원 의료진 아스트라제네카 코로나19 백신 접종 '잰걸음'(종합)",
 		"link": "www.yna.co.kr/view/AKR20210308070351017?section=safe/news",
@@ -468,35 +498,5 @@
 		"title": "경남 코로나19 확진자 3명 추가…백신 접종률 61.8%(종합)",
 		"link": "www.yna.co.kr/view/AKR20210307031651052?section=safe/news",
 		"date": "03-07 17:04"
-	},
-	"4cc26c9492200e383bf0089ecb4c90b96428a15add826b582f5178902fecb802": {
-		"title": "헝가리, 신규 확진 최대…\"3차 유행, 이전보다 강력\"",
-		"link": "www.yna.co.kr/view/AKR20210307044500088?section=safe/news",
-		"date": "03-07 17:02"
-	},
-	"84159d49f23a2a40d0b31375bcea6f0186ac430b88c920fd7d77c30bc161c4b2": {
-		"title": "일본, 코로나 속 첫 대규모 국제회의 '유엔 형사사법총회' 개막",
-		"link": "www.yna.co.kr/view/AKR20210307044900073?section=safe/news",
-		"date": "03-07 17:01"
-	},
-	"6f324fb4a32dfc6506d69e36aa451d27c185324b93321006d5d5b8b41090433d": {
-		"title": "김포서 3명 코로나19 추가 확진…모두 감염경로 불명",
-		"link": "www.yna.co.kr/view/AKR20210307044200065?section=safe/news",
-		"date": "03-07 16:58"
-	},
-	"73479f29bdab0dc3a048152acd6ddcbcd107c1bfc6ea0082295677f509ef2ae4": {
-		"title": "[속보] 정부 \"이동량 증가-변이 유입 등으로 4차 유행 언제든 올수있어\"",
-		"link": "www.yna.co.kr/view/AKR20210307042400530?section=safe/news",
-		"date": "03-07 16:39"
-	},
-	"18fa4e2171e50595561a1576b5a8a9ef872a8ff9b3ba89ec5963db6382a4d044": {
-		"title": "[속보] 감염 재생산지수 모든 권역 1 이하…직전주 보다 다소 낮아져",
-		"link": "www.yna.co.kr/view/AKR20210307042100530?section=safe/news",
-		"date": "03-07 16:34"
-	},
-	"d3a47e499e99c1bff1717aff82f1c604e7817934bdbcbbbb700889ca58234ef8": {
-		"title": "[속보] 정부 \"지난 1주간 일평균 372명 확진…수도권이 80%\"",
-		"link": "www.yna.co.kr/view/AKR20210307042000530?section=safe/news",
-		"date": "03-07 16:33"
 	}
 }
