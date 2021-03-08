@@ -1,4 +1,69 @@
 {
+	"324c4400ac31dc7c563487b8a9197c8f0a4fb2e4a3efed3e1c305396e855f6cf": {
+		"title": "들쭉날쭉한 외국인근로자 통계…코로나19 전수검사 난항",
+		"link": "www.yna.co.kr/view/AKR20210308086500064?section=safe/news",
+		"date": "03-08 15:28"
+	},
+	"1d25cd5dc3f361da58827fb58f13c3577987c3e938312d1f8b4ecbfdc474cf9b": {
+		"title": "학교·축구모임·숙박시설서 집단감염…감염경로 불명 23.3%",
+		"link": "www.yna.co.kr/view/AKR20210308108600530?section=safe/news",
+		"date": "03-08 15:26"
+	},
+	"47607f3bd8dfaab05191a12369c6f7b150219f55cedcca52a3d01bc41a70b2e7": {
+		"title": "당국 \"중앙의료원 간호사 외에도 백신접종후 감염 사례 더 있어\"",
+		"link": "www.yna.co.kr/view/AKR20210308108900530?section=safe/news",
+		"date": "03-08 15:23"
+	},
+	"da52b020a4e8baa3347c9ba1267b7ef93ce771a3a627311f00e7b9f3f9cc38f4": {
+		"title": "백신 이상반응 226건 추가 총 3천915건…사망신고 누적 11건(종합)",
+		"link": "www.yna.co.kr/view/AKR20210308041451530?section=safe/news",
+		"date": "03-08 15:20"
+	},
+	"fe244bf263d09ca93d7e6f983b7bd5ac2a7724a3fd342a9baae0be377bf406d4": {
+		"title": "영월군 코로나19 자가격리 관리 대폭 강화",
+		"link": "www.yna.co.kr/view/AKR20210308108100062?section=safe/news",
+		"date": "03-08 15:18"
+	},
+	"b887f40199986cf5a2a6f49903b878877558a756824816b5ea10c29b1fea324e": {
+		"title": "울산 집단감염 사우나 건물 이용자에 진단검사·집합금지 명령",
+		"link": "www.yna.co.kr/view/AKR20210308108700057?section=safe/news",
+		"date": "03-08 15:17"
+	},
+	"ca3ef0344734a7b590cadf203f72c805b01204d2f9e105d758f1bc0c3bcb66fe": {
+		"title": "65세 이상 AZ백신 접종할듯…당국-전문가회의 '가능' 의견 모아",
+		"link": "www.yna.co.kr/view/AKR20210308106300530?section=safe/news",
+		"date": "03-08 15:17"
+	},
+	"732010564ad2587dd2f6c131e191d771cce34132e0dfcad883f41483492c4fe0": {
+		"title": "진천군 확진자 39명 발생한 닭 가공업체 특별관리",
+		"link": "www.yna.co.kr/view/AKR20210308106800064?section=safe/news",
+		"date": "03-08 15:14"
+	},
+	"ab8fe5c1dc8adae9d3c6b5cec8207fbe11dd0c6b1d1492555d89c448c263739e": {
+		"title": "'봇물터진 사업장 집단감염' 충북 3월 확진자 비수도권 최다",
+		"link": "www.yna.co.kr/view/AKR20210308095000064?section=safe/news",
+		"date": "03-08 15:10"
+	},
+	"0e185b1a406252396a04e5f47c547a01d59e6e401f67366d174e096a3f8fa75f": {
+		"title": "전남대·조선대병원 의료진 본격 백신 접종…\"안전성 입증\"",
+		"link": "www.yna.co.kr/view/AKR20210308106600054?section=safe/news",
+		"date": "03-08 15:10"
+	},
+	"edbf0d99a021549eb30d1c4fa7e4757151c6748f6564caba1a76f7d577343f25": {
+		"title": "당국 \"2분기 접종 계획 준비 중…전문위 심의 거쳐 결정\"",
+		"link": "www.yna.co.kr/view/AKR20210308106400530?section=safe/news",
+		"date": "03-08 15:08"
+	},
+	"3eff6eca6008adb94353d8e0825f81de3fd778d9778453c9d414b813c9619278": {
+		"title": "[속보] \"중앙의료원 간호사 외에도 백신접종 후 감염 사례 더 있어\"",
+		"link": "www.yna.co.kr/view/AKR20210308106000530?section=safe/news",
+		"date": "03-08 15:05"
+	},
+	"114dd34762a1d1b297752d864517756db0bf5c2f8a961e20550eb55aa2e7acdf": {
+		"title": "브렌트유, 코로나 이후 처음으로 70달러 돌파",
+		"link": "www.yna.co.kr/view/AKR20210308099200009?section=safe/news",
+		"date": "03-08 15:04"
+	},
 	"994dd5e6ecdbc0811a937858379687ff5e00d4235e7fa9a745bd59de8ba2f3ea": {
 		"title": "변이 바이러스 감염자 20명 추가, 9명은 국내 감염…누적 182명",
 		"link": "www.yna.co.kr/view/AKR20210308098500530?section=safe/news",
@@ -433,70 +498,5 @@
 		"title": "서울 신사동주민센터서 직원 1명 코로나19 확진",
 		"link": "www.yna.co.kr/view/AKR20210307056500004?section=safe/news",
 		"date": "03-07 19:54"
-	},
-	"43fa9dc396cd832694c8740eed0e3a0c262ced30c3d80b52e1da2d13338ed39b": {
-		"title": "더 줄지 않는 일본 코로나 신규 확진자…닷새째 1천명선 유지",
-		"link": "www.yna.co.kr/view/AKR20210307055300073?section=safe/news",
-		"date": "03-07 19:49"
-	},
-	"6e7734d7cdf8808fdea878d04a6f693e59a06936e9b0215cbeefeda1542f8f02": {
-		"title": "화이자 맞은 NMC 간호사 2명 확진…\"백신 접종과 연관성 없어\"",
-		"link": "www.yna.co.kr/view/AKR20210307054200017?section=safe/news",
-		"date": "03-07 19:39"
-	},
-	"ff53a1392b0851a16ac9b468ba8a5d25412dfcd355b60dc0608856af96329b3d": {
-		"title": "당국, 자치단체장들 잇단 백신접종 자원에 \"비현장 인력은 제외\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20210307050151530?section=safe/news",
-		"date": "03-07 19:29"
-	},
-	"5828dd92ce90626f2a0bfe424aa1ef7b0b3e1b274acd37865853ea0f7ed08e55": {
-		"title": "백신 맞은 달라이 라마 \"심각한 문제 막으려면 접종받아야\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20210307027951077?section=safe/news",
-		"date": "03-07 19:11"
-	},
-	"6d320376e3defec15ef35cf90333da85661ae95427a82d3862d8f2cfcd6565da": {
-		"title": "오후 6시까지 전국서 250명 신규확진…어제보다 48명 적어",
-		"link": "www.yna.co.kr/view/AKR20210307052200530?section=safe/news",
-		"date": "03-07 18:58"
-	},
-	"43259b8f8dcc1cd1c97914dd7a96d4c5da8937e74df2399507e43b8bb9f6dd6d": {
-		"title": "오후 6시까지 서울 신규 확진 92명…전날보다 22명↓",
-		"link": "www.yna.co.kr/view/AKR20210307052400004?section=safe/news",
-		"date": "03-07 18:56"
-	},
-	"2ef7dd0969379905b4f75f6b30e85628d623bb645bcdcc1c1a34160c577fcbe1": {
-		"title": "정부, 자치단체장들 잇단 백신접종 자원에 \"논의한 바 없어\"",
-		"link": "www.yna.co.kr/view/AKR20210307050100530?section=safe/news",
-		"date": "03-07 18:49"
-	},
-	"1dc2e679aedd7b29acbf494ab22a3356c6381fce7dd377b6b944b11228cbf747": {
-		"title": "천안·세종서 이틀 새 두 가족 8명 코로나19 확진",
-		"link": "www.yna.co.kr/view/AKR20210307051500063?section=safe/news",
-		"date": "03-07 18:42"
-	},
-	"be68e6afdfdb69ef8c99e4432b7767d3627356c1c46f3316e489e888f1e30428": {
-		"title": "충북 19명 추가 확진…진천 닭가공업체·제천 사우나 감염 지속(종합)",
-		"link": "www.yna.co.kr/view/AKR20210307021654064?section=safe/news",
-		"date": "03-07 18:23"
-	},
-	"b12bfcc7bc8c7c5640a1e4cfdf4418463ff10fcb7475225f0dcce7159de4827c": {
-		"title": "코로나 국면서 아시아계 증오범죄 급증…부통령 \"용납 못해\"",
-		"link": "www.yna.co.kr/view/AKR20210307046000009?section=safe/news",
-		"date": "03-07 17:57"
-	},
-	"91a683c361f1d8196cfada3f8fc78e07d758d16463a169899728bd905cc58727": {
-		"title": "만65세 이상에 AZ백신 접종 여부 곧 결정…금주 전문위원회 논의",
-		"link": "www.yna.co.kr/view/AKR20210307048600530?section=safe/news",
-		"date": "03-07 17:54"
-	},
-	"fcc0962d3a5390e6437f863037b2cd6075f9abdc4a5a6ce0b016766b9f00b01a": {
-		"title": "\"러 코로나19 관련 사망자 20만명 넘어\"…정부 발표와 큰 차이",
-		"link": "www.yna.co.kr/view/AKR20210307047800080?section=safe/news",
-		"date": "03-07 17:53"
-	},
-	"cb791447c287411c079d0c2ace88442ea730da1473c84fcc0805ff332de57484": {
-		"title": "[속보] 이번주 예방접종전문위 개최…AZ백신 접종대상 확대 여부 논의",
-		"link": "www.yna.co.kr/view/AKR20210307047700530?section=safe/news",
-		"date": "03-07 17:35"
 	}
 }
