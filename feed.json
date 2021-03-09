@@ -1,4 +1,74 @@
 {
+	"8610ece5be2add013f8cc39880ead65a97a52ab1c0c05599ccd7e984f71cb08b": {
+		"title": "백신접종후 확진 총 6명…당국 \"접종전 또는 면역형성전 감염\"(종합)",
+		"link": "www.yna.co.kr/view/AKR20210309103351530?section=safe/news",
+		"date": "03-09 15:26"
+	},
+	"b80fe69e703987c1c4d3f560df71d7afc41c9cd8975e4a81381797f3ed900e75": {
+		"title": "병원-어린이집-사우나서 집단감염…안성 축산물공판장 누적 77명(종합)",
+		"link": "www.yna.co.kr/view/AKR20210309107351530?section=safe/news",
+		"date": "03-09 15:22"
+	},
+	"1b3a5c5bdb884dbf512d79b9649433790ad06cfa46001a2aa64224b1dee677ca": {
+		"title": "각국 백신여권 도입 움직임…당국\"과학적근거-추세 반영해 결정\"",
+		"link": "www.yna.co.kr/view/AKR20210309112000530?section=safe/news",
+		"date": "03-09 15:20"
+	},
+	"c9312ae871e2926f4cc527f84389eb37935b5959305072a6668002692ee85faa": {
+		"title": "\"코로나 시대 치유는 숲속에서\"…해남군, 숲 관광 자원화",
+		"link": "www.yna.co.kr/view/AKR20210309111500054?section=safe/news",
+		"date": "03-09 15:12"
+	},
+	"84cfa595f44045b6c65272ab9427bc759507786feacb2e504dc45ae1c736482b": {
+		"title": "중국 시노백 코로나백신 효과 자신…\"접종 두 달내 80~90% 효과\"",
+		"link": "www.yna.co.kr/view/AKR20210309085900083?section=safe/news",
+		"date": "03-09 15:10"
+	},
+	"ab1f5816364b97960c19648e10a918a166db466174fdda6da87346744b1ebc51": {
+		"title": "백신접종자, 마스크 안 써도 된다?…정부 \"국내상황 보고 판단\"(종합)",
+		"link": "www.yna.co.kr/view/AKR20210309080351530?section=safe/news",
+		"date": "03-09 15:09"
+	},
+	"cdae01830323d0f5b8eafc79b4c1e86c8943cbc67360acb81ce0d36cab88d8cc": {
+		"title": "병원-어린이집-사우나서 집단감염…안성 축산물공판장 누적 77명",
+		"link": "www.yna.co.kr/view/AKR20210309107300530?section=safe/news",
+		"date": "03-09 14:57"
+	},
+	"496a487d75cfa4b862d50f5eb68b5920b89f153ee1de36fd9e08c2a74b13733d": {
+		"title": "\"백신 접종은 큰 힘\"…주요 병원장 코로나 백신 접종 릴레이",
+		"link": "www.yna.co.kr/view/AKR20210309108600017?section=safe/news",
+		"date": "03-09 14:56"
+	},
+	"463c430e8b829159ada21b20613347dda7620129bb7d104dac32c85c950a86b5": {
+		"title": "광주 대형 치과병원·공공기관서 확진자 발생…긴급 역학조사",
+		"link": "www.yna.co.kr/view/AKR20210309105300054?section=safe/news",
+		"date": "03-09 14:53"
+	},
+	"7eb34df90364b634bcefe9eacd97b10397a5f9d1cad0978eb78c225919a2ab45": {
+		"title": "\"아들 손 잡으니 너무 좋아\"…1년만에 재개된 요양병원 접촉면회",
+		"link": "www.yna.co.kr/view/AKR20210309094200065?section=safe/news",
+		"date": "03-09 14:52"
+	},
+	"e56deff9f1b4b0068d08bebe126f49c299aa619e828b3232fedb4d29b51891ba": {
+		"title": "백신접종 이상반응 936건 추가 총 4천851건…사망신고 누적 13명(종합)",
+		"link": "www.yna.co.kr/view/AKR20210309053451530?section=safe/news",
+		"date": "03-09 14:48"
+	},
+	"5b55f233350cf3eba75564d2f3fbed5d612de472e12348f27e23e383a20677b1": {
+		"title": "김포 업체 2곳서 근로자 9명 확진…상당수는 외국인",
+		"link": "www.yna.co.kr/view/AKR20210309105400065?section=safe/news",
+		"date": "03-09 14:43"
+	},
+	"8e23841ad08addd8f414fbf792f142ba74c085d2cfee5ee41746b56ff7c9afd3": {
+		"title": "경남 신규 확진 1명…1주일간 무증상 감염자 52.8%",
+		"link": "www.yna.co.kr/view/AKR20210309100500052?section=safe/news",
+		"date": "03-09 14:40"
+	},
+	"c24e3bb0aeb79bab8b025f3d4904b3a464ef9d7668c5310d54256a608f7fed39": {
+		"title": "[속보] \"화이자 백신 3월 넷째, 다섯째주에 각 50만회분 도입\"",
+		"link": "www.yna.co.kr/view/AKR20210309105000530?section=safe/news",
+		"date": "03-09 14:40"
+	},
 	"f474aaabe657847736b76a5c8310412e0320b72ba36a4e5504cdb7d2331869c7": {
 		"title": "[속보] \"화이자 백신 3월 넷째주 50만회분, 다섯째주 59만회분 도입\"",
 		"link": "www.yna.co.kr/view/AKR20210309105000530?section=safe/news",
@@ -428,75 +498,5 @@
 		"title": "\"러시아, 코로나19 백신 '스푸트니크V' 이탈리아서도 생산키로\"",
 		"link": "www.yna.co.kr/view/AKR20210309001600080?section=safe/news",
 		"date": "03-09 00:47"
-	},
-	"254e21dc3c614858188660141aa09fe75706384ea947ff76f7f5298db754eb76": {
-		"title": "이스라엘 1차 접종자 500만명 돌파…\"내달 성인 전체 목표\"",
-		"link": "www.yna.co.kr/view/AKR20210308162800079?section=safe/news",
-		"date": "03-09 00:02"
-	},
-	"249b767799867f521a7dc52214cdd4da25c9779120eff6fcc7c212f649b7acb7": {
-		"title": "루마니아 '백신 의무접종' 추진에…수도서 3천명 반대 집회",
-		"link": "www.yna.co.kr/view/AKR20210308161400108?section=safe/news",
-		"date": "03-08 23:28"
-	},
-	"a3abb3096b88dd14e62bf853011b08ef8347209dbda4ff891f78b32b9200b321": {
-		"title": "EU \"4월부터 역내서 백신 월 1억회분 사용 가능 예상\"",
-		"link": "www.yna.co.kr/view/AKR20210308161300098?section=safe/news",
-		"date": "03-08 23:25"
-	},
-	"fb9c698ad50659f8675c4746aa718317e8768ad4715e29ffddd3f2ae4ae2bce1": {
-		"title": "'하루 5천명대' 영국, 등교 재개…코로나 다시 퍼질라 조마조마",
-		"link": "www.yna.co.kr/view/AKR20210308160100085?section=safe/news",
-		"date": "03-08 22:59"
-	},
-	"ce6c6d9b1b96c84356f84b71e5f9ab20a9c6e2ec7d4b8c7dc7f09d1611335127": {
-		"title": "일본 코로나19 신규 확진 600명…4개월 만에 최저",
-		"link": "www.yna.co.kr/view/AKR20210308160000073?section=safe/news",
-		"date": "03-08 22:48"
-	},
-	"0e47eb126dbcaed4c23178dd0c2e8862be1311f353aacf2f197fb6e25a1368e3": {
-		"title": "시리아 알아사드 대통령 내외 코로나19 확진 판정",
-		"link": "www.yna.co.kr/view/AKR20210308159600108?section=safe/news",
-		"date": "03-08 22:42"
-	},
-	"beaba98d59df00fc9ac22273864820ebcf36e596006b81a7fc565b91b9c69051": {
-		"title": "독일 여당 부패스캔들…연방의원 중국산 마스크 중개수수료 챙겨",
-		"link": "www.yna.co.kr/view/AKR20210308159500082?section=safe/news",
-		"date": "03-08 22:38"
-	},
-	"e3f71e822bbddf1bb76dd14c11ffa5b3f9620be6ef42b6c7cda80fa9438b09fd": {
-		"title": "충북 사업장·목욕탕 집단감염 이어져…21명 추가 확진(종합)",
-		"link": "www.yna.co.kr/view/AKR20210308138151064?section=safe/news",
-		"date": "03-08 22:34"
-	},
-	"6329eb162e5d878699490af57a2cf4873c534bdc38aaef6a083b4e24b99d8e9d": {
-		"title": "질병청 \"김제 AZ백신 온도이탈 사고 분석중…최종결과 추후공지\"",
-		"link": "www.yna.co.kr/view/AKR20210308158700530?section=safe/news",
-		"date": "03-08 22:25"
-	},
-	"5eb47dd48824e9b8d91452ad938f273e695e52365e72c034b19b8550803f31f3": {
-		"title": "오후 9시까지 서울 신규확진 98명…전날보다 1명↑",
-		"link": "www.yna.co.kr/view/AKR20210308143751004?section=safe/news",
-		"date": "03-08 21:39"
-	},
-	"d37edf85199bc92d69d4cc8b1b2ac14eb15f97365990fae4d145e3db8401d10a": {
-		"title": "이란 \"한국산 아스트라제네카 백신 310만 회분 수입\"",
-		"link": "www.yna.co.kr/view/AKR20210308156900111?section=safe/news",
-		"date": "03-08 21:34"
-	},
-	"6da7015d38b0de29695cd386459a0e288ce7a91fdb23f61fccbbdccd3bf2ea66": {
-		"title": "이탈리아 \"여름까지 원하는 전 국민 백신 접종 목표\"",
-		"link": "www.yna.co.kr/view/AKR20210308154900109?section=safe/news",
-		"date": "03-08 20:46"
-	},
-	"d0cf69fcf4d572710a54389b6419188ef184b7a3deac2c2917aecf9690b4929b": {
-		"title": "육군 상무대서 교육생 장교 2명 코로나19 확진",
-		"link": "www.yna.co.kr/view/AKR20210308154200054?section=safe/news",
-		"date": "03-08 20:13"
-	},
-	"d854f047fd2c815a3894142665884289122cc202238a21ec91c02e9933a62936": {
-		"title": "홍콩매체 \"시노백 백신 접종 후 세번째 사망자 발생\"",
-		"link": "www.yna.co.kr/view/AKR20210308154100074?section=safe/news",
-		"date": "03-08 20:12"
 	}
 }
