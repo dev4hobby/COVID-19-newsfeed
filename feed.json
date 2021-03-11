@@ -1,4 +1,9 @@
 {
+	"2bbb073386474a1b41d6f1487196079f4dbf014a2c47c61dbc9d49c3491bf47a": {
+		"title": "[속보] EU 집행위, J&J 코로나19 백신 사용 승인",
+		"link": "www.yna.co.kr/view/AKR20210312001600098?section=safe/news",
+		"date": "03-12 00:41"
+	},
 	"88b69d30331701b06fd52cd3a2a29e73d36a9cb9d4e3463509a4edd10bf67a5e": {
 		"title": "아프리카 코로나19 백신 자체 생산 모색",
 		"link": "www.yna.co.kr/view/AKR20210311190700099?section=safe/news",
@@ -493,10 +498,5 @@
 		"title": "\"코로나19 영향으로 걷기여행 참여·동반자 감소\"",
 		"link": "www.yna.co.kr/view/AKR20210311062200030?section=safe/news",
 		"date": "03-11 10:14"
-	},
-	"e85c1689c5bfa718e1a1d5933d1f3f49d17e12e410f2ad5eaaf14d65e7879f00": {
-		"title": "김정우 조달청장, 코로나19 백신 접종 주사기 생산 현장 점검",
-		"link": "www.yna.co.kr/view/AKR20210311059800063?section=safe/news",
-		"date": "03-11 10:07"
 	}
 }
