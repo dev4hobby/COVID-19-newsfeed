@@ -1,4 +1,39 @@
 {
+	"9ba7d20fef544e054aaef24a2bace36ae5bd7a95d2c8ee58b442364bb6eeb1a8": {
+		"title": "[팩트체크] 백신 부작용 국가보상 절차와 전례는",
+		"link": "www.yna.co.kr/view/AKR20210318096700502?section=safe/news",
+		"date": "03-19 09:21"
+	},
+	"1524bbc92bdf190cb9dfef2d5d436c62e5e6d66278adb14704bf8f5363cc9acc": {
+		"title": "거제시 거리두기 2단계…대우조선은 방역 강화해 정상조업",
+		"link": "www.yna.co.kr/view/AKR20210319037100052?section=safe/news",
+		"date": "03-19 09:14"
+	},
+	"5fd1fb795ef1859d9014f7347f8a9dc3faab1c78f4fa493c1cc7c052b59d9edc": {
+		"title": "중대본 \"코로나19 백신 1차접종 약 66만명…주말 2차 접종 시작\"",
+		"link": "www.yna.co.kr/view/AKR20210319037500530?section=safe/news",
+		"date": "03-19 09:14"
+	},
+	"ccbbfc4ad5e379f5dd5ebc679cd3f23f87af943f1d626abbc467e741302874c8": {
+		"title": "[속보] 당국 \"코로나19 백신 1차 접종 약 66만명…주말 2차 접종 시작\"",
+		"link": "www.yna.co.kr/view/AKR20210319033200530?section=safe/news",
+		"date": "03-19 08:55"
+	},
+	"270abf53a851bfb14e339c7e8964457096cb648f2d5d592226268a773547a372": {
+		"title": "울산 사우나발 확진자 2명 추가…열흘 넘게 연쇄감염 이어져",
+		"link": "www.yna.co.kr/view/AKR20210319031900057?section=safe/news",
+		"date": "03-19 08:45"
+	},
+	"965c7439c3904ebcf60cce6359a38622db1356a9f043f4da521f366e24b2265b": {
+		"title": "광주·전남 코로나19 안정세…광주만 자가격리자 2명 확진",
+		"link": "www.yna.co.kr/view/AKR20210319029100054?section=safe/news",
+		"date": "03-19 08:31"
+	},
+	"20865a1c9646672cb95bff66f25683a0485648cd8005bf0025fbe5e75a6b5c65": {
+		"title": "대구서 시의원 포함 5명 추가 확진…감염경로 불상이 4명",
+		"link": "www.yna.co.kr/view/AKR20210319029300053?section=safe/news",
+		"date": "03-19 08:30"
+	},
 	"a3ca355050522b9a26aac9d6bf57668535e78c531cccaac088cb111e8733c1df": {
 		"title": "경북 경산 3명·포항 1명 추가 확진",
 		"link": "www.yna.co.kr/view/AKR20210319028600053?section=safe/news",
@@ -463,40 +498,5 @@
 		"title": "[속보] \"혈전의심 20대 AZ백신 접종…동일기관 접종자중 유사증상 없어\"",
 		"link": "www.yna.co.kr/view/AKR20210318116800530?section=safe/news",
 		"date": "03-18 14:36"
-	},
-	"0cb524c7cfa428a9c4023a49de3475b2bd9707298c6facc83e1d65417ead874d": {
-		"title": "울산 1호 코로나19 예방접종센터 모의훈련…접종 과정 점검",
-		"link": "www.yna.co.kr/view/AKR20210318116200057?section=safe/news",
-		"date": "03-18 14:34"
-	},
-	"a55ae1a26f46139093c1f75e4f47e547891029478d4e826e2fa4ad37d3fcf361": {
-		"title": "[속보] \"접종후 혈전의심 신고 20대 남성, 현재 안정상태서 입원치료중\"",
-		"link": "www.yna.co.kr/view/AKR20210318116400530?section=safe/news",
-		"date": "03-18 14:33"
-	},
-	"b6b8e31f9364692f62794444a27a34b63959b320b26681d2ca936619fbdf7d02": {
-		"title": "코로나19 백신 접종뒤 항체 언제 생기나…당국, 421명 대상 조사",
-		"link": "www.yna.co.kr/view/AKR20210318115600530?section=safe/news",
-		"date": "03-18 14:33"
-	},
-	"0f032d772bf2c118843192bbce17c662b5f6cc44d33d20808285a863086568e5": {
-		"title": "확진자 급증한 경남도, 방역 틈새 점검·병실 추가 확보",
-		"link": "www.yna.co.kr/view/AKR20210318113100052?section=safe/news",
-		"date": "03-18 14:29"
-	},
-	"01bb11fce8e25a65d1ac455cc390d21d5e680c6f2eba5740c0d524606643b040": {
-		"title": "[속보] 당국 \"이번주말 화이자 백신 2회 접종자 나와…2주후 항체 형성\"",
-		"link": "www.yna.co.kr/view/AKR20210318114100530?section=safe/news",
-		"date": "03-18 14:26"
-	},
-	"2ceda9303537f779bb2cff81d9452298edd793a09cb4f2109f803d335f24ed33": {
-		"title": "첼리스트 이상 엔더스 독주회 무산…\"최근 공연장 방문자 확진\"",
-		"link": "www.yna.co.kr/view/AKR20210318111600005?section=safe/news",
-		"date": "03-18 14:18"
-	},
-	"15f36aa07c03603a7838d16a5d1f6bb955783b198880524facb47cb07e7f0522": {
-		"title": "첼리스트 이상 엔더스 리사이틀 무산…코로나19 확진자 발생",
-		"link": "www.yna.co.kr/view/AKR20210318111600005?section=safe/news",
-		"date": "03-18 14:18"
 	}
 }
