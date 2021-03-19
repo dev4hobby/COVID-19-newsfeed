@@ -1,4 +1,29 @@
 {
+	"5f0a95279fcf7f35e1a06e43edffacb7c65fe44f1895c782f3ecede5067e003f": {
+		"title": "코로나19 걸렸던 영국 존슨 총리 아스트라제네카 백신 맞았다",
+		"link": "www.yna.co.kr/view/AKR20210320007200085?section=safe/news",
+		"date": "03-20 04:45"
+	},
+	"6dbc9e981c776de212d40774c9ebb2fda0bab092404d7bbd7581ff0ea4b3e302": {
+		"title": "메르켈 \"AZ백신 맞을 것\"…내달 일반의원서 백신접종 가속페달",
+		"link": "www.yna.co.kr/view/AKR20210320007000082?section=safe/news",
+		"date": "03-20 04:43"
+	},
+	"f80276e337c258995a227860ad4d10ccf6353705fe494d006950844bb49e5acb": {
+		"title": "WHO 자문위 \"AZ 백신, 사망 줄일 엄청난 잠재력 지녀\"(종합2보)",
+		"link": "www.yna.co.kr/view/AKR20210320003152088?section=safe/news",
+		"date": "03-20 04:36"
+	},
+	"c0ee56008417e6860e215388cf134c63942a40a9cc496caf673b009a1b49db5c": {
+		"title": "코로나 위기 최악인데…브라질 대통령-주지사 봉쇄 문제로 충돌",
+		"link": "www.yna.co.kr/view/AKR20210320006400094?section=safe/news",
+		"date": "03-20 04:34"
+	},
+	"da5daea2328e959e080f21a7f5945766bd5be0f2a0d8218643f18645257ec327": {
+		"title": "오늘부터 화이자 2차 접종 시작…정부 \"집단면역에 한 발짝 더\"",
+		"link": "www.yna.co.kr/view/AKR20210319112100530?section=safe/news",
+		"date": "03-20 04:30"
+	},
 	"31c10c40e2c33cd852a7f40f1dab3da006541bcffb19c90c6b60e79fee23985d": {
 		"title": "이탈리아 AZ 백신 접종 재개…\"부작용 없이 안전\"",
 		"link": "www.yna.co.kr/view/AKR20210320005900109?section=safe/news",
@@ -473,30 +498,5 @@
 		"title": "[3보] 신규확진 463명, 사흘째 400명대 중반…이동량 증가에 확산 우려",
 		"link": "www.yna.co.kr/view/AKR20210319032800530?section=safe/news",
 		"date": "03-19 09:36"
-	},
-	"8c44d9292ee02c4e294fcf760f40f9f62730d9f56acc90dfbb4ff45bf340ceff": {
-		"title": "[속보] 코로나19 백신 어제 1만7천501명 접종…21일간 총 65만9천475명",
-		"link": "www.yna.co.kr/view/AKR20210319043400530?section=safe/news",
-		"date": "03-19 09:33"
-	},
-	"859e28272e8d17d87fdf39b887f794ba035bc6c167a8edfbfeabb39d65fc765c": {
-		"title": "[속보] 경기 157명-서울 146명-경남 42명-강원 31명-인천 24명 등 확진",
-		"link": "www.yna.co.kr/view/AKR20210319032900530?section=safe/news",
-		"date": "03-19 09:31"
-	},
-	"9c0734ca31c17d7cda51144435a2634cad83b32c810f4cf24f8a97fed07f1fb8": {
-		"title": "[2보] 코로나19 어제 463명 신규확진…사흘연속 400명대 중반",
-		"link": "www.yna.co.kr/view/AKR20210319032500530?section=safe/news",
-		"date": "03-19 09:31"
-	},
-	"cc5d6ff2cc28ed3d73827f9e6da3248a4baf9e4510aa1a2f4095992c979bb9ec": {
-		"title": "[속보] 코로나19로 어제 2명 사망…누적 1천690명",
-		"link": "www.yna.co.kr/view/AKR20210319033000530?section=safe/news",
-		"date": "03-19 09:30"
-	},
-	"462d813428caf244a1c4d5e2e0a4c263bbc2a80ecbc0a1ab5c30c68bc9585a36": {
-		"title": "[1보] 코로나19 어제 463명 신규확진…사흘연속 400명대 중반",
-		"link": "www.yna.co.kr/view/AKR20210319032300530?section=safe/news",
-		"date": "03-19 09:30"
 	}
 }
