@@ -1,4 +1,34 @@
 {
+	"426c40fb183158e4c58bf1bdc5d632c87c70f1a5340e78029401f912fc0cdd43": {
+		"title": "백신접종 1만7천501명↑ 총 65만9천475명…우선대상 82.5% 접종(종합)",
+		"link": "www.yna.co.kr/view/AKR20210319046351530?section=safe/news",
+		"date": "03-19 14:29"
+	},
+	"f4b203aaf6c67c7a6bf4da86ce34d43414d8e5e50d351ede631386e74049a856": {
+		"title": "랩지노믹스, 코로나19 신속 PCR 진단키트 식약처 정식허가받아",
+		"link": "www.yna.co.kr/view/AKR20210319097900017?section=safe/news",
+		"date": "03-19 14:25"
+	},
+	"807f813a104a1ab8efa10c594b465e24a14df172d9a7b1fbcdba6f645aa39d07": {
+		"title": "[속보] 당국 \"어제 코로나19 사망자 중 1명 20대…국내 세번째 사례\"",
+		"link": "www.yna.co.kr/view/AKR20210319097800530?section=safe/news",
+		"date": "03-19 14:23"
+	},
+	"9983050143b608221d4353dc6f049e9d68a79f7c3ce27efceef53ed36bde8cb1": {
+		"title": "[속보] 당국 \"주말 접종전문위서 유럽의약품청 AZ백신 평가 내용 검토\"",
+		"link": "www.yna.co.kr/view/AKR20210319096900530?section=safe/news",
+		"date": "03-19 14:20"
+	},
+	"c1e249f659ba000623a05c12b73f5be47910dec0cec38d4ad54da9da2fb307a3": {
+		"title": "울산 오늘도 사우나발 2명 또 확진…12일째 연쇄 감염(종합)",
+		"link": "www.yna.co.kr/view/AKR20210319031951057?section=safe/news",
+		"date": "03-19 14:17"
+	},
+	"65d4e14ef99997710d5ba712a199964b94992254dce5a0a6495832a75b97c4e4": {
+		"title": "정부대전청사 관세청 직원 1명 코로나19 확진",
+		"link": "www.yna.co.kr/view/AKR20210319093800063?section=safe/news",
+		"date": "03-19 14:08"
+	},
 	"4ec1ecb5c5055ee114361c5f9e7917e084b841a7f2677d905430a1ae4e1d49b9": {
 		"title": "경남 21명 확진…거제 유흥업소·진주 사우나 관련 감염 계속",
 		"link": "www.yna.co.kr/view/AKR20210319092700052?section=safe/news",
@@ -468,35 +498,5 @@
 		"title": "일본 코로나 긴급사태 70여일만에 전면 해제…\"21일까지만\"",
 		"link": "www.yna.co.kr/view/AKR20210318155900073?section=safe/news",
 		"date": "03-18 18:00"
-	},
-	"2f65e72ce12ecb95fa63a0ed45463cdb920409074cbfd29701d8fba090718d49": {
-		"title": "유흥업소발 확진 속출…거제시 19일부터 거리두기 2단계로",
-		"link": "www.yna.co.kr/view/AKR20210318162300052?section=safe/news",
-		"date": "03-18 17:42"
-	},
-	"00bb1c692866a1c1f88250e7cee8416bbeb0d28e50a2915ba5afb2af7dff2193": {
-		"title": "최문순 강원지사 자가격리 해제 전 검사 '음성'…내일 업무 복귀",
-		"link": "www.yna.co.kr/view/AKR20210318162100062?section=safe/news",
-		"date": "03-18 17:39"
-	},
-	"477089d8d9295e4837855881e742784dfc91c90f571fe47fba0f3a3b5ef4b2ac": {
-		"title": "터키 \"3월 내로 화이자 백신 450만 도스 도입\"",
-		"link": "www.yna.co.kr/view/AKR20210318161400108?section=safe/news",
-		"date": "03-18 17:36"
-	},
-	"5232b97f11b960c11f9cb0f85bd8da562a16f5b0815439a6254e8bd1ac43c7db": {
-		"title": "인천서 24명 양성 판정…20명은 확진자 접촉 감염(종합)",
-		"link": "www.yna.co.kr/view/AKR20210318077351065?section=safe/news",
-		"date": "03-18 17:31"
-	},
-	"8d0599154cdf21ce9cf54cd16e6e52d5f15b08857d43a114d706c7063fd4e41c": {
-		"title": "경남 43명 확진…진주 사우나·거제 유흥업소 관련 누적 255명(종합)",
-		"link": "www.yna.co.kr/view/AKR20210318106151052?section=safe/news",
-		"date": "03-18 17:27"
-	},
-	"f672831882356fb78907035822c9384a6b2c3213f22d77bbb50ac2fe36272561": {
-		"title": "코로나19 확진자 나온 제주신라호텔 직원 507명 모두 음성",
-		"link": "www.yna.co.kr/view/AKR20210318156200056?section=safe/news",
-		"date": "03-18 17:21"
 	}
 }
