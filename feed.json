@@ -1,4 +1,29 @@
 {
+	"b0bc9b859cff40b9961a819c8a3b6b570a139336aacc7d8d5e0df960a8f23357": {
+		"title": "[속보] 당국 \"2분기 접종계획 차질없이 진행…계획변경 검토 안 해\"",
+		"link": "www.yna.co.kr/view/AKR20210320040000530?section=safe/news",
+		"date": "03-20 14:22"
+	},
+	"27a2f745aa5b97522a5217876b3fa5af7e36aef3f949fc81efb7b0c82f5bbf29": {
+		"title": "[속보] \"해외파병 군인 265명 우선접종…기업인-공무 출장자 접종 신청\"",
+		"link": "www.yna.co.kr/view/AKR20210320039900530?section=safe/news",
+		"date": "03-20 14:20"
+	},
+	"5a6b8e48f9adf649bf79654feb8ccce4fdcd00b24d6a4f917dad4192747d83fc": {
+		"title": "[속보] 당국 \"백신접종후 7일 이내 13명 확진, 8∼14일 사이는 17명\"",
+		"link": "www.yna.co.kr/view/AKR20210320039700530?section=safe/news",
+		"date": "03-20 14:17"
+	},
+	"ea0f2af8d7793df9b8f4b0c329e2b95e4d7896108a2d4b8fe45ff0ff6a9cbf1e": {
+		"title": "부산서 삼육병원 퇴원 환자 등 20명 추가 확진(종합)",
+		"link": "www.yna.co.kr/view/AKR20210320030251051?section=safe/news",
+		"date": "03-20 14:17"
+	},
+	"674a848508d6c52797eca4309c5766bd15e1c869a084ce50860cce144b04956c": {
+		"title": "[속보] 백신접종후 감염 사례 30명…27명 AZ백신·3명 화이자백신 접종",
+		"link": "www.yna.co.kr/view/AKR20210320039600530?section=safe/news",
+		"date": "03-20 14:16"
+	},
 	"ca972f692a547f631d6aaa12ba0bc62bfa51f53a632b75906e1d08db097f6e90": {
 		"title": "인도 코로나19 다시 급속 확산…누적 확진 4개월만에 4만명대로",
 		"link": "www.yna.co.kr/view/AKR20210320038700077?section=safe/news",
@@ -473,30 +498,5 @@
 		"title": "충북 교직원 1천905명 내달 AZ 백신 1차 접종…동의율 64%",
 		"link": "www.yna.co.kr/view/AKR20210319115200064?section=safe/news",
 		"date": "03-19 15:42"
-	},
-	"ea3d21b7d5d1df27c9adcb2107830db906c620998f46e6d2e9fdc3f17075b6ae": {
-		"title": "양평 유흥주점 관련 6명 추가 확진…누적 15명",
-		"link": "www.yna.co.kr/view/AKR20210319114600061?section=safe/news",
-		"date": "03-19 15:36"
-	},
-	"f4241bf80937ea28dcd99be535dac64bb578dc77bc7dbe34f0538a51dce43882": {
-		"title": "'확진자 발생' 서울대병원 응급실 내일 오전 8시부터 정상운영",
-		"link": "www.yna.co.kr/view/AKR20210319111800017?section=safe/news",
-		"date": "03-19 15:26"
-	},
-	"e2b75d9812f36f4f6d656be0bde6fdc6811565d80f4e4d1e147d9569e135dbdb": {
-		"title": "코로나19로 고성·속초지역 학교 32곳 등교 중단",
-		"link": "www.yna.co.kr/view/AKR20210319103700062?section=safe/news",
-		"date": "03-19 14:58"
-	},
-	"ec8161b61f317c42dc8c62f9bf38c7f2c611bd2cc681af6d162f2f2b6d02a9c3": {
-		"title": "일상 파고드는 코로나19…식당-사업장-지인모임서 신규 집단감염",
-		"link": "www.yna.co.kr/view/AKR20210319103500530?section=safe/news",
-		"date": "03-19 14:56"
-	},
-	"ffafe441dc6ba280dee2f13787a4d8d41374ce920f6428c041db52f436b0be2a": {
-		"title": "정은경 \"화이자·AZ 백신, 효과·안전성 큰 차이 없어\"",
-		"link": "www.yna.co.kr/view/AKR20210319104300001?section=safe/news",
-		"date": "03-19 14:51"
 	}
 }
