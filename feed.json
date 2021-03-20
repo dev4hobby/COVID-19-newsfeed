@@ -1,4 +1,69 @@
 {
+	"e75a4526306d4a232a8281fa0e33ad4ba81aa80b92c32e80b6cdefa69102af90": {
+		"title": "'너무 성급했나'…미, 미시간 등 일부 주서 확진자 재상승",
+		"link": "www.yna.co.kr/view/AKR20210320031100009?section=safe/news",
+		"date": "03-20 11:36"
+	},
+	"61f229db66ae1c1399340ce3a2eafbab3690de6978311aea7b616352e9419cd1": {
+		"title": "제주공항서 입도객 또 확진…수도권 거주자",
+		"link": "www.yna.co.kr/view/AKR20210320033700056?section=safe/news",
+		"date": "03-20 11:31"
+	},
+	"02006f6188daf2c3210456601083260cfca8c5e3f918dec9055e73d2b9b4bb6b": {
+		"title": "군 코로나19 확진자 6명 추가…해병 간부·육군 병사 등",
+		"link": "www.yna.co.kr/view/AKR20210320033800504?section=safe/news",
+		"date": "03-20 11:30"
+	},
+	"dc13b92cf7e306364b4b99e885c1cc6a46917eaad66727ce21550b408362145c": {
+		"title": "중앙의료원 \"화이자 백신 99%는 1병당 7명 충분히 접종\"",
+		"link": "www.yna.co.kr/view/AKR20210320031800530?section=safe/news",
+		"date": "03-20 11:30"
+	},
+	"e5280e032849af98b7d522809791c3a44de4f7dcd9e9777c12a39def8c36a9f9": {
+		"title": "인천서 14명 코로나19 확진…내달부터 75세 이상 백신 접종",
+		"link": "www.yna.co.kr/view/AKR20210320033100065?section=safe/news",
+		"date": "03-20 11:20"
+	},
+	"69b0cc5499efbbf86c650bfbfa5645f2b298f3239c759143a378bf9ff6c6c5ff": {
+		"title": "전북서 소규모 집단감염 지속…이틀 새 24명 확진",
+		"link": "www.yna.co.kr/view/AKR20210320032800055?section=safe/news",
+		"date": "03-20 11:16"
+	},
+	"83d02d0b9e31a3a7fb18b3231c425352e639840bd065453563aab0bc2505e3d7": {
+		"title": "코로나로 중단됐던 DMZ 평화관광 일부 구간 재개",
+		"link": "www.yna.co.kr/view/AKR20210320028000504?section=safe/news",
+		"date": "03-20 11:13"
+	},
+	"cad9b8e971cabd4cd30ff89224d060ebfe719e2e911c285f588904708a56bef7": {
+		"title": "울산서 사우나발 7명 또 추가 확진…13일째 연쇄 감염 이어져",
+		"link": "www.yna.co.kr/view/AKR20210320032600057?section=safe/news",
+		"date": "03-20 11:13"
+	},
+	"ceaf10fdf3f3abb4f87c38f7287fe34e4c170867d3c4a14b6d8992bb693ce1bf": {
+		"title": "서울 120명 신규 확진…전날보다 26명 적어(종합)",
+		"link": "www.yna.co.kr/view/AKR20210320027351004?section=safe/news",
+		"date": "03-20 11:00"
+	},
+	"5650e681d2798c5383f2b5a6258263bd7cc7b9adc885b5f0f6a97c9a036a0656": {
+		"title": "대구 신규 확진 16명 추가…2명 감염경로 미확인",
+		"link": "www.yna.co.kr/view/AKR20210320031300053?section=safe/news",
+		"date": "03-20 10:50"
+	},
+	"7ebc66c5b5ae21c1239f23cf56b92e152add0574e8be6c3138463768bdf13e14": {
+		"title": "코로나 휩쓴 작년 한국 행복지수 95개국 중 50위",
+		"link": "www.yna.co.kr/view/AKR20210320030700009?section=safe/news",
+		"date": "03-20 10:49"
+	},
+	"2c94cbbc1bcf11b8cc27075b264bf6e443aa64f571a6567bd36211792eb7b1ab": {
+		"title": "용인 기흥구 소아과병원서 의료진·소아환자 등 17명 감염",
+		"link": "www.yna.co.kr/view/AKR20210320030800061?section=safe/news",
+		"date": "03-20 10:49"
+	},
+	"99773e29696c32ad2a07501f83fc1c9ba15826c553da864554072029a5215c64": {
+		"title": "부산 감염경로 불분명 2명 추가 확진…누적 3천456명",
+		"link": "www.yna.co.kr/view/AKR20210320030200051?section=safe/news",
+		"date": "03-20 10:32"
+	},
 	"058861c0e112e85f0e7d937e597c52d555c7f72acc46b5ffb2a9b87bce8a71f0": {
 		"title": "백신접종 이상반응 150건 늘어 총 9천757건…중증 의심 1건 추가",
 		"link": "www.yna.co.kr/view/AKR20210320029000530?section=safe/news",
@@ -433,70 +498,5 @@
 		"title": "백신접종 1만7천501명↑ 총 65만9천475명…우선대상 82.5% 접종(종합)",
 		"link": "www.yna.co.kr/view/AKR20210319046351530?section=safe/news",
 		"date": "03-19 14:29"
-	},
-	"f4b203aaf6c67c7a6bf4da86ce34d43414d8e5e50d351ede631386e74049a856": {
-		"title": "랩지노믹스, 코로나19 신속 PCR 진단키트 식약처 정식허가받아",
-		"link": "www.yna.co.kr/view/AKR20210319097900017?section=safe/news",
-		"date": "03-19 14:25"
-	},
-	"807f813a104a1ab8efa10c594b465e24a14df172d9a7b1fbcdba6f645aa39d07": {
-		"title": "[속보] 당국 \"어제 코로나19 사망자 중 1명 20대…국내 세번째 사례\"",
-		"link": "www.yna.co.kr/view/AKR20210319097800530?section=safe/news",
-		"date": "03-19 14:23"
-	},
-	"9983050143b608221d4353dc6f049e9d68a79f7c3ce27efceef53ed36bde8cb1": {
-		"title": "[속보] 당국 \"주말 접종전문위서 유럽의약품청 AZ백신 평가 내용 검토\"",
-		"link": "www.yna.co.kr/view/AKR20210319096900530?section=safe/news",
-		"date": "03-19 14:20"
-	},
-	"c1e249f659ba000623a05c12b73f5be47910dec0cec38d4ad54da9da2fb307a3": {
-		"title": "울산 오늘도 사우나발 2명 또 확진…12일째 연쇄 감염(종합)",
-		"link": "www.yna.co.kr/view/AKR20210319031951057?section=safe/news",
-		"date": "03-19 14:17"
-	},
-	"65d4e14ef99997710d5ba712a199964b94992254dce5a0a6495832a75b97c4e4": {
-		"title": "정부대전청사 관세청 직원 1명 코로나19 확진",
-		"link": "www.yna.co.kr/view/AKR20210319093800063?section=safe/news",
-		"date": "03-19 14:08"
-	},
-	"4ec1ecb5c5055ee114361c5f9e7917e084b841a7f2677d905430a1ae4e1d49b9": {
-		"title": "경남 21명 확진…거제 유흥업소·진주 사우나 관련 감염 계속",
-		"link": "www.yna.co.kr/view/AKR20210319092700052?section=safe/news",
-		"date": "03-19 14:02"
-	},
-	"c9996d8f3e26defdde19214d18187cc036402d18bb9ca4ec90d4048c5a625ceb": {
-		"title": "부산까지 건너온 거제 조선소발 연쇄감염…현재까지 모두 9명(종합)",
-		"link": "www.yna.co.kr/view/AKR20210319052851051?section=safe/news",
-		"date": "03-19 13:45"
-	},
-	"fd8423d4035511d3d3cc95a7b29407ec1a4d14fc3d890fafa6e7fd62be49a798": {
-		"title": "속초시, 확진자 급증에 거리두기 2단계로 격상",
-		"link": "www.yna.co.kr/view/AKR20210319085400062?section=safe/news",
-		"date": "03-19 13:21"
-	},
-	"84f2fb4145e17f80251dc2954a263808b8e91afb09b1e107d63e0de894ecb44e": {
-		"title": "부천 고교서 강사·학생 4명 확진…밀접 접촉자 30명 검사",
-		"link": "www.yna.co.kr/view/AKR20210319083600065?section=safe/news",
-		"date": "03-19 13:18"
-	},
-	"51a4e6c4b18267ffe9acc57fac8aa762897a881cff3e949f25bab1024ead64d1": {
-		"title": "대전1호 예방접종센터서 시·5개 자치구 코로나19 접종 모의훈련",
-		"link": "www.yna.co.kr/view/AKR20210319048700063?section=safe/news",
-		"date": "03-19 13:00"
-	},
-	"c68969a8a3284a33494a541a91be90fecd0b97322543a3cdf7ed0f0783a45d47": {
-		"title": "광주서 일반 시민 백신접종 모의훈련…내달 1일부터 접종",
-		"link": "www.yna.co.kr/view/AKR20210319080500054?section=safe/news",
-		"date": "03-19 12:37"
-	},
-	"3ad7da5a327f1a772898ab9d262bf23fdd52d742c708c5c640652eb8a6779e9a": {
-		"title": "용인시, 직원 확진 역삼동 행정복지센터 오늘 하루 폐쇄",
-		"link": "www.yna.co.kr/view/AKR20210319078300061?section=safe/news",
-		"date": "03-19 12:08"
-	},
-	"5d5137f8203eba7eb28ae2d12f1eeb4a7b27ed06f3684ac6a78a6515286fd7ad": {
-		"title": "서울시 \"어제 외국인노동자 6명 확진…검사명령 이행해달라\"",
-		"link": "www.yna.co.kr/view/AKR20210319078900004?section=safe/news",
-		"date": "03-19 12:06"
 	}
 }
