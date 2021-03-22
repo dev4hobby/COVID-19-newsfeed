@@ -1,4 +1,9 @@
 {
+	"821700e1dbfd7a3d5cc2c73fd2c36d157b156a5c62a6f86cc5042f6c6665437b": {
+		"title": "오후 9시까지 서울 92명 신규 확진…전날보다 14명↓",
+		"link": "www.yna.co.kr/view/AKR20210322145451004?section=safe/news",
+		"date": "03-22 21:19"
+	},
 	"ad29ad4b6851a6717ff09fa626fecbd0df14240341bca63cfe5329e4ad951a38": {
 		"title": "오후 6시까지 서울 84명 신규 확진…전날보다 19명↓",
 		"link": "www.yna.co.kr/view/AKR20210322145400004?section=safe/news",
@@ -493,10 +498,5 @@
 		"title": "백신 우선접종대상자 67만6천607명 1차 접종 완료…접종률 84.6%",
 		"link": "www.yna.co.kr/view/AKR20210322053900530?section=safe/news",
 		"date": "03-22 10:25"
-	},
-	"cfac40ea94617061ce7e6d031434204432c129095110eedabd9ed9348975a973": {
-		"title": "경기 어제 151명 확진…직장·모임 등서 집단감염 지속",
-		"link": "www.yna.co.kr/view/AKR20210322051200061?section=safe/news",
-		"date": "03-22 10:13"
 	}
 }
