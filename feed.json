@@ -1,4 +1,39 @@
 {
+	"fb25c47f834ea733a0694db310edcdc243b02015fe48c1008f5378ac93cfb160": {
+		"title": "당국 \"아나필락시스 1건·중증반응 1건 백신 영향…인과성 인정\"(종합)",
+		"link": "www.yna.co.kr/view/AKR20210322100051530?section=safe/news",
+		"date": "03-22 16:12"
+	},
+	"c408df1f94d383496defa4e5b3cf75b8ee72cc821313fa5fa597e5fd64cfedf5": {
+		"title": "공공기관·모임·공장서 잇단 감염…거제 조선소 관련 누적 79명",
+		"link": "www.yna.co.kr/view/AKR20210322118900530?section=safe/news",
+		"date": "03-22 16:04"
+	},
+	"1573e220fe03672ecd2ffc27e4d53273c0985097678b363a2433b2c27e4b988c": {
+		"title": "최근 입국 주한미군 4명 코로나19 확진",
+		"link": "www.yna.co.kr/view/AKR20210322119900504?section=safe/news",
+		"date": "03-22 16:03"
+	},
+	"345486d4687b4611ab143b525aa708e87ac19e11770870d0f413797950929305": {
+		"title": "사우나발 집단감염 진주 '상대동 가구별 1명이상 검사' 행정명령",
+		"link": "www.yna.co.kr/view/AKR20210322111300052?section=safe/news",
+		"date": "03-22 15:40"
+	},
+	"3b708158d7421f165ab58f7eba69306245356a4fac374de679eb5a81db67a7c5": {
+		"title": "\"울산 사우나-장례식장발 감염자 집단, 동일한 변이 바이러스\"",
+		"link": "www.yna.co.kr/view/AKR20210322113400057?section=safe/news",
+		"date": "03-22 15:34"
+	},
+	"b5ac32a2aa60c47a0ec36c889c142873d3945e419295695cde47b7dc051e7e9f": {
+		"title": "독일, 코로나19 봉쇄조치 연장 검토…변이·부활절 리스크 고려",
+		"link": "www.yna.co.kr/view/AKR20210322113500009?section=safe/news",
+		"date": "03-22 15:34"
+	},
+	"b12c99fcd283b1b9b026278a08d2da6233c3f93b2d018db0a8eb55ccf220202a": {
+		"title": "EU \"유럽 7월까지 집단면역 달성할 것\"…러시아 백신엔 선긋기",
+		"link": "www.yna.co.kr/view/AKR20210322109800009?section=safe/news",
+		"date": "03-22 15:33"
+	},
 	"b2e3ccd751950e98af89827135cc826156e0aed4f0f35cc9143e1dac0e6f8cef": {
 		"title": "\"안전이 제일\" 전남도, 백신접종 모의훈련",
 		"link": "www.yna.co.kr/view/AKR20210322112800054?section=safe/news",
@@ -463,40 +498,5 @@
 		"title": "이스라엘, 신규확진 200명대…총리 \"더는 봉쇄 안해\"(종합)",
 		"link": "www.yna.co.kr/view/AKR20210321055551079?section=safe/news",
 		"date": "03-22 01:23"
-	},
-	"0c8ab244a275f022f58abe4a697e5320076d0e9c899822aa895d2c83202f22b7": {
-		"title": "'코로나 통제불능' 브라질 5일째 2천명대 사망…인접국 긴장고조",
-		"link": "www.yna.co.kr/view/AKR20210322001100094?section=safe/news",
-		"date": "03-22 01:16"
-	},
-	"fbc5120b8992a3f379f0e55f14f3b35256e8fa273500e41c1206086808d9e30c": {
-		"title": "'국민 30% 백신접종' 칠레, 코로나 신규 확진자는 최다",
-		"link": "www.yna.co.kr/view/AKR20210322001000087?section=safe/news",
-		"date": "03-22 00:56"
-	},
-	"0c9600fb324131995c1e1e61b21e59b772568c5257d89329c0caf47c835dba8e": {
-		"title": "EU 백신수출 차단 위협에 영국 국방장관 \"국제평판 훼손될 것\"",
-		"link": "www.yna.co.kr/view/AKR20210322000700085?section=safe/news",
-		"date": "03-22 00:33"
-	},
-	"fa699692d9ea36406cfe1785d0c060748fba14bc04a6deef7f55749bc45777e0": {
-		"title": "폴크스바겐, 브라질서 일시 조업 중단…\"코로나로 부품 부족\"",
-		"link": "www.yna.co.kr/view/AKR20210321057500094?section=safe/news",
-		"date": "03-21 23:52"
-	},
-	"a3027b84ab05be539a3ef269a730db93c2c3d6694f4b51d58ab9b38e0f186d8a": {
-		"title": "러 전문가 \"코로나19 완치자 약 20%는 항체 없어…백신 맞아야\"",
-		"link": "www.yna.co.kr/view/AKR20210321057100080?section=safe/news",
-		"date": "03-21 22:33"
-	},
-	"c31cc8c0c75e50ff7ea3ebe3b7aa082fbde8f3eb6ab6d5e7030749ead4bacc63": {
-		"title": "충북 5명 확진…제천 사우나발 n차 감염 계속(종합)",
-		"link": "www.yna.co.kr/view/AKR20210321030651064?section=safe/news",
-		"date": "03-21 22:07"
-	},
-	"bc2a3b984a08207403d78e3ea060e56dddf6e1d823db3a829e84607ddc0d055c": {
-		"title": "이스라엘, 신규확진자 200명대로…총리 \"더는 봉쇄 안해\"",
-		"link": "www.yna.co.kr/view/AKR20210321055500079?section=safe/news",
-		"date": "03-21 21:48"
 	}
 }
