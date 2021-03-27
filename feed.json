@@ -1,4 +1,54 @@
 {
+	"709a7cbe6887e0b5f7c3930ecc69b4d3e8d7bfe29bee94ea77e36bdb9fd1b423": {
+		"title": "서울 127명 신규확진…전날보다 5명 많아(종합)",
+		"link": "www.yna.co.kr/view/AKR20210327028351004?section=safe/news",
+		"date": "03-27 11:00"
+	},
+	"519e959fcf185c52cee84496333ce8639dab990abde3c2088c0d9d38c8accbce": {
+		"title": "용인 기흥구 대형교회·골프장 연결고리로 14명 확진",
+		"link": "www.yna.co.kr/view/AKR20210327032300061?section=safe/news",
+		"date": "03-27 10:55"
+	},
+	"999c199e050490ddc01e169e6e3d2f1bc02781972e037c911626767bcc10d691": {
+		"title": "대구·경북 코로나19 신규 확진자 34명 발생",
+		"link": "www.yna.co.kr/view/AKR20210327031100053?section=safe/news",
+		"date": "03-27 10:27"
+	},
+	"9705c82bd0f6334296b2f595b551fc2ba12444267c3a88e937e7131f1e7c3764": {
+		"title": "괴산까지 번진 증평 교회발 집단감염…12월 악몽 재현되나",
+		"link": "www.yna.co.kr/view/AKR20210326157100064?section=safe/news",
+		"date": "03-27 10:25"
+	},
+	"e622d080c895f5138cc9ccf279f8eac18efe21e1453a4fd5f5b416fecdc94957": {
+		"title": "경기 145명 신규확진…직장·교회 등서 일상감염 지속",
+		"link": "www.yna.co.kr/view/AKR20210327030100061?section=safe/news",
+		"date": "03-27 10:17"
+	},
+	"ea594a8cb78b95663c2b27857c35ce9d167442ee70ecc3961d904e068084ccc7": {
+		"title": "백신 이상반응 149건 추가…사망신고 4건 늘어, 인과성 미확인",
+		"link": "www.yna.co.kr/view/AKR20210327030300530?section=safe/news",
+		"date": "03-27 10:13"
+	},
+	"eec9013e4c70a8cd72cab7c4e7b505706bb0c43ee1e0bdb3c8db91581b726dca": {
+		"title": "\"일본, 화이자백신 2차 접종자 36％가 37.5도 이상 발열\"",
+		"link": "www.yna.co.kr/view/AKR20210327029900073?section=safe/news",
+		"date": "03-27 10:09"
+	},
+	"0ee6883aef46edccb2df3122b8167313f185b66a0885397487b8b56990c1e79b": {
+		"title": "부산 4명 추가 확진…백신 접종률 66.3%",
+		"link": "www.yna.co.kr/view/AKR20210327026000051?section=safe/news",
+		"date": "03-27 10:00"
+	},
+	"c24d5f6668144e26b30e0e495539ce74aec743f438ee549638454dd3af4e0c4c": {
+		"title": "강화도 폐교서 합숙생활한 방문판매업체서 28명 집단감염",
+		"link": "www.yna.co.kr/view/AKR20210327026900065?section=safe/news",
+		"date": "03-27 09:56"
+	},
+	"884d379088096fadd9693e54c3ef5c472393addf074e33beac87688af4c62811": {
+		"title": "신규확진 505명, 36일 만에 다시 500명대로…전국 재확산 양상(종합)",
+		"link": "www.yna.co.kr/view/AKR20210327023151530?section=safe/news",
+		"date": "03-27 09:54"
+	},
 	"3724406e6e9df569ccdc2b66f82338b4262666942a8444fd9e10d912627c4a76": {
 		"title": "서울 127명 신규확진…전날보다 5명 많아",
 		"link": "www.yna.co.kr/view/AKR20210327028300004?section=safe/news",
@@ -448,55 +498,5 @@
 		"title": "'집단감염' 고양 무도장 출입명부 미작성 93명에 과태료",
 		"link": "www.yna.co.kr/view/AKR20210326095900060?section=safe/news",
 		"date": "03-26 13:50"
-	},
-	"3e6fd486454de09bfe55aa97c292ae042971e7ca809a121e3673ce8ca606097a": {
-		"title": "셀트리온, 코로나19 항체치료제 유럽 사용 '청신호' 암시",
-		"link": "www.yna.co.kr/view/AKR20210326091600017?section=safe/news",
-		"date": "03-26 13:45"
-	},
-	"d72389431c54b143c2715b5ded9a6addbb8ff333decb02771d50692b17ffc65b": {
-		"title": "인도 코로나19 신규 감염자 연일 급증…한달 만에 1만→6만",
-		"link": "www.yna.co.kr/view/AKR20210326091100077?section=safe/news",
-		"date": "03-26 13:31"
-	},
-	"1b0c092d370c26521e9c6652b86ce6f71a704f0b923b35c241d20b57e465c71b": {
-		"title": "\"백신 접종후 48시간 내 발열 등 경미 반응 응급실 방문 자제\"",
-		"link": "www.yna.co.kr/view/AKR20210326081800017?section=safe/news",
-		"date": "03-26 11:52"
-	},
-	"564f5b96457bf4859540eaedfa158c40ed9096e23da64c92983f2fea9658b02b": {
-		"title": "33종 시설에 기본방역수칙 일괄 의무화…시설별 '추가수칙'도(종합)",
-		"link": "www.yna.co.kr/view/AKR20210326080451530?section=safe/news",
-		"date": "03-26 12:56"
-	},
-	"2fa8f7b892edf945a1b5db3a78b4f4c3720183f243ec7a5a4d46677f3ff2b14f": {
-		"title": "정부 \"개인간 감염 많은 현시점에서 거리두기 격상 적절치 않아\"",
-		"link": "www.yna.co.kr/view/AKR20210326085600530?section=safe/news",
-		"date": "03-26 12:43"
-	},
-	"5b7e81e8e51e768cfe45ae2405cf4b36b9d44db782ef4c24ee278233d6cf97b1": {
-		"title": "성남시청 파견 경찰관 1명 확진…같은 층 직원 134명 검사중",
-		"link": "www.yna.co.kr/view/AKR20210326084500061?section=safe/news",
-		"date": "03-26 12:24"
-	},
-	"18f8e67ead4f6bdeab1678d6d53f4c7e208d2713c6eaf0c108562bb8481e96fa": {
-		"title": "2주간 달라지는 방역수칙은…경기장-키즈카페서도 음식섭취 금지",
-		"link": "www.yna.co.kr/view/AKR20210326081900530?section=safe/news",
-		"date": "03-26 12:17"
-	},
-	"a907f973fde7af431b07ac010d1c4c863cab35cda8c2c5e7dd6a1b10d6927e1e": {
-		"title": "이웃 결속 나선 印모디…코로나 사태 후 첫 해외 방문 방글라행",
-		"link": "www.yna.co.kr/view/AKR20210326081000077?section=safe/news",
-		"date": "03-26 11:57"
-	},
-	"f651282713f9b3d3330736ecad7804877ed5bce4d70ccae1117fb5798d59e83a": {
-		"title": "\"코로나19 백신 접종후 48시간 내 발열은 응급실 방문 자제\"",
-		"link": "www.yna.co.kr/view/AKR20210326081800017?section=safe/news",
-		"date": "03-26 11:52"
-	},
-	"9402b5304a7cdb1dc527a638340f7388e4a94f0851f3063b55219a1123227f8e": {
-		"title": "인도네시아 \"하루 100만명 백신 맞으면 신수도 건설 속도\"",
-		"link": "www.yna.co.kr/view/AKR20210326076100104?section=safe/news",
-		"date": "03-26 11:39"
 	}
 }
