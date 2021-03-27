@@ -1,4 +1,74 @@
 {
+	"3724406e6e9df569ccdc2b66f82338b4262666942a8444fd9e10d912627c4a76": {
+		"title": "서울 127명 신규확진…전날보다 5명 많아",
+		"link": "www.yna.co.kr/view/AKR20210327028300004?section=safe/news",
+		"date": "03-27 09:52"
+	},
+	"5203648e9370df517f52406a3478b7b1e452a1e5a4588a521eecbf7df748adc0": {
+		"title": "수도권 임시 선별검사소서 82명 확진…수도권 지역발생의 26.8%",
+		"link": "www.yna.co.kr/view/AKR20210327027600530?section=safe/news",
+		"date": "03-27 09:46"
+	},
+	"755ba6f304d79609be1a52101540ee21fba891237c3a66e75f98a675b8988dfa": {
+		"title": "백신 1차접종 2만2천845명↑ 총 79만2천274명…2차는 5천232명",
+		"link": "www.yna.co.kr/view/AKR20210327027400530?section=safe/news",
+		"date": "03-27 09:46"
+	},
+	"3b028044996096b491da988707c3ba6245d034e52e8d768ccd48ad67097b7dcb": {
+		"title": "[3보] 신규확진 505명, 36일 만에 다시 500명대로…전국 재확산 양상",
+		"link": "www.yna.co.kr/view/AKR20210327023100530?section=safe/news",
+		"date": "03-27 09:43"
+	},
+	"a1e85984cd1fa181ff9c59bc6e44391add7597a9bdbc6fec5f9fc38b5b70383c": {
+		"title": "울산서 확진자와 접촉한 직장동료 4명 코로나19 연쇄감염",
+		"link": "www.yna.co.kr/view/AKR20210327027000057?section=safe/news",
+		"date": "03-27 09:42"
+	},
+	"e9e5f2ed19bfd92c4b1caff98fdcc982d09421e2a7733590c3a38e3fdd4ddeb5": {
+		"title": "[속보] 백신 이상반응 149건 추가…사망신고 4건 늘어, 인과성 미확인",
+		"link": "www.yna.co.kr/view/AKR20210327026400530?section=safe/news",
+		"date": "03-27 09:34"
+	},
+	"b7bb72ae3d806c3108cdcd916eeb580a47aeef342aaee4da25c9649b8af5a330": {
+		"title": "[속보] 백신 1차접종 2만2천845명↑총 79만2천274명…5천232명 2차까지",
+		"link": "www.yna.co.kr/view/AKR20210327026300530?section=safe/news",
+		"date": "03-27 09:32"
+	},
+	"246d60bde1cfe030ed7f64b8cd649d57fcc79e5b598d0bbed0954683783f09f3": {
+		"title": "[2보] 코로나19 어제 505명 신규확진…36일 만에 다시 500명대로",
+		"link": "www.yna.co.kr/view/AKR20210327022400530?section=safe/news",
+		"date": "03-27 09:30"
+	},
+	"fdcaa4259022368f758dceb02ed14da8db99abd67f69965e0bb4271395593e10": {
+		"title": "[속보] 코로나19로 어제 5명 사망…누적 1천721명",
+		"link": "www.yna.co.kr/view/AKR20210327022500530?section=safe/news",
+		"date": "03-27 09:30"
+	},
+	"3f4e45cfe9ce3edf7bbc230ef9de21bb3e2a118f2b8161f6d20c5b321c009c2a": {
+		"title": "[1보] 코로나19 어제 505명 신규확진…36일 만에 다시 500명대로",
+		"link": "www.yna.co.kr/view/AKR20210327022300530?section=safe/news",
+		"date": "03-27 09:30"
+	},
+	"9bacb2fa31ce2f6b6c71a85326ebc3739c6598fe63c149527f401767f4a781b3": {
+		"title": "질병청, 올해 감염병전문병원 지정 대상 권역에 경북권 선정",
+		"link": "www.yna.co.kr/view/AKR20210327025500530?section=safe/news",
+		"date": "03-27 09:28"
+	},
+	"b51df04098467a9f8a1835de97e30785d8fb1084500d7c8d927759393f7769f5": {
+		"title": "브라질 코로나 하루 사망 3천650명…또 최다 기록 경신",
+		"link": "www.yna.co.kr/view/AKR20210327021400094?section=safe/news",
+		"date": "03-27 09:26"
+	},
+	"1018ea416e0768122472d29af9b40f0cc5f57d9fd168ab9adf547c5b0bb35233": {
+		"title": "대전서 서울 동작구 확진자 매개 3명 더 확진…10명째",
+		"link": "www.yna.co.kr/view/AKR20210326044253063?section=safe/news",
+		"date": "03-27 09:06"
+	},
+	"5db370169e9b6e6b09fd7f16558cfa290892753082caa001dbb090f4792862c1": {
+		"title": "정부 \"재보선 등 방역 불안요인…75세 이상 백신접종 차질 없게\"",
+		"link": "www.yna.co.kr/view/AKR20210327022700530?section=safe/news",
+		"date": "03-27 08:44"
+	},
 	"4b01793460ac8dfbd860635154ca4bf986f96406b814ba40ad3d59ba93d4c536": {
 		"title": "증평 교회발 확진자 1명 추가…사흘새 27명 확진",
 		"link": "www.yna.co.kr/view/AKR20210327020100064?section=safe/news",
@@ -428,75 +498,5 @@
 		"title": "인도네시아 \"하루 100만명 백신 맞으면 신수도 건설 속도\"",
 		"link": "www.yna.co.kr/view/AKR20210326076100104?section=safe/news",
 		"date": "03-26 11:39"
-	},
-	"cdcb4cf22b4626bf2d2a782f4dcd7b5e00dc565bb6292dcbdba508ec11327242": {
-		"title": "기본방역수칙 강화-적용시설 33개로 확대…스포츠경기장 등 추가",
-		"link": "www.yna.co.kr/view/AKR20210326080400530?section=safe/news",
-		"date": "03-26 11:47"
-	},
-	"e08a31687952c86e63d3a705dcbcaa35207e3331b324a1ffb96592dc6f4aebb3": {
-		"title": "인도네시아 장관 \"하루 100만명 백신 맞으면 신수도 추진\"",
-		"link": "www.yna.co.kr/view/AKR20210326076100104?section=safe/news",
-		"date": "03-26 11:39"
-	},
-	"e7f811c298c430fef86a54bf4545e15a2158a70eb32e8cb2c4fa0245e71e70f7": {
-		"title": "'집단감염' SK 핸드볼팀 관련 남양주서도 4명 확진",
-		"link": "www.yna.co.kr/view/AKR20210326079100060?section=safe/news",
-		"date": "03-26 11:38"
-	},
-	"6efed4b9caa6642a0522033b4f103a3068792a1a63b37715b88789493e57e76c": {
-		"title": "화성시, 가정형 어린이집 집단감염 촉발한 보육교사 고발 검토",
-		"link": "www.yna.co.kr/view/AKR20210326075500061?section=safe/news",
-		"date": "03-26 11:32"
-	},
-	"a4aa123390aff4aae56df1f8163e88e2ad522982be14c60d66a17d4b3f8974bd": {
-		"title": "전북 5명 산발적 코로나19 감염…누적 1천391명",
-		"link": "www.yna.co.kr/view/AKR20210326074100055?section=safe/news",
-		"date": "03-26 11:24"
-	},
-	"48bea86cdd61936a047e392255b673d30360752be3027dead4f2cf0aaae91723": {
-		"title": "서울시 \"다음달부터 75세 이상 일반시민 백신 접종\"",
-		"link": "www.yna.co.kr/view/AKR20210326073900004?section=safe/news",
-		"date": "03-26 11:20"
-	},
-	"a62a2fdbfde9558d151814a46167c229183b4bafa9a42b07d3ae54a8236f3d37": {
-		"title": "육군 병사 1명 휴가 중 코로나19 확진",
-		"link": "www.yna.co.kr/view/AKR20210326070600504?section=safe/news",
-		"date": "03-26 11:19"
-	},
-	"e472230836f021efb55738b3a526af964f54468623015fbb7481c3790901ef7f": {
-		"title": "서울 122명 신규 확진…직장 집단감염 잇따라(종합)",
-		"link": "www.yna.co.kr/view/AKR20210326046751004?section=safe/news",
-		"date": "03-26 11:11"
-	},
-	"56b081dfd8383000b5f2835f877a2a9bbec26c34e6ee1b11278e6dbb1fd3eb7c": {
-		"title": "천안 75세 이상 코로나19 백신접종…1주일 앞당겨 내달 1일부터",
-		"link": "www.yna.co.kr/view/AKR20210326062400063?section=safe/news",
-		"date": "03-26 11:08"
-	},
-	"baad067bdbb597c96bcf685aa10eb77dd6729b2ddf794665f9459b8f21a7a04f": {
-		"title": "방호복 입고 백신 맞았는데…고열환자 이송 소방대원 2명 확진",
-		"link": "www.yna.co.kr/view/AKR20210326060300052?section=safe/news",
-		"date": "03-26 11:06"
-	},
-	"fa8c4de65582e673a5dcee58989efc0b99db9081adf7c51a0661743e485ae69e": {
-		"title": "[속보] 기본방역수칙 강화-적용시설 33개로 확대…경기장-카지노 등 추가",
-		"link": "www.yna.co.kr/view/AKR20210326068800530?section=safe/news",
-		"date": "03-26 11:06"
-	},
-	"8542a4f4a2188ff3e895c5e1582d2f3909a3a5126d8c6337b64efdb20e1eb120": {
-		"title": "\"직장인 48%, 코로나19 백신 맞겠다…33% 부작용 보고 결정\"",
-		"link": "www.yna.co.kr/view/AKR20210326067400017?section=safe/news",
-		"date": "03-26 11:02"
-	},
-	"da1a349a1e26fe7c35a1943931db9b5d003a6ab040e2d202a29256a78bc7318d": {
-		"title": "대구 사우나·수영장 등 곳곳 '지뢰밭'…18명 추가 확진(종합)",
-		"link": "www.yna.co.kr/view/AKR20210326029151053?section=safe/news",
-		"date": "03-26 11:02"
-	},
-	"abb8755c401ba8a7ae241a1117c253731ebbcf26edb66b45e63bdb88ba1f527c": {
-		"title": "정선군 내달 중순부터 75세 이상 코로나 백신 접종",
-		"link": "www.yna.co.kr/view/AKR20210326066800062?section=safe/news",
-		"date": "03-26 11:01"
 	}
 }
