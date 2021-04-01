@@ -1,4 +1,64 @@
 {
+	"ff635ee4c01cd9feac45557b16b7ee6cde7132c6780dc7642344143c2d7335e3": {
+		"title": "GSK-비어 \"코로나19 항체치료제, 미 FDA 긴급사용승인 신청\"",
+		"link": "www.yna.co.kr/view/AKR20210401121400017?section=safe/news",
+		"date": "04-01 14:33"
+	},
+	"b626692cc0823d38206a765358ea149297dfc2569a1648459780696cade386c1": {
+		"title": "서울 송파구 고등학교서 집단 감염…학생 7명·교직원 1명 확진",
+		"link": "www.yna.co.kr/view/AKR20210401119700530?section=safe/news",
+		"date": "04-01 14:32"
+	},
+	"682b9c27ce42f12495cee22ca53ee8c2443ee7936fed868fad1f073546bff426": {
+		"title": "인천가정법원 직원 1명 확진…같은 층 근무자 등 50명 검사",
+		"link": "www.yna.co.kr/view/AKR20210401121200065?section=safe/news",
+		"date": "04-01 14:32"
+	},
+	"98d9e36cbaeb46d88e2a8e2913229316bba2c25d086c0f64fd025481963e888b": {
+		"title": "백신 1차 접종자 총 87만6천573명…우선접종 대상의 70.7%(종합)",
+		"link": "www.yna.co.kr/view/AKR20210401051651530?section=safe/news",
+		"date": "04-01 14:31"
+	},
+	"30ee508607d6934ec86a78f4e1a497dd26a1314a3294260fff597a4cadd88204": {
+		"title": "전주시 코로나19 전방위 확산…거리두기 2단계로 격상(종합)",
+		"link": "www.yna.co.kr/view/AKR20210401113751055?section=safe/news",
+		"date": "04-01 14:30"
+	},
+	"d3485fbaa69182ac3685f713f20dbc9e4b40a10f8c738480cd9789aad5245dc8": {
+		"title": "송철호 울산시장, AZ백신 접종…\"백신 접종 적극 동참해달라\"",
+		"link": "www.yna.co.kr/view/AKR20210401025700057?section=safe/news",
+		"date": "04-01 14:30"
+	},
+	"aad4df51a4d41066326263a7985ac967bbc0f876920e259930480e22359aa5b0": {
+		"title": "백신 이상반응 123건 늘어…사망신고 2건 추가, 인과성 미확인(종합)",
+		"link": "www.yna.co.kr/view/AKR20210401028751530?section=safe/news",
+		"date": "04-01 14:29"
+	},
+	"5f54ba0f2ee73c64e9e9141242761ebfbeb0090163afe549a411a42a49e8df8c": {
+		"title": "확진자 거쳐간 부산 유흥업소 100여곳…전방위 감염 확산 우려",
+		"link": "www.yna.co.kr/view/AKR20210401113900051?section=safe/news",
+		"date": "04-01 14:24"
+	},
+	"e72efcfa3747850eb3ce319e1200c1f82af3d4e2e6f4fac502007aaf9d851315": {
+		"title": "내일 치과-한의사-약사-간호사협회장 AZ백신 접종…의협회장 빠져(종합)",
+		"link": "www.yna.co.kr/view/AKR20210401092551530?section=safe/news",
+		"date": "04-01 14:19"
+	},
+	"8d08aba03c70e1c489661ff87ba90b9046f9f337acdeb58ed392eccdbc30c9e9": {
+		"title": "[속보] 당국 \"코로나19 자가진단 키트 활용 가능성 논의 착수\"",
+		"link": "www.yna.co.kr/view/AKR20210401117300530?section=safe/news",
+		"date": "04-01 14:18"
+	},
+	"e5fe750a3af65135f3fd3eadc9db1519e93d635b68e80b5b9c7d93d13af74b1b": {
+		"title": "일반인 백신접종 시작…75세 이상 대상으로 전국 46곳 동시진행(종합)",
+		"link": "www.yna.co.kr/view/AKR20210401037152530?section=safe/news",
+		"date": "04-01 14:08"
+	},
+	"f4df1dd842b6e4c96c3d96ed28443acf223773c0265ccec05fbcc05e26c0b99e": {
+		"title": "전주시, 사회적 거리두기 2단계로 격상…2일 정오부터 적용",
+		"link": "www.yna.co.kr/view/AKR20210401113700055?section=safe/news",
+		"date": "04-01 14:08"
+	},
 	"443e794378ec6d9194c74b72ed3500004573ad28c83e60c4f0bbf92aa2522af1": {
 		"title": "인도 신규 확진 6개월만에 7만명 넘어…방글라·파키스탄도 급증",
 		"link": "www.yna.co.kr/view/AKR20210401105700077?section=safe/news",
@@ -438,65 +498,5 @@
 		"title": "모스크바시 \"주민 약 1천명 백신 2차 접종 뒤에도 코로나 감염\"",
 		"link": "www.yna.co.kr/view/AKR20210401003000080?section=safe/news",
 		"date": "04-01 01:32"
-	},
-	"b7d8b16d7c31cdf5518b77c9a087781ab0e1279cfc731b27d643b9862ec49d3e": {
-		"title": "WHO \"코로나 치료 위한 구충제 이버멕틴 사용, 임상 실험서만\"",
-		"link": "www.yna.co.kr/view/AKR20210401003200088?section=safe/news",
-		"date": "04-01 01:31"
-	},
-	"f6617628c215ce34f355c3db2fb065246eaabb6cb860322238a76edb4ce7df46": {
-		"title": "코로나19, 작년 미국서 사망 원인 3위…심장병·암 다음",
-		"link": "www.yna.co.kr/view/AKR20210401002900091?section=safe/news",
-		"date": "04-01 01:28"
-	},
-	"5705405372a7c971707c822d2eadb18754146bceaa6ed16f50d6ccdd1cb21961": {
-		"title": "EMA \"AZ백신 특정연령대 위험 발견 못해…연령제한 근거 없어\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20210331196252085?section=safe/news",
-		"date": "04-01 01:13"
-	},
-	"1cf67fa8530d5db47c9837ecb4470f3000706294140163c88bf3158f9002ffca": {
-		"title": "스페인, 필수노동자에 한해 AZ 백신 접종 연령 제한 없앤다",
-		"link": "www.yna.co.kr/view/AKR20210401001700081?section=safe/news",
-		"date": "04-01 00:33"
-	},
-	"139925d1d1fab9407a9c4b8d328a590db293a2c7b7d059b939ecf8fe507ed2a3": {
-		"title": "IMF \"코로나사태 중기적 영향 금융위기 때만큼 심각하진 않을것\"",
-		"link": "www.yna.co.kr/view/AKR20210331199800071?section=safe/news",
-		"date": "04-01 00:04"
-	},
-	"71b419f7a1b1a8b9c5f3a341ad0807eb08cdc3c384835664f4f078b2f98cb848": {
-		"title": "유럽의약품청 \"AZ백신 특정 연령대 위험 없는 것으로 판단\"",
-		"link": "www.yna.co.kr/view/AKR20210331196251085?section=safe/news",
-		"date": "03-31 23:00"
-	},
-	"551126a5ce47cfc15b42be9af0ab8ad992bd5c55ef0fb89eec8bc05780845536": {
-		"title": "\"러시아 개발 세번째 코로나19 백신 '코비박', 변이에도 효과\"",
-		"link": "www.yna.co.kr/view/AKR20210331197400080?section=safe/news",
-		"date": "03-31 22:58"
-	},
-	"4ef111c2e85221adf37a71e3ed6a3c18777cd7b0972cf0f74c646ddf3e76dfc0": {
-		"title": "일본 코로나 신규 확진 2천800명대…오사카부 599명",
-		"link": "www.yna.co.kr/view/AKR20210331196300073?section=safe/news",
-		"date": "03-31 22:46"
-	},
-	"a16a444c9d7f637e82d10e60bcfe62bc11b98b4cc1b3d00c3fa0a47a243e31c3": {
-		"title": "이스라엘 보건장관 \"청소년 백신 접종도 지체 없이 진행할 것\"",
-		"link": "www.yna.co.kr/view/AKR20210331195700111?section=safe/news",
-		"date": "03-31 22:40"
-	},
-	"65eaa607b665b9fde6215658e9a9ac37f8872a5639b2cf96b12e93cf06c8ace0": {
-		"title": "이탈리아 지방정부서 코로나19 확진·사망자 수치 조작 의혹",
-		"link": "www.yna.co.kr/view/AKR20210331195600109?section=safe/news",
-		"date": "03-31 22:33"
-	},
-	"7c038500f659c31f24e2dd3ff1f7710b48f8cffda13bc17c4c67b28f89dc8856": {
-		"title": "[속보] \"EU, AZ 백신 특정 연령 위험 못찾아\"<AFP>",
-		"link": "www.yna.co.kr/view/AKR20210331196200085?section=safe/news",
-		"date": "03-31 22:30"
-	},
-	"a97b52803050ef8a78dd0d83d5e9e705d6af387a090b71328e875d5929edcecd": {
-		"title": "한화사업장·외국인 감염 이어져…충북 20명 추가 확진(종합)",
-		"link": "www.yna.co.kr/view/AKR20210331174751064?section=safe/news",
-		"date": "03-31 22:12"
 	}
 }
