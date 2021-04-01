@@ -1,4 +1,74 @@
 {
+	"2c504859898dd7a39e90f290ae889866ee812171fc8788d2d7c22f5b2efbf284": {
+		"title": "고양시, 인공지능 활용 자가격리자 건강 상태 관리",
+		"link": "www.yna.co.kr/view/AKR20210401129300060?section=safe/news",
+		"date": "04-01 15:14"
+	},
+	"bc4098f5386d99aa408b7e0ab383dacc206b1017e44f14f539f432532b3a0b4b": {
+		"title": "[속보] 코로나19로 오늘 전국 113개교 등교 불발…지난주보다 1곳 감소",
+		"link": "www.yna.co.kr/view/AKR20210401134300530?section=safe/news",
+		"date": "04-01 15:12"
+	},
+	"de79fc0ec59caeb62f70478513d9a450e16ccc0b6a507ca8e9295c353ac78dae": {
+		"title": "[속보] 최근 1주간 유초중고생 277명 확진…하루 평균 39.6명꼴",
+		"link": "www.yna.co.kr/view/AKR20210401134000530?section=safe/news",
+		"date": "04-01 15:11"
+	},
+	"504012f2b1aa862b54abae867f18bde280f6be4f82369d6036c8d7c1eaaf6da8": {
+		"title": "코로나19 일상감염 확산…학교-병원-직장-교회서 새 집단발병",
+		"link": "www.yna.co.kr/view/AKR20210401126900530?section=safe/news",
+		"date": "04-01 15:09"
+	},
+	"3646feab47c2ff457f7c822d2d658a76665f84790697c271f048686f6d054e6d": {
+		"title": "세계 곳곳서 코로나19 감염자 최고치…백신 효력 '무색'",
+		"link": "www.yna.co.kr/view/AKR20210401129000009?section=safe/news",
+		"date": "04-01 15:09"
+	},
+	"8f8b4adab42dcb061c1590ba660fb2b45bf0e191257c17aeea54a2c8400999cf": {
+		"title": "최근 입국 주한미군 장병·가족 8명 코로나 확진",
+		"link": "www.yna.co.kr/view/AKR20210401127200504?section=safe/news",
+		"date": "04-01 15:02"
+	},
+	"096f450696fbbdaf52769b66cae01b2352c8f2a2d75b8bbe053952cdf06ee4cf": {
+		"title": "행안부 차관, 재보선 사전투표 준비·백신접종 현장 점검",
+		"link": "www.yna.co.kr/view/AKR20210401033800530?section=safe/news",
+		"date": "04-01 15:00"
+	},
+	"7032937d3e8291848e8555abc404a3ce830b0b58600c6497091e81d33cf1a111": {
+		"title": "정총리 \"백신, 예정대로 공급…범정부 관리TF 가동\"",
+		"link": "www.yna.co.kr/view/AKR20210401129700001?section=safe/news",
+		"date": "04-01 14:59"
+	},
+	"f0b1bc41402c12b7b82f3c2388508061f09f0fdbba1c98552c8ae52766394b3b": {
+		"title": "울산서 광주 확진자 접촉 2명 포함 총 4명 추가 확진(종합)",
+		"link": "www.yna.co.kr/view/AKR20210401066351057?section=safe/news",
+		"date": "04-01 14:49"
+	},
+	"14e5820cfb7e8e4f5450a887dbccba1c40e72865a0171e722b050f445ba538f6": {
+		"title": "거리두기 격상에 부산시민들 \"예상했다\", 자영업자 \"앞이 캄캄\"",
+		"link": "www.yna.co.kr/view/AKR20210401126200051?section=safe/news",
+		"date": "04-01 14:49"
+	},
+	"0621f79a9f62c49261ea3f41b0bd16cadbf2060f83e3aa7de7dc751062a90970": {
+		"title": "[속보] 코백스 AZ백신 43만2천회분 모레 도착…3주후로 밀렸다가 앞당겨져",
+		"link": "www.yna.co.kr/view/AKR20210401127500530?section=safe/news",
+		"date": "04-01 14:49"
+	},
+	"427e7261b044ecfa8e05efe082163eeb1006097dc32a93f1bcfe0ba0c34878e3": {
+		"title": "[속보] 당국 \"코백스 공급 화이자 백신 29만7천회분 6월까지 국내 도착\"",
+		"link": "www.yna.co.kr/view/AKR20210401126600530?section=safe/news",
+		"date": "04-01 14:45"
+	},
+	"ab8e851f9b89362331e63b6beb813b351202edd84fccf9363fb5132ce3794044": {
+		"title": "요양병원·시설 등 감염취약시설 선제검사로 확진자 37명 찾아",
+		"link": "www.yna.co.kr/view/AKR20210401124600530?section=safe/news",
+		"date": "04-01 14:45"
+	},
+	"590ea41f804bbad8f3f4b554f920d1751fe4ed6c393dd7390bf2cc202a848910": {
+		"title": "가평·남양주서 가족 간 코로나19 연쇄 감염 잇따라",
+		"link": "www.yna.co.kr/view/AKR20210401121500060?section=safe/news",
+		"date": "04-01 14:40"
+	},
 	"ff635ee4c01cd9feac45557b16b7ee6cde7132c6780dc7642344143c2d7335e3": {
 		"title": "GSK-비어 \"코로나19 항체치료제, 미 FDA 긴급사용승인 신청\"",
 		"link": "www.yna.co.kr/view/AKR20210401121400017?section=safe/news",
@@ -428,75 +498,5 @@
 		"title": "광주·전남서 코로나19 신규 확진자 4명 발생",
 		"link": "www.yna.co.kr/view/AKR20210401026400054?section=safe/news",
 		"date": "04-01 08:21"
-	},
-	"24613b22aa7e8dbe6a6b56f29c0f54027ea52501438537034b463667e27c4c01": {
-		"title": "미 J&J 백신공장서 성분 뒤섞여...1천500만회분 폐기",
-		"link": "www.yna.co.kr/view/AKR20210401023900009?section=safe/news",
-		"date": "04-01 08:16"
-	},
-	"85c4e9fc473f6c888514459b6d74ceb5d34541631131911b21e68dfffb8e256a": {
-		"title": "대구서 7명 추가 확진…9일 만에 한 자릿수",
-		"link": "www.yna.co.kr/view/AKR20210401021200053?section=safe/news",
-		"date": "04-01 07:47"
-	},
-	"416491136ac628e0ec22f7e0f79d29d0fc73bb097704900706db9be45aafcc19": {
-		"title": "오후 9시까지 이미 500명 확진…1일 500명대 중후반 예상(종합)",
-		"link": "www.yna.co.kr/view/AKR20210331180951530?section=safe/news",
-		"date": "03-31 21:46"
-	},
-	"7229d2433981e5dab6715d2da6cdd07b9274f11d6bbd5e8f8acbd38b3ac70842": {
-		"title": "얀센 코로나19 백신, 오늘 중앙약심후 허가심사결과 공개",
-		"link": "www.yna.co.kr/view/AKR20210331163300017?section=safe/news",
-		"date": "04-01 06:00"
-	},
-	"84c0c4bd05b41bfb33f9383a48828d44d45704a6d7bbf50de4b91798c0331862": {
-		"title": "서울시, 백신접종센터에 '119 신속대응팀' 배치",
-		"link": "www.yna.co.kr/view/AKR20210331171700004?section=safe/news",
-		"date": "04-01 06:00"
-	},
-	"221acd8901ee70b38817f9fca9b935ca2ac8fe4cdb510137f7dd72b10bedef72": {
-		"title": "브라질, 얀센 백신 긴급사용 승인…시노백·AZ 이어 세번째",
-		"link": "www.yna.co.kr/view/AKR20210401006700094?section=safe/news",
-		"date": "04-01 05:15"
-	},
-	"e200061c0d226f65cdacd0565e989114763c9461e8642ac80269ea81317e898c": {
-		"title": "모스크바시 \"주민 약 1천명 백신 2차 접종 뒤에도 코로나 감염\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20210401003051080?section=safe/news",
-		"date": "04-01 04:32"
-	},
-	"cff66cd24c537bd6f98f9eb413bb03937f4d21b6ed8774ee2c96a46b05a405c6": {
-		"title": "프랑스, 3주간 학교 폐쇄…이동제한조치 전국 확대",
-		"link": "www.yna.co.kr/view/AKR20210401006100081?section=safe/news",
-		"date": "04-01 04:30"
-	},
-	"019d113a486a9437bf10d69b9a3a2667b63e6521389f8c78422f76f090a22432": {
-		"title": "백신접종후 이상반응 있으면 이틀까지 휴가…오늘부터 적용",
-		"link": "www.yna.co.kr/view/AKR20210330071500530?section=safe/news",
-		"date": "04-01 04:30"
-	},
-	"918f4bb50e9d7d78a11db27630ed55cd0044937da720fb02aaec018bf3a4721d": {
-		"title": "[Q&A] \"고령에 지병있는데 백신 안전할까요?\"…75세이상 접종 궁금증은",
-		"link": "www.yna.co.kr/view/AKR20210331157600530?section=safe/news",
-		"date": "04-01 04:30"
-	},
-	"e4d9307891ff711c8dea45bfd1b196e9863d9bc9dd89fb6b241948c2c650644e": {
-		"title": "오늘부터 75세 이상 등 일반인도 백신 접종…수급불안 '변수'",
-		"link": "www.yna.co.kr/view/AKR20210331110900530?section=safe/news",
-		"date": "04-01 04:30"
-	},
-	"354c818af4b67c78109f8e439ee019546eff081458b1a8cfdbb2c17ab1e00aee": {
-		"title": "어린이·청소년 백신 접종은 언제쯤…미국선 가을께 시작할 듯",
-		"link": "www.yna.co.kr/view/AKR20210401005300091?section=safe/news",
-		"date": "04-01 04:03"
-	},
-	"a13ae4c39c21674f66467a3cd2d1c2ed1f7fef0d6c4c1ad8736cb28385a6fc57": {
-		"title": "브라질 코로나 급증에 병상 부족 '심각' 위기…환자 못받는 곳도",
-		"link": "www.yna.co.kr/view/AKR20210401003900094?section=safe/news",
-		"date": "04-01 02:35"
-	},
-	"c7b5465902e6c4292cfc95b6328e281cef69f21e3405e5a3185f1291bfbd28ed": {
-		"title": "모스크바시 \"주민 약 1천명 백신 2차 접종 뒤에도 코로나 감염\"",
-		"link": "www.yna.co.kr/view/AKR20210401003000080?section=safe/news",
-		"date": "04-01 01:32"
 	}
 }
