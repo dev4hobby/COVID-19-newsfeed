@@ -1,4 +1,99 @@
 {
+	"2d236a7b79ce7993157abc28d490fb4b3a6455cb49d1a845ba0302383cbb7e83": {
+		"title": "대구서 교회 관련 등 22명 확진…감염경로 불상 속출(종합)",
+		"link": "www.yna.co.kr/view/AKR20210405022651053?section=safe/news",
+		"date": "04-05 11:04"
+	},
+	"6089a1778df2522bfacac9045a5bfa1fcd02a3bddda07b65cd9e67a32c560b9f": {
+		"title": "강원 ASF 감염 멧돼지 잇따라…전국 최다 화천군 입산자제 요청",
+		"link": "www.yna.co.kr/view/AKR20210405057500062?section=safe/news",
+		"date": "04-05 11:02"
+	},
+	"99d30a3103e62d15189274504fb3bf4f38e5a49f1c4fb0a02a1c87e69c650940": {
+		"title": "코로나 팬데믹 속 '사회적 고립과의 전쟁' 나선 나라들",
+		"link": "www.yna.co.kr/view/AKR20210405052600009?section=safe/news",
+		"date": "04-05 11:02"
+	},
+	"0da6094262102e9906d2361c5e69b4d77f2252bc578f25e16f2a1acd187926c8": {
+		"title": "\"백신 접종 무엇이든 물어보세요\"…전주시보건소 콜센터 운영",
+		"link": "www.yna.co.kr/view/AKR20210405056100055?section=safe/news",
+		"date": "04-05 10:56"
+	},
+	"1ed64d29b116ceed72353a73207a9c191ca5208cd64f4e600b9b84c982570f46": {
+		"title": "청주서 5명 추가 확진…4명은 유흥업소 'n차 감염'",
+		"link": "www.yna.co.kr/view/AKR20210405054600064?section=safe/news",
+		"date": "04-05 10:49"
+	},
+	"01e970a762022f6003c12960158f1b18d645b89f7ab3ef0000c40c1535462424": {
+		"title": "\"마스크만 써도 감염 막아\"…제천시 한 달간 집중 캠페인",
+		"link": "www.yna.co.kr/view/AKR20210405053400064?section=safe/news",
+		"date": "04-05 10:44"
+	},
+	"c79a512f8aff6ebc94e999220836b27eec7c6d24411614f1dc0189bb58e37171": {
+		"title": "경찰, 코로나 재확산 우려에 유흥시설 불법영업 집중단속",
+		"link": "www.yna.co.kr/view/AKR20210405049300004?section=safe/news",
+		"date": "04-05 10:25"
+	},
+	"81458d32eb84c965e18a28c4646814703b449b2e05fe3151f938cb0a7709badd": {
+		"title": "대구 육군 병사 1명 코로나19 확진",
+		"link": "www.yna.co.kr/view/AKR20210405046600504?section=safe/news",
+		"date": "04-05 10:14"
+	},
+	"76c6d125d0fa923c1bb13097747fdc1c8517302691f27d1c4c87cf75fedf6f14": {
+		"title": "순천서 이틀 새 12명 코로나 확진…거리두기 2단계 '격상'",
+		"link": "www.yna.co.kr/view/AKR20210405045500054?section=safe/news",
+		"date": "04-05 10:11"
+	},
+	"460712f652f7258f4509aa3ec8047c92d3765d0ab5ce4be74c4ce52ffdf33424": {
+		"title": "체육진흥공단, 코로나 방역 우수 실내체육시설에 총 50억 지원",
+		"link": "www.yna.co.kr/view/AKR20210405044800007?section=safe/news",
+		"date": "04-05 10:07"
+	},
+	"8011de93f5e1909819bfb86fa94e4ce08001d3188dbc8e322d5b65bca8446a83": {
+		"title": "백신 이상반응 7건 늘어…중증의심사례 1건 추가, 인과성 미확인",
+		"link": "www.yna.co.kr/view/AKR20210405040900530?section=safe/news",
+		"date": "04-05 10:07"
+	},
+	"82dc7cffd364743cccb2c7f6c3541c4948b28c1fd6c336b0a38e7705f91362c1": {
+		"title": "코로나로 마스크착용·손씻기했더니…폐렴·독감·천식입원 '뚝'",
+		"link": "www.yna.co.kr/view/AKR20210405042600017?section=safe/news",
+		"date": "04-05 10:04"
+	},
+	"722ffb0dae5709de901c83fbdd3f21f8f99b3479cd82a0a73c29be26298084d3": {
+		"title": "경기 111명 신규확진…모임·직장 집단감염 지속",
+		"link": "www.yna.co.kr/view/AKR20210405043400061?section=safe/news",
+		"date": "04-05 10:04"
+	},
+	"199642d09efba0bc0d8a950378549503a79a94b2f80a188a722090e24fcef0e1": {
+		"title": "인천 어린이집서 코로나19 집단감염…교사 9명·원생 8명 확진",
+		"link": "www.yna.co.kr/view/AKR20210405042300065?section=safe/news",
+		"date": "04-05 10:01"
+	},
+	"dab615b71d3ebcd4c0c14a39b92d06799efbf2ef006e832656048a6489ba0c64": {
+		"title": "부산 5명 추가 확진…거리두기 격상에도 확산세 계속",
+		"link": "www.yna.co.kr/view/AKR20210405028100051?section=safe/news",
+		"date": "04-05 10:00"
+	},
+	"26c866ff9c0c5004cbd76d89b3280d2b78a8b3993a1390b8e491d6256b36ce8d": {
+		"title": "청주 학원종사자 4천708명 코로나19 검사…전원 '음성'",
+		"link": "www.yna.co.kr/view/AKR20210405039400064?section=safe/news",
+		"date": "04-05 09:55"
+	},
+	"c024525138ab32c0174a36967f260f8abe922bbc1679a58af1c4925537771186": {
+		"title": "서울서 152명 신규 확진…나흘만에 다시 증가",
+		"link": "www.yna.co.kr/view/AKR20210405040200004?section=safe/news",
+		"date": "04-05 09:55"
+	},
+	"eb34d15b0e1d72b9d8182d761e299e8b259dbba2fd3ce9a54c6bf097581eb16b": {
+		"title": "수도권 임시 검사소서 49명 확진…수도권 지역발생의 17.8%",
+		"link": "www.yna.co.kr/view/AKR20210405038400530?section=safe/news",
+		"date": "04-05 09:49"
+	},
+	"97de9e952c2a143d72a10508d7345fd5c1fb6aaff66dd71d53fafc4b7f6420eb": {
+		"title": "신규확진 473명, 휴일효과 엿새만에 400명대…4차유행 우려 고조(종합)",
+		"link": "www.yna.co.kr/view/AKR20210405022451530?section=safe/news",
+		"date": "04-05 09:48"
+	},
 	"242e6a961d535db597cd12a1c66b42fdcea7f6b4dccff4311989f6c29741672e": {
 		"title": "백신 1차접종 629명↑ 총 96만2천730명…인구대비 접종률 1.85%",
 		"link": "www.yna.co.kr/view/AKR20210405035300530?section=safe/news",
@@ -403,100 +498,5 @@
 		"title": "경기 150명 신규 확진…남양주시 기사식당서 8명 감염",
 		"link": "www.yna.co.kr/view/AKR20210404016700061?section=safe/news",
 		"date": "04-04 10:10"
-	},
-	"d060d47fb7d899d35b637aeb9c05908c0749020133e8eeaf79ea556787e9d524": {
-		"title": "울산 코로나19 확진자 2명 발생",
-		"link": "www.yna.co.kr/view/AKR20210404017400057?section=safe/news",
-		"date": "04-04 10:05"
-	},
-	"6df09f90b6803b9cc356ef7443cf989d5d8be2a8a435750edd78275d4ccf7cdd": {
-		"title": "백신 1차접종 8천229명↑총 96만2천83명…인구대비 접종률 1.85%",
-		"link": "www.yna.co.kr/view/AKR20210404016000530?section=safe/news",
-		"date": "04-04 10:03"
-	},
-	"df09132acf3d7f28bf8c8574c7b1f48df6aecaf051977f2ad85f716eeeef5b4c": {
-		"title": "중국 칭밍제 여행객 1억명…\"코로나 이전 수준 회복\"",
-		"link": "www.yna.co.kr/view/AKR20210404017000083?section=safe/news",
-		"date": "04-04 10:03"
-	},
-	"75673966be3e2aa4a6b5eae49efaedec5b10e2a2b1d0fe99e9c06719c886774d": {
-		"title": "백신 이상반응 50건 늘어…'아나필락시스' 의심 1건 추가",
-		"link": "www.yna.co.kr/view/AKR20210404015100530?section=safe/news",
-		"date": "04-04 09:54"
-	},
-	"c9ea085d507b315b7e1ff100fa5ba23f938435ade348474d0730b625ff782a04": {
-		"title": "서울 149명 신규 확진…사흘 연속 감소",
-		"link": "www.yna.co.kr/view/AKR20210404015000004?section=safe/news",
-		"date": "04-04 09:50"
-	},
-	"2c26cd8833e263ea6545988a438e4819777e1f20f5a44f2465d2c0f02c5319df": {
-		"title": "신규확진 543명, 5일째 500명대…17개 시도서 발생 4차유행 우려(종합)",
-		"link": "www.yna.co.kr/view/AKR20210404009451530?section=safe/news",
-		"date": "04-04 09:45"
-	},
-	"765548eeac9910a1a99f0b42a8470a16672b27329c048f7c899d7ee60a7cb64a": {
-		"title": "수도권 임시 검사소서 65명 확진…수도권 지역발생의 20.9%",
-		"link": "www.yna.co.kr/view/AKR20210404014200530?section=safe/news",
-		"date": "04-04 09:42"
-	},
-	"5a3392e47844cc300dcb394fbb9a916383f4369fa1deb0cf61c763baafcaf544": {
-		"title": "[3보] 신규확진 543명, 5일째 500명대…17개 시도서 발생 4차유행 우려",
-		"link": "www.yna.co.kr/view/AKR20210404009400530?section=safe/news",
-		"date": "04-04 09:40"
-	},
-	"3ad23d8068d1cb8599395ca481e990654552eca082d6eaa44b2e555716dacbce": {
-		"title": "[속보] 백신 1차접종 8천229명↑총 96만2천83명…2차접종은 2만7천298명",
-		"link": "www.yna.co.kr/view/AKR20210404013800530?section=safe/news",
-		"date": "04-04 09:33"
-	},
-	"656e2b301a4a768ab7b63fa1a2a8ff6bc605be283b296303bebd2b9503e23555": {
-		"title": "[속보] 백신 이상반응 50건 늘어…'아나필락시스' 의심 1건 추가",
-		"link": "www.yna.co.kr/view/AKR20210404013700530?section=safe/news",
-		"date": "04-04 09:32"
-	},
-	"b4cf2ed692cbe52ebd5495892829388bee7b199120067f457d7a2e89003888ed": {
-		"title": "대구시 공직자 백신접종 특별휴가…광역단체 중 첫 시행",
-		"link": "www.yna.co.kr/view/AKR20210404013400053?section=safe/news",
-		"date": "04-04 09:32"
-	},
-	"22f11332e6bf1cd32f0b1edca014b2902d8c64404f13c111bfc6129a735d5f25": {
-		"title": "[속보] 경기 150명-서울 149명-부산 61명-대전 29명-전북 24명 등 확진",
-		"link": "www.yna.co.kr/view/AKR20210404009600530?section=safe/news",
-		"date": "04-04 09:31"
-	},
-	"a202ec48b2fc492976048e0e207b1b44077c4f360b27f653f4b82cc476f73a2d": {
-		"title": "[2보] 코로나19 어제 543명 신규확진…5일 연속 500명대",
-		"link": "www.yna.co.kr/view/AKR20210404009300530?section=safe/news",
-		"date": "04-04 09:30"
-	},
-	"322e0d7caa653cfb05bba6ae9519594bb52133b063bf56fe5559a2531bd0c3e5": {
-		"title": "[속보] 코로나19로 어제 4명 사망…누적 1천744명",
-		"link": "www.yna.co.kr/view/AKR20210404013100530?section=safe/news",
-		"date": "04-04 09:30"
-	},
-	"d2c49408da740d6107389f48bb0077a01934ec3b7ee44a08df10ea29321e55e7": {
-		"title": "[1보] 코로나19 어제 543명 신규확진…5일 연속 500명대",
-		"link": "www.yna.co.kr/view/AKR20210404009200530?section=safe/news",
-		"date": "04-04 09:30"
-	},
-	"e5de9077bf3a68bc57e8849b5aa5dd8e2e2433037e9d2f375a1aed1d038a39a6": {
-		"title": "자매교회 순회 모임 관련 대전서 13명 추가 확진…누적 21명",
-		"link": "www.yna.co.kr/view/AKR20210404010500063?section=safe/news",
-		"date": "04-04 09:09"
-	},
-	"b8349098c5423de261d825f115acfda955ea826c0c4dd7e3d303591781809856": {
-		"title": "청주서 밤새 감염경로 미상 확진자 2명 발생",
-		"link": "www.yna.co.kr/view/AKR20210404010400064?section=safe/news",
-		"date": "04-04 09:01"
-	},
-	"376b451b6c25ab56b60763146497e38c84581e94b06b7ac66835646afca5b972": {
-		"title": "광주·전남서 코로나19 확진자 5명 신규 발생",
-		"link": "www.yna.co.kr/view/AKR20210404008400054?section=safe/news",
-		"date": "04-04 08:36"
-	},
-	"ac847056154d1e6e16c834c082e70275eab06d69102f3a02d7b46a2b66d16c92": {
-		"title": "경북 확진자 16명 추가…연쇄 감염 지속",
-		"link": "www.yna.co.kr/view/AKR20210404008300053?section=safe/news",
-		"date": "04-04 08:33"
 	}
 }
