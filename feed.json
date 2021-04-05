@@ -1,4 +1,34 @@
 {
+	"3302ed09cf30d1fa40ce3ebeb8ee97c6b5b9140ce82f959a88b70e2ca6a8a1fb": {
+		"title": "[속보] \"코로나19 전파력 전국서 1 초과…신규확진 500명대 이상 예상\"",
+		"link": "www.yna.co.kr/view/AKR20210405094000530?section=safe/news",
+		"date": "04-05 14:37"
+	},
+	"32923b8d53c60b8d32186c882bf6932bd08badbc182d09366e0376ec6473e0e8": {
+		"title": "광주 상무지구 홀덤펍 종사자 2명 확진",
+		"link": "www.yna.co.kr/view/AKR20210405092000054?section=safe/news",
+		"date": "04-05 14:30"
+	},
+	"f440f4ac078c724f50b709d51753b3b82a0f7f80d6feaebccd9d9c913c838482": {
+		"title": "[속보] 당국 \"'아나필락시스' 2건은 백신 영향…접종 인과성 인정\"",
+		"link": "www.yna.co.kr/view/AKR20210405092800530?section=safe/news",
+		"date": "04-05 14:30"
+	},
+	"1e27aecacf483f1ca07b01f1ec74a04950d8f7d8910f7ed8c05c979b1549580d": {
+		"title": "[속보] 당국 \"접종후 사망 신고 5건 추가 심의…백신과의 인과성 낮다\"",
+		"link": "www.yna.co.kr/view/AKR20210405092100530?section=safe/news",
+		"date": "04-05 14:29"
+	},
+	"b8791ae03f7f7bb3853c90ce3429d7c57818de2be45ffd44c08dcf21ed58eadb": {
+		"title": "[속보] 당국 \"남아공발 변이 바이러스 지역감염 사례 첫 확인\"",
+		"link": "www.yna.co.kr/view/AKR20210405090300530?section=safe/news",
+		"date": "04-05 14:17"
+	},
+	"16369437314f2b40fd1fbc8e0758923f1c7c4e58732d4a7ab56ac0c3dca17244": {
+		"title": "부산 유흥업소발 감염 300명 육박…전파 빠르고 동선 복잡(종합)",
+		"link": "www.yna.co.kr/view/AKR20210405028151051?section=safe/news",
+		"date": "04-05 14:06"
+	},
 	"8ff7cfb670719ea7f328d276da6c87700ad8d632237fdfec6e20c4642c6f2a2a": {
 		"title": "경남 8명 코로나19 신규 확진…4개 시·군서 산발 감염",
 		"link": "www.yna.co.kr/view/AKR20210405084100052?section=safe/news",
@@ -468,35 +498,5 @@
 		"title": "'스푸트니크V' 맞은 아르헨 대통령 감염에 러 \"중증 없을 것\"",
 		"link": "www.yna.co.kr/view/AKR20210404042700080?section=safe/news",
 		"date": "04-04 16:39"
-	},
-	"db63bfcebc5a5bdcbe469f08d40e3f8de06b223018019ab9fc0f093cf572ac7a": {
-		"title": "백신 1차 접종자 50대 '최다' 20만2천861명…여성이 70% 차지",
-		"link": "www.yna.co.kr/view/AKR20210404039900530?section=safe/news",
-		"date": "04-04 16:30"
-	},
-	"49bf26da9e35283db6432629f490cddbe6cda90c9d251989d7a055f8e8dffc30": {
-		"title": "인도 코로나 확진자 하루 9만3천명 폭증…반년 만에 최다",
-		"link": "www.yna.co.kr/view/AKR20210404040700104?section=safe/news",
-		"date": "04-04 16:27"
-	},
-	"3ab1bbb7866639415a4b89abff1b686837bb6a34f2ca161ffee4c62c96a722e9": {
-		"title": "세르비아, 백신 충분한데 '불신 확산'에 접종 애먹어",
-		"link": "www.yna.co.kr/view/AKR20210404040500009?section=safe/news",
-		"date": "04-04 16:18"
-	},
-	"cdf127153128199f49f258803fb364fb12ff833201b7aa4d10e921627f09496c": {
-		"title": "경기 부천서 확진자 가족 등 9명 코로나19 추가 감염",
-		"link": "www.yna.co.kr/view/AKR20210404041200065?section=safe/news",
-		"date": "04-04 16:07"
-	},
-	"e2eb81dd3d15f1431d123e5e034396ba082ba3862adf8ca8449362f2f751500a": {
-		"title": "경북도 기본방역수칙 계도기간 11일까지 연장",
-		"link": "www.yna.co.kr/view/AKR20210404039200053?section=safe/news",
-		"date": "04-04 15:44"
-	},
-	"bcbcbbf207f18f771360c6ec4fc75997bdb2365fee8246c67127adb6ffd23f6b": {
-		"title": "춘천 '유흥업소발 확산' 막아라…수도권서 일한 외국인 확진",
-		"link": "www.yna.co.kr/view/AKR20210404035500062?section=safe/news",
-		"date": "04-04 15:05"
 	}
 }
