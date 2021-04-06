@@ -1,4 +1,64 @@
 {
+	"2199c630152f2b778361db79312b995c6a54e56c50200addb04daeff1f7423cb": {
+		"title": "[속보] \"오늘 백신 1차 접종자 누적 100만명 넘어…2차 접종 2만7천명\"",
+		"link": "www.yna.co.kr/view/AKR20210406108700530?section=safe/news",
+		"date": "04-06 14:34"
+	},
+	"962b1a4eb288cf63233952e8a8a77229d056910d2d157bc50ce791934c025cbc": {
+		"title": "화이자 백신 접종 지역센터 22곳 8일 추가 개소…총 71곳",
+		"link": "www.yna.co.kr/view/AKR20210406106200530?section=safe/news",
+		"date": "04-06 14:30"
+	},
+	"d25fad7178ff5c2f6505b5040e6f316f7e9c7b941645a698611cec8e57b92c76": {
+		"title": "백신 1차접종 3만5천970명↑ 총 99만9천870명…인구대비 1.92%(종합)",
+		"link": "www.yna.co.kr/view/AKR20210406045351530?section=safe/news",
+		"date": "04-06 14:26"
+	},
+	"9e6b28ae32ebda1c95fb592bbb9e42d9faa22d4b66283f056b9acabc535f370f": {
+		"title": "[속보] 자매교회 순회모임 관련 확진자 10개 시도 164명으로 늘어",
+		"link": "www.yna.co.kr/view/AKR20210406105000530?section=safe/news",
+		"date": "04-06 14:18"
+	},
+	"b8f18cf729c1ecdf0051f97e567c99e5bb69d8af8b91898cb462ec75a7ddee6f": {
+		"title": "40만 불법체류 외국인도 코로나19 백신 접종 받는다",
+		"link": "www.yna.co.kr/view/AKR20210406104700371?section=safe/news",
+		"date": "04-06 14:18"
+	},
+	"c83645cc5c80b9aa5bdd1f641c8eb9b6f604bdb8ecaf553081d8f740daba5879": {
+		"title": "[속보] 당국 \"8일부터 화이자 백신 접종 지역센터 22곳 추가…총 71곳\"",
+		"link": "www.yna.co.kr/view/AKR20210406103500530?section=safe/news",
+		"date": "04-06 14:14"
+	},
+	"320d4f83f34d443a03c4edf25ab0b2470e267ab60d64d3791bc225321a83c4bf": {
+		"title": "[속보] 올해 사업장 집단감염 총 161건 발생…3천462명 확진",
+		"link": "www.yna.co.kr/view/AKR20210406103400530?section=safe/news",
+		"date": "04-06 14:13"
+	},
+	"98e65f80cbf46e8bfd0cfb9a692e0b098d2a6ee992653b140e9743dbadf831e2": {
+		"title": "울산 고용부 고객상담센터 직원 이틀간 21명 집단 확진",
+		"link": "www.yna.co.kr/view/AKR20210406101100057?section=safe/news",
+		"date": "04-06 14:04"
+	},
+	"47b59609b5c3224692eac22b06bf1267bc8612718158d669026a5455fd2ee3af": {
+		"title": "치킨집·어린이집·노래방…인천, 늘어나는 감염고리에 비상",
+		"link": "www.yna.co.kr/view/AKR20210406099000065?section=safe/news",
+		"date": "04-06 14:00"
+	},
+	"1335625bc0e41ce5e5bd1d8604c8cdd821609823b35720f20b4b24a675d62245": {
+		"title": "코로나19 1년 제주공동체는 어떻게 변화했나?",
+		"link": "www.yna.co.kr/view/AKR20210406085900056?section=safe/news",
+		"date": "04-06 13:58"
+	},
+	"0db3f3b099f41b74bd8c1c7c1310d1512d6fdfa6fff590549158031c6d5bcaad": {
+		"title": "경남 15명 신규 확진…9개 시·군서 산발 감염 이어져",
+		"link": "www.yna.co.kr/view/AKR20210406097700052?section=safe/news",
+		"date": "04-06 13:54"
+	},
+	"66c4e08313928ca3bae54d3ccb1e7518fde8ad88fee4e9a74014c478b8e38a3c": {
+		"title": "삼성증권 직원 확진…삼성 서초사옥 일부 폐쇄",
+		"link": "www.yna.co.kr/view/AKR20210406097900002?section=safe/news",
+		"date": "04-06 13:49"
+	},
 	"a6b690eb0c15270a7a91d94079f44258a67c62e4a5f624ab3f5a788cc34b6ddc": {
 		"title": "[1보] 울산 고용노동부 고객상담센터서 이틀간 직원 21명 확진",
 		"link": "www.yna.co.kr/view/AKR20210406098400057?section=safe/news",
@@ -438,65 +498,5 @@
 		"title": "日코로나 신규확진 1천565명…일주일 전과 비교해 22일째 확대",
 		"link": "www.yna.co.kr/view/AKR20210405149400073?section=safe/news",
 		"date": "04-05 22:05"
-	},
-	"0f88821863ff085a26c8daa00c3eb7c02d9b4cb674f5e0908c61d2aa3a283b5a": {
-		"title": "한국산 아스트라제네카 백신 70만 회분 이란 도착",
-		"link": "www.yna.co.kr/view/AKR20210405147600111?section=safe/news",
-		"date": "04-05 21:34"
-	},
-	"5175b0f73fcc8c970db4e38659cecea77fd6810740fc4dd71bedcd1fd479af49": {
-		"title": "오후 9시까지 서울 140명 신규 확진…확진율 치솟을듯",
-		"link": "www.yna.co.kr/view/AKR20210405138851004?section=safe/news",
-		"date": "04-05 21:30"
-	},
-	"a3bc019fe8596f97978b1850b8c794eef1b6591b4ce35eabfacab6f0320faeee": {
-		"title": "이란 코로나19 신규 확진 역대 최다 수준…하루 172명 사망",
-		"link": "www.yna.co.kr/view/AKR20210405144800111?section=safe/news",
-		"date": "04-05 20:30"
-	},
-	"2e2adb401c91971736816882016ba2743932ee87af2a68e78e4a596fb8fa094c": {
-		"title": "울산 코로나19 확진자 1명 발생…누적 1천182명",
-		"link": "www.yna.co.kr/view/AKR20210405141400057?section=safe/news",
-		"date": "04-05 19:21"
-	},
-	"ddc02cf779adfd70584449dac362ef83801d57478532e1cf66fea3aefb3936bf": {
-		"title": "오후 6시까지 서울 121명 신규 확진…전날보다 19명 감소",
-		"link": "www.yna.co.kr/view/AKR20210405138800004?section=safe/news",
-		"date": "04-05 19:02"
-	},
-	"06f8de64c2997660becb22b7cc77b6a7934caf912822402753c96e31a8b7df2c": {
-		"title": "14억 인구 중국, 코로나 백신 1억 4천만회 접종",
-		"link": "www.yna.co.kr/view/AKR20210405138700074?section=safe/news",
-		"date": "04-05 19:00"
-	},
-	"0bcd48a23ae9170cd7d79fb02ebd381cc55ef11ba1f27846a3da761d8c63fee7": {
-		"title": "코로나 봉쇄 피하려다 방글라서 선박 전복 참사…\"26명 사망\"(종합2보)",
-		"link": "www.yna.co.kr/view/AKR20210405058952077?section=safe/news",
-		"date": "04-05 18:45"
-	},
-	"66bfaa1292097096cd178d18d343b88ff0c1ab9854680ed32a996a92990a387a": {
-		"title": "조종사협회 \"항공사, 코로나시대 비용절감보다 안전이 먼저\"",
-		"link": "www.yna.co.kr/view/AKR20210405137200003?section=safe/news",
-		"date": "04-05 18:37"
-	},
-	"82cc6bcbd1288aea3a2ab358f20c8c89c9031f05c91bf503f6f91f3f60128ac3": {
-		"title": "방역수칙 어기고 몰래 영업한 佛식당…\"장관들도 왔다\" 발언파문",
-		"link": "www.yna.co.kr/view/AKR20210405136700081?section=safe/news",
-		"date": "04-05 18:34"
-	},
-	"f55dda3aadc993417241a21dfc6c3c346be04f854c0701cfcc2300f408f53580": {
-		"title": "대전 학원서 강사·중고생 6명 확진…학생·교직원 370명 검사",
-		"link": "www.yna.co.kr/view/AKR20210405135100063?section=safe/news",
-		"date": "04-05 18:30"
-	},
-	"b242486c0e6e54bba72a300ce1e8ade64d00f54c9fb82324b9f194a28cf9c656": {
-		"title": "선박·자동차경주장·성당까지 접종소로…이탈리아, 백신 총력전",
-		"link": "www.yna.co.kr/view/AKR20210405133600109?section=safe/news",
-		"date": "04-05 18:15"
-	},
-	"c6ebbff78bb04913e0167dc2c07e6c3d23b6b4a2e270abb0113331d573905237": {
-		"title": "이화여대서 확진자 누적 4명…비대면 수업 기간 연장",
-		"link": "www.yna.co.kr/view/AKR20210405135500004?section=safe/news",
-		"date": "04-05 18:14"
 	}
 }
