@@ -1,4 +1,69 @@
 {
+	"74f69723b6fc5f3ef5a40e54fbc3c0e8a4da662e5265680e4508fcd3746aa31b": {
+		"title": "AZ 백신 접종 보류·연기…\"낼 나오지 마세요\" 밤중 연락",
+		"link": "www.yna.co.kr/view/AKR20210408087200054?section=safe/news",
+		"date": "04-08 11:37"
+	},
+	"15b0a25eaaa4c5bfa26e7ed8f7461f437dcfd52a0551fc98a17328bd875393e9": {
+		"title": "서울 신규 확진 50일만에 200명대 중반…\"4차 유행 우려\"",
+		"link": "www.yna.co.kr/view/AKR20210408086600004?section=safe/news",
+		"date": "04-08 11:37"
+	},
+	"477c46ce9090453218b7dd2f413f943dc71ef199e82a9fc838dd4b75e3ad49ca": {
+		"title": "서울대 학생 10명 확진 판정…학교 밖 모임서 전파",
+		"link": "www.yna.co.kr/view/AKR20210408088000004?section=safe/news",
+		"date": "04-08 11:36"
+	},
+	"2a04bc0f2a2fe3893b34dc106ed2cefd25184c3ba63b821af77920a01f2dca84": {
+		"title": "질병청 \"'정부가 화이자 조기공급 제안 거부' 보도 사실 아니다\"",
+		"link": "www.yna.co.kr/view/AKR20210408082300530?section=safe/news",
+		"date": "04-08 11:30"
+	},
+	"3309c60b9192ddf1fd090167dc10908cf0038b43e055ad2c9f297995b1107d84": {
+		"title": "진주시, 방역수칙 어긴 다중이용시설 적발 즉시 영업정지 처분",
+		"link": "www.yna.co.kr/view/AKR20210408085300052?section=safe/news",
+		"date": "04-08 11:27"
+	},
+	"de23844c346bff5f905b8760dc82b54c561841b0886cb37bf39ccd2c44ac29fe": {
+		"title": "서울 중랑경찰서 중화지구대서 확진자 2명 발생",
+		"link": "www.yna.co.kr/view/AKR20210408082500004?section=safe/news",
+		"date": "04-08 11:26"
+	},
+	"fed23671644d25788dea55790b1d799e7867646edddd1688f0186b1cb6ddd673": {
+		"title": "전북서 방과 후 학습 매개 코로나19 감염 확산…26명 양성",
+		"link": "www.yna.co.kr/view/AKR20210408084500055?section=safe/news",
+		"date": "04-08 11:25"
+	},
+	"6998f0bb60c2093bce9fbcb6d2c40519cb1f85cd2371b5c3c0cb2fc559f41f33": {
+		"title": "워싱턴·메츠, 코로나19 개막전 취소 여파로 여름 강행군",
+		"link": "www.yna.co.kr/view/AKR20210408085400007?section=safe/news",
+		"date": "04-08 11:24"
+	},
+	"d5a60ac80c77195889f9952569167532ec12808a881cc59f7ea4d4b4c64790d8": {
+		"title": "히말라야 소국 부탄, 11일 만에 인구 60% 백신 1차 접종 기록",
+		"link": "www.yna.co.kr/view/AKR20210408082000104?section=safe/news",
+		"date": "04-08 11:17"
+	},
+	"94c97f03ee372d348378238d5b384972ff1434978c7e6ba7006ad43ec43b8761": {
+		"title": "캐나다 자문위 \"코로나 백신 1회차에 집중, 접종자 최대화\" 권고",
+		"link": "www.yna.co.kr/view/AKR20210408080800009?section=safe/news",
+		"date": "04-08 11:13"
+	},
+	"550cef2c596f60bc139cdf3dfca11a86d44f1a586c2010cb8c9e738354845c31": {
+		"title": "일본 코로나 변이 바이러스 감염자 폭증…한달 새 14배↑",
+		"link": "www.yna.co.kr/view/AKR20210408077300073?section=safe/news",
+		"date": "04-08 11:11"
+	},
+	"62ca1fd54be673cbe2663df1cdd1533e99e1584b303d4311a05c7ac6ef098045": {
+		"title": "전남지역 특수교사 등 3천200명 AZ백신 접종 보류",
+		"link": "www.yna.co.kr/view/AKR20210408079300054?section=safe/news",
+		"date": "04-08 11:05"
+	},
+	"41230942a5e479b44b5ff95924f9b682e3b0e7c706a7709d64fcd1ecea96ad4d": {
+		"title": "순천서 1명 확진, 코로나 확산 '주춤'…\"안심은 일러\"",
+		"link": "www.yna.co.kr/view/AKR20210408078900054?section=safe/news",
+		"date": "04-08 11:03"
+	},
 	"0795270ea37252988cb35cc3076185568bf48da409e6fe53c80236fc71acd1f7": {
 		"title": "인천서 26명 확진…어린이집 관련 감염 3명 추가",
 		"link": "www.yna.co.kr/view/AKR20210408074500065?section=safe/news",
@@ -433,70 +498,5 @@
 		"title": "'집단감염' 인천 어린이집 관련 2명 또 확진…누적 35명(종합2보)",
 		"link": "www.yna.co.kr/view/AKR20210407041552065?section=safe/news",
 		"date": "04-07 17:31"
-	},
-	"c4f6663ed5eaeae5e233952f203cb5d6ebc2da26e0bfeee63938617c1f45deb2": {
-		"title": "부산 특수학교 교직원·보건교사 8일부터 백신 접종",
-		"link": "www.yna.co.kr/view/AKR20210407120000051?section=safe/news",
-		"date": "04-07 17:26"
-	},
-	"252d60a64fe529deabb1e0160626cfd816f4930ffe5627381170d42a09a0fc38": {
-		"title": "남아공, 화이자 코로나 백신 2천만회분 확보 합의",
-		"link": "www.yna.co.kr/view/AKR20210407119500099?section=safe/news",
-		"date": "04-07 17:23"
-	},
-	"d9b6be78d29c0bedd8511820009a0ae39c04b9ecc6043e9adb69cdb4239aeef9": {
-		"title": "경남 18명 확진, 창원 대기업 직원 감염…재확산 우려(종합2보)",
-		"link": "www.yna.co.kr/view/AKR20210407052752052?section=safe/news",
-		"date": "04-07 17:22"
-	},
-	"11da883161094b5c8050d4ee8be195d7ed6c8cc2090c08b2a1a2d90aeec5e74a": {
-		"title": "중랑경찰서에서 오늘 또 1명 확진…누적 확진자 8명",
-		"link": "www.yna.co.kr/view/AKR20210407119800004?section=safe/news",
-		"date": "04-07 17:19"
-	},
-	"c1807b4b7010c4dc622738bb54c4313a6a0f37eb39d75185738a69be8aa4dfa6": {
-		"title": "대전 학원 매개 코로나19 감염 비상…6일 만에 9개 학교 확산",
-		"link": "www.yna.co.kr/view/AKR20210407104100063?section=safe/news",
-		"date": "04-07 16:04"
-	},
-	"2eeef9e119e934cfbdd8ef66a09651ae3e906315f03166a66acf69db4018ce00": {
-		"title": "김포서 확진자 가족 등 7명 코로나19 감염",
-		"link": "www.yna.co.kr/view/AKR20210407116700065?section=safe/news",
-		"date": "04-07 16:59"
-	},
-	"f717c89db64836b7b48d8557c8e089bff4c13eca57650619211f24c893c20854": {
-		"title": "터키 코로나19 신규 확진자 5만명 육박…세계 4위 규모",
-		"link": "www.yna.co.kr/view/AKR20210407112200080?section=safe/news",
-		"date": "04-07 16:37"
-	},
-	"08f52761e5659d6a77c18cec0ab44a7ae14af24c6524cce597aa7921dfd62a8c": {
-		"title": "대전언문연 '코로나 시대 언론 역할과 보도 방향' 세미나",
-		"link": "www.yna.co.kr/view/AKR20210407110900063?section=safe/news",
-		"date": "04-07 16:30"
-	},
-	"6e3c221566e551edd89dfe676c3bba75584c2e72079c24e3d48c5682b8b14d32": {
-		"title": "부산 교육 관련 확진자 속출…시교육청 긴급 방역 지시",
-		"link": "www.yna.co.kr/view/AKR20210407110400051?section=safe/news",
-		"date": "04-07 16:29"
-	},
-	"185ed2deaf08e78cd1a959f15a4c3ef4bc142c3ccb8857ea4c085bad807d7e0d": {
-		"title": "치료센터 입소한 아이들…어린이집 못가고 힘겨운 격리생활(종합2보)",
-		"link": "www.yna.co.kr/view/AKR20210407026752065?section=safe/news",
-		"date": "04-07 16:24"
-	},
-	"abfbf64a638677194905fb2e0fe607652d7f78c47f69ad1b537b1b99d60cefa6": {
-		"title": "로스쿨 학생 등 부산대에서 4명 확진…강의실 폐쇄",
-		"link": "www.yna.co.kr/view/AKR20210407104500051?section=safe/news",
-		"date": "04-07 16:09"
-	},
-	"193810afbe9042ae3f78df22167508493e0aee9215c5392a67ae1f6211468500": {
-		"title": "헝가리, 제한조치 일부 완화…\"1회 이상 백신접종 250만명\"",
-		"link": "www.yna.co.kr/view/AKR20210407107100088?section=safe/news",
-		"date": "04-07 16:05"
-	},
-	"33c6f3ac23d621da5bb086d09ca3bee0655a961d4686ab067f200fed1536826f": {
-		"title": "대전 학원발 코로나19 감염 비상…6일 만에 9개 학교 확산",
-		"link": "www.yna.co.kr/view/AKR20210407104100063?section=safe/news",
-		"date": "04-07 16:04"
 	}
 }
