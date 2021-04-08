@@ -1,4 +1,39 @@
 {
+	"d1b2a93a38059efdd72603f3f25c2301f8f9357682f8c70d8aa37a50af42ccbb": {
+		"title": "김포서 확진자 가족 2명 코로나19 감염",
+		"link": "www.yna.co.kr/view/AKR20210408147600065?section=safe/news",
+		"date": "04-08 16:33"
+	},
+	"ac36f7cb3b73323b46cbdc390be5590a99370c9a2ddd88d45abcc5d7f9b6b93e": {
+		"title": "부천서 5명 코로나19 확진…1명 감염경로 조사 중",
+		"link": "www.yna.co.kr/view/AKR20210408147200065?section=safe/news",
+		"date": "04-08 16:33"
+	},
+	"b9a41a496c836702165c52912e874334fc3ed5e5bf804fb312d344739f4b2496": {
+		"title": "복지장관 \"AZ 일시 접종중단 국민안전 위한 것…접종 계속해야\"(종합)",
+		"link": "www.yna.co.kr/view/AKR20210408088351530?section=safe/news",
+		"date": "04-08 16:28"
+	},
+	"103e7e16ec473865971d0909b8a59fe6720c252afd063ebaf91c4a2522ab33dc": {
+		"title": "'초등학교 코로나19 확산'…전북교육청 방과후학교 중단 권고",
+		"link": "www.yna.co.kr/view/AKR20210408145200055?section=safe/news",
+		"date": "04-08 16:26"
+	},
+	"f6d95206c5bfbea42c444a5863250d5011d21e2d469cfa20bc9b4aa5c7f466c6": {
+		"title": "대전시 코로나19 안심식당 450곳 추가 지정…외식업소 환경 개선",
+		"link": "www.yna.co.kr/view/AKR20210408144400063?section=safe/news",
+		"date": "04-08 16:23"
+	},
+	"8bfeacfacdb35db595c9b6c82eb9542469a1e5fdaee9d7277dfb7ab9180fc288": {
+		"title": "당국 \"AZ백신 접종 제한 땐 '교차접종' 방안도 검토 필요\"",
+		"link": "www.yna.co.kr/view/AKR20210408142000530?section=safe/news",
+		"date": "04-08 16:20"
+	},
+	"7b8b5ccc2d4b57a28c692e332d933970ffc99a8237c862e6d16547f21de4440d": {
+		"title": "당국, 혈전논란 AZ백신 '접종재개' 가닥…11일 검토 결과 발표(종합)",
+		"link": "www.yna.co.kr/view/AKR20210408110651530?section=safe/news",
+		"date": "04-08 16:14"
+	},
 	"57021f735f9e7532e9a1ccd4e6245389a667c002876a054776af61bc0bae64ae": {
 		"title": "지난해 미 디지털광고 코로나19에도 12% 성장…158조 규모",
 		"link": "www.yna.co.kr/view/AKR20210408135600009?section=safe/news",
@@ -463,40 +498,5 @@
 		"title": "WHO자문위, AZ백신-혈전 인과관계 \"타당해보이지만 확인안돼\"",
 		"link": "www.yna.co.kr/view/AKR20210408004900088?section=safe/news",
 		"date": "04-08 01:50"
-	},
-	"166a0feb69839844766fa6f9f29d39cb6984ffaf1eafd6db9d32ce4295ca10d4": {
-		"title": "영국도 혈전 우려에 AZ사용 제한…\"30세 미만은 다른 백신 권고\"(종합2보)",
-		"link": "www.yna.co.kr/view/AKR20210408001551085?section=safe/news",
-		"date": "04-08 01:27"
-	},
-	"7e276dab83b809e3d516bffc33e9ffd8cd546c32803195516fe073c244fcc7c2": {
-		"title": "\"중국 시노백 백신, 브라질발 변이 바이러스 예방효과 있어\"",
-		"link": "www.yna.co.kr/view/AKR20210408003400094?section=safe/news",
-		"date": "04-08 01:03"
-	},
-	"de8d823a83fceb4c8306eedb78ce0724d565aebd406a4a76f9d87e843d5b40f4": {
-		"title": "IMF \"코로나19 종식 위한 백신접종과 공공지출이 성장 촉진\"",
-		"link": "www.yna.co.kr/view/AKR20210408001300071?section=safe/news",
-		"date": "04-08 00:42"
-	},
-	"42d5d48d05673e929bffc98f10076a41d5707ddb4e423b0684847a4974c151e9": {
-		"title": "영국도 혈전 우려에 AZ사용 제한…\"30세 미만은 다른 백신 권고\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20210408001500085?section=safe/news",
-		"date": "04-08 00:24"
-	},
-	"be7eedef5a5dffbd8f33dd97c4a22710b751ba351dc35dcd95a175e2255238bb": {
-		"title": "EMA \"AZ백신-희귀혈전 관련 가능성\"…전 성인 대상 권고 유지(종합2보)",
-		"link": "www.yna.co.kr/view/AKR20210407151652098?section=safe/news",
-		"date": "04-08 00:08"
-	},
-	"fb9a7b35353b64fd9c1b02c148217eeb73d47348feea0a5235c0d16c2e80aec3": {
-		"title": "[속보] 영국서 AZ백신 2천만회 접종후 혈전 발생 79건…19명 사망",
-		"link": "www.yna.co.kr/view/AKR20210407155100085?section=safe/news",
-		"date": "04-07 23:55"
-	},
-	"93f81669af10a8f8ef7ed23c7825c7b9252509feef484ed493f02329648ba4b9": {
-		"title": "[2보] 영국 당국, 30세 미만엔 아스트라제네카 아닌 다른 백신 권고",
-		"link": "www.yna.co.kr/view/AKR20210407154400085?section=safe/news",
-		"date": "04-07 23:41"
 	}
 }
