@@ -1,4 +1,84 @@
 {
+	"695bf5eb1caeb9c504e7fdcf94ff89ae5b6e624a683deed318f74b46bf3ac2b2": {
+		"title": "정부 \"얀센 백신 국내도입 계획 아직 변경 없어…안전성 점검\"",
+		"link": "www.yna.co.kr/view/AKR20210414093000530?section=safe/news",
+		"date": "04-14 12:03"
+	},
+	"6a0d01a5041e8847bdba0ece0df304cc8915d0c2f44fd09b7111529fb706824c": {
+		"title": "서울시, 집합금지 위반 적발된 강남 단란주점 고발키로",
+		"link": "www.yna.co.kr/view/AKR20210414090800004?section=safe/news",
+		"date": "04-14 11:49"
+	},
+	"709a610dad10e4898d997257e5fa5622751f9ab9ddb6ed4f5126567ad3b8c934": {
+		"title": "[전문가진단] \"4차 대유행 골든타임 지났다…이제라도 거리두기 강화해야\"",
+		"link": "www.yna.co.kr/view/AKR20210414088000530?section=safe/news",
+		"date": "04-14 11:46"
+	},
+	"2bb71ee3b3385f12fcfeb1d144ac107839923d30408c7457150d6fb016d4a03d": {
+		"title": "괴산 확진 학생 다니는 2개교 396명 전원 '음성'",
+		"link": "www.yna.co.kr/view/AKR20210414090400064?section=safe/news",
+		"date": "04-14 11:41"
+	},
+	"d4690c16916bf598c9f1650001016c11f285e9e55a0dc845bc3ae3005a969630": {
+		"title": "정부, 금주 상황 보고 거리두기 격상-영업시간 밤 9시로 조정 검토",
+		"link": "www.yna.co.kr/view/AKR20210414086700530?section=safe/news",
+		"date": "04-14 11:40"
+	},
+	"6e395f930cd8216eedf19eaccd103b74172f56ed7020a334e0df61ceec70218b": {
+		"title": "[속보] \"얀센 백신 국내도입 계획 아직 변경 없어…안전성 점검 예정\"",
+		"link": "www.yna.co.kr/view/AKR20210414087700530?section=safe/news",
+		"date": "04-14 11:35"
+	},
+	"1185e4f158b39d613f0f66f62ed4ace2994ab979682438a6c52a2876f76d44a8": {
+		"title": "[속보] \"자가검사키트 교직원·콜센터 대상으로 보조적 활용 가능할 듯\"",
+		"link": "www.yna.co.kr/view/AKR20210414088900530?section=safe/news",
+		"date": "04-14 11:34"
+	},
+	"521cb1a18317f9215adb0c67b293caeb1be0eda495d08165f6198cbc98ed4428": {
+		"title": "청주 서원·제천·옥천서도 내일부터 75세 이상 화이자 접종",
+		"link": "www.yna.co.kr/view/AKR20210414078600064?section=safe/news",
+		"date": "04-14 11:34"
+	},
+	"28700850cf960fd8d8a6b4656de8c3b7502f8028338d2cbf24668e248423152d": {
+		"title": "서초구 대형 헬스장 84명 집단감염…1천여명 검사",
+		"link": "www.yna.co.kr/view/AKR20210414086000004?section=safe/news",
+		"date": "04-14 11:28"
+	},
+	"9ac7fedc7e1e091edbd88de3f1afc2ae0241a1e953db911a532d9bbd2e3b1a62": {
+		"title": "환자 늘고 백신수급 불안…거리두기 격상-밤 9시 영업제한 재부상",
+		"link": "www.yna.co.kr/view/AKR20210414072200530?section=safe/news",
+		"date": "04-14 11:23"
+	},
+	"3cfe64b68e8ac3933990cfe08afa2f3a97370407c45a0b6ed1ebe9b18cb7e764": {
+		"title": "3월 경기지역 취업자 10만5천명↑…코로나 이후 1년만에 증가",
+		"link": "www.yna.co.kr/view/AKR20210414080400061?section=safe/news",
+		"date": "04-14 11:21"
+	},
+	"e2b72def9fe2e4b52f41de5e96c94f1f777d2e873d1db688c7bd2d652d86127d": {
+		"title": "서울 247명 신규 확진…56일 만에 최다(종합)",
+		"link": "www.yna.co.kr/view/AKR20210414054451004?section=safe/news",
+		"date": "04-14 11:19"
+	},
+	"a627e9ed3525df134168fdbd8bed19bed404ffa3f9ecc2b343d92b19541277cd": {
+		"title": "파스퇴르硏 \"코로나 치료·후보약물, 영·남아공 변이에도 효과\"",
+		"link": "www.yna.co.kr/view/AKR20210414080500017?section=safe/news",
+		"date": "04-14 11:16"
+	},
+	"0ccd9310c0d11f0a32e466b557fa2014d15e3cc225e73b41a6a6012c15637690": {
+		"title": "[속보] \"금주 상황 지켜보고 거리두기 단계·영업시간 제한 조정 검토\"",
+		"link": "www.yna.co.kr/view/AKR20210414081800530?section=safe/news",
+		"date": "04-14 11:14"
+	},
+	"b9a58b44cdfb326f7c4619b0664a2200dce7fd2620c8b5be6fb479d21a94ac2a": {
+		"title": "정부 \"확진자 폭증 대비해 생활치료·전담병원 예비기관 확보\"",
+		"link": "www.yna.co.kr/view/AKR20210414078200530?section=safe/news",
+		"date": "04-14 11:14"
+	},
+	"610498b46a61bc2fa739142d87a6a3c4848e041ec60f9dc0981fdfb27bf9b334": {
+		"title": "홍콩, 예약한 백신과 다른 종류 접종 24건 확인…공식 사과",
+		"link": "www.yna.co.kr/view/AKR20210414077000074?section=safe/news",
+		"date": "04-14 11:09"
+	},
 	"5be6a398172ac4cd912f393d08e08cfa0c60183d47a165e5c34589002d2c5ce0": {
 		"title": "홍콩, 시노백·화이자 백신 잘못 접종한 사례 24건 확인",
 		"link": "www.yna.co.kr/view/AKR20210414077000074?section=safe/news",
@@ -418,85 +498,5 @@
 		"title": "미 보건당국 경고에 J&J백신 속속 사용중단…유럽 출시도 연기(종합)",
 		"link": "www.yna.co.kr/view/AKR20210413175252099?section=safe/news",
 		"date": "04-13 23:46"
-	},
-	"93e546c3b1ffed7c1f65db72a6621e4f9637fc4284093fb12890288950e5151b": {
-		"title": "백악관, J&J 백신 접종 중단 권고에 \"화이자·모더나 물량 충분\"",
-		"link": "www.yna.co.kr/view/AKR20210413177500071?section=safe/news",
-		"date": "04-13 23:45"
-	},
-	"21df52ce7dd5589f04710f95981fb3b79fcd8411cfb662a0e154a6ba2d4da36c": {
-		"title": "터키 \"신규 확진자 85%가 영국발 변이 바이러스 감염\"",
-		"link": "www.yna.co.kr/view/AKR20210413177300108?section=safe/news",
-		"date": "04-13 23:27"
-	},
-	"32caccdad8eed636f6b0f40134c2454d8021284e8b75ebacfbb48978aa7b6ef2": {
-		"title": "존슨앤드존슨 \"코로나19 백신 유럽 출시 연기\"",
-		"link": "www.yna.co.kr/view/AKR20210413175251099?section=safe/news",
-		"date": "04-13 23:02"
-	},
-	"89186cb01033fa30d6178d7de1d29ba52cb20f6db5c3645c43887e6736fac8e0": {
-		"title": "코로나19 사태 때 사재기 여파…미국 화장지 판매 급감",
-		"link": "www.yna.co.kr/view/AKR20210413174900072?section=safe/news",
-		"date": "04-13 22:58"
-	},
-	"e0d5c2845a2c0f5a96a33e5b7f0a6b21dfc7ebe26ec937bfdc68a2c1be4caa74": {
-		"title": "뉴욕증시, J&J 코로나19 백신 접종 중단 소식에 혼조 출발",
-		"link": "www.yna.co.kr/view/AKR20210413176100009?section=safe/news",
-		"date": "04-13 22:56"
-	},
-	"82299cff5f0f181448621ff344f74d56b10db9e2633768b8dd0fa78b88976907": {
-		"title": "얀센 백신 접종중단 수급불안 심화…국내 공급계약은 600만명분",
-		"link": "www.yna.co.kr/view/AKR20210413173400530?section=safe/news",
-		"date": "04-13 22:56"
-	},
-	"9a7f268166b7fc4bd80eff9e8b63955098c4ed14dd2e495dc807a3223f174bb6": {
-		"title": "[속보] 존슨앤드존슨 \"유럽 코로나 백신 전개 연기할 것\"<AFP>",
-		"link": "www.yna.co.kr/view/AKR20210413175200099?section=safe/news",
-		"date": "04-13 22:45"
-	},
-	"28d2467db616fdb9a99b911b9c6cd34d12566721babf7f303f1a24224e20e4b5": {
-		"title": "괴산 교회서 무더기 감염…충북 28명 추가 확진(종합)",
-		"link": "www.yna.co.kr/view/AKR20210413156551064?section=safe/news",
-		"date": "04-13 22:08"
-	},
-	"2e92d69bb9111b67948cd9dec05a848cc624a69f5f91fbcb0a58764f7827a0d7": {
-		"title": "오후 9시까지 서울 243명 신규 확진…전날보다 92명↑",
-		"link": "www.yna.co.kr/view/AKR20210413157151004?section=safe/news",
-		"date": "04-13 21:57"
-	},
-	"12cf532c43e84a053398a157ceb1837a8e859c96102ec7200808cae1410e565f": {
-		"title": "美보건당국 \"J&J 코로나 백신 접종 후 혈전 6건…사용중단 권고\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20210413167851009?section=safe/news",
-		"date": "04-13 21:25"
-	},
-	"148694cab82d95633cc35308efd88ffc13e2c54ac9306859160c157c5d4f4b12": {
-		"title": "日코로나 확산 속 오사카구간 도로 성화봉송 취소…공원서 진행",
-		"link": "www.yna.co.kr/view/AKR20210413168600073?section=safe/news",
-		"date": "04-13 20:52"
-	},
-	"9121230269767d30bd9bc9a1bc698822acd39ca7ac7b8bdb7464b48ec64a473d": {
-		"title": "美보건당국 \"J&J 코로나 백신 접종 후 혈전 6건…사용중단 권고\"",
-		"link": "www.yna.co.kr/view/AKR20210413167800009?section=safe/news",
-		"date": "04-13 20:36"
-	},
-	"94575b4efca0ca05f84f9424465a346a28aac80597d5017690fd792cb0436bc3": {
-		"title": "[속보] 美CDC·FDA \"존슨앤드존슨 코로나 백신 접종 중단 권고\"",
-		"link": "www.yna.co.kr/view/AKR20210413167200009?section=safe/news",
-		"date": "04-13 20:20"
-	},
-	"eaceb561b3f610129f043c5342415adb281dd0b5f97631d62e1b0fb7b39e86ea": {
-		"title": "울산서 일상 속 연쇄 감염 전방위 확산…29명 신규 확진(종합2보)",
-		"link": "www.yna.co.kr/view/AKR20210413056552057?section=safe/news",
-		"date": "04-13 20:16"
-	},
-	"aeaf2aa35985c77890bdf065b2b1c265497f84436ced7741cf799f723f0e4513": {
-		"title": "부산 교육현장서도 확진자 속출…학생·교직원 등 5명 추가",
-		"link": "www.yna.co.kr/view/AKR20210413158500051?section=safe/news",
-		"date": "04-13 18:30"
-	},
-	"053aa96c81441bb57484705c847eae75d5950e8ef39dca34360daaadd3eb84bf": {
-		"title": "오후 6시까지 서울 218명 신규확진…1주 전보다 45명↑",
-		"link": "www.yna.co.kr/view/AKR20210413157100004?section=safe/news",
-		"date": "04-13 18:25"
 	}
 }
