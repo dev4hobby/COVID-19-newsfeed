@@ -1,4 +1,79 @@
 {
+	"49f7993d75472fb59916c915ad90404b3c9e6b61c9a9046defd32dd796a705a5": {
+		"title": "정부 \"거리두기 등 방역조치 조정은 시간 여유 두고 발표\"",
+		"link": "www.yna.co.kr/view/AKR20210415085700530?section=safe/news",
+		"date": "04-15 11:36"
+	},
+	"dc45074ec26389d579e8a46e0e0c6d827d6bd4a631eb49995fd0db845061b6c2": {
+		"title": "정부 \"국내 한 제약사 8월부터 해외백신 위탁생산…곧 발표\"",
+		"link": "www.yna.co.kr/view/AKR20210415088800530?section=safe/news",
+		"date": "04-15 11:35"
+	},
+	"f8e6e3e23a7fb71fad7a27bdd6550075a1915f8cd550ed144c66d28d4f3f8eb7": {
+		"title": "칠곡서 70대 백신 접종 나흘 만에 사망…인과성 미확인",
+		"link": "www.yna.co.kr/view/AKR20210415085500053?section=safe/news",
+		"date": "04-15 11:31"
+	},
+	"b9d0e189d39431badf10a7db8efc4c9c88f014314c9bc08c64c6a9deaa1f5b0f": {
+		"title": "강남구 지인모임·수도권 여행서 28명 집단감염",
+		"link": "www.yna.co.kr/view/AKR20210415085300004?section=safe/news",
+		"date": "04-15 11:30"
+	},
+	"466233b22f99a389f7332a176af1ebc318964b503761eef33cbfa15efb8dff98": {
+		"title": "[속보] 정부 \"국내 한 제약사 8월부터 해외백신 위탁생산…곧 발표\"",
+		"link": "www.yna.co.kr/view/AKR20210415085900530?section=safe/news",
+		"date": "04-15 11:27"
+	},
+	"049442b5285e738a4b2479012ebb32c44641d6dc9c2ce2b75986cd033a8326c3": {
+		"title": "[속보] 정부 \"'희귀 혈전' 연관 AZ-얀센 백신 구매계획 변경 아직 없어\"",
+		"link": "www.yna.co.kr/view/AKR20210415083400530?section=safe/news",
+		"date": "04-15 11:21"
+	},
+	"7853b0afe174cfc08633f009900d2bf363fd60e94ad3372c055b31edea7e804d": {
+		"title": "담양서 민주당원 등 6명 무더기 확진…거리두기 2단계 격상",
+		"link": "www.yna.co.kr/view/AKR20210415081600054?section=safe/news",
+		"date": "04-15 11:20"
+	},
+	"dac10260a613bff44c07cd2abb60d389b253495835797a24fc5550077835dae0": {
+		"title": "전북서 이틀새 22명 코로나19 신규 확진…\"감염경로 미상 증가\"",
+		"link": "www.yna.co.kr/view/AKR20210415081100055?section=safe/news",
+		"date": "04-15 11:17"
+	},
+	"18dd38ac202c10ce4e075a922c3c16a27ca9ca9bcc5b9080100928cd90eed7bf": {
+		"title": "광주경찰, 기동대 동원 유흥업소 코로나19 방역점검",
+		"link": "www.yna.co.kr/view/AKR20210415079800054?section=safe/news",
+		"date": "04-15 11:13"
+	},
+	"33e4821d45ae7f782752cc8c1d74e858af19a7a16f7826b353b6a21d4f2753e9": {
+		"title": "與 부산 비대위 취재기자 확진…비대위원 선제적 귀가 조치",
+		"link": "www.yna.co.kr/view/AKR20210415074300001?section=safe/news",
+		"date": "04-15 11:05"
+	},
+	"50a66119a0510cbdb2f6710c784c7034898162b98f6269cb1ccc4164baf94365": {
+		"title": "'백신 예방접종증명서' 앱 출시 지연…\"이르면 오늘 중 개통\"",
+		"link": "www.yna.co.kr/view/AKR20210415075100530?section=safe/news",
+		"date": "04-15 11:01"
+	},
+	"6257e9a191ae4349ca28b45593052136a6af7d149d6cbb777da35d7abf25ff8b": {
+		"title": "서울서 217명 신규 확진…이틀 연속 200명대(종합)",
+		"link": "www.yna.co.kr/view/AKR20210415055651004?section=safe/news",
+		"date": "04-15 11:00"
+	},
+	"4b57976bdb47dbe22933a66ac63173a05bf6c2262f36d8ebbb306e20941edc30": {
+		"title": "미, 얀센 백신 중단 연장…'엎친 데 덮친' 세계 백신 접종",
+		"link": "www.yna.co.kr/view/AKR20210415075600009?section=safe/news",
+		"date": "04-15 10:58"
+	},
+	"89c4fcb3bd0e8e80c6abe7d5571b1a66a7a540c75d80fa27d9bfd44ebcb17277": {
+		"title": "전주시 거리두기 2단계 1주간 연장…\"대유행 현실화 우려\"(종합)",
+		"link": "www.yna.co.kr/view/AKR20210415062451055?section=safe/news",
+		"date": "04-15 10:56"
+	},
+	"d5e69d507824cc41e544e0517ea63f12174cc085c7b9b2c5c31e3fa5fb75ba72": {
+		"title": "대구서 철도청 퇴직자 모임 관련 등 18명 신규 확진(종합)",
+		"link": "www.yna.co.kr/view/AKR20210415029851053?section=safe/news",
+		"date": "04-15 10:55"
+	},
 	"f63dd375d42fe84e2b4b9957982d9257f8b78d263b55d911cbb35465dacfff9d": {
 		"title": "마스크 착용으로 인한 피부 트러블 원인 밝혔다",
 		"link": "www.yna.co.kr/view/AKR20210415073500017?section=safe/news",
@@ -423,80 +498,5 @@
 		"title": "러시아제 코로나19 백신 거부한 우크라, 중국 백신 접종 시작",
 		"link": "www.yna.co.kr/view/AKR20210414154900080?section=safe/news",
 		"date": "04-14 17:19"
-	},
-	"e79881bc7ea6cf308f67bdf26d43181906c5c478501f372bae233aba9ecfee09": {
-		"title": "인천서 17명 코로나19 감염…11명은 확진자 접촉(종합)",
-		"link": "www.yna.co.kr/view/AKR20210414075351065?section=safe/news",
-		"date": "04-14 17:18"
-	},
-	"4f6d5bc3dcb28a301e421ad375178b89f04941b11840265a32ae01817e07add7": {
-		"title": "부산교육청 방역수칙 준수 지시…\"사모임·동아리 활동 자제\"",
-		"link": "www.yna.co.kr/view/AKR20210414153600051?section=safe/news",
-		"date": "04-14 17:16"
-	},
-	"cf99968b0e4463f684227bebcb97790c0f847b331f776670684c0854021c39ee": {
-		"title": "경남 24명 확진…진주 등 6개 지역서 산발 감염(종합)",
-		"link": "www.yna.co.kr/view/AKR20210414107201052?section=safe/news",
-		"date": "04-14 17:14"
-	},
-	"3c9c32732c9f77cbb6478c96f592b8ac7bc92f0ba42d2282abba4eb2499d249e": {
-		"title": "경기도, '코로나19 의심증상자 48시간내 진단검사' 행정명령",
-		"link": "www.yna.co.kr/view/AKR20210414151900061?section=safe/news",
-		"date": "04-14 17:04"
-	},
-	"7a9c35d359c61a62073c38399dbd37f7f180cefc34d454b9d3b933fa6e9835b4": {
-		"title": "터키 신규 확진 6만명 육박…또 최대치 경신",
-		"link": "www.yna.co.kr/view/AKR20210414149400108?section=safe/news",
-		"date": "04-14 17:00"
-	},
-	"9b2a8899e97b89aad04ff7336c450052f8b3a0430e6b5a96ec95ce170a75c69a": {
-		"title": "부천서 확진자 가족 등 6명 코로나19 감염",
-		"link": "www.yna.co.kr/view/AKR20210414150900065?section=safe/news",
-		"date": "04-14 16:58"
-	},
-	"bf44bc88826a9183fd95c30ec012cd55b552ad5ac2518e2ea52223df3c017651": {
-		"title": "충북도 \"종교시설 집단감염시 1주일 대면예배 금지\"",
-		"link": "www.yna.co.kr/view/AKR20210414146000064?section=safe/news",
-		"date": "04-14 16:48"
-	},
-	"849a2b51f259722fee3a0d5194ea46d4e7dccdea7355858ee314fa3e2a36f926": {
-		"title": "원주서 사설 오페라 합창단원 9명 무더기 확진…6명 검사중",
-		"link": "www.yna.co.kr/view/AKR20210414141800062?section=safe/news",
-		"date": "04-14 16:22"
-	},
-	"cf2b8009e1218b698160fde65c18010aa69369cb0370c53e36538e2026bb5330": {
-		"title": "학교감염 확산에 교육주 무더기 상한가",
-		"link": "www.yna.co.kr/view/AKR20210414141200002?section=safe/news",
-		"date": "04-14 16:15"
-	},
-	"5746913056598dc21cfc401b1ffc0f14ba0bfedb13491a700f096bbf21a86c68": {
-		"title": "교회가 코로나 대응 잘했냐고 묻자…\"교계 안팎 인식차 6배\"",
-		"link": "www.yna.co.kr/view/AKR20210414137200005?section=safe/news",
-		"date": "04-14 16:09"
-	},
-	"b049355a5646dafd71a60184db4726c6501c001a755d181ecb1003a85ed34bd2": {
-		"title": "청주서 금융기관 관련 감염 이어져…직원 등 6명 확진",
-		"link": "www.yna.co.kr/view/AKR20210414134200064?section=safe/news",
-		"date": "04-14 15:52"
-	},
-	"f06238b69fa016d038496d7f5ce141ef4826ded5d6ce298cd51cae476019ddfe": {
-		"title": "백신 이상반응 64건 늘어…사망신고 1명·혈전증 2건 추가(종합)",
-		"link": "www.yna.co.kr/view/AKR20210414056751530?section=safe/news",
-		"date": "04-14 15:50"
-	},
-	"39f79db40e917b08f42cadc83619727e88028e5127806c29d4ff11042842297d": {
-		"title": "고양시 실용음악학원 수강생 1명 추가 확진…누적 24명",
-		"link": "www.yna.co.kr/view/AKR20210414135100060?section=safe/news",
-		"date": "04-14 15:49"
-	},
-	"4af074cfc3445ae8a8e4cbab56ba03b977ec7f8031f3f71b64b83752e3311ead": {
-		"title": "김윤덕 의원 '취약계층 코로나19 검사비용 지원 법안' 발의",
-		"link": "www.yna.co.kr/view/AKR20210414133000055?section=safe/news",
-		"date": "04-14 15:45"
-	},
-	"bf9928f54e60cd2dc0a6b286f097d62337b92156e61168a22907da704f22c352": {
-		"title": "코로나19 걸렸다 나은 美여성 얀센 백신 맞고도 재감염",
-		"link": "www.yna.co.kr/view/AKR20210414126900009?section=safe/news",
-		"date": "04-14 15:38"
 	}
 }
