@@ -1,4 +1,89 @@
 {
+	"614b3c2171cacfa1d7565bf1a56c0b03e144002f3b6dc95fd8ab19fe3ba552bf": {
+		"title": "백신 1차접종 9만2천660명↑ 총 137만9천653명…인구 대비 2.65%",
+		"link": "www.yna.co.kr/view/AKR20210416047700530?section=safe/news",
+		"date": "04-16 09:49"
+	},
+	"ec0168adf3b05f275d5a60d27f0987efddfd7e29c68c2200825ded749e0f4177": {
+		"title": "백신 이상반응 86건 늘어…사망신고 1명 추가, 인과성 미확인",
+		"link": "www.yna.co.kr/view/AKR20210416047000530?section=safe/news",
+		"date": "04-16 09:46"
+	},
+	"bf62fa0d072e38ab45961c41b10cb1fac748885138703c1829f2106c8d3e66d9": {
+		"title": "서울 용산구, 백신접종센터에 '민원안내 로봇 공무원' 배치",
+		"link": "www.yna.co.kr/view/AKR20210416046400004?section=safe/news",
+		"date": "04-16 09:45"
+	},
+	"f09a17747f011a76aa389d5c509001162d9e584a9b5f262c658107c6f09d4910": {
+		"title": "수도권 임시 선별검사소서 120명 확진…수도권 지역발생의 27.1%",
+		"link": "www.yna.co.kr/view/AKR20210416047500530?section=safe/news",
+		"date": "04-16 09:45"
+	},
+	"e71f45612020702ca3a5b8117af52f60a212a3d4f51d39e0897e177605af062c": {
+		"title": "신규확진 673명, 이틀째 600명대 후반…전국서 동시다발 확산(종합)",
+		"link": "www.yna.co.kr/view/AKR20210416034651530?section=safe/news",
+		"date": "04-16 09:43"
+	},
+	"32c9923598dcedb700a18282c4d12e314a580e87114b636169493e89a6a4aa81": {
+		"title": "[3보] 신규확진 673명, 이틀째 600명대 후반…전국서 동시다발 확산",
+		"link": "www.yna.co.kr/view/AKR20210416034600530?section=safe/news",
+		"date": "04-16 09:37"
+	},
+	"dd3b1eac5ce72dcc30ff4091d6003e8112ecf534e30554d985aa089d9bd2dc78": {
+		"title": "[속보] 1차접종 9만2천660명↑ 총 137만9천653명…2차접종은 6만571명",
+		"link": "www.yna.co.kr/view/AKR20210416045300530?section=safe/news",
+		"date": "04-16 09:33"
+	},
+	"8dd648ba1d998458b2d2bd10f5fd6f49dab740feacf84820ebd5177ff7d9bb4d": {
+		"title": "[속보] 백신 이상반응 86건 늘어…사망신고 1명 추가, 인과성 미확인",
+		"link": "www.yna.co.kr/view/AKR20210416044700530?section=safe/news",
+		"date": "04-16 09:32"
+	},
+	"164b7132501a5c618bbcbced06f0cd75f23dc6272aeb665f318e4ac6a19e61e1": {
+		"title": "[2보] 코로나19 어제 673명 신규확진…이틀째 600명대 후반",
+		"link": "www.yna.co.kr/view/AKR20210416034500530?section=safe/news",
+		"date": "04-16 09:30"
+	},
+	"3a6bad3e6a14155768864948041f1b160498e9c966c9a1f1ff3ec4088844de9d": {
+		"title": "[속보] 코로나19로 어제 2명 사망…누적 1천790명",
+		"link": "www.yna.co.kr/view/AKR20210416034800530?section=safe/news",
+		"date": "04-16 09:30"
+	},
+	"17955eb748a8cb643f6f66e1a09a6af25ceaf61ec883cef24fd3a801353cbd65": {
+		"title": "[1보] 코로나19 어제 673명 신규확진…이틀째 600명대 후반",
+		"link": "www.yna.co.kr/view/AKR20210416034400530?section=safe/news",
+		"date": "04-16 09:30"
+	},
+	"26f5e796f25efa18e5694f17f11e91771dc29504b1e795886c0070b03cb15054": {
+		"title": "대전 공원·산책로 참진드기 작년의 2배로…\"감염병 우려\"",
+		"link": "www.yna.co.kr/view/AKR20210416041300063?section=safe/news",
+		"date": "04-16 09:27"
+	},
+	"730c8a88c9705f3397276e65f6620419146a55b1a63d41f05fc2e16533439ab8": {
+		"title": "현대차, 미국서 올여름부터 첫 픽업트럭 '싼타크루즈' 판매",
+		"link": "www.yna.co.kr/view/AKR20210416026600075?section=safe/news",
+		"date": "04-16 09:07"
+	},
+	"1e57dbb44908aa11f0799b03c5c0155de2453ba38a8a3d6789e94cd942fb3461": {
+		"title": "\"백신 접종보다 코로나19 감염 따른 뇌혈전 발생 위험 더 커\"",
+		"link": "www.yna.co.kr/view/AKR20210416013300081?section=safe/news",
+		"date": "04-16 08:53"
+	},
+	"6b04978c8ff950d3d8fe3a7cb66d35f82498b39d5e046191c27e0233d084e163": {
+		"title": "파우치 \"얀센백신, 중단이지 취소 아냐…수일∼수주내 재개\"(종합)",
+		"link": "www.yna.co.kr/view/AKR20210416002651091?section=safe/news",
+		"date": "04-16 08:52"
+	},
+	"41e8216757a33fba3e70de9e1f08e41c0f08c675c72809de3c9a83a3b0c27f66": {
+		"title": "경산 12명 등 경북 5개 시·군서 24명 신규 확진",
+		"link": "www.yna.co.kr/view/AKR20210416032600053?section=safe/news",
+		"date": "04-16 08:52"
+	},
+	"1eedafb93ee14b36c36fecbb8b3fc223713429120f7d5d7b7dc5a8189911cd69": {
+		"title": "울산 코로나19 신규 확진자 5명 추가…누적 1천415명",
+		"link": "www.yna.co.kr/view/AKR20210416032900057?section=safe/news",
+		"date": "04-16 08:44"
+	},
 	"b84868791d608c3a5930cb4f07d07f284d11347ba80ae2419f0aeadb40266bdf": {
 		"title": "대구서 4명 추가 확진…서구 일가족 관련 누계 7명",
 		"link": "www.yna.co.kr/view/AKR20210416029500053?section=safe/news",
@@ -413,90 +498,5 @@
 		"title": "코로나19 확산세 지속…가족모임-식당-어린이집-교회서 새 감염",
 		"link": "www.yna.co.kr/view/AKR20210415117100530?section=safe/news",
 		"date": "04-15 14:39"
-	},
-	"cfd4140268331213cf4cf52f5dbf194be039b4cf8d42f9e0627ffd10c3d95fde": {
-		"title": "최근 입국 주한미군 장병·가족 4명 코로나19 확진",
-		"link": "www.yna.co.kr/view/AKR20210415119700504?section=safe/news",
-		"date": "04-15 14:37"
-	},
-	"90655ee65be2efcef6c834551008d404845a12b93cdb5aea0b4db5c71da7fec0": {
-		"title": "법원 \"경기도의 신천지 박물관 부지 폐쇄 조치는 부적법\"",
-		"link": "www.yna.co.kr/view/AKR20210415118500061?section=safe/news",
-		"date": "04-15 14:37"
-	},
-	"3d12764e8da1821fa0ac113915f3692cb13a56a623d596e785547e9fbceb30b0": {
-		"title": "백신 이상반응 128건 늘어…사망신고 2명 추가, 인과성 미확인(종합)",
-		"link": "www.yna.co.kr/view/AKR20210415054251530?section=safe/news",
-		"date": "04-15 14:28"
-	},
-	"1d290cc3c48912a098931655b86785ee99a11db0fcc9f92a7b5f89b2451f0674": {
-		"title": "[속보] \"백신 접종센터 104곳 확충…하루 어르신 7만명 이상 접종 가능\"",
-		"link": "www.yna.co.kr/view/AKR20210415116400530?section=safe/news",
-		"date": "04-15 14:26"
-	},
-	"d1f5594f3d99fc0bb3f949d2ca29564fa0c4a7398ade6ba689acb273cfb5ca26": {
-		"title": "[속보] 국산 항체치료제, 美캘리포니아·브라질 변이 바이러스에 효과",
-		"link": "www.yna.co.kr/view/AKR20210415114800530?section=safe/news",
-		"date": "04-15 14:18"
-	},
-	"cc85117bdb291bc44b2538e57954ee1b9f6992a7d787720450b1a2980d120d4a": {
-		"title": "[속보] 국산 항체치료제, 美캘리포니아·브리질 변이 바이러스에 효과",
-		"link": "www.yna.co.kr/view/AKR20210415114800530?section=safe/news",
-		"date": "04-15 14:18"
-	},
-	"9b573d358ba0156003a4bb5215945a1a8f69a5bc932740087afb5f7dfb039c56": {
-		"title": "[속보] 감염취약시설 595만건 선제검사서 164명 확진…양성률 0.003%",
-		"link": "www.yna.co.kr/view/AKR20210415113700530?section=safe/news",
-		"date": "04-15 14:15"
-	},
-	"527e5f7322e0a7fb75214abb09582bb5dae27a7936c3f2a25fcdbe3b7ef819f4": {
-		"title": "유진섭 정읍시장 \"코로나19 방역에 동참해 달라\" 호소",
-		"link": "www.yna.co.kr/view/AKR20210415107100055?section=safe/news",
-		"date": "04-15 14:07"
-	},
-	"2a0e566d5c5b7bb7bf802297829eabae40aace03d27e4095f11e6b647c424350": {
-		"title": "농해수위 '日오염수 현안질의' 코로나 여파로 무기한 연기",
-		"link": "www.yna.co.kr/view/AKR20210415100200001?section=safe/news",
-		"date": "04-15 13:40"
-	},
-	"400fa15dafd1d1448d3a15fd5e595467fca061fb7a0e8fb44f051a8c024678df": {
-		"title": "필리핀, 코로나 급속 확산에 수도권 치명률 5%대로 치솟아",
-		"link": "www.yna.co.kr/view/AKR20210415098000084?section=safe/news",
-		"date": "04-15 12:28"
-	},
-	"c992c0ed4954289036c63918d352b0a8f13d8a9efc47377a99f5000c6e41b4c7": {
-		"title": "정부 \"'희귀 혈전' 연관 AZ-얀센 백신 구매계획 변경 아직 없어\"",
-		"link": "www.yna.co.kr/view/AKR20210415094500530?section=safe/news",
-		"date": "04-15 12:08"
-	},
-	"8760466862c4e6b9d2a47093b50ab28f6768b92b017cc6d1f3a9ae26e9ce9b23": {
-		"title": "고양시, 어울림누리에 코로나19 예방접종센터 추가 개소",
-		"link": "www.yna.co.kr/view/AKR20210415090600060?section=safe/news",
-		"date": "04-15 12:06"
-	},
-	"99cd3eb3f8481cf1839fc806223ab8d4ec8bc7afb5c3c29b74bffc2194196d83": {
-		"title": "서귀포해경 직원 코로나 확진…대학병원 응급실 한때 폐쇄",
-		"link": "www.yna.co.kr/view/AKR20210415087900056?section=safe/news",
-		"date": "04-15 12:05"
-	},
-	"113c8381e074d5bc03c3d42f4acbd38df030655c8092d9ed87e32c90ef1b03cb": {
-		"title": "정부 \"국내 한 제약사 8월부터 해외백신 위탁생산…곧 발표\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20210415088851530?section=safe/news",
-		"date": "04-15 11:56"
-	},
-	"765864af0b3a67bedf4d2f801a85e0f010f596be557de15cb310dd0cde09c8ca": {
-		"title": "[영상] 얀센 접종중단, 모더나는 미국 우선…국내 수급 문제없나?",
-		"link": "www.yna.co.kr/view/AKR20210415082200704?section=safe/news",
-		"date": "04-15 11:54"
-	},
-	"7d6b0c5a1b470d9c40f248687cedcc070253e2127473438a2b6f27b9cb1620f3": {
-		"title": "집단감염 괴산 교회 70대 신도 추가 확진…누적 24명",
-		"link": "www.yna.co.kr/view/AKR20210415091700064?section=safe/news",
-		"date": "04-15 11:53"
-	},
-	"569164d3ace1a49c7fae548e4ab2607cf441a4daa11586c051ba6d0c6fff27fe": {
-		"title": "연이은 취재 기자 확진에 어수선한 부산시청",
-		"link": "www.yna.co.kr/view/AKR20210415090900051?section=safe/news",
-		"date": "04-15 11:53"
 	}
 }
