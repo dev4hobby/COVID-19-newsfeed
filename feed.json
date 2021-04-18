@@ -1,4 +1,44 @@
 {
+	"0d17476018207302f22e4eca0148850761ef08a5a5321b8a858f55a93b866374": {
+		"title": "[속보] 코로나19로 어제 3명 사망…누적 1천797명",
+		"link": "www.yna.co.kr/view/AKR20210418012500530?section=safe/news",
+		"date": "04-18 09:33"
+	},
+	"26757df0b3fa2ac7eb1f1754e90bffd7cc4af29b04f4d6a629bb5f971d5a2cef": {
+		"title": "[속보] 서울 205명-경기 184명-경남 67명-부산 31명-경북 28명 등 확진",
+		"link": "www.yna.co.kr/view/AKR20210418012000530?section=safe/news",
+		"date": "04-18 09:33"
+	},
+	"b131b7536127e76eb64544c5d9f0a5e85a254e2b99ced7dcbb70d88fbc1e3c4d": {
+		"title": "[속보] 1차접종 2만9천165명 늘어 총 151만2천503명…2차접종 6만585명",
+		"link": "www.yna.co.kr/view/AKR20210418012400530?section=safe/news",
+		"date": "04-18 09:32"
+	},
+	"08ae9ba29040c333de33f99514bb0591c936fe5040750726eca86484d1802510": {
+		"title": "[2보] 코로나19 어제 672명 신규확진…주말영향에도 나흘째 600명대",
+		"link": "www.yna.co.kr/view/AKR20210418008500530?section=safe/news",
+		"date": "04-18 09:32"
+	},
+	"5e3b5346c307eac97622c3f4525c445f4e8b20a9dd0a51072b21761a081db37a": {
+		"title": "[속보] 백신 이상반응 78건 늘어…아나필락시스 1건·중증의심 1건 추가",
+		"link": "www.yna.co.kr/view/AKR20210418012300530?section=safe/news",
+		"date": "04-18 09:31"
+	},
+	"d993e14b34ae3ca691e4680807ba713f715e4d6525aaccb970428a8f417cd9ba": {
+		"title": "[1보] 코로나19 어제 672명 신규확진…나흘째 600명대",
+		"link": "www.yna.co.kr/view/AKR20210418008300530?section=safe/news",
+		"date": "04-18 09:30"
+	},
+	"c15ec13d0e875d9c70de2575108e0698a0ce15f80a2043a28a3dbe1d9b500fb2": {
+		"title": "'먹으면 코로나19 예방' 등 허위·과대 광고사이트 1천여건 적발",
+		"link": "www.yna.co.kr/view/AKR20210416172100530?section=safe/news",
+		"date": "04-18 09:00"
+	},
+	"13f77019bcc10daa97b97075dd429a8c963c3ee47812620292fc2cfb9821270e": {
+		"title": "광주 13명·전남 2명 확진…타지역 확진자 접촉 등 경로 다양",
+		"link": "www.yna.co.kr/view/AKR20210418006800054?section=safe/news",
+		"date": "04-18 08:21"
+	},
 	"d8b711dd6a883d50f3cb1f0cc153f0374366070f06477a6a2d84706db2a66639": {
 		"title": "[통통 지역경제] '코로나19 위기 돌파' 대전 중소기업 지원 팔걷었다",
 		"link": "www.yna.co.kr/view/AKR20210413147700063?section=safe/news",
@@ -458,45 +498,5 @@
 		"title": "백신 '부스터샷' 새 변수로…전문가 \"추가 계약도 필요한 상황\"",
 		"link": "www.yna.co.kr/view/AKR20210416146500530?section=safe/news",
 		"date": "04-17 04:30"
-	},
-	"991e458517b0ff81dd3e7d6a531216f44204674918453271cef5e25c9305121d": {
-		"title": "미 백신 접종 가속에도 21개주서 코로나 신규환자 증가세",
-		"link": "www.yna.co.kr/view/AKR20210417004000091?section=safe/news",
-		"date": "04-17 03:28"
-	},
-	"9fb60b79d5ffbc621fc8d88865bc3226b5fc9bc01b0dfb4188cc1461f93622a5": {
-		"title": "영국, 임산부에게 화이자·모더나 백신 접종 권고",
-		"link": "www.yna.co.kr/view/AKR20210417003000081?section=safe/news",
-		"date": "04-17 02:15"
-	},
-	"cad0e17e202d6328b11493df41fc7cba692cfd826ac50e8f32281cf2bfcaa9f2": {
-		"title": "브라질 코로나 백신 관리 엉망…독감 백신과 헷갈려 엉뚱한 접종",
-		"link": "www.yna.co.kr/view/AKR20210417001100094?section=safe/news",
-		"date": "04-17 00:55"
-	},
-	"33e438c51a42d3a121152910af9ef227ae49030626201788af660367fee7f748": {
-		"title": "칠레 \"중국 시노백 백신, 유증상 감염 67%·사망 80% 예방\"",
-		"link": "www.yna.co.kr/view/AKR20210417000300087?section=safe/news",
-		"date": "04-17 00:29"
-	},
-	"f219f8cd035e26d3e8cd5ca21edd97888278dd1bc43bc56b0ea9f7e3c627b951": {
-		"title": "메르켈 독일 총리, 아스트라제네카 코로나19 백신 접종(종합)",
-		"link": "www.yna.co.kr/view/AKR20210416175451098?section=safe/news",
-		"date": "04-16 23:16"
-	},
-	"224f1d40a1d373324c869871b14f1b4ec4954501724ef1be3e63b1aeed1115f2": {
-		"title": "\"호주서도 AZ 백신 맞은 후 혈전 증세로 첫 사망자 나온 듯\"",
-		"link": "www.yna.co.kr/view/AKR20210416175500093?section=safe/news",
-		"date": "04-16 23:09"
-	},
-	"d7b700311bc140d973ad23a809789134cd82b89613a1fcc52a89bc4e1f3462c9": {
-		"title": "中, 화이자 백신 승인 검토 막바지…\"10주 내 결정\"",
-		"link": "www.yna.co.kr/view/AKR20210416176400072?section=safe/news",
-		"date": "04-16 22:57"
-	},
-	"4eb30537be2331d529b9696f705dc445d292e176e8c4ee853e422cc2415faf38": {
-		"title": "\"메르켈 독일 총리, 아스트라제네카 백신 접종\"",
-		"link": "www.yna.co.kr/view/AKR20210416175400098?section=safe/news",
-		"date": "04-16 22:34"
 	}
 }
