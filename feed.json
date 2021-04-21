@@ -1,4 +1,94 @@
 {
+	"55472576e9917057f6aff2076e69a19715efbbe64fb081f00f662b4fe756327a": {
+		"title": "자가격리자 급증에 부산 지자체 구호물품 수급 비상",
+		"link": "www.yna.co.kr/view/AKR20210421083000051?section=safe/news",
+		"date": "04-21 11:39"
+	},
+	"c3d644bd419898b25d4cc2f4292ec82215f0807375f162f8b1c927f0de9f1cbb": {
+		"title": "대구 개학 후 학생·교직원 69명 코로나19 감염 '비상'",
+		"link": "www.yna.co.kr/view/AKR20210421086900053?section=safe/news",
+		"date": "04-21 11:35"
+	},
+	"26700071165567b8bce9b66a2373981c9a36caed376ea04ae004e5c3ceaeaa1d": {
+		"title": "코로나 백신 접종 후 생리불순?…미 학자 사례 수집 나서",
+		"link": "www.yna.co.kr/view/AKR20210421068200009?section=safe/news",
+		"date": "04-21 11:33"
+	},
+	"14578f94926f244ca606e1459a78fe5b71a8b6d784ddb7ac8eef872ab73eb9ab": {
+		"title": "제주 방문 가족·신혼여행·골프 관광객 5명 확진…'불안불안'",
+		"link": "www.yna.co.kr/view/AKR20210421088300056?section=safe/news",
+		"date": "04-21 11:32"
+	},
+	"cdb6ff416b9f02d8b8e7de87a6773b8e7232f611a92a654e0df15423e5876bf9": {
+		"title": "이틀간 1천여명 코로나검사…'멘붕' 직전 옥천군보건소",
+		"link": "www.yna.co.kr/view/AKR20210421075600064?section=safe/news",
+		"date": "04-21 11:32"
+	},
+	"72dd4c731f4e06cfdf8502f0e9141d8507208e95b973951f8bf2f41d6ed10437": {
+		"title": "교사·원생 7명 집단감염…진천군 어린이집 57곳 휴원명령",
+		"link": "www.yna.co.kr/view/AKR20210421086200064?section=safe/news",
+		"date": "04-21 11:32"
+	},
+	"9842d614a6e6433bbd4be05ad8e1302523963275426933f49a1035ae09cf7781": {
+		"title": "[속보] \"유럽의약품청의 얀센 백신 평가, 국내허가 조건에 중요 자료\"",
+		"link": "www.yna.co.kr/view/AKR20210421087600530?section=safe/news",
+		"date": "04-21 11:30"
+	},
+	"62b9a6ca60b1273520ed31dceaf7d51e66399448f5cda4eddbfdf5ee7d320624": {
+		"title": "서울 동대문구 음식점 관련 63명 확진…방역수칙 위반",
+		"link": "www.yna.co.kr/view/AKR20210421086400004?section=safe/news",
+		"date": "04-21 11:26"
+	},
+	"302dc63d910309a437f49a620c52836b1b690d3056bd0c6f8ad3a08762b3a16d": {
+		"title": "얀센·AZ 코로나19 백신 '위험보다 실익 크다'는 근거는",
+		"link": "www.yna.co.kr/view/AKR20210421075900009?section=safe/news",
+		"date": "04-21 11:21"
+	},
+	"f824579ca36ff14b06e47f4fb051e0b77ef6e102da5a1b687419a3c677c30652": {
+		"title": "서울 218명 신규 확진…이달 열흘째 200명대(종합)",
+		"link": "www.yna.co.kr/view/AKR20210421050851004?section=safe/news",
+		"date": "04-21 11:20"
+	},
+	"5565ed761cc8fb206ecbf25f58d0cf7d803d40ade7b96b997aeb25460b2b4dc8": {
+		"title": "시진핑과 조코위 전화 통화…\"코로나 백신 국수주의·격차 반대\"",
+		"link": "www.yna.co.kr/view/AKR20210421078500104?section=safe/news",
+		"date": "04-21 11:15"
+	},
+	"a5aa1627a74c9c7c14209cc39f55c6cf1def61a0c42dabf1be080606b0e9d8d2": {
+		"title": "[속보] 작년 일반 사망자 예년수준…\"코로나로 인한 초과사망 확인안돼\"",
+		"link": "www.yna.co.kr/view/AKR20210421079700530?section=safe/news",
+		"date": "04-21 11:09"
+	},
+	"503c510ae8e04864150047a13f1ddaa22d6718bf7037f97005b731e384b9bb2a": {
+		"title": "부산연구원 \"코로나 이후 웰니스관광 클러스터 조성 필요\"",
+		"link": "www.yna.co.kr/view/AKR20210421077400051?section=safe/news",
+		"date": "04-21 11:07"
+	},
+	"2a42fd804fa4a0cc7dd606b255525cb7afc5c03894a89909d173dcb89f4d98a3": {
+		"title": "코로나19 피해 지원 못받은 저소득층에 가구당 50만원 생계지원",
+		"link": "www.yna.co.kr/view/AKR20210421078900530?section=safe/news",
+		"date": "04-21 11:05"
+	},
+	"ed59a6187bc3b8e52fddc83b95c0390c1450c9d2e2895cfd1e5e0d27b9821b8b": {
+		"title": "전북서 코로나19 10명 추가 확진…\"안정 단계 아냐\"",
+		"link": "www.yna.co.kr/view/AKR20210421076400055?section=safe/news",
+		"date": "04-21 11:02"
+	},
+	"f0dd36733ad024e6fd72a2b1a7e5baefcb0e0291503e82fa73b73b7cfc81dfed": {
+		"title": "아산시, 화이자 백신 2차 접종 22∼30일 진행…3천316명 대상",
+		"link": "www.yna.co.kr/view/AKR20210421075800063?section=safe/news",
+		"date": "04-21 11:01"
+	},
+	"2148f91d43d546d0ae50c2238adab6f52beb2ad6b75ad78353d76003f658b650": {
+		"title": "[속보] 코로나19 피해 지원 못받은 저소득층에 가구당 50만원 생계지원",
+		"link": "www.yna.co.kr/view/AKR20210421075200530?section=safe/news",
+		"date": "04-21 11:00"
+	},
+	"0de21d30d0de54cd6f4e6f39d71205f68e82daa76be10b8cd1b55f06fb0060e7": {
+		"title": "영월교도소 30세 이상 직원 백신 접종 내일 완료",
+		"link": "www.yna.co.kr/view/AKR20210421073900062?section=safe/news",
+		"date": "04-21 10:57"
+	},
 	"3db91068794cb9820dc05a041ee1a75c693b6f4c080f7bf0ac2fe0bab0fc9ed2": {
 		"title": "대구서 25명 신규 확진…S사우나 관련 5명 추가(종합)",
 		"link": "www.yna.co.kr/view/AKR20210421030951053?section=safe/news",
@@ -408,95 +498,5 @@
 		"title": "野, 한미 백신스와프에 \"늦었지만 다행…그런데 가능한가\"",
 		"link": "www.yna.co.kr/view/AKR20210420135700001?section=safe/news",
 		"date": "04-20 17:41"
-	},
-	"86e7b83d17c3a8e905a241ffb7fdcf4e7fa5830e052771674bc08585ea3e8c40": {
-		"title": "인도 코로나19 폭증에 삼성전자 등 주재원 가족 철수 권고",
-		"link": "www.yna.co.kr/view/AKR20210420150400077?section=safe/news",
-		"date": "04-20 17:39"
-	},
-	"e61a75d6ce4bff4636adba8fc932497803667c4ff97b8d25c4ad0c1db7b91482": {
-		"title": "아모레퍼시픽 오산공장 관련 3명 추가 확진…누적 23명",
-		"link": "www.yna.co.kr/view/AKR20210420152200061?section=safe/news",
-		"date": "04-20 17:26"
-	},
-	"7cc6b099a181890fe85d0d674d3265f56c8cdaf944881832c09a4b6e35fc508e": {
-		"title": "경남 38명 확진…진주·김해 중심 6개 시·군서 산발 감염(종합)",
-		"link": "www.yna.co.kr/view/AKR20210420109001052?section=safe/news",
-		"date": "04-20 17:20"
-	},
-	"8a2eaedddf1f6b72677f6c7e003b7b0468b32eff6f669ab62f6f0e9ee1414e8b": {
-		"title": "당진 교회·평생교육시설 매개 연쇄 감염 2명 추가…누적 80명",
-		"link": "www.yna.co.kr/view/AKR20210420149700063?section=safe/news",
-		"date": "04-20 17:12"
-	},
-	"d992938f05f7a20e045420a547eee0124d964a6636f0d669a05628f51dd723fb": {
-		"title": "확진자 무더기 발생한 강릉 주문진…어민수산시장 이틀간 휴업",
-		"link": "www.yna.co.kr/view/AKR20210420148900062?section=safe/news",
-		"date": "04-20 17:11"
-	},
-	"54bcfd7760eb3074fb4b3468416b747e939e7f9de5cce67cbd178832e1077dc5": {
-		"title": "충북도 \"방역수칙 어긴 공무원 확진자 엄중 문책\"",
-		"link": "www.yna.co.kr/view/AKR20210420143200064?section=safe/news",
-		"date": "04-20 17:05"
-	},
-	"e609a39be5fd3ba8fe75a3ad7baa4086843a71eb87f3a0c57c84ebd9dd7d8d0e": {
-		"title": "홍남기 \"모더나 백신 2천만명분, 상반기엔 못 들어와\"",
-		"link": "www.yna.co.kr/view/AKR20210420145100001?section=safe/news",
-		"date": "04-20 17:00"
-	},
-	"83a3e00e10a1700a60288ed548982d502d3b5db7c54de82870e3d2fff45c69f3": {
-		"title": "진주시, '역학조사 방해' 연쇄 감염 단란주점 사업주 고발",
-		"link": "www.yna.co.kr/view/AKR20210420143800052?section=safe/news",
-		"date": "04-20 17:00"
-	},
-	"70f160b41bd0df43c300df88b3d9ce0b3148a543fa5c25426f83c87cd38aa601": {
-		"title": "젊은이는 코로나 안심? 美해병대 신병도 감염자 10% 다시 걸려",
-		"link": "www.yna.co.kr/view/AKR20210420138400009?section=safe/news",
-		"date": "04-20 16:54"
-	},
-	"f081a47c0c72973262e0d346d239f5c06587a2b0c2d5abb4d20311f0ad2841fd": {
-		"title": "광명시 한 중학교 급식실 직원 7명 확진…대체급식 실시",
-		"link": "www.yna.co.kr/view/AKR20210420145000061?section=safe/news",
-		"date": "04-20 16:53"
-	},
-	"974c0c933ff6d11c27cca43419ba1d8a108965cf14cb9b396e73c12324a5b680": {
-		"title": "확진자 방문한 장성군청, 청사 일시 폐쇄",
-		"link": "www.yna.co.kr/view/AKR20210420144000054?section=safe/news",
-		"date": "04-20 16:51"
-	},
-	"69a6cc21f12ac0e4ac0abeba1bb508d4be77311418cb849e7b3aa6d38232e6d8": {
-		"title": "김포서 해외입국자 등 3명 코로나19 확진",
-		"link": "www.yna.co.kr/view/AKR20210420144200065?section=safe/news",
-		"date": "04-20 16:48"
-	},
-	"f5db4840404206d35d8b4f018ee02f54f66f6708ceb31bc0152fcf1ed5220b09": {
-		"title": "[영상] 하루 27만명 확진 인도는 의료붕괴 직전…'6일 봉쇄령' 발령",
-		"link": "www.yna.co.kr/view/AKR20210420139800704?section=safe/news",
-		"date": "04-20 16:46"
-	},
-	"ac32061c04bc9c7bf62bb1bedc6842541d71d3f34a8f195cbd6569ab53046b78": {
-		"title": "부천서 확진자 가족 등 15명 코로나19 감염",
-		"link": "www.yna.co.kr/view/AKR20210420143700065?section=safe/news",
-		"date": "04-20 16:46"
-	},
-	"3e2ff465d6d5833690ba690e688a94dace3007151e1550bbaa813c8ac355f9b5": {
-		"title": "직계약 화이자 백신 25만회분 내일 도착…총 175만회분 반입완료(종합)",
-		"link": "www.yna.co.kr/view/AKR20210420119651530?section=safe/news",
-		"date": "04-20 16:38"
-	},
-	"5060307fdad802ae535159866472797792020e417f8acfed573320ec31f55e65": {
-		"title": "엑손모빌, 탄소 포집·해저격리 110조원대 프로젝트 제안",
-		"link": "www.yna.co.kr/view/AKR20210420124200009?section=safe/news",
-		"date": "04-20 16:28"
-	},
-	"1aaf6b7a009506c3a7a6bf75ef6c36140cb847b411c7a60b90cf64bc40f3c574": {
-		"title": "\"내 차례 언제 오나\" 화이자 백신 수급 불안에 애닳는 노인들",
-		"link": "www.yna.co.kr/view/AKR20210420121100064?section=safe/news",
-		"date": "04-20 16:26"
-	},
-	"8bbd67c869284be84df4122a84ac18444e4d065b9a90252055b15243c0e5339a": {
-		"title": "울산서 33명 신규 확진…북구 농소초 학생 8명, 교사 1명 포함(종합)",
-		"link": "www.yna.co.kr/view/AKR20210420035751057?section=safe/news",
-		"date": "04-20 16:24"
 	}
 }
