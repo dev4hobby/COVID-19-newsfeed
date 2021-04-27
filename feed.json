@@ -1,4 +1,34 @@
 {
+	"355962f09a49bb41b1a82137ea45998f0cee1e0dca2c3ea45c82409cddf82c32": {
+		"title": "전세계 확진자 지난주 586명으로 최대…한국은 100만명당 93명",
+		"link": "www.yna.co.kr/view/AKR20210427127900530?section=safe/news",
+		"date": "04-27 15:58"
+	},
+	"79bd5a229c1a6ee510db203d08ea3a42e2172e3f96425379d0c886691b6d6924": {
+		"title": "정부, 코로나 급속 확산 인도에 산소발생기·진단키트 지원",
+		"link": "www.yna.co.kr/view/AKR20210427136000504?section=safe/news",
+		"date": "04-27 15:56"
+	},
+	"79d9226e66fd620053e3fa4e687d64ea3bc460755723edf7c2a0ed8b1f38132c": {
+		"title": "주요 변이 3종 감염자 86명↑ 총 535명…역학적 관련자도 615명(종합)",
+		"link": "www.yna.co.kr/view/AKR20210427110151530?section=safe/news",
+		"date": "04-27 15:54"
+	},
+	"9050e234b91a394d1226464190c28199a61855c5156b761632ebf4f46bef1055": {
+		"title": "확진자 발생 평택2함대 정박 함선 승조원들 전원 음성",
+		"link": "www.yna.co.kr/view/AKR20210427134800061?section=safe/news",
+		"date": "04-27 15:52"
+	},
+	"7c4df3bf7dfd99a7e7f93dd454e76031dcbb858a8c6fc6eb5a7e08c8cfa670ec": {
+		"title": "식약처 \"AZ백신, 특이혈전증 원인일수도…사용상 주의사항 변경\"(종합)",
+		"link": "www.yna.co.kr/view/AKR20210427125051017?section=safe/news",
+		"date": "04-27 15:41"
+	},
+	"5f111eb60e958ffdf658074396d32fa0ebb655d99ad1b5239e925c626ce6591e": {
+		"title": "미, 이스라엘 여행경보 3단계로 하향…\"코로나 안정성 고려\"",
+		"link": "www.yna.co.kr/view/AKR20210427127200009?section=safe/news",
+		"date": "04-27 15:40"
+	},
 	"1503875658529b99f08ed3f1dabbd9f607f0fd00d1ace8d218a3bc37767c59b7": {
 		"title": "백신 맞은 의료진 확진…광주 남구 종합병원 일부 병동 폐쇄",
 		"link": "www.yna.co.kr/view/AKR20210427127800054?section=safe/news",
@@ -468,35 +498,5 @@
 		"title": "캐나다도 얀센백신 사용…라벨에 '부작용 주의' 문구",
 		"link": "www.yna.co.kr/view/AKR20210427023700009?section=safe/news",
 		"date": "04-27 08:17"
-	},
-	"ea32ad2c5d43ad0139f63b649733afe094fcde300f85dac908774c384dd6a733": {
-		"title": "28일 개막하려던 중고농구대회, 코로나19로 잠정 연기",
-		"link": "www.yna.co.kr/view/AKR20210427022500007?section=safe/news",
-		"date": "04-27 07:56"
-	},
-	"58a6a4910fb8050c0a1d528dda2ae2e2c62a91571d5c53f8e0025b2e5b1b7031": {
-		"title": "바이든, 인도총리와 통화…\"백신원료·산소·보호장비 긴급지원\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20210427003251071?section=safe/news",
-		"date": "04-27 07:43"
-	},
-	"c0474dd1bfcb445b684c12b6a89005498e5b616c06351d8877f27437d8321ae3": {
-		"title": "\"시험 보러\", \"내비 고치러\"…격리 중 무단이탈 핑계도 가지가지",
-		"link": "www.yna.co.kr/view/AKR20210426133300064?section=safe/news",
-		"date": "04-27 07:36"
-	},
-	"e60539fa39fcd9f95f2c5fcabffc46a909f51e9e8850d1eb9ee912723f3815a8": {
-		"title": "울산 스터디카페 98곳 점검…방역수칙 준수 '양호'",
-		"link": "www.yna.co.kr/view/AKR20210427018900057?section=safe/news",
-		"date": "04-27 07:35"
-	},
-	"ffa92b6bfabb2662ccfa0f4f3b80901361c00c15d4b4be8a9876ad0cd079afda": {
-		"title": "'접종률 40%' 칠레, 백신 효과 언제쯤…최악 확산세는 주춤",
-		"link": "www.yna.co.kr/view/AKR20210427014000087?section=safe/news",
-		"date": "04-27 07:33"
-	},
-	"504f8f2bdf19700db4488fd755e81ee8565fca04266d6be563a1bee9805afb63": {
-		"title": "미국 \"AZ백신 6천만회분 타국 지원할 것\"…대상은 추후 결정(종합2보)",
-		"link": "www.yna.co.kr/view/AKR20210427002652071?section=safe/news",
-		"date": "04-27 07:00"
 	}
 }
