@@ -1,4 +1,74 @@
 {
+	"1503875658529b99f08ed3f1dabbd9f607f0fd00d1ace8d218a3bc37767c59b7": {
+		"title": "백신 맞은 의료진 확진…광주 남구 종합병원 일부 병동 폐쇄",
+		"link": "www.yna.co.kr/view/AKR20210427127800054?section=safe/news",
+		"date": "04-27 15:35"
+	},
+	"7a7702ab2677492378222633d64829888788966c66ba7149e7b0629db9eb2857": {
+		"title": "GC녹십자, 이번 주 코로나19 혈장치료제 조건부 허가 신청",
+		"link": "www.yna.co.kr/view/AKR20210427128400017?section=safe/news",
+		"date": "04-27 15:34"
+	},
+	"798d4bd297285b4d208e8d49f4391a3131a5de0547c84e382c27d2d3bc1dd1af": {
+		"title": "미 무역대표부, 화이자·AZ와 백신 특허권 면제안 논의",
+		"link": "www.yna.co.kr/view/AKR20210427125600009?section=safe/news",
+		"date": "04-27 15:33"
+	},
+	"e8914cd0cb4c0d51031ece77ee6ebbed75fd08c95e935f8f26837e41e4b1e15c": {
+		"title": "트위터, 인도 정부 코로나 대응 지적한 트윗 삭제했다 역풍",
+		"link": "www.yna.co.kr/view/AKR20210427127300009?section=safe/news",
+		"date": "04-27 15:33"
+	},
+	"1a0e3bead36479b78364b8815a7d99441ad3c01cb512b0baf77c0a24cfcce39d": {
+		"title": "사천서 해외입국 확진자 2명 영국 변이바이러스 확인",
+		"link": "www.yna.co.kr/view/AKR20210427126800052?section=safe/news",
+		"date": "04-27 15:28"
+	},
+	"1e9041c81298fc79951f1287ae12f0d14d4d4db700a5d500a55940dbfadb33bb": {
+		"title": "\"코로나19 사태로 실직 청년 187만명…실업급여 수급은 25만명\"",
+		"link": "www.yna.co.kr/view/AKR20210427126400530?section=safe/news",
+		"date": "04-27 15:26"
+	},
+	"8749854199ddcc1cf6cb7ceb9161c854c8d89d23e79ff14d512453372279d60f": {
+		"title": "울산, 산발적 감염 확산에 신규 확진 28명…12명 감염경로 미궁(종합)",
+		"link": "www.yna.co.kr/view/AKR20210427030151057?section=safe/news",
+		"date": "04-27 15:24"
+	},
+	"48d5efb5cfe4516c1722082f186b1cfb33c2427915a815d07d0e4d852d87bfce": {
+		"title": "교회발 집단감염 진정…괴산군 거리두기 '2단계→준2단계' 완화",
+		"link": "www.yna.co.kr/view/AKR20210427123200064?section=safe/news",
+		"date": "04-27 15:22"
+	},
+	"951b51e0745247bbea9897fd328c85090ead6e01c51f590883561fe2c0ae642b": {
+		"title": "식약처, AZ백신 주의사항에 '특이혈전증' 추가…\"인과 가능성\"",
+		"link": "www.yna.co.kr/view/AKR20210427125000017?section=safe/news",
+		"date": "04-27 15:21"
+	},
+	"56cd37a2de52feab60e3c6a698f72d68ac8f3f6339ee28afc3b3e8f65090a7df": {
+		"title": "영국 변이 감염자도 무증상 땐 10일 후 격리해제…비변이와 동일",
+		"link": "www.yna.co.kr/view/AKR20210427117600530?section=safe/news",
+		"date": "04-27 15:11"
+	},
+	"23a885801150ae912b3b8bcedda5e59cdfcf3b810f010139a585e85e97de4519": {
+		"title": "곡성군, 코로나19 예방위해 2천여명 선제적 검사",
+		"link": "www.yna.co.kr/view/AKR20210427121300054?section=safe/news",
+		"date": "04-27 15:11"
+	},
+	"9f3ed93ad8e9aa08a12627b6063bd72798342d387261baf641ef814600b33520": {
+		"title": "최악 코로나 사태에…인도, 은퇴 군의관·군 물자까지 동원",
+		"link": "www.yna.co.kr/view/AKR20210427118600077?section=safe/news",
+		"date": "04-27 15:04"
+	},
+	"f9ac406a7a422349bcc7bd0838d65da62762a0464f92e0fd165db49f00b30dba": {
+		"title": "안동서 코로나19 '미결정' 판정 무더기로 나와…\"재검 중\"",
+		"link": "www.yna.co.kr/view/AKR20210427116200053?section=safe/news",
+		"date": "04-27 15:00"
+	},
+	"a7625471e142b321dff20b8153d89aeab3003900f6ba50549d491a9852e1cf1c": {
+		"title": "美·中 '코로나 지옥' 인도 서로 돕겠다 경쟁…무슨 연유?(종합)",
+		"link": "www.yna.co.kr/view/AKR20210427110500083?section=safe/news",
+		"date": "04-27 15:00"
+	},
 	"1edaf794851bbf9e8ad9255a5d87d7a16096fe5cbc327d64e5fa19ef0f250d09": {
 		"title": "[속보] 정은경 \"하반기 백신공급량 늘면 선택권 부여 검토 가능할 수도\"",
 		"link": "www.yna.co.kr/view/AKR20210427116300530?section=safe/news",
@@ -428,75 +498,5 @@
 		"title": "미국 \"AZ백신 6천만회분 타국 지원할 것\"…대상은 추후 결정(종합2보)",
 		"link": "www.yna.co.kr/view/AKR20210427002652071?section=safe/news",
 		"date": "04-27 07:00"
-	},
-	"d16ceae756afa22a6b5d23aaab33a0c128051dbd7eefbe362964acd8c64a64ef": {
-		"title": "'1만명 넘은' 日코로나 사망자 90%가 70대 이상…젊은층도 증가",
-		"link": "www.yna.co.kr/view/AKR20210427012400073?section=safe/news",
-		"date": "04-27 06:42"
-	},
-	"3ebec16f08ab90abed9c556a1a02389eed7eb1a29fffdf2f9cecebb1548e8f5a": {
-		"title": "문대통령, 오늘 노바백스 CEO 만나 백신 논의",
-		"link": "www.yna.co.kr/view/AKR20210426141000001?section=safe/news",
-		"date": "04-27 05:00"
-	},
-	"1867a40fb1d8900e2a0248f3603a41bcdb85879a927863b2c9c0e9810113d207": {
-		"title": "비행기서 마스크 거부했다가…14시간 운전한 미국 주 상원의원(종합)",
-		"link": "www.yna.co.kr/view/AKR20210426015451009?section=safe/news",
-		"date": "04-27 04:48"
-	},
-	"5af667a56e17ae51f2079ae0ad8d92817b2081a48043199a0947dc8d5dba58f5": {
-		"title": "백신 접종 속도 붙나…내일부터 30세 이상 군인 12만6천명 접종",
-		"link": "www.yna.co.kr/view/AKR20210426148100530?section=safe/news",
-		"date": "04-27 04:33"
-	},
-	"c4975df566321e48b1000495a39283077823412906ffb492d464c3b26867a5a5": {
-		"title": "오늘 500명 안팎 예상…1주간 감염경로 불명 30% 넘어 '빨간불'",
-		"link": "www.yna.co.kr/view/AKR20210426151500530?section=safe/news",
-		"date": "04-27 04:30"
-	},
-	"4cd6a7fa424024b528ce6c5601870e122576cd899c2f152aba473dc9a75dbf80": {
-		"title": "백신 쥐고 버티던 미국 \"AZ백신 6천만회분 타국에 지원할 것\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20210427002651071?section=safe/news",
-		"date": "04-27 04:09"
-	},
-	"7224bd38e4a257f018a073d20c271998993e62d463b90ba2a5d86251a4e59fc0": {
-		"title": "[뉴욕유가] 인도發 코로나19 우려에 0.4% 하락",
-		"link": "www.yna.co.kr/view/AKR20210427005600009?section=safe/news",
-		"date": "04-27 03:47"
-	},
-	"f75024d81b5924fae0d31c4742c40ea2b49c45120ad134209749e456fc8b5132": {
-		"title": "'코로나 국정조사' 앞둔 브라질 대통령 \"잘못 없어 걱정 안한다\"",
-		"link": "www.yna.co.kr/view/AKR20210427003000094?section=safe/news",
-		"date": "04-27 03:45"
-	},
-	"c25b47851c5c851781741494f0dd77e4ef0062336d905206d9fb1b3f5f23ef04": {
-		"title": "바이든, 인도 총리와 통화…\"백신원료·산소 등 긴급 지원\"",
-		"link": "www.yna.co.kr/view/AKR20210427003200071?section=safe/news",
-		"date": "04-27 02:45"
-	},
-	"be2b195230108a8e0f610b017157554527cf3f526d661fcd3ea507bbf6e6c2dd": {
-		"title": "메르켈 \"6월부터 누구나 백신 접종\"…접종자는 쇼핑·여행 자유(종합)",
-		"link": "www.yna.co.kr/view/AKR20210426150451082?section=safe/news",
-		"date": "04-27 02:36"
-	},
-	"b567c8dd3740df2e6af31f603d7a201919929059f24c9ed93464211d70ea35bb": {
-		"title": "\"바이든, 백신접종자 위한 실외 마스크 착용 새 지침 발표할 것\"",
-		"link": "www.yna.co.kr/view/AKR20210427002800091?section=safe/news",
-		"date": "04-27 02:28"
-	},
-	"54e0d8734b2026a3f12b054997df355d484a43f53c0e7e970cbd28c42f35679d": {
-		"title": "\"미, 안전성 검사 끝나는대로 AZ백신 6천만회분 타국과 공유\"",
-		"link": "www.yna.co.kr/view/AKR20210427002600071?section=safe/news",
-		"date": "04-27 02:13"
-	},
-	"5808e6b330601b31a73d963fa88e2fbd56a2acf07cb7841d8e9542c4a26c2063": {
-		"title": "미국 성인 46%만 \"얀센 백신 안전\"…화이자엔 73%가 긍정 평가",
-		"link": "www.yna.co.kr/view/AKR20210427002000071?section=safe/news",
-		"date": "04-27 01:59"
-	},
-	"5f1ef5dfd7f1ea817d378ef5d89327b23afb495f96a3db63aedb85b2e3fa7945": {
-		"title": "브라질 코로나 확산세 꺾여…주간 일평균 사망자 2주째↓",
-		"link": "www.yna.co.kr/view/AKR20210427000700094?section=safe/news",
-		"date": "04-27 01:22"
 	}
 }
