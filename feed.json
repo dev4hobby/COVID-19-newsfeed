@@ -1,4 +1,64 @@
 {
+	"ec4010b0e3c7121e4efc1455f8b8f2690ac4b6dc28bb124e96d86715c3e11df4": {
+		"title": "천안 제원테크 관련 코로나19 확진 2명 추가…누적 30명",
+		"link": "www.yna.co.kr/view/AKR20210428111100063?section=safe/news",
+		"date": "04-28 14:30"
+	},
+	"355673b5f5201d96756ab3b0d5c51c2fd61a14ddd8563949b9afafe810b00123": {
+		"title": "내달 3일 AZ백신 맞는 의협 새회장 \"백신접종, 일상회복 지름길\"",
+		"link": "www.yna.co.kr/view/AKR20210428106900017?section=safe/news",
+		"date": "04-28 14:27"
+	},
+	"2912fcd29678d65cca1c2bd400940428bece47d533fafee807fcc6122b012744": {
+		"title": "부산교육청 코로나 우울 학생 대상 '찾아가는 정신건강 상담'",
+		"link": "www.yna.co.kr/view/AKR20210428110700051?section=safe/news",
+		"date": "04-28 14:18"
+	},
+	"2c218afff19447659cfd47cb22ca636f03f1f7ab3ca042e1e8388a3ffb1b2b29": {
+		"title": "도쿄올림픽 야구 대표팀, 5월 3일 화이자 백신 접종",
+		"link": "www.yna.co.kr/view/AKR20210428111300007?section=safe/news",
+		"date": "04-28 14:18"
+	},
+	"9c83d0590ea99039c4da4ae1ce0abc0462cb1d740daae8ded739388828168a29": {
+		"title": "부산 사회 필수인력 백신 접종률 18%…예약률은 80%",
+		"link": "www.yna.co.kr/view/AKR20210428110500051?section=safe/news",
+		"date": "04-28 14:17"
+	},
+	"79aea37e3cd52d342e36227e77e1eed1c1fa2ea4ab73680aeb70d30297ef6ab8": {
+		"title": "[속보] \"백신 피해보상 신청 300여건 중 9건 심의…4건 보상·5건 기각\"",
+		"link": "www.yna.co.kr/view/AKR20210428110600530?section=safe/news",
+		"date": "04-28 14:14"
+	},
+	"a3b9c060dd541ac809abd4a47ff58d694db8e04b5a4cd67c56c466a8d4acae27": {
+		"title": "'요가·탁구·수영하다가' 부산 실내체육시설서 또 집단감염(종합)",
+		"link": "www.yna.co.kr/view/AKR20210428040951051?section=safe/news",
+		"date": "04-28 14:11"
+	},
+	"550460cb4d690bf974d37b2d37f9d9a0e5e10c03eb340266583caafb4c244663": {
+		"title": "경남 8개 시·군서 32명 확진…\"4월에만 879명 월별 최다\"",
+		"link": "www.yna.co.kr/view/AKR20210428107500052?section=safe/news",
+		"date": "04-28 14:10"
+	},
+	"02f488cad5c65c1dab5fe53586421f605d2162651697eeab8752c0d1f1b68cb1": {
+		"title": "인도 코로나 사망 또 최고치…하루 3천300명·누적 20만명",
+		"link": "www.yna.co.kr/view/AKR20210428102800077?section=safe/news",
+		"date": "04-28 14:04"
+	},
+	"7e7130c7291acc774a4d19131ce554a67780e44c8d5a7253ae1fb9da06811894": {
+		"title": "'코로나 충격'에 빈 상가 늘어…명동 중대형 38% 문닫았다",
+		"link": "www.yna.co.kr/view/AKR20210428096100003?section=safe/news",
+		"date": "04-28 14:00"
+	},
+	"7dbe9a24cb687a5cc1a0a7ffad920d4c1d3cd7acda7ad1ea31607318f2663d1b": {
+		"title": "횡성군 예방접종센터 29일 개소…75세 이상 5천383명 접종",
+		"link": "www.yna.co.kr/view/AKR20210428103000062?section=safe/news",
+		"date": "04-28 13:55"
+	},
+	"a9e8b30033eed458cdb3fd41efe10aab79b5d53adaeb91f47d35178abcd9bf12": {
+		"title": "충북 예방접종센터 5곳 문 열어…14곳 중 13곳 본격 가동",
+		"link": "www.yna.co.kr/view/AKR20210428061700064?section=safe/news",
+		"date": "04-28 13:54"
+	},
 	"4c28c2647c447e6b3d8f496aab60cecc3a1cff31e509ff2e061e892f67eb275d": {
 		"title": "정부 \"백신접종 완료자는 확진자 접촉·입국 시 자가격리 면제\"(종합)",
 		"link": "www.yna.co.kr/view/AKR20210428087751530?section=safe/news",
@@ -438,65 +498,5 @@
 		"title": "바이든 \"인도에 백신 보낼 것…언제 보낼지 모디 총리와 논의\"(종합)",
 		"link": "www.yna.co.kr/view/AKR20210428005551071?section=safe/news",
 		"date": "04-28 04:52"
-	},
-	"f57c4553d9764465fa81f2f02d064ba0a71e2f6fda81fde8c674a3f3182a79c9": {
-		"title": "노바백스 백신 기술이전 연장 가닥…'공급 불안' 줄어드나",
-		"link": "www.yna.co.kr/view/AKR20210427167300530?section=safe/news",
-		"date": "04-28 04:30"
-	},
-	"97db5ec00569d051ea7f9adf2f67e0bbcedd94c55a54c592cf3c8acd8681449f": {
-		"title": "확진자 다시 급증 오늘 700명대 중반∼800명선…변이확산 비상",
-		"link": "www.yna.co.kr/view/AKR20210427165000530?section=safe/news",
-		"date": "04-28 04:30"
-	},
-	"d8130743ced93ea62737e010e7e916ee4e01310a21e08725cd5f700e5022fd7a": {
-		"title": "백악관 \"캠퍼스 떠난 대학생, 고향서 2회차 백신 접종 보장\"",
-		"link": "www.yna.co.kr/view/AKR20210428006000071?section=safe/news",
-		"date": "04-28 03:57"
-	},
-	"6d813589c880906532fb9b6d0c8e01b3052615cbc01f3971be38c3c3e3bb8bdb": {
-		"title": "브라질 상원 '코로나 국정조사' 착수…정치적 파장 주목",
-		"link": "www.yna.co.kr/view/AKR20210428004900094?section=safe/news",
-		"date": "04-28 03:46"
-	},
-	"07d1311c0a3c241e060ce889d64e7ae831242f88c6ee2bbb6a3ff0ef336efad0": {
-		"title": "미, 마스크지침 완화…\"접종완료자, 사람 적은 실외선 안써도돼\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20210428003551091?section=safe/news",
-		"date": "04-28 03:31"
-	},
-	"8a6dfdf041a7d355e2f50a51e32e48f3be3e15250d01381b4ba226f0e4d706f1": {
-		"title": "바이든 \"인도에 백신 보낼 것…언제 보낼지 모디 총리와 논의\"",
-		"link": "www.yna.co.kr/view/AKR20210428005500071?section=safe/news",
-		"date": "04-28 03:17"
-	},
-	"939152cc91de596467aaa2ddf4dab73c98df3314b5d998359c410b5601bea823": {
-		"title": "영국 \"성인 25% 2차 접종 완료…인도에 보낼 백신 없어\"",
-		"link": "www.yna.co.kr/view/AKR20210428003800085?section=safe/news",
-		"date": "04-28 01:59"
-	},
-	"2e0b3252a10f0577a4cd9ffb686bbe1b11a3ef814843b5775e34d158e6d38a54": {
-		"title": "OPEC+, 인도발 코로나19 재확산에도 5∼7월 감산 완화 유지(종합)",
-		"link": "www.yna.co.kr/view/AKR20210428002251111?section=safe/news",
-		"date": "04-28 01:56"
-	},
-	"80c41116e783ae0448d9a959e9e0bdec991e813fc4e05f58e2996cad4c355c07": {
-		"title": "미 CDC \"백신접종 완료자, 사람 적은 야외선 마스크 안써도 돼\"",
-		"link": "www.yna.co.kr/view/AKR20210428003500091?section=safe/news",
-		"date": "04-28 01:49"
-	},
-	"687d60f2193ac6f7b124df73c0df24822285652f96aeaaca362683d1bd9e257c": {
-		"title": "OPEC+, 인도발 코로나19 재확산에도 5∼7월 감산 완화 유지",
-		"link": "www.yna.co.kr/view/AKR20210428002200111?section=safe/news",
-		"date": "04-28 00:48"
-	},
-	"057d0aef7d10d821d235f5d1668ca28ee78ccc232aee7ba405373f13c756607e": {
-		"title": "직계약 화이자 백신 25만회분 추가 도착…총 200만회분 반입완료",
-		"link": "www.yna.co.kr/view/AKR20210427164000530?section=safe/news",
-		"date": "04-28 00:30"
-	},
-	"bfd0230e358ae30a84b0e18704f4da76c964fd3fd9750ac3fc3c68cd538a3a6e": {
-		"title": "백신접종 속도 내는 미국, 박물관·동물원 재개장 준비",
-		"link": "www.yna.co.kr/view/AKR20210428000800072?section=safe/news",
-		"date": "04-28 00:29"
 	}
 }
