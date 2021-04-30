@@ -1,4 +1,9 @@
 {
+	"811c8d9282a042da396db06daf0ccfd5927487fce99ce5928ddd9d0235935a73": {
+		"title": "[사진톡톡] 백신, 어디까지 왔니?",
+		"link": "www.yna.co.kr/view/AKR20210428112900013?section=safe/news",
+		"date": "05-01 06:30"
+	},
 	"5296fcac05661d769a1aeff5a65d2110788202a9b9662ad93a991d7ac03fa91a": {
 		"title": "WHO \"모더나 코로나19 백신 긴급승인\"…코백스 배분 가능해져",
 		"link": "www.yna.co.kr/view/AKR20210501008700009?section=safe/news",
@@ -493,10 +498,5 @@
 		"title": "모더나 \"미 FDA에 백신 냉장보관 한달→석달로 확대 요청\"",
 		"link": "www.yna.co.kr/view/AKR20210430062700009?section=safe/news",
 		"date": "04-30 11:21"
-	},
-	"1380e8d277e5d9057df6b98b7472b279fec26a6383c54d4a5276c7585747e322": {
-		"title": "웨인라이트·밀러, 부상자 명단에…웨인라이트는 '코로나 때문'",
-		"link": "www.yna.co.kr/view/AKR20210430075300007?section=safe/news",
-		"date": "04-30 11:18"
 	}
 }
