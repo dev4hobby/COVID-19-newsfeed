@@ -1,4 +1,139 @@
 {
+	"3b6b719bd84e2c3fa72c908ab598420d01dfbebd00ecca754402cbf95c72cca1": {
+		"title": "[속보] 입원자-면회자 한쪽만 2차접종 완료하면 요양시설 대면면회 허용",
+		"link": "www.yna.co.kr/view/AKR20210430067300530?section=safe/news",
+		"date": "04-30 11:00"
+	},
+	"44a41f424a7499dac2e2e8b4b63ccd49e8c90520f6de1e2d911ecc595ef722b1": {
+		"title": "인천서 9명 코로나19 확진…소규모 집단감염 관련 1명",
+		"link": "www.yna.co.kr/view/AKR20210430068300065?section=safe/news",
+		"date": "04-30 10:56"
+	},
+	"54b0e4911297f82b57a175b70f4440e7b996d88a9029e0ee810e30ab55000edd": {
+		"title": "GC녹십자 \"코로나19 완치자 혈장 충분히 확보…공여 업무 중단\"",
+		"link": "www.yna.co.kr/view/AKR20210430067600017?section=safe/news",
+		"date": "04-30 10:50"
+	},
+	"b3b01c9020f2b9865920c64f5210e5dc8c6f1451d35b56caa6aa9e643f63bf41": {
+		"title": "당국 \"화이자 백신 일시적 수급 불균형 가능성…추가 예약 자제\"",
+		"link": "www.yna.co.kr/view/AKR20210430065200530?section=safe/news",
+		"date": "04-30 10:44"
+	},
+	"1ad569508578553297594a503ef117fe8ab2c0ed415c050b13547c7699ef8665": {
+		"title": "군 코로나19 확진자 4명 추가…휴가 중 양성 확인",
+		"link": "www.yna.co.kr/view/AKR20210430064200504?section=safe/news",
+		"date": "04-30 10:39"
+	},
+	"0288142635935a5320c6852c855f2b8a86e802db9a4ac08f3813b9dbcac752e0": {
+		"title": "서문교회 관련 4명 등 대구서 14명 신규 확진(종합)",
+		"link": "www.yna.co.kr/view/AKR20210430027451053?section=safe/news",
+		"date": "04-30 10:35"
+	},
+	"6e12380223560b7376bc8eef346fe9de481b8a67731ebe8c1cda982a87564445": {
+		"title": "경기 151명 신규확진, 직장·모임 감염 지속",
+		"link": "www.yna.co.kr/view/AKR20210430060700061?section=safe/news",
+		"date": "04-30 10:26"
+	},
+	"40611b24cae5826730479f517921b0b99573c689364a4e6f88ab59a5fbd9d0a8": {
+		"title": "\"인도 코로나 위기로 전 세계 공중보건 위협받아\"<CNN>",
+		"link": "www.yna.co.kr/view/AKR20210430053600091?section=safe/news",
+		"date": "04-30 10:19"
+	},
+	"3884803150c61fb3cc5f45326e31daf062c180e1239e0d3e7a5e575bdd25c2f1": {
+		"title": "인도는 불확실성 폭탄…코로나19 변이색출 거의 못한다",
+		"link": "www.yna.co.kr/view/AKR20210430051700009?section=safe/news",
+		"date": "04-30 10:16"
+	},
+	"0c3e4a3e93bca3da020ee1a9e703b86b26332e30bc6d12276f36503cd9a924dc": {
+		"title": "백신 1차접종 24만1천967명↑ 총 305만6천4명…인구대비 5.8%",
+		"link": "www.yna.co.kr/view/AKR20210430053400530?section=safe/news",
+		"date": "04-30 10:16"
+	},
+	"b4057456efd638cade2831eeff7ef1fce46005dd6b2679405d056c7c00355c1c": {
+		"title": "울산에서 밤사이 신규 확진자 11명 발생…누적 1천886명",
+		"link": "www.yna.co.kr/view/AKR20210430055300057?section=safe/news",
+		"date": "04-30 10:08"
+	},
+	"118d8d5388ade515248bcbb0a3f91fde20f02301bfe4989705936bef2d6fa9b7": {
+		"title": "브라질 연구소, 자체 백신 홍보…임상시험·사용승인은 '아직'",
+		"link": "www.yna.co.kr/view/AKR20210430033800094?section=safe/news",
+		"date": "04-30 10:07"
+	},
+	"857a6816c73879b90b9fe58a31589d1b83a5f1ac06693b87e109238e9fc95dd8": {
+		"title": "부여 집단 감염 노인복지센터서 11명 추가 확진…누적 30명",
+		"link": "www.yna.co.kr/view/AKR20210430052700063?section=safe/news",
+		"date": "04-30 10:05"
+	},
+	"e46fb208b22f6407a5d8b910e03ea92ae32298febc04f92125fe2bbc1d2c5bf9": {
+		"title": "임시 선별검사소서 121명 확진…수도권 87명·비수도권 34명",
+		"link": "www.yna.co.kr/view/AKR20210430053800530?section=safe/news",
+		"date": "04-30 10:05"
+	},
+	"4ec98472972bd49ca88a2901745cc09d13218dc8ed6d748d14cc1858c962f711": {
+		"title": "WHO \"북한, 누적 2만4천여명 코로나 검사…확진자는 없어\"",
+		"link": "www.yna.co.kr/view/AKR20210430049100504?section=safe/news",
+		"date": "04-30 10:02"
+	},
+	"9bb20c149d9334d4d81db9711e29de88255da95b7dd09baf6fae5f962ce623b4": {
+		"title": "신규확진 661명, 이틀째 600명대…거리두기·5인금지 3주 재연장(종합)",
+		"link": "www.yna.co.kr/view/AKR20210430030300530?section=safe/news",
+		"date": "04-30 10:01"
+	},
+	"581beca91880aa42ba9d4d69a62d6f31433c33e1d4d81465d0c2cad05d44b02f": {
+		"title": "태국, 코로나 확산에 5월1일부터 격리 기간 7·10→14일 환원",
+		"link": "www.yna.co.kr/view/AKR20210430052200076?section=safe/news",
+		"date": "04-30 10:01"
+	},
+	"7b23348312621a7bb6cbf84dd70d3ea7b9bbf62a222bc7d03b03c95531662459": {
+		"title": "부산 4명 신규 확진…확진자 나온 부산시청 추가 감염 없어",
+		"link": "www.yna.co.kr/view/AKR20210430031800051?section=safe/news",
+		"date": "04-30 10:00"
+	},
+	"9ec9b26beb2103b46940ad5df987a7e17589e7298ad079032f2775f3fa718a14": {
+		"title": "백신 이상반응 499건 늘어…아니필락시스 5건-중증의심 3건 추가",
+		"link": "www.yna.co.kr/view/AKR20210430051500530?section=safe/news",
+		"date": "04-30 09:58"
+	},
+	"6e1b18e5f6479477886d4130612b923f7477ab9e39884b704b8a34ba974e4173": {
+		"title": "미 70대, 백신 2차접종 완료후 한달만에 코로나19로 사망",
+		"link": "www.yna.co.kr/view/AKR20210430030500009?section=safe/news",
+		"date": "04-30 09:50"
+	},
+	"f4ca00ace50e019e0f9a7f41e7d99132a548e5f4f362f0015b28359eb13b9bcb": {
+		"title": "영국, 내년 백신정상회의 추진…\"백신 개발기간 100일로 단축\"",
+		"link": "www.yna.co.kr/view/AKR20210430049400009?section=safe/news",
+		"date": "04-30 09:48"
+	},
+	"40e49afe0afdfb61b8b5f761eec2d5d90279b076fc29b1e1594373cba3abf885": {
+		"title": "[속보] 부여 코로나19 집단 감염 노인복지센터서 11명 추가 확진",
+		"link": "www.yna.co.kr/view/AKR20210430047500063?section=safe/news",
+		"date": "04-30 09:38"
+	},
+	"56f56ae9941e1444440d50ecf94ede48d58ab250dbb782e16dd59aa33486d56c": {
+		"title": "서울서 227명 신규 확진…1주 전보다 23명 많아",
+		"link": "www.yna.co.kr/view/AKR20210430046900004?section=safe/news",
+		"date": "04-30 09:37"
+	},
+	"67d0cce4a9683aad1b4598fd262579bb80a3346a627c4ac4745887a5385b9618": {
+		"title": "크래프톤 '코로나 대확산' 인도에 2억2천만원 기부",
+		"link": "www.yna.co.kr/view/AKR20210430044800017?section=safe/news",
+		"date": "04-30 09:36"
+	},
+	"325d8ae46b2e203484e707b7f02c2306a3f7fdb24358438e045f1dd1cff9053b": {
+		"title": "문대통령, AZ 백신 2차 접종…1차 후 38일만",
+		"link": "www.yna.co.kr/view/AKR20210430027100001?section=safe/news",
+		"date": "04-30 09:36"
+	},
+	"b8d7c88f1258977de5e4d6f521ac17614a6f10eac949d3b7a90bd868b19aa431": {
+		"title": "살모넬라·비브리오 등 장관감염증 급증…\"끓이고 익혀 먹어야\"",
+		"link": "www.yna.co.kr/view/AKR20210430041800530?section=safe/news",
+		"date": "04-30 09:34"
+	},
+	"0fc559ad7ab66308d90fe987526da14609285b2eeb47b00ace3aa106a23d2ad7": {
+		"title": "[속보] 1차접종 24만1천967명↑ 총 305만6천4명…2차접종 19만8천734명",
+		"link": "www.yna.co.kr/view/AKR20210430045700530?section=safe/news",
+		"date": "04-30 09:33"
+	},
 	"90df1984f14f62221a5be2d6ed6674015f4707dc4747149981ea3d87a230849e": {
 		"title": "[속보] 백신 이상반응 499건 늘어…아나필락시스 5건-중증의심 3건 추가",
 		"link": "www.yna.co.kr/view/AKR20210430045200530?section=safe/news",
@@ -363,140 +498,5 @@
 		"title": "러시아, 산소농축기 등 코로나19 대응 물품 22t 인도 긴급 공수",
 		"link": "www.yna.co.kr/view/AKR20210429147400080?section=safe/news",
 		"date": "04-29 16:30"
-	},
-	"3fb5ed81244d3335410a69e5e16b391a7600c732ba21dd160e6eb6ecc823f50a": {
-		"title": "전북도-주한美대사관 \"코로나 완화하면 국제교류 활발하게 추진\"",
-		"link": "www.yna.co.kr/view/AKR20210429149700055?section=safe/news",
-		"date": "04-29 16:29"
-	},
-	"f99ce34cf5f5950c2aa8f0ac432ecb08eb5bb947654d2e357537ba907da1279e": {
-		"title": "영국서 코로나19 백신 접종 후 사망 973건 보고",
-		"link": "www.yna.co.kr/view/AKR20210429145200009?section=safe/news",
-		"date": "04-29 16:23"
-	},
-	"553e246de19f83f32acdb61cada6417d8e7f80a9b97821931b557b198cc1ef7c": {
-		"title": "코로나19 혈장 채혈 앞장선 대구경북혈액원 대통령 표창",
-		"link": "www.yna.co.kr/view/AKR20210429144400053?section=safe/news",
-		"date": "04-29 16:17"
-	},
-	"97c682348ee15c7d356a1a60ba8e72f252ef62082b8ca641dc6f2dd7d6a5710c": {
-		"title": "믿을 건 백신뿐…인도 접종 나이 제한 풀자 온라인 예약 폭주",
-		"link": "www.yna.co.kr/view/AKR20210429131800077?section=safe/news",
-		"date": "04-29 15:57"
-	},
-	"9b70718c7b7c7fded2b474afa1114148c7194204593e7b8ef6a1872d72798dca": {
-		"title": "현대오일뱅크, 코로나 털어내고 흑자 전환…영업이익 4천억원(종합)",
-		"link": "www.yna.co.kr/view/AKR20210429116651527?section=safe/news",
-		"date": "04-29 15:45"
-	},
-	"009cf48d481ce5f9bd708f02b1a98b8692946613ed160c79001193493a705cb4": {
-		"title": "미 무역대표부, 백신 지재권 면제 '반대파' 빌게이츠 면담",
-		"link": "www.yna.co.kr/view/AKR20210429136100009?section=safe/news",
-		"date": "04-29 15:38"
-	},
-	"a1bbb39e9aa40aa64107fed9cf3776db789bd829e596c38b2b96fc0662f46806": {
-		"title": "전국민 코로나19 예방접종·치료정보 등 모아 건강빅데이터 구축",
-		"link": "www.yna.co.kr/view/AKR20210429075700530?section=safe/news",
-		"date": "04-29 15:30"
-	},
-	"fd50329a987b79adf250f3eec0921f3cd2bc743f8c6cc2aa9ccfb3c2baaa28d9": {
-		"title": "거리두기 조정안·5월 특별방역 내일 발표…거리두기 재연장될듯(종합2보)",
-		"link": "www.yna.co.kr/view/AKR20210429089352530?section=safe/news",
-		"date": "04-29 15:28"
-	},
-	"dec4c0cab4c90686b189937f0f0f3aac2387e0754f01bd210f6a99e8533b54ef": {
-		"title": "영국서 \"백신 독점하면 공멸\" 비판 여론",
-		"link": "www.yna.co.kr/view/AKR20210429129400009?section=safe/news",
-		"date": "04-29 15:28"
-	},
-	"d2e233f658b518746c2d97e90f5287075e2d5b11b64e1f6e7dc321cfdb286299": {
-		"title": "부천 노인보호센터 집단감염 2명 추가…누적 74명",
-		"link": "www.yna.co.kr/view/AKR20210429130800065?section=safe/news",
-		"date": "04-29 15:23"
-	},
-	"3e08e00095a3da9d8de7acdc4b99f662a4eca932bbf18e84b5f229ca40e74c63": {
-		"title": "학생·교직원 코로나19 확진자 개학 두 달 만에 누적 3천명 육박",
-		"link": "www.yna.co.kr/view/AKR20210429129600530?section=safe/news",
-		"date": "04-29 15:15"
-	},
-	"86c1a57bf589d4a89409c5019f5b4f10c6e73d199cbc08bb6fda07a1b6641045": {
-		"title": "75세 이상 접종자 '사후관리 구멍'…공무원 1인당 수백명 담당",
-		"link": "www.yna.co.kr/view/AKR20210429114300055?section=safe/news",
-		"date": "04-29 15:10"
-	},
-	"ee3ff4a6d255d0dbf4fac99f046f5b93c32e31dc58235eee9c6bc42aaf6e26ce": {
-		"title": "백신 1차 접종자 누적 280만8천794명…오늘 300만명 넘을 듯(종합)",
-		"link": "www.yna.co.kr/view/AKR20210429052451530?section=safe/news",
-		"date": "04-29 15:10"
-	},
-	"69d41b25a79d13891c95f6e5707b97daf31098a798bf7cf3ad9419ea61fee1bd": {
-		"title": "호주, 코로나19 백신 접종 후 사망 사례 2건 조사",
-		"link": "www.yna.co.kr/view/AKR20210429127500009?section=safe/news",
-		"date": "04-29 15:08"
-	},
-	"344765e7bb5dc73e6668fd380438ea2c62e6d2a81cab45ce475feb4c03b89266": {
-		"title": "전남도, 정부합동평가서 코로나 대응 국민평가 1위",
-		"link": "www.yna.co.kr/view/AKR20210429123400054?section=safe/news",
-		"date": "04-29 15:08"
-	},
-	"e9886876d1a40cf595ea3891bd4341d99f125cc4813d3e96b38f60f183f3b8fc": {
-		"title": "울산 신규 확진 31명…산발적 연쇄감염, 원인 불명 사례 지속(종합)",
-		"link": "www.yna.co.kr/view/AKR20210429038351057?section=safe/news",
-		"date": "04-29 15:05"
-	},
-	"ed56407344407f33e3996e35d09442bd3eee22f28596ebe7b26377b0f71421e9": {
-		"title": "[속보] 코로나19 여파에 등교 못 한 학교 110곳…1주 전보다 74곳 감소",
-		"link": "www.yna.co.kr/view/AKR20210429127900530?section=safe/news",
-		"date": "04-29 15:02"
-	},
-	"4ccdbb4f185b8b654c15e5e50425573747d7be66a516a48556b9a1c7ef92863e": {
-		"title": "[속보] 1주간 전국 학생 350명 코로나19 확진…하루 평균 50명꼴",
-		"link": "www.yna.co.kr/view/AKR20210429127700530?section=safe/news",
-		"date": "04-29 15:01"
-	},
-	"2e887a5c70e042492e31d41291d8d3233385f5265be440f8d16668cbd0054da3": {
-		"title": "한범덕 청주시장 \"코로나19 확산하는 흥덕구 특별관리\"",
-		"link": "www.yna.co.kr/view/AKR20210429124000064?section=safe/news",
-		"date": "04-29 14:54"
-	},
-	"e11995afd5731da0f2fa6ee42aae57092098bc06ecb996ac9b3683de9b34830b": {
-		"title": "학원·PC방 등 일상 곳곳서 새 감염…경로불명 비율 29.0%",
-		"link": "www.yna.co.kr/view/AKR20210429120000530?section=safe/news",
-		"date": "04-29 14:50"
-	},
-	"30fd8e41549284f3ed12fd1782a8eeea9b259ffe36bd9c4dce76e5f823a4fd26": {
-		"title": "\"월마트, 유급병가 허용했다면 코로나 사망 줄일수 있었다\"",
-		"link": "www.yna.co.kr/view/AKR20210429100000009?section=safe/news",
-		"date": "04-29 14:49"
-	},
-	"8ecf08fad288d70d2c249074afe7f94bed7220d1d2bf9b5a30c373ac463b5f26": {
-		"title": "배병준 국가임상시험지원재단 이사장,국산코로나 백신 임상 참여",
-		"link": "www.yna.co.kr/view/AKR20210429122400017?section=safe/news",
-		"date": "04-29 14:47"
-	},
-	"0f88429eeaf4c1869a85917229265b878a9800d50a085536b62477febc99ef5c": {
-		"title": "화이자 이어 모더나도 코로나백신 연 30억회분으로 높여",
-		"link": "www.yna.co.kr/view/AKR20210429120300009?section=safe/news",
-		"date": "04-29 14:45"
-	},
-	"04fce6e45b2e9027fc5396e4385402f3bb6b956ac6783551d49b156a166a94ba": {
-		"title": "광주서 주점·코인노래방 연쇄 감염…주점서 바이러스 검출",
-		"link": "www.yna.co.kr/view/AKR20210429119700054?section=safe/news",
-		"date": "04-29 14:44"
-	},
-	"920d1737357a79aa5ea722ae83e77240b1248f81fc201b69144c4849a289bf9b": {
-		"title": "1분기 중국-아프리카 무역 급증…\"포스트 코로나 경기반등 효과\"",
-		"link": "www.yna.co.kr/view/AKR20210429116400009?section=safe/news",
-		"date": "04-29 14:35"
-	},
-	"9c6d48f7fb5585412cdb99da7a0d143dcbd9844dcda1ab738040a02813bc9e2b": {
-		"title": "백신 이상반응 433건 늘어…사망신고 5명, 인과성 미확인(종합)",
-		"link": "www.yna.co.kr/view/AKR20210429055051530?section=safe/news",
-		"date": "04-29 14:27"
-	},
-	"ed383669f5a09eab6b9f5efcce8a02bb4520c4ae2b2f01b27b6dccf10ff63e29": {
-		"title": "[속보] 당국 \"오늘 중 코로나19 백신 1차 접종자 300만명 넘을 듯\"",
-		"link": "www.yna.co.kr/view/AKR20210429113300530?section=safe/news",
-		"date": "04-29 14:11"
 	}
 }
