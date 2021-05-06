@@ -1,4 +1,49 @@
 {
+	"2a1e6a4c503fca497934d5c01522fe7ab5094e5f18776fb0a8154ee6f29b11e8": {
+		"title": "[팩트체크] 국내개발 백신 중 mRNA방식 없어 우려된다는데…",
+		"link": "www.yna.co.kr/view/AKR20210504143100502?section=safe/news",
+		"date": "05-06 18:01"
+	},
+	"5623d84c4ad28068d65e52430fa3a7050b3b149b70505a6e48a4bbfce6680bc1": {
+		"title": "[영상] 인도 하루 신규확진 41만명 넘어…\"인도발 입국제한 필요\"",
+		"link": "www.yna.co.kr/view/AKR20210506159300704?section=safe/news",
+		"date": "05-06 18:01"
+	},
+	"16345bd40abcd9bcbcbf5cc04bb7bf52de55a956cc83a79a8e985177c4d5bedb": {
+		"title": "충주·단양서 2명 확진…충북 누적 2천679명",
+		"link": "www.yna.co.kr/view/AKR20210506159800064?section=safe/news",
+		"date": "05-06 18:00"
+	},
+	"4c880ecfcac2596a659fc07d809b28a9597fc4539e3b00335238de0794b78f3e": {
+		"title": "영국서 '백신 접종뒤 사망 보고' 빈도 AZ·화이자 비슷",
+		"link": "www.yna.co.kr/view/AKR20210506151800009?section=safe/news",
+		"date": "05-06 17:52"
+	},
+	"e93c79be75746c358a38d56881878ee7b432aea0b051f5323113e5a5d00fcce3": {
+		"title": "'백신 접종 후 반신마비' 경찰관 가족, 경찰에 진상 조사 요청",
+		"link": "www.yna.co.kr/view/AKR20210506157800055?section=safe/news",
+		"date": "05-06 17:37"
+	},
+	"607395a85b0db39ac433391075af8c9bf1b0d61bc1afb039a7a4590c9ee01523": {
+		"title": "노량진수산시장 대책위 \"수산시장서 확진자 8명 발생\"",
+		"link": "www.yna.co.kr/view/AKR20210506156900004?section=safe/news",
+		"date": "05-06 17:37"
+	},
+	"1626ddaf564f36274eaed5b6f7950c0f93a7430fbf34231ee9e3a4313d8f2b55": {
+		"title": "충북도 \"백신 맞았더라도 마스크 착용 등 방역수칙 필수\"",
+		"link": "www.yna.co.kr/view/AKR20210506153800064?section=safe/news",
+		"date": "05-06 17:36"
+	},
+	"00a1e1e6b4117f778f103bba7295a5ec507ac3588637bce824b8a83121b8cbb8": {
+		"title": "제주 코로나19 6명 신규 확진…가족·지인 간 감염 지속",
+		"link": "www.yna.co.kr/view/AKR20210506156400056?section=safe/news",
+		"date": "05-06 17:30"
+	},
+	"ac5d06fce3ff35a842d9b58ea1db7b3e6e4bb178b21353ef8ecbed521cb32922": {
+		"title": "왜 변이 코로나엔 백신 효과가 떨어질까",
+		"link": "www.yna.co.kr/view/AKR20210506154100009?section=safe/news",
+		"date": "05-06 17:29"
+	},
 	"107a0e021973ab69bddf56f79c32f565dfacb900eadffa7cfa5bd213a71a9b03": {
 		"title": "경남서 고교생 1명 포함 23명 신규 확진…감염 추세는 감소(종합)",
 		"link": "www.yna.co.kr/view/AKR20210506102101052?section=safe/news",
@@ -453,50 +498,5 @@
 		"title": "티케이엘리베이터, 코로나 대응 '언택트 기술 플랫폼' 공개",
 		"link": "www.yna.co.kr/view/AKR20210506056400003?section=safe/news",
 		"date": "05-06 10:14"
-	},
-	"97dd37d00dbb74b11fe8454792e2848663e18eae775a4ce7321fa4ccadd64908": {
-		"title": "국제제약협회연맹, 미 백신 지재권 면제 지지에 \"실망\"",
-		"link": "www.yna.co.kr/view/AKR20210506047300009?section=safe/news",
-		"date": "05-06 10:08"
-	},
-	"a2c3f29fa22d5e3a1573033c11ed97e660b9bbfbb17b3b8cc3ece0d5366b6e51": {
-		"title": "대전 40대부터 시작된 코로나19 연쇄확진 2명 추가…누적 14명",
-		"link": "www.yna.co.kr/view/AKR20210506037300063?section=safe/news",
-		"date": "05-06 10:07"
-	},
-	"f4dcf4456ab18ad3957e2206937522d1b9bab700300a6f7a8419b7c89c0353d0": {
-		"title": "경기 142명 신규확진…소규모 접촉감염 68%",
-		"link": "www.yna.co.kr/view/AKR20210506054600061?section=safe/news",
-		"date": "05-06 10:06"
-	},
-	"0f4220b0dd688ac315018455ba94ce63a825afc99bf447cd53f964d474a2d240": {
-		"title": "\"확진자 나온 교회서 마스크만 쓰고 방역\"…육군 \"동선 안겹쳐\"",
-		"link": "www.yna.co.kr/view/AKR20210506052200504?section=safe/news",
-		"date": "05-06 10:01"
-	},
-	"5d8c6928ba6ada562d9079016b236e8186797e0277dbdc1e7ce2c97ad397a5aa": {
-		"title": "백신 1차접종 5천253명↑ 총 356만324명…인구대비 6.9%",
-		"link": "www.yna.co.kr/view/AKR20210506049700530?section=safe/news",
-		"date": "05-06 10:01"
-	},
-	"5b9a4b9165230dede18dd66915ea55a65f1b1137f54e468aeeee6cc7757f0f45": {
-		"title": "신보, 코로나로 매출 감소한 中企에 P-CBO 보증 확대",
-		"link": "www.yna.co.kr/view/AKR20210506052500002?section=safe/news",
-		"date": "05-06 10:00"
-	},
-	"ac9ce75e63f8a252a50ccea7ba73015bc4bb0289915ccae2a5276d5c362f6f20": {
-		"title": "부산 전날 백신접종 고작 283명…화이자 1차 접종 중단 여파",
-		"link": "www.yna.co.kr/view/AKR20210506031500051?section=safe/news",
-		"date": "05-06 10:00"
-	},
-	"b2ec6889c0c5f28bff8d62336d6e49f7b9d0a04c60a6331d05a9cc2356c9969e": {
-		"title": "호주 NSW주, 감염원 불명 코로나 신규환자 발생에 '초비상'",
-		"link": "www.yna.co.kr/view/AKR20210506047200093?section=safe/news",
-		"date": "05-06 09:52"
-	},
-	"e6f8324d0c7848e6635b48a6fdb9dda96683ba26ce52361c1dde847b5f1de3c3": {
-		"title": "백신 이상반응 150건 늘어…아나필락시스 1건-중증의심 3건 추가",
-		"link": "www.yna.co.kr/view/AKR20210506048200530?section=safe/news",
-		"date": "05-06 09:50"
 	}
 }
