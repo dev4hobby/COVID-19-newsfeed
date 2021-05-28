@@ -1,4 +1,84 @@
 {
+	"d331a5546a689261a87c69bbd19bc96f208f93fdc216044af2633725e91aab47": {
+		"title": "국내 코로나19 항체 보유율 0.27%…2천248명 중 6명서 확인(종합)",
+		"link": "www.yna.co.kr/view/AKR20210528099851530?section=safe/news",
+		"date": "05-28 15:40"
+	},
+	"b877681ea140592afc3fc424617d5727e3ff70b6f584a4931fe8a2169aafb1b5": {
+		"title": "중국 시노팜 백신 임상시험 결과 학술지 '늑장 발표'",
+		"link": "www.yna.co.kr/view/AKR20210528114400083?section=safe/news",
+		"date": "05-28 15:35"
+	},
+	"dc9f9b30509e28428a0743f53c92d974b007140406d4f5ddc77615230b405f36": {
+		"title": "'접종자 우선 소개팅'…각국서 백신 유인 아이디어 속출",
+		"link": "www.yna.co.kr/view/AKR20210528112800009?section=safe/news",
+		"date": "05-28 15:28"
+	},
+	"6d109f7d933f353861a9d376c0075f2059081d27a23469f4c2972f3464694125": {
+		"title": "게임업계, 코로나 백신 맞으면 사나흘씩 휴가…10만원 주는 곳도(종합)",
+		"link": "www.yna.co.kr/view/AKR20210528060251017?section=safe/news",
+		"date": "05-28 15:22"
+	},
+	"cb8fcaf69effb37ba126447de52a0b909e49b0b6f4ed49fd7d4bbeb8f41fceee": {
+		"title": "\"코로나 백신 접종 후 해열제, 타이레놀 말고도 여럿 있어요\"",
+		"link": "www.yna.co.kr/view/AKR20210528107400017?section=safe/news",
+		"date": "05-28 15:16"
+	},
+	"859f5970bf5084e2c1318224aaf0669e8303d1e3f678c823c22c81520a2c988c": {
+		"title": "거리두기 2단계로 격상하는 제주 31일부터 등교 인원 조정",
+		"link": "www.yna.co.kr/view/AKR20210528111100056?section=safe/news",
+		"date": "05-28 15:10"
+	},
+	"e3c498bbed501fc1f864ad14e5af2df45f959fa96f3590c981be49fed327a57e": {
+		"title": "울산 4명 신규 확진…유흥업소 연쇄감염 1명 포함(종합)",
+		"link": "www.yna.co.kr/view/AKR20210528029451057?section=safe/news",
+		"date": "05-28 15:04"
+	},
+	"0083f0d22225635cda70869ebf4851ecf4918fec17910a5da803bff39c93d65c": {
+		"title": "직장·학교·노래연습장서 신규감염…대구 유흥업소 관련 218명",
+		"link": "www.yna.co.kr/view/AKR20210528102700530?section=safe/news",
+		"date": "05-28 14:59"
+	},
+	"ca8f4f27487f6bb05f8c38c6633d7746c2ea6a4a89723cd8c2df69b592df4d04": {
+		"title": "\"코로나19 백신 접종자, 부작용 없어도 항체 형성 확인\"",
+		"link": "www.yna.co.kr/view/AKR20210528099700017?section=safe/news",
+		"date": "05-28 14:57"
+	},
+	"921a5cf15498b4ab806811ed5ca5d9039847e4663cb62df2a11f858126fc3875": {
+		"title": "이틀간 광주 5개 학교서 확진자 발생…3천400여명 검사",
+		"link": "www.yna.co.kr/view/AKR20210528105100054?section=safe/news",
+		"date": "05-28 14:56"
+	},
+	"7291def0fa635f81ca400f0751e2620efa5fa30bf9fce7de22cb0d01e8ccfe78": {
+		"title": "지난 2주간 코로나19 주사기서 이물 발견 보고 1건",
+		"link": "www.yna.co.kr/view/AKR20210528103200017?section=safe/news",
+		"date": "05-28 14:51"
+	},
+	"7d2819796c8287dc3d33bc50f8997b60c064f6ab728b70fc13bdad576a721aa9": {
+		"title": "백신 1차접종 65만7천192명↑ 하루 최다…접종률 10% 눈앞(종합)",
+		"link": "www.yna.co.kr/view/AKR20210528048051530?section=safe/news",
+		"date": "05-28 14:48"
+	},
+	"5464c805916a6ba08b141e2e9a38a033eaf8138eda78178605e9b72e4aa79267": {
+		"title": "국내 코로나19 항체 보유율 0.27%…2천248명 중 6명서 확인",
+		"link": "www.yna.co.kr/view/AKR20210528099800530?section=safe/news",
+		"date": "05-28 14:30"
+	},
+	"779d8320f163251370b00709ba13a7e758bb95fe91bcf2d0d781c787cc6a23e6": {
+		"title": "수원연극축제 10월로 연기…코로나 확산 방지",
+		"link": "www.yna.co.kr/view/AKR20210528097500061?section=safe/news",
+		"date": "05-28 14:23"
+	},
+	"d9f1c6b17045d647c139f8756c8b9f2a6e6ddfd899532ef16a99355a1e3162e4": {
+		"title": "부산 가족 감염 등 14명 확진…접종후 9번째 사망자 나와(종합)",
+		"link": "www.yna.co.kr/view/AKR20210528028051051?section=safe/news",
+		"date": "05-28 14:22"
+	},
+	"f5478ddcf44ef3190ea52809366ec380beb3f6801ab9303c3a2a6e9c264388ea": {
+		"title": "[속보] 국내 코로나19 항체 보유율 0.27%…2천248명 중 6명서 확인",
+		"link": "www.yna.co.kr/view/AKR20210528096800530?section=safe/news",
+		"date": "05-28 14:14"
+	},
 	"2ebda72e1cc4fc268d5e2f315ee03ef847358aa2ffbfd37c05e755a02ee49253": {
 		"title": "충남도청 공무원 첫 코로나19 확진…직원 400여명 검사 예정(종합)",
 		"link": "www.yna.co.kr/view/AKR20210528093100063?section=safe/news",
@@ -418,85 +498,5 @@
 		"title": "제주도 사회적 거리두기 2단계 격상되나…28일 결정",
 		"link": "www.yna.co.kr/view/AKR20210527170900056?section=safe/news",
 		"date": "05-27 19:08"
-	},
-	"06a9328a12708ca082ae8ee4cec7362085a85f12dbefbd06661932717103bd21": {
-		"title": "65∼74세 접종 첫날 오후 6시까지 약 65만명 1차접종…하루 최다",
-		"link": "www.yna.co.kr/view/AKR20210527173400530?section=safe/news",
-		"date": "05-27 19:06"
-	},
-	"743e8ad255b070defd4d446f36dc2e86209a419a3475a8249c622b89cb25a5c3": {
-		"title": "울산 일가족 3명 포함 11명 신규 확진…누적 2천559명(종합2보)",
-		"link": "www.yna.co.kr/view/AKR20210527053952057?section=safe/news",
-		"date": "05-27 19:04"
-	},
-	"741581775c1657afd81be344f812019da259cd07c4dc85a11dfd0a1635960099": {
-		"title": "재점화된 코로나 기원 논쟁…미 \"추가조사\" vs 중 \"음모\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20210527048651083?section=safe/news",
-		"date": "05-27 18:52"
-	},
-	"3c601a99f0aa5b2bb62112fbdf9f3b9f3376748258d0fa3ec7ef168026a3d4c5": {
-		"title": "사노피, 코로나19 백신 임상 3상 시작…부스터샷 가능성도 점검",
-		"link": "www.yna.co.kr/view/AKR20210527171200081?section=safe/news",
-		"date": "05-27 18:42"
-	},
-	"945811949955a929e5c4b814b48d89a3773e6526356377b4ef589946e53bc954": {
-		"title": "바이든, 코로나 기원 추가조사 지시…중국 \"이미 조사 마쳐\"(종합2보)",
-		"link": "www.yna.co.kr/view/AKR20210527004453071?section=safe/news",
-		"date": "05-27 18:32"
-	},
-	"b8aafef5a524a39ae83dabfa8642f5175ffcba63119048aa5679484906db3bc2": {
-		"title": "오후 6시까지 서울 190명 확진…전날보다 8명↓",
-		"link": "www.yna.co.kr/view/AKR20210527170400004?section=safe/news",
-		"date": "05-27 18:28"
-	},
-	"d63528c869ec688792dc9ae2014c8335363f69f3d628c0f4ad82c05b565c3454": {
-		"title": "'언제쯤 잦아들까' 대전 신규 확진자 엿새 연속 두 자릿수(종합)",
-		"link": "www.yna.co.kr/view/AKR20210527039151063?section=safe/news",
-		"date": "05-27 18:20"
-	},
-	"d8fb5a0298da253887975d5d3635ee295521630f34d44a2bc81a04725081bfff": {
-		"title": "충북 9명 확진, 누적 2천903명…4개 시·군서 개별감염 지속",
-		"link": "www.yna.co.kr/view/AKR20210527166300064?section=safe/news",
-		"date": "05-27 17:57"
-	},
-	"624fd7f1cf4fdb20be9232f61d405b8e7726dacf1bc5ee869f968f0e8bb53716": {
-		"title": "日의사노조 위원장 \"도쿄올림픽 변이바이러스 출현 가능성\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20210527077451073?section=safe/news",
-		"date": "05-27 17:47"
-	},
-	"58db621e6915488014d2641b6955cfc858fd825cb5f0db97a7e74f595387aa7e": {
-		"title": "\"바이러스야, 물러가라\"…'코로나 여신'까지 모신 印힌두교 사찰",
-		"link": "www.yna.co.kr/view/AKR20210527161000077?section=safe/news",
-		"date": "05-27 17:37"
-	},
-	"158e8dbcff7c0b3270f7471ca4aa512e847d51bea277abb5149cce4a51dbbff4": {
-		"title": "경남 23명 확진…양산 유흥주점·가족 지인 접촉 등 산발 감염(종합)",
-		"link": "www.yna.co.kr/view/AKR20210527105151052?section=safe/news",
-		"date": "05-27 17:37"
-	},
-	"46a93ee309ffde4833fbb5157098c804966162bd0472f81a9f100d123aa5f1dc": {
-		"title": "유럽의약품청, 내일 화이자 백신 12∼15세 접종 승인 여부 결정",
-		"link": "www.yna.co.kr/view/AKR20210527160900098?section=safe/news",
-		"date": "05-27 17:34"
-	},
-	"922d30eba00918dfe4258d2b82cf0ea587df45be8609b76d65234edcf0f1f6e2": {
-		"title": "'코로나 비극' 말레이 일가족, 임종 맞는 노모와 화상 인사",
-		"link": "www.yna.co.kr/view/AKR20210527160500104?section=safe/news",
-		"date": "05-27 17:33"
-	},
-	"7c685b1f379d523deaa79a94b7bcaa280456b2bf32bd2bb865eb2a192d5a79af": {
-		"title": "경북교육청 등교수업 확대에 따라 코로나19 방역 강화",
-		"link": "www.yna.co.kr/view/AKR20210527158500053?section=safe/news",
-		"date": "05-27 17:28"
-	},
-	"073601b04b8c88cbc32d3e444f95eb7bd80ee2b5cfbd649354c71f2728357428": {
-		"title": "독일 이어 프랑스도…인도발 변이 확산하는 영국에 입국 제한(종합)",
-		"link": "www.yna.co.kr/view/AKR20210526182151081?section=safe/news",
-		"date": "05-27 17:20"
-	},
-	"02c9ed46e7616da50d86ee3ac59177d3e94ccadae3c09ca5b295485888109ad5": {
-		"title": "\"백신 빨리 맞을래\"…인센티브 방침에 노쇼 물량도 '귀한 몸'",
-		"link": "www.yna.co.kr/view/AKR20210527144200064?section=safe/news",
-		"date": "05-27 17:19"
 	}
 }
