@@ -1,4 +1,69 @@
 {
+	"083c9e47c0dec7700e88bc888368240a4bb6dfe82cc12e06baf1bd3644588ec0": {
+		"title": "프로스포츠 경기장서 집단감염 0건…정부 \"관중규모 조정 협의\"",
+		"link": "www.yna.co.kr/view/AKR20210606040400530?section=safe/news",
+		"date": "06-06 16:44"
+	},
+	"6d73a9bd5960cd5eddb7c8b7d4a2cf4b1aeea07750143e20195ef57cc1abc2a1": {
+		"title": "[속보] 코로나19 감염 재생산지수 0.97…직전주와 동일",
+		"link": "www.yna.co.kr/view/AKR20210606040600530?section=safe/news",
+		"date": "06-06 16:41"
+	},
+	"9a4fbda82957986a27a06641054d6f36bcfe2dfb0fb5acba11d506477d75f0d7": {
+		"title": "코로나19 백신 접종에 해열제 수요 급증…정부 \"생산 늘리겠다\"",
+		"link": "www.yna.co.kr/view/AKR20210606039900530?section=safe/news",
+		"date": "06-06 16:41"
+	},
+	"c4088ed120b2242dddd712de46b6ed441a9af05929e9710aa24d192bfee20119": {
+		"title": "트럼프 \"중국 코로나 배상 10조달러 내야\"…정치 본격 재개(종합)",
+		"link": "www.yna.co.kr/view/AKR20210606020701009?section=safe/news",
+		"date": "06-06 16:38"
+	},
+	"c4f1c85161478b49efb20d1870b7f11a1dc1e9c06b51c73d51a42a6840f5048a": {
+		"title": "울산서 6명 코로나19 신규 확진…누적 2천635명(종합)",
+		"link": "www.yna.co.kr/view/AKR20210606012951057?section=safe/news",
+		"date": "06-06 16:37"
+	},
+	"eeaf4ed9dc40fcbc47dae273ff14b77d84d002a72675f8b9f20485d087d64250": {
+		"title": "정부 \"7월부터 적용할 거리두기 개편안 이달 중순께 공개\"",
+		"link": "www.yna.co.kr/view/AKR20210606039600530?section=safe/news",
+		"date": "06-06 16:29"
+	},
+	"f95476f1b5863f6b2a003143564d21a90d7bc8e3467a9f1dd46fc4e7cc6dcd0c": {
+		"title": "문대통령, 내일 특별방역점검회의 주재…접종상황 점검",
+		"link": "www.yna.co.kr/view/AKR20210606039100001?section=safe/news",
+		"date": "06-06 16:22"
+	},
+	"c99af76c71d36e5b9e9da71cef82e82c1b21626a23fed3d3fc6446b657e52240": {
+		"title": "[속보] 정부 \"7월부터 적용할 거리두기 개편안 이달 중순 공개\"",
+		"link": "www.yna.co.kr/view/AKR20210606038800530?section=safe/news",
+		"date": "06-06 16:13"
+	},
+	"4dfe95f36ec520c9e86670d0f6724fe25dffb85797264dd35475227ce8587524": {
+		"title": "인도 확진자 폭증세 수그러들어…상점 열고 지하철 운행",
+		"link": "www.yna.co.kr/view/AKR20210606037700104?section=safe/news",
+		"date": "06-06 16:08"
+	},
+	"d897d7cb10414021d251ed1639aa7f0fcc919ebdb60ee3f4c623c1534bbc5af7": {
+		"title": "김총리 \"백신접종 배지·스티커, 국민께 드리는 훈장\"",
+		"link": "www.yna.co.kr/view/AKR20210606037800001?section=safe/news",
+		"date": "06-06 16:05"
+	},
+	"c17d5767291faea581bcddd1c75000f31b546a3d947c9366ae3c74bfb7eadc1e": {
+		"title": "군 코로나19 확진자 6명 늘어…백신 1차접종 후 확진 포함",
+		"link": "www.yna.co.kr/view/AKR20210606034900504?section=safe/news",
+		"date": "06-06 16:04"
+	},
+	"e7b4c181430bb7b7e181550cdbd1d059e016ee8d938ef74c9db5b39b0643edfd": {
+		"title": "부산서 코로나19 신규확진 13명…감염원 미확인 4명(종합)",
+		"link": "www.yna.co.kr/view/AKR20210606030951051?section=safe/news",
+		"date": "06-06 15:35"
+	},
+	"ea7b1d2d27c1e9f788ac25e8a39f4cfdeb49e182f422bf3dd441ba037bc643fd": {
+		"title": "미국, '중국산 거부' 대만에 코로나 백신 75만회분 지원",
+		"link": "www.yna.co.kr/view/AKR20210606025000009?section=safe/news",
+		"date": "06-06 11:41"
+	},
 	"609a07336c5b379eac629f6d33b2f616202d5b9204ba0d54662822ac40c49a85": {
 		"title": "광주 식당·카페·유흥시설 영업시간 제한 해제…1.5단계는 유지",
 		"link": "www.yna.co.kr/view/AKR20210606031900054?section=safe/news",
@@ -433,70 +498,5 @@
 		"title": "임시 선별검사소서 150명 확진…수도권 139명-비수도권 11명",
 		"link": "www.yna.co.kr/view/AKR20210605013500530?section=safe/news",
 		"date": "06-05 09:42"
-	},
-	"11046c046d964cf36d2a8d03771282abd51cf6ced217421f95b35bfb5c293882": {
-		"title": "[3보] 신규확진 744명, 열흘만에 다시 700명대로…전국 확산세 지속",
-		"link": "www.yna.co.kr/view/AKR20210605013400530?section=safe/news",
-		"date": "06-05 09:38"
-	},
-	"acfea60b9377d6cf7c438700ed45f6608d8033517b1812fd9b109d9bdfc52179": {
-		"title": "[속보] 백신 1차접종 36만7천761명↑ 총 745만5천726명…인구대비 14.5%",
-		"link": "www.yna.co.kr/view/AKR20210605022400530?section=safe/news",
-		"date": "06-05 09:35"
-	},
-	"e6ea97d72ef851cc6f45b8b6b4c36d3a153395a506df3df638845eb0f67080e5": {
-		"title": "[속보] 서울 277명-경기 211명-대구 41명-대전 31명-충북 24명 등 확진",
-		"link": "www.yna.co.kr/view/AKR20210605021700530?section=safe/news",
-		"date": "06-05 09:31"
-	},
-	"71ae1a1fad2ff2de284018d10a2f73f3a0786f471691cfdc137bcbce3793a483": {
-		"title": "[2보] 코로나19 어제 744명 신규확진…열흘만에 다시 700명대로",
-		"link": "www.yna.co.kr/view/AKR20210605013200530?section=safe/news",
-		"date": "06-05 09:30"
-	},
-	"798588a0bdfc4e575483fe7c5a958a47d0ca81a813535ccf550906a263dc2997": {
-		"title": "[속보] 코로나19로 어제 2명 사망…누적 1천971명",
-		"link": "www.yna.co.kr/view/AKR20210605021100530?section=safe/news",
-		"date": "06-05 09:30"
-	},
-	"b3806802e23b69f313292888a4cfd3df1dd108757c7b655089e4b4a2e884912f": {
-		"title": "[1보] 코로나19 어제 744명 신규확진…열흘만에 다시 700명대로",
-		"link": "www.yna.co.kr/view/AKR20210605019200530?section=safe/news",
-		"date": "06-05 09:30"
-	},
-	"d30bdc31eddbd84890fb3ccad938eccf078967ba6ebe04beb782966781433a4d": {
-		"title": "브라질, 인도·러시아산 백신 수입·사용 승인…\"예외적 조치\"",
-		"link": "www.yna.co.kr/view/AKR20210605020900094?section=safe/news",
-		"date": "06-05 09:16"
-	},
-	"b106c894cf9cc3855f8debd18b350d4fbf52be02b47db17ec0734426f21a7886": {
-		"title": "경북 5개 시·군서 10명 신규 확진",
-		"link": "www.yna.co.kr/view/AKR20210605020000053?section=safe/news",
-		"date": "06-05 09:02"
-	},
-	"d5e33bc7e4c7f68526c6a959bdcae51b66a482cfa49736dff5163944c8cc2e5e": {
-		"title": "중국, 시노백 코로나19 백신 3∼17세 대상 승인",
-		"link": "www.yna.co.kr/view/AKR20210605019900083?section=safe/news",
-		"date": "06-05 09:01"
-	},
-	"e706af9fe7bfe23b4a40331ca5b9c46f31ea9dea12a58a94534e67f91188a28c": {
-		"title": "대전 '7080라이브 카페'서 확진 잇따라…업주 등 12명 감염",
-		"link": "www.yna.co.kr/view/AKR20210604149851063?section=safe/news",
-		"date": "06-05 09:00"
-	},
-	"4a3594bc92b7bf6b0e636766d184fed24db01dad79cc4cceaeaeca88334fd4ba": {
-		"title": "변이 바이러스 덮친 대구 산발적 확산 지속…41명 추가 확진",
-		"link": "www.yna.co.kr/view/AKR20210605018900053?section=safe/news",
-		"date": "06-05 08:42"
-	},
-	"2b925c703cd4578aedbdaecba7c04afa993f961c87d341bc8ea9bc2e456861fd": {
-		"title": "광주 9명·전남 14명 코로나19 추가 확진…지역 내 재확산 조짐",
-		"link": "www.yna.co.kr/view/AKR20210605018400054?section=safe/news",
-		"date": "06-05 08:33"
-	},
-	"3a7460b1d5fc94270adaacfda5b3feb6fb1fe341046a09e5b792d9f5eda7844c": {
-		"title": "러시아, 해외입국자에 스푸트니크 백신 유료접종 검토",
-		"link": "www.yna.co.kr/view/AKR20210605014800009?section=safe/news",
-		"date": "06-05 08:28"
 	}
 }
