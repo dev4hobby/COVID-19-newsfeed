@@ -1,4 +1,69 @@
 {
+	"44ecedbb8f62b7e0f51eda97c32071166021c92cd4ac7e85fa776d08791226aa": {
+		"title": "대만 중부서 `돼지독감 바이러스' 인간 감염 확인…대만 첫 사례",
+		"link": "www.yna.co.kr/view/AKR20210608074400009?section=safe/news",
+		"date": "06-08 12:19"
+	},
+	"0bef826f17af0f010ff7b924a6c27871efa4c673e0c007af1db1d93444710f7e": {
+		"title": "소비자원 \"마스크 패치 안전성 검증 안돼…사용 중단해야\"",
+		"link": "www.yna.co.kr/view/AKR20210607124900030?section=safe/news",
+		"date": "06-08 12:00"
+	},
+	"6ac3e43a83124778c05a67d1d018e68abf44672d115653a17870514430054895": {
+		"title": "청주 노래방 연쇄감염 '불똥'…모충동 행정복지센터 폐쇄",
+		"link": "www.yna.co.kr/view/AKR20210608083900064?section=safe/news",
+		"date": "06-08 11:51"
+	},
+	"45911871a74c6fa7eb380b45239f94555bc53e32f30fbaca6b84815113b135bc": {
+		"title": "김해시 공무원 확진…일부 건물 폐쇄·시의회 일정 축소",
+		"link": "www.yna.co.kr/view/AKR20210608083600052?section=safe/news",
+		"date": "06-08 11:50"
+	},
+	"86d01ecbba1c4effd5ac9d32e52df12a7c233b68ac5681b86a5fba6baa683cff": {
+		"title": "속도 붙는 백신접종…충북서 어제 2만9천600명 주사 맞았다",
+		"link": "www.yna.co.kr/view/AKR20210608075600064?section=safe/news",
+		"date": "06-08 11:47"
+	},
+	"16a241b3fd73b12194a985ca75a6c331afe798dc0c6362acc738a214fe2a516c": {
+		"title": "베트남, 백신 펀드 '속도전'…모금액 4천억원 육박",
+		"link": "www.yna.co.kr/view/AKR20210608081800084?section=safe/news",
+		"date": "06-08 11:41"
+	},
+	"9e6b6e8e2dcee0064b625d70b98eb7f2f250da09fdee490908f1e26713dad772": {
+		"title": "서울서 변이바이러스 감염 1일까지 누적 101명 확인",
+		"link": "www.yna.co.kr/view/AKR20210608082200004?section=safe/news",
+		"date": "06-08 11:40"
+	},
+	"68c896777653bdbb4b7ecff73460b6f431af4ccf30db001be22b83574f471821": {
+		"title": "제주 거리두기 2단계 일주일 연장, 영업 제한 시간 앞당겨",
+		"link": "www.yna.co.kr/view/AKR20210608080700056?section=safe/news",
+		"date": "06-08 11:39"
+	},
+	"80ac993ce6aaf59e10d7be0df36aa7a8e6cf0afa1446e9245e6cbf34f2b9ad5a": {
+		"title": "권영진 대구시장 화이자 백신 구매주선 논란에 공식사과 예정",
+		"link": "www.yna.co.kr/view/AKR20210608078500053?section=safe/news",
+		"date": "06-08 11:32"
+	},
+	"6af4d98b021f3fcf239bb0847f3ffc74ea1110f37fc1abef9cd1459fde8572fe": {
+		"title": "내주부터 적용 '거리두기 조정안' 11일 발표…월말까지 재연장될듯",
+		"link": "www.yna.co.kr/view/AKR20210608075700530?section=safe/news",
+		"date": "06-08 11:27"
+	},
+	"e79e933108a279b60c7e53c5665a6beba80e55addb04467cc37f279809e12fab": {
+		"title": "서울서 139명 신규 확진…1차접종 150만명 넘어(종합)",
+		"link": "www.yna.co.kr/view/AKR20210608048451004?section=safe/news",
+		"date": "06-08 11:16"
+	},
+	"c29acce0fe79f0b467007b9c1a19cd544c3a3b8d605d27482d9f877a996db3cd": {
+		"title": "'행복한 세상 열기' 창원 김안과의원, 코로나19 극복에 1억 기탁",
+		"link": "www.yna.co.kr/view/AKR20210608073600052?section=safe/news",
+		"date": "06-08 11:14"
+	},
+	"f8941012638d3d45a9edf1864efa3237d4e3c200f475bcd5b192727dad4d5d45": {
+		"title": "순천 유흥업소 관련 확진자 8명으로 늘어(종합)",
+		"link": "www.yna.co.kr/view/AKR20210608074100054?section=safe/news",
+		"date": "06-08 11:13"
+	},
 	"faf8f468f8829353f13951be2aebde8081bfb94c51133f44a6f4afdc626a1f13": {
 		"title": "대구서 유흥주점 관련 9명 등 33명 신규 확진(종합)",
 		"link": "www.yna.co.kr/view/AKR20210608028551053?section=safe/news",
@@ -433,70 +498,5 @@
 		"title": "광주시, 코로나19 특별주간 재개…여성·보육 현장 목소리 청취",
 		"link": "www.yna.co.kr/view/AKR20210607117200054?section=safe/news",
 		"date": "06-07 16:00"
-	},
-	"5ba7b04a36b0de7d4dad9d170f444d65bf9c676d716caf22b6f91ad31b5532dc": {
-		"title": "접종대상 아닌 대기업 등 20대 직원 2만명 화이자 예약…\"명단오류\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20210607076251530?section=safe/news",
-		"date": "06-07 15:58"
-	},
-	"9bf4db1d977de411e3807eab204a50fe0805c600ec8e3a17876bc902093cf8b2": {
-		"title": "30세 미만 화이자 예약 오늘 마감될듯…정부 \"20만명 차면 종료\"",
-		"link": "www.yna.co.kr/view/AKR20210607108100530?section=safe/news",
-		"date": "06-07 15:33"
-	},
-	"41ba4c39da1b2543552c01dbc7316fca5a7b3135afe6125647f0a9230ee072bb": {
-		"title": "학교-사업장-식당서 '일상감염'…대구 유흥주점 누적 316명",
-		"link": "www.yna.co.kr/view/AKR20210607105400530?section=safe/news",
-		"date": "06-07 15:30"
-	},
-	"78543454764b3abf1328687ed6168532e735716b41ab81e92224848220267e91": {
-		"title": "문대통령 \"9월까지 3천600만 백신접종…여름 휴가대책 준비\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20210607108200001?section=safe/news",
-		"date": "06-07 15:21"
-	},
-	"f5252ab9b26748c91fc4c4ce57bcde7e193e6a10ef85b86fbdcc0a07cc84e87e": {
-		"title": "[1보] 문대통령 \"9월까지 3천600만명 백신 접종\"",
-		"link": "www.yna.co.kr/view/AKR20210607100300001?section=safe/news",
-		"date": "06-07 15:16"
-	},
-	"2f79377be733ec46ef4fa81cc48450c69f14d6b8e268574ace9114757d87ca70": {
-		"title": "[속보] \"대상자 아닌데 화이자 접종예약한 회사원 2만명…취소 예정\"",
-		"link": "www.yna.co.kr/view/AKR20210607108700530?section=safe/news",
-		"date": "06-07 15:15"
-	},
-	"5a903c013ce73cf8876adfef9970dcf6a80df07264c9b9a46055edff826ee3e4": {
-		"title": "블링컨 \"코로나 진짜 원인 찾겠다\"…중국 재조사 다시 촉구",
-		"link": "www.yna.co.kr/view/AKR20210607102100009?section=safe/news",
-		"date": "06-07 14:58"
-	},
-	"d5e23ba90cb1c76337c60009a51fc280fa8a2ebf9727bc1ece08ad3bbfe234b0": {
-		"title": "안동서 과수화상병 추가 확진…첫 발생지 인근 사과 농장",
-		"link": "www.yna.co.kr/view/AKR20210607101400053?section=safe/news",
-		"date": "06-07 14:55"
-	},
-	"5c0c2f9bbd323345f8c223f0240958e2b737dcb687281b16b9e2310f753fe8fd": {
-		"title": "이틀간 백신 이상반응 1천15건↑…사망 2명↑, 인과성 미확인(종합)",
-		"link": "www.yna.co.kr/view/AKR20210607036552530?section=safe/news",
-		"date": "06-07 14:47"
-	},
-	"fd360f26a88bf6907e002e12d7ded1a94c40fddef36c134650505abbcb6a1c2a": {
-		"title": "\"고혈압·당뇨 환자, 코로나19 감염 후 사망 위험 1.5∼1.8배\"",
-		"link": "www.yna.co.kr/view/AKR20210607099100017?section=safe/news",
-		"date": "06-07 14:43"
-	},
-	"fc5498f681121660a33e00a27359c8ffb89380bcf1ef9f33370ca44c3746602e": {
-		"title": "춘천시 거리두기 1.5단계로 하향…드라이브 스루 설치",
-		"link": "www.yna.co.kr/view/AKR20210607097300062?section=safe/news",
-		"date": "06-07 14:42"
-	},
-	"f55157b54a325c00e4f9c24ef0982f6c8cbda58a16570ce906caf1a769aaeb6e": {
-		"title": "정부서울청사 근무 통일부 용역직원 코로나19 확진",
-		"link": "www.yna.co.kr/view/AKR20210607098600530?section=safe/news",
-		"date": "06-07 14:36"
-	},
-	"dd80b634d4cce00eddc412a07311589055e88b46e045ac708610e800329f3a9e": {
-		"title": "백신 1차접종 2천958명↑ 총 759만8천787명…인구대비 14.8%(종합)",
-		"link": "www.yna.co.kr/view/AKR20210607040151530?section=safe/news",
-		"date": "06-07 14:33"
 	}
 }
