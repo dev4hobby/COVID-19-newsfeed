@@ -1,4 +1,54 @@
 {
+	"b6cc152439b5dcde21d77df80229d265667595aa4e0cc926aa59eb7c9aec29b5": {
+		"title": "[2보] 코로나19 어제 540명 신규확진…이틀 연속 500명대",
+		"link": "www.yna.co.kr/view/AKR20210617038000530?section=safe/news",
+		"date": "06-17 09:30"
+	},
+	"83490dfdd33b63bba6f87e1f14bd99525daadf87d02a1f1f2a90dfe430b3ea0b": {
+		"title": "[속보] 코로나19로 어제 1명 사망…누적 1천994명",
+		"link": "www.yna.co.kr/view/AKR20210617038300530?section=safe/news",
+		"date": "06-17 09:30"
+	},
+	"d727be798af81cd666181e9764013841b3b56f5a2c921b6f632433b3256ac812": {
+		"title": "[1보] 코로나19 어제 540명 신규확진…이틀 연속 500명대",
+		"link": "www.yna.co.kr/view/AKR20210617037900530?section=safe/news",
+		"date": "06-17 09:30"
+	},
+	"018b99d431eb72edc5fc1e45dfea1ea98b49157f3aba4a00cfc369f208bd56e4": {
+		"title": "집단감염 대전 보습학원 수강생 학교에서도 1명 확진…누적 39명",
+		"link": "www.yna.co.kr/view/AKR20210617043500063?section=safe/news",
+		"date": "06-17 09:12"
+	},
+	"efac11d7b0556dc0c56d15b82788bf199ff4e6cfda379372b3a8bff9cd048583": {
+		"title": "브라질 신규 확진 9만5천명…팬데믹 후 세 번째로 많아",
+		"link": "www.yna.co.kr/view/AKR20210617037600094?section=safe/news",
+		"date": "06-17 09:11"
+	},
+	"593e4903250f757dea15f5b52569857841e70ae446e099fe13d3ecaf6396a284": {
+		"title": "경북서 3명 신규 확진…1주일째 한 자릿수(종합)",
+		"link": "www.yna.co.kr/view/AKR20210617034451053?section=safe/news",
+		"date": "06-17 09:09"
+	},
+	"bfe4376a5dd39bf31f2d40eda4f4243abf3d488be3bfe4b4aa74ea3ef50b667c": {
+		"title": "외부 단절 자가격리자에게 비대면 심리 치유 프로그램",
+		"link": "www.yna.co.kr/view/AKR20210617042300051?section=safe/news",
+		"date": "06-17 09:05"
+	},
+	"009ec9dd320f54059ebdac80f99368847a386267f5c30da65028a6e68261a4d8": {
+		"title": "울산서 밤사이 7명 확진…사우나 관련 3명 포함",
+		"link": "www.yna.co.kr/view/AKR20210617042800057?section=safe/news",
+		"date": "06-17 09:03"
+	},
+	"b1d564ba9c3fd1c446b4edba99e377403e5be5ad1c534d9299d7dfd9494c7be0": {
+		"title": "코로나19로 올해 전문대 해외 취업 찬바람",
+		"link": "www.yna.co.kr/view/AKR20210616131600053?section=safe/news",
+		"date": "06-17 08:45"
+	},
+	"fefd4c2efcd7fe0f038c9ee6b0fdc575a611a3aef92f35648d0e5156219be0be": {
+		"title": "오늘도 500명대 중반…직장·학원 등 '일상 감염' 지속",
+		"link": "www.yna.co.kr/view/AKR20210616134400530?section=safe/news",
+		"date": "06-17 04:30"
+	},
 	"ae6edcd824b4755cc962922cdad4e7417df141d7808730e2f4c4bc21f9ac74e0": {
 		"title": "경북서 3명 신규 확진…1주일째 한 자릿수",
 		"link": "www.yna.co.kr/view/AKR20210617034400053?section=safe/news",
@@ -448,55 +498,5 @@
 		"title": "부산경찰청 직원 1명 확진…소속 부서 임시 폐쇄",
 		"link": "www.yna.co.kr/view/AKR20210616072900051?section=safe/news",
 		"date": "06-16 11:08"
-	},
-	"472e2d73166ed0201dd7a2b78e3870e8c2481cc4c3b302b2f702f576130d9dff": {
-		"title": "태백시 보육 교직원 코로나19 선제 전수검사",
-		"link": "www.yna.co.kr/view/AKR20210616071800062?section=safe/news",
-		"date": "06-16 11:03"
-	},
-	"32bfe7b291e52e27b888b74d942048793a77496ba58f6dceebd9c1dc72aff1af": {
-		"title": "전북 코로나19 4명 추가 확진…안정세 유지",
-		"link": "www.yna.co.kr/view/AKR20210616070200055?section=safe/news",
-		"date": "06-16 11:00"
-	},
-	"4f753a5006a71fbe74980be8e7660481a9929b94c9b4b18e687c1cc06d0ecc8c": {
-		"title": "6월 청주 확진자 43% 노래연습장 고리…확산 지속",
-		"link": "www.yna.co.kr/view/AKR20210616037600064?section=safe/news",
-		"date": "06-16 10:56"
-	},
-	"f442b3f8a988dddbcc117b1d3c979eec10d19fe53e2ada3dc9c756fb4e11b7f2": {
-		"title": "30세 미만 장병 53.9%, 화이자 백신 1차 접종 완료",
-		"link": "www.yna.co.kr/view/AKR20210616067800504?section=safe/news",
-		"date": "06-16 10:53"
-	},
-	"8e812f45fc41ed798b9752a56795d57f8ee7627ff0e47960b0f5f51a2c9a04ae": {
-		"title": "코로나19 여파로 작년 승합차 주행거리 전년보다 10% 감소",
-		"link": "www.yna.co.kr/view/AKR20210616063400530?section=safe/news",
-		"date": "06-16 10:46"
-	},
-	"b83af09a9b1b7b77e67cee2fe2a064b511077d068e19b517eea0231c5adb2a98": {
-		"title": "대구서 주점 관련 n차 감염 등 16명 신규 확진(종합)",
-		"link": "www.yna.co.kr/view/AKR20210616024251053?section=safe/news",
-		"date": "06-16 10:45"
-	},
-	"bdfe4f442bc27129b8ab21cfd4c08b5054d2ac267c8ae4c158aff9c2a8de90d7": {
-		"title": "지난주 마스크 1억58만개 생산…가격 안정세",
-		"link": "www.yna.co.kr/view/AKR20210616061800530?section=safe/news",
-		"date": "06-16 10:29"
-	},
-	"5ea21e8b5539372957dcc55143c02a846b913fd8879648264bad1c7c01546945": {
-		"title": "중국 매체 \"한국, 중국산 코로나 백신에 신뢰 보여줘\"",
-		"link": "www.yna.co.kr/view/AKR20210616057000083?section=safe/news",
-		"date": "06-16 10:22"
-	},
-	"ee7ad76bcf32d4d182f3f073ad555c7a11a42c6858059deabbbb6c02cd484420": {
-		"title": "경기 190명 신규확진…어학원·학습지센터 새 집단감염",
-		"link": "www.yna.co.kr/view/AKR20210616057900061?section=safe/news",
-		"date": "06-16 10:17"
-	},
-	"1de606cdeb8f97cfb0891ba825749c3bbd3480c1c3500c5adf90de01323ff9f0": {
-		"title": "'코로나 봉쇄' 말레이시아 \"11월 돼야 정상화 예상\"",
-		"link": "www.yna.co.kr/view/AKR20210616055100104?section=safe/news",
-		"date": "06-16 10:13"
 	}
 }
