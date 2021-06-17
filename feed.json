@@ -1,4 +1,34 @@
 {
+	"7a1bbdb2af2beb4631928084ffc1456360051fd34c6985cca019bed779da9882": {
+		"title": "[속보] 오늘 전국 166개교 코로나19에 등교 불발…일주일 전보다 90곳↑",
+		"link": "www.yna.co.kr/view/AKR20210617123000530?section=safe/news",
+		"date": "06-17 15:01"
+	},
+	"db8650bfb09295878e9a3718107bf46ed30dee0e877f7607dbf92417e5f4ae96": {
+		"title": "[속보] 1주간 전국 학생 267명 코로나19 확진…하루 평균 38.1명꼴",
+		"link": "www.yna.co.kr/view/AKR20210617122700530?section=safe/news",
+		"date": "06-17 15:00"
+	},
+	"224804a0223ecf8ca249672c38a53cfe2cac56ec5fc38d3ab895042035b48ad2": {
+		"title": "간판 끄고 '몰래영업' 유흥업소 등 방역수칙 위반 6천630건 적발",
+		"link": "www.yna.co.kr/view/AKR20210617116100530?section=safe/news",
+		"date": "06-17 15:00"
+	},
+	"742d9a20b2c3d5666ce87d782d2f2793ce450365f1612484921710676f307816": {
+		"title": "고령층 1차 접종만으로도 예방효과는 84%…사망은 100% 예방(종합)",
+		"link": "www.yna.co.kr/view/AKR20210617097451530?section=safe/news",
+		"date": "06-17 14:55"
+	},
+	"ec3d5932c312bafc0f892deb39cb768c07ed3661eab84071279810e1bf82dd5e": {
+		"title": "[속보] 당국 \"제주 등 특정지역 주민 대상 우선접종은 검토 안해\"",
+		"link": "www.yna.co.kr/view/AKR20210617117500530?section=safe/news",
+		"date": "06-17 14:45"
+	},
+	"a66d192bd586aa2f51f110679287ab29601d7462306af1c271309cb551d07e4c": {
+		"title": "7월에 AZ-화이자-모더나-얀센 4종류 백신 약 1천만회분 도입",
+		"link": "www.yna.co.kr/view/AKR20210617116400530?section=safe/news",
+		"date": "06-17 14:45"
+	},
 	"3b057361d75ce0f2dc3cdf54307c708bd0a3bb93f77331840b0c2875b36ecad7": {
 		"title": "[속보] 당국 \"'희귀 혈전증' 관련 AZ백신 접종연령 변경은 계속 검토중\"",
 		"link": "www.yna.co.kr/view/AKR20210617115000530?section=safe/news",
@@ -468,35 +498,5 @@
 		"title": "충북 13명 확진, 누적 3천192명…노래방·직장 감염 이어져",
 		"link": "www.yna.co.kr/view/AKR20210616160800064?section=safe/news",
 		"date": "06-16 18:15"
-	},
-	"4cf0b8ecca6603104175f2ca40a619b8dbc6db23fdf5b8d6f32162111356c716": {
-		"title": "대전 보습학원 매개 집단감염 '확산일로'…나흘 새 38명 확진(종합2보)",
-		"link": "www.yna.co.kr/view/AKR20210616120151063?section=safe/news",
-		"date": "06-16 18:13"
-	},
-	"1bd9dacf5e73d1757a2fe6d45cf06403e4582084688a877e3b364ac06b88ac5f": {
-		"title": "감염 초 코로나 6시간마다 2배로…감기 바이러스가 이거 막는다",
-		"link": "www.yna.co.kr/view/AKR20210616153000009?section=safe/news",
-		"date": "06-16 17:47"
-	},
-	"5af999540b6e429554e83ac2cc66835f74bc5bcae221da9f20ce9af35c7ca8fe": {
-		"title": "타지역서 온 노래방 이용자와 접촉으로 강릉·평창 3명 확진",
-		"link": "www.yna.co.kr/view/AKR20210616156100062?section=safe/news",
-		"date": "06-16 17:45"
-	},
-	"e92f87dc797edf92e2ea06feed97254404db27c7cea4588d5f482db93ca25051": {
-		"title": "울산서 13명 신규 확진…사우나 관련 집단감염 9명 포함(종합)",
-		"link": "www.yna.co.kr/view/AKR20210616038851057?section=safe/news",
-		"date": "06-16 17:38"
-	},
-	"9f7f2997476397fbfe5ef6c8b0434c2f1f9f0c5a9881b511228a5591cfba8521": {
-		"title": "\"코로나 옮기는 중국인\"…이탈리아 10대들, 한국인 모욕·폭행",
-		"link": "www.yna.co.kr/view/AKR20210616153500109?section=safe/news",
-		"date": "06-16 17:36"
-	},
-	"4438d93154c847a5c5c78764d21a6d1281c5d55e0ac371cb1ac1ce363fac6dff": {
-		"title": "수원구치소 신입 수용자 1명 확진…접촉자 격리",
-		"link": "www.yna.co.kr/view/AKR20210616151900004?section=safe/news",
-		"date": "06-16 17:31"
 	}
 }
