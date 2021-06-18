@@ -1,4 +1,34 @@
 {
+	"f00ac498de321d613c92a67cbdb48a7ce188186894a6a466a5c7cdf8058496e5": {
+		"title": "당국, 발열·두통 등 백신 이상반응 183건 보상 결정",
+		"link": "www.yna.co.kr/view/AKR20210618096700530?section=safe/news",
+		"date": "06-18 14:53"
+	},
+	"35b660c8e8c054e97ee0feca76f840fe022c9ad4ceee94afd2d6cca3ff4ecfb0": {
+		"title": "코로나로 좌초 위기 겪은 시카고 73층 빌딩 건설 재추진",
+		"link": "www.yna.co.kr/view/AKR20210618074400009?section=safe/news",
+		"date": "06-18 14:50"
+	},
+	"54d744641d5a448dea65a03c61b3c67b5bb69988c7a7cc8ac1c936b5316e0647": {
+		"title": "성당·어린이집·체육시설서 새 감염…일상공간서 잇단 발병",
+		"link": "www.yna.co.kr/view/AKR20210618096200530?section=safe/news",
+		"date": "06-18 14:50"
+	},
+	"356002db0dedadfe949f116bd1909f3c40a9e3ebfe206b21e741df1685c5732b": {
+		"title": "[속보] \"이달 14일까지 국내 '돌파감염' 총 29명…28명은 국내 접종자\"",
+		"link": "www.yna.co.kr/view/AKR20210618096900530?section=safe/news",
+		"date": "06-18 14:44"
+	},
+	"338f882acbcd5c6c030544e6cf9093b899782f6973396501dbdceebd12a8be43": {
+		"title": "1차접종 총 1천423만3천45명, 인구대비 27.7%…잔여백신 6만64명↑(종합)",
+		"link": "www.yna.co.kr/view/AKR20210618041951530?section=safe/news",
+		"date": "06-18 14:37"
+	},
+	"bba5e731093405826552cb0fe47b5e2fe9db675cc9400102a80f16a8607050ca": {
+		"title": "[속보] \"AZ-얀센 접종시 '혈소판 감소성 혈전증' 위험 안내문자 발송\"",
+		"link": "www.yna.co.kr/view/AKR20210618095200530?section=safe/news",
+		"date": "06-18 14:34"
+	},
 	"5443fff9dc76c482be19f5f2a9e4e6a83c19045cb4edf0c3d2c024e0b5f617ee": {
 		"title": "\"국산 항체치료제, 인도발 기타 변이 '카파형'에도 일부 효과\"",
 		"link": "www.yna.co.kr/view/AKR20210618092600530?section=safe/news",
@@ -468,35 +498,5 @@
 		"title": "사우나발 감염 확산에 울산 북구 공공기관 운영 일시 중단",
 		"link": "www.yna.co.kr/view/AKR20210617154500057?section=safe/news",
 		"date": "06-17 17:18"
-	},
-	"6372b7c45859ce0d95d4dfb1f5d24cfcb9ced77000040e255603b415b6f9653a": {
-		"title": "'코로나19 여파'…청주문화재야행 10월로 연기",
-		"link": "www.yna.co.kr/view/AKR20210617146700064?section=safe/news",
-		"date": "06-17 17:17"
-	},
-	"c770c1d9f3549db86ca8bf701a3b9ee7c36fcd8f9de6a94f097d003174a852b7": {
-		"title": "경남 11명 신규 확진…외국인 식당 등 8개 시·군 산발 감염(종합)",
-		"link": "www.yna.co.kr/view/AKR20210617105651052?section=safe/news",
-		"date": "06-17 17:17"
-	},
-	"a212a8462de098aa1fd5349a1be4a31045856bd3a494cb32c76efe06cd81e3b9": {
-		"title": "\"혁신도시 학원감염 비상\" 전면등교 앞둔 충북교육계 '긴장'(종합)",
-		"link": "www.yna.co.kr/view/AKR20210617071151064?section=safe/news",
-		"date": "06-17 17:16"
-	},
-	"e313b7811dcb4dd8b9013ba0dda9ddb74a0b61d4117af1421b924a4a4118e68d": {
-		"title": "부석종 해군참모총장, 한산도함 백신 접종 현장 방문",
-		"link": "www.yna.co.kr/view/AKR20210617153700054?section=safe/news",
-		"date": "06-17 17:14"
-	},
-	"cc7fcaee87ef22651808e8bd33914402c10de57ce6c9f78df219d20c67ba9376": {
-		"title": "제주 신규 확진자 5명 발생…집단감염 관련 2명 포함",
-		"link": "www.yna.co.kr/view/AKR20210617153300056?section=safe/news",
-		"date": "06-17 17:13"
-	},
-	"332e80d8bda2156cf1a91274250151add89fd028e6ad4817463775d8c9cd0d2d": {
-		"title": "서울시 \"노숙인 백신 접종률 43%…시설 입소자는 70%↑\"",
-		"link": "www.yna.co.kr/view/AKR20210617152500004?section=safe/news",
-		"date": "06-17 17:09"
 	}
 }
