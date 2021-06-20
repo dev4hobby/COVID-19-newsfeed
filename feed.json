@@ -1,4 +1,39 @@
 {
+	"515ef63bc349c4dd5020ab7c2d35647a85ecc3dc20a3de6cc1b57513a11b0b69": {
+		"title": "전문가들, 7월 거리두기 완화에 \"시기상조…확진자 증가 불가피\"",
+		"link": "www.yna.co.kr/view/AKR20210620040700530?section=safe/news",
+		"date": "06-20 16:53"
+	},
+	"4348c415e8093192ff32f130dbe18e4db497f8a4fd4c36ef381d7326bacf4586": {
+		"title": "[속보] 정부 \"모든 지역서 코로나19 유행 감소…휴가철-변이는 위험요인\"",
+		"link": "www.yna.co.kr/view/AKR20210620042800530?section=safe/news",
+		"date": "06-20 16:50"
+	},
+	"44a62de47bad8ca7572aa7ca066dc248e4c514980cb29c52807865313cd398af": {
+		"title": "7월부터 일상 바뀐다…모임인원↑ 밤12시 영업,접종자 야외 노마스크",
+		"link": "www.yna.co.kr/view/AKR20210619047700530?section=safe/news",
+		"date": "06-20 16:40"
+	},
+	"a035cce5b079016a91838f17aaa27326d35fb93cb3ffeda84df85d98a510815b": {
+		"title": "다중시설 위험도 따라 1∼3그룹…4단계때 유흥시설만 '집합금지'",
+		"link": "www.yna.co.kr/view/AKR20210618161300530?section=safe/news",
+		"date": "06-20 16:40"
+	},
+	"9b759d22ea6924d5af83c8e1ee3cf0d4eb99b3e08a6c2102e90c24bee17203aa": {
+		"title": "2학기 전면등교인데 과밀학급 해소·고3 외 백신접종 어쩌나",
+		"link": "www.yna.co.kr/view/AKR20210620032400530?section=safe/news",
+		"date": "06-20 16:40"
+	},
+	"01050081e7e3367feebbfea5e1e6310d8d90ddcd07e82be5cd070288e3305831": {
+		"title": "거리두기 개편 달라지는 등교기준은…확진자 1천명 아래시 전면등교",
+		"link": "www.yna.co.kr/view/AKR20210620036300530?section=safe/news",
+		"date": "06-20 16:40"
+	},
+	"4cb506286d3e11523366cb095e41328aaa0839beef935bd24669441d13c90222": {
+		"title": "2학기엔 거리두기 2단계까지 전면등교…사실상 매일 학교 갈 듯",
+		"link": "www.yna.co.kr/view/AKR20210620033400530?section=safe/news",
+		"date": "06-20 16:40"
+	},
 	"8ba8ad2196a436e65aaf47b09328fa31b24c77c8da3701a0fccb8eb770212198": {
 		"title": "중국 '코로나 집단면역' 가속…백신 접종 10억회분 돌파",
 		"link": "www.yna.co.kr/view/AKR20210620040200083?section=safe/news",
@@ -463,40 +498,5 @@
 		"title": "대구 신규 확진자 13명…이틀째 10명대",
 		"link": "www.yna.co.kr/view/AKR20210619023400053?section=safe/news",
 		"date": "06-19 10:45"
-	},
-	"841842b8b1eb1c6dc531d6e97be9c2a65607900a4c58d882c60d9df4a3fc3a9d": {
-		"title": "사흘간 백신 이상반응 1만230건↑…사망 29명↑, 인과성 미확인",
-		"link": "www.yna.co.kr/view/AKR20210619022400530?section=safe/news",
-		"date": "06-19 10:27"
-	},
-	"5b4b221e34ebab36f76feacec5fa225b1a8c643dfb60a0d9123fab329cf96495": {
-		"title": "군 코로나19 육군 병사 2명 추가 확진",
-		"link": "www.yna.co.kr/view/AKR20210619022800504?section=safe/news",
-		"date": "06-19 10:25"
-	},
-	"84b369cf704ac7d5b31947b1d8faa1cc274aabb922680fd5ed28d26715c5d9c5": {
-		"title": "부산시 차량정비·담배 사러 외출 자가격리 위반 2명 적발",
-		"link": "www.yna.co.kr/view/AKR20210619022300051?section=safe/news",
-		"date": "06-19 10:17"
-	},
-	"a3abb89c30883106bf4813ab1da4e32c9d2ca495f625c8c15cc1ec608d47006f": {
-		"title": "대만, 화이자 '독일직구' 안간힘…민간기업에 구매협상권 부여",
-		"link": "www.yna.co.kr/view/AKR20210619022000089?section=safe/news",
-		"date": "06-19 10:15"
-	},
-	"1866aebf83bf99697fa7929841ed3baa73d7ac64d6fa9b10498b9e8812ddfb55": {
-		"title": "1차접종 50만7천319명↑ 총 1천476만8천365명…인구대비 28.8%",
-		"link": "www.yna.co.kr/view/AKR20210619021200530?section=safe/news",
-		"date": "06-19 10:06"
-	},
-	"67536aa1e7321902c2b5186a24c8965dc19b70729ff1ec947d29a7e79faa80b3": {
-		"title": "경기 145명 신규 확진…노래방·초등학교 새 집단감염",
-		"link": "www.yna.co.kr/view/AKR20210619021800061?section=safe/news",
-		"date": "06-19 10:03"
-	},
-	"2442a6c7a438e17ee089308caa41134bf67b5c43e9c08c486cdd84411b0f3566": {
-		"title": "서울 197명 신규 확진…전날보다 3명 적어",
-		"link": "www.yna.co.kr/view/AKR20210619021300004?section=safe/news",
-		"date": "06-19 09:59"
 	}
 }
