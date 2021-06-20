@@ -1,4 +1,64 @@
 {
+	"4b790e2d16a7e71edfa348a15ce7ad7d0a63cd1a56777f4d99db37a0d7f6a379": {
+		"title": "[속보] 서울 165명-경기 113명-인천 22명-부산 21명-대구 16명 등 확진",
+		"link": "www.yna.co.kr/view/AKR20210620015100530?section=safe/news",
+		"date": "06-20 09:33"
+	},
+	"41e56b1460c8353776b1cd1567f9abebd588b4b9cd6f93821baa6c0b81917271": {
+		"title": "[속보] 1차접종 21만1천990명↑ 총 1천501만2천455명…인구대비 29.2%",
+		"link": "www.yna.co.kr/view/AKR20210620014900530?section=safe/news",
+		"date": "06-20 09:32"
+	},
+	"319ec21c1f31c35878a4aeea3bee609145cb3744c67397965111cbd13f5a2ce3": {
+		"title": "[2보] 코로나19 어제 429명 신규확진…이틀 연속 400명대",
+		"link": "www.yna.co.kr/view/AKR20210620011300530?section=safe/news",
+		"date": "06-20 09:31"
+	},
+	"d473f09571758ee022506c642185fb8ac00099a177e9781e3156b642e0cb8f76": {
+		"title": "영국 최장 코로나 투병 남성, 감염 15개월 만에 사망",
+		"link": "www.yna.co.kr/view/AKR20210620013100009?section=safe/news",
+		"date": "06-20 09:30"
+	},
+	"aa0f88ae0f251a82276a91152649f067b9d775d83af9b7089cd931189b173765": {
+		"title": "[속보] 코로나19로 어제 5명 사망…누적 2천2명",
+		"link": "www.yna.co.kr/view/AKR20210620013600530?section=safe/news",
+		"date": "06-20 09:30"
+	},
+	"dd546fa6cbbe4b77b5c71d1817001618ee675b12875a1f9f88f19c4e9929500b": {
+		"title": "[1보] 코로나19 어제 429명 신규확진…이틀 연속 400명대",
+		"link": "www.yna.co.kr/view/AKR20210620011000530?section=safe/news",
+		"date": "06-20 09:30"
+	},
+	"ad2f8dd44e06a8c6b3e34f1051bd5d0de8e50bb5dcca5af5fff0984d2a0bcb97": {
+		"title": "대전 중구, 방역수칙 위반 10개 업소에 과태료 부과",
+		"link": "www.yna.co.kr/view/AKR20210620013400063?section=safe/news",
+		"date": "06-20 09:22"
+	},
+	"f628f6084ba56694783717b7c9b9c341ee203b0214e2bef3d3b0cc36bc519bbc": {
+		"title": "대전서 노래방 관련 2명 추가 확진",
+		"link": "www.yna.co.kr/view/AKR20210620012500063?section=safe/news",
+		"date": "06-20 09:19"
+	},
+	"47361687db17ffc55d4f85dc8ab97e206e5c851878295b616287ae90a8927a5d": {
+		"title": "울산서 밤사이 코로나 1명 추가 확진",
+		"link": "www.yna.co.kr/view/AKR20210620012000057?section=safe/news",
+		"date": "06-20 09:05"
+	},
+	"eed584335e57a71505b7ba6041990812efbbfda6f6cbcb105b3d963b8fca6a77": {
+		"title": "브라질 코로나 누적 사망 50만명 넘어…미국 이어 두번째",
+		"link": "www.yna.co.kr/view/AKR20210620010900094?section=safe/news",
+		"date": "06-20 08:59"
+	},
+	"122aac7a5ce7549ce6fb660c464139ea49a03cdaa89be2066316211fa1f0d321": {
+		"title": "광주·전남 3명씩 추가 확진…노래 교실·유흥주점 등 관련",
+		"link": "www.yna.co.kr/view/AKR20210620010200054?section=safe/news",
+		"date": "06-20 08:25"
+	},
+	"bb0191f568908f886837dd5ea5c02151405fc8f301382d90af9523d7f22ed692": {
+		"title": "오늘도 400명대…거리두기 개편안 오후 발표, 사적모임 완화될듯",
+		"link": "www.yna.co.kr/view/AKR20210619035800530?section=safe/news",
+		"date": "06-20 04:33"
+	},
 	"8abbd29bafcd5bedbb9b5b3d78f48a2ac4407ac35f14fa9df24de43720f2ea3b": {
 		"title": "[코로나 속 난민] ④ \"고립된 국내 난민들…잔인하게 외부와 차단\"",
 		"link": "www.yna.co.kr/view/AKR20210618093000371?section=safe/news",
@@ -438,65 +498,5 @@
 		"title": "스페인, 26일부터 실외 마스크 착용의무 폐지",
 		"link": "www.yna.co.kr/view/AKR20210618157100009?section=safe/news",
 		"date": "06-18 20:43"
-	},
-	"2d41570712a7df9ce3a2694e14c4408903d2becc34ab3ff4f1ef1456a34f3cb3": {
-		"title": "세종시 문화재단 직원 코로나19 확진…공연 중단",
-		"link": "www.yna.co.kr/view/AKR20210618155600063?section=safe/news",
-		"date": "06-18 20:16"
-	},
-	"9cd6df9ed27b2f71a6800eeaf47944df96f8b0af51732a195f7968e03a62671a": {
-		"title": "울산서 3명 코로나19 신규 확진…백신 접종 후 사망 1명 늘어(종합2보)",
-		"link": "www.yna.co.kr/view/AKR20210618034952057?section=safe/news",
-		"date": "06-18 19:47"
-	},
-	"823faccb9584111079bcb7e16300f5bdfe53526000631d083a6e8d504a6868be": {
-		"title": "군, 백신접종 개시 50일 만에 1차 접종률 70% 돌파(종합)",
-		"link": "www.yna.co.kr/view/AKR20210618060451504?section=safe/news",
-		"date": "06-18 19:29"
-	},
-	"c3b0c066e0fdd280f36ca465383134fb307c864ff5a870aa1c9a98b30fcc0ee0": {
-		"title": "이스라엘, 팔레스타인에 코로나 백신 100만회분 제공",
-		"link": "www.yna.co.kr/view/AKR20210618150100009?section=safe/news",
-		"date": "06-18 19:20"
-	},
-	"72c4021cbf83e89f629a681447a61362471ff71de32110874b56658a98b54c79": {
-		"title": "울산서 3명 코로나19 신규 확진…누적 2천725명(종합)",
-		"link": "www.yna.co.kr/view/AKR20210618034951057?section=safe/news",
-		"date": "06-18 19:03"
-	},
-	"f92ac9c274a8269f08e96247b10010cac9e3204838d56ad49a1e5b32bbf2acb6": {
-		"title": "日정부, 코로나 백신 접종 올 11월 이전 완료 목표 제시",
-		"link": "www.yna.co.kr/view/AKR20210618148600073?section=safe/news",
-		"date": "06-18 18:54"
-	},
-	"4d0de7edc013ba937944cf8f1bc006aadd00ce15d27805db8100cd1dc3dece18": {
-		"title": "오후 6시까지 서울 183명 확진…1주 전보다 6명↓",
-		"link": "www.yna.co.kr/view/AKR20210618146700004?section=safe/news",
-		"date": "06-18 18:27"
-	},
-	"21862655827f84c98bba439ca57235912578818e1c11ce94798f44c8a3a3a9ca": {
-		"title": "이탈리아도 EU 그린패스 도입…백신 맞으면 역내 여행 허용",
-		"link": "www.yna.co.kr/view/AKR20210618144300109?section=safe/news",
-		"date": "06-18 18:14"
-	},
-	"1d41f62600cb3e4780a2b40891c50831deecf10e44e0e51424a57d5ca3106320": {
-		"title": "'코로나19 더는 없다' 주장하던 탄자니아, 코백스에 백신 요청",
-		"link": "www.yna.co.kr/view/AKR20210618140600099?section=safe/news",
-		"date": "06-18 18:08"
-	},
-	"7806a11fbe2c3013bf0c6bde3e1274d033d595d072ede48bd05581f6f3223347": {
-		"title": "'집단감염' 김포 어학원 수강생 2명 확진…누적 31명",
-		"link": "www.yna.co.kr/view/AKR20210618140100065?section=safe/news",
-		"date": "06-18 17:57"
-	},
-	"f5a11a11225cee03c9c4b3d72fdb47b002e08a99095ec7723c305b31e67274f7": {
-		"title": "신종 코로나 감염 세포, T세포로 직접 제거하는 길 찾았다",
-		"link": "www.yna.co.kr/view/AKR20210618138900009?section=safe/news",
-		"date": "06-18 17:46"
-	},
-	"f996c09e03a3e53cb22dcba5c4d02fc8045683d29a8d6cb5a3de77b962456c5c": {
-		"title": "\"골프장 예약부터 결제까지 한방에\" 코로나19 비대면 운영시스템",
-		"link": "www.yna.co.kr/view/AKR20210618135900062?section=safe/news",
-		"date": "06-18 17:42"
 	}
 }
