@@ -1,4 +1,39 @@
 {
+	"13a879fcd03a5d401c305a8f6289352453ccedca2f919889daa75667ab26e22b": {
+		"title": "광주 동전 노래방·병원서 확진자 발생…현장 위험도 평가",
+		"link": "www.yna.co.kr/view/AKR20210624126600054?section=safe/news",
+		"date": "06-24 15:25"
+	},
+	"8c4d7c4355ec21392b2ecfd8f992f253fbc569be6e323f91eb71af21b6a0def9": {
+		"title": "당국 \"국내서 화이자 등 mRNA 백신 접종 뒤 심근염 사례 없어\"",
+		"link": "www.yna.co.kr/view/AKR20210624122700530?section=safe/news",
+		"date": "06-24 15:18"
+	},
+	"5eec2a45a85078d01eb2d2863c25d1299c86ee4f56768d72c1d0e3fc19e50691": {
+		"title": "울산서 14명 신규 감염…한 반 중학생 7명 동시 확진(종합)",
+		"link": "www.yna.co.kr/view/AKR20210624035051057?section=safe/news",
+		"date": "06-24 15:12"
+	},
+	"60a7dba82d77d7a012754c20aed5007a2ef025caca223338194dac979fb6d873": {
+		"title": "학교·학원 파고드는 코로나19…성남시 영어학원 관련 25명 확진",
+		"link": "www.yna.co.kr/view/AKR20210624117100530?section=safe/news",
+		"date": "06-24 15:08"
+	},
+	"e1b01c6b3d1d3048524acb08403f4e7800e43203f893635509d16fc469a5703a": {
+		"title": "모바일앱 잔여백신 접종자 약 25만명…40대 46.3%, 30대 42%",
+		"link": "www.yna.co.kr/view/AKR20210624114200530?section=safe/news",
+		"date": "06-24 15:07"
+	},
+	"465a497d8bd37aa672f700779c8ec53aee5100eaf596f1e91c5e3a8637c6e475": {
+		"title": "[속보] 코로나19로 전국 61개교 등교 불발…1주 전보다 105곳 적어",
+		"link": "www.yna.co.kr/view/AKR20210624120300530?section=safe/news",
+		"date": "06-24 15:06"
+	},
+	"8fc2c8741acecd61019c3303d1acb9eb8fcc94ba24e0afa7b1a1930b21b48551": {
+		"title": "[속보] 최근 1주간 전국서 학생 293명 확진…하루 평균 41.9명꼴",
+		"link": "www.yna.co.kr/view/AKR20210624119900530?section=safe/news",
+		"date": "06-24 15:05"
+	},
 	"ebe12d62de0d65de6b3edc00b05167bf967705d97304f1a544ce8ba2b9961cd2": {
 		"title": "[속보] 당국 \"변이 바이러스 대응 위해 '부스터샷'도 고려…계획 검토\"",
 		"link": "www.yna.co.kr/view/AKR20210624113600530?section=safe/news",
@@ -463,40 +498,5 @@
 		"title": "리투아니아, 대만에 백신 지원…중국 \"대만독립은 죽음의 길\"(종합)",
 		"link": "www.yna.co.kr/view/AKR20210623086751009?section=safe/news",
 		"date": "06-23 18:36"
-	},
-	"3e29222be6f098e253fb88e46a9c2bb83b9ae83e3351b8e3422faf43b1b22984": {
-		"title": "삼성디스플레이 \"사내서 임직원 백신접종\"…기업 자체접종 확산",
-		"link": "www.yna.co.kr/view/AKR20210623158700003?section=safe/news",
-		"date": "06-23 18:36"
-	},
-	"e62402ec171023c911f1478cf4a860a952f8b099469043a1b0b4e041ce6f5e92": {
-		"title": "伊 드라기 총리도 백신 교차접종…1차 AZ·2차 화이자",
-		"link": "www.yna.co.kr/view/AKR20210623157200109?section=safe/news",
-		"date": "06-23 18:23"
-	},
-	"c54155aa3de2a4094ec272bdffae5fc5467efa085ab7406228f3bf776de5f13f": {
-		"title": "대전서 교회 집단감염 관련 7명 늘어 총 68명…\"변이 바이러스\"(종합2보)",
-		"link": "www.yna.co.kr/view/AKR20210623039652063?section=safe/news",
-		"date": "06-23 18:18"
-	},
-	"6b97e02a2d2041e1d916a833638d929ba912de30a3a47bf91209f15b9a52a43f": {
-		"title": "헝가리, 금리 0.3%P 인상…\"EU 중 코로나 후 첫 주요 긴축 사례\"",
-		"link": "www.yna.co.kr/view/AKR20210623154800088?section=safe/news",
-		"date": "06-23 18:09"
-	},
-	"4154b226787e69e2c742ac5587c719288e6968eb37100371203fcb005919795b": {
-		"title": "경주 3개 읍·면 거리두기 2단계…문무대왕면서 다수 확진",
-		"link": "www.yna.co.kr/view/AKR20210623154400053?section=safe/news",
-		"date": "06-23 18:06"
-	},
-	"7bbc9bcb72a893904375696d3d289b95b618edce17f07c5188a134a4d7119b76": {
-		"title": "가짜 코로나 검사결과 내고 벌금도 미납…벨기에, 징역 1년 선고",
-		"link": "www.yna.co.kr/view/AKR20210623146400098?section=safe/news",
-		"date": "06-23 17:46"
-	},
-	"a3cfdd88821b5c472cf869601a44a9a9c334d0d0a19471735c896d676aedd7dd": {
-		"title": "부천 체대 입시 시설 집단감염…강사 등 2명 추가 확진",
-		"link": "www.yna.co.kr/view/AKR20210623150000065?section=safe/news",
-		"date": "06-23 17:38"
 	}
 }
