@@ -1,4 +1,14 @@
 {
+	"f42f039d815ba57211f09e325e73ab635f3f481581a97dc78abc1bfc4d3b9398": {
+		"title": "일본 코로나 신규 확진 1천700명대…도쿄 562명",
+		"link": "www.yna.co.kr/view/AKR20210625164300073?section=safe/news",
+		"date": "06-25 21:40"
+	},
+	"951a9777c42deac11b3484182f1039390166e2dcc1adbfab01185c8a3d598201": {
+		"title": "터키, 백신 접종대상 18세 이상 모든 성인으로 확대",
+		"link": "www.yna.co.kr/view/AKR20210625164200108?section=safe/news",
+		"date": "06-25 21:38"
+	},
 	"c980c578935bc1092c465335c66bf87200c77bee7fe9579863c99af724dae4e9": {
 		"title": "오후 9시까지 서울 260명 확진…1주 전보다 63명↑",
 		"link": "www.yna.co.kr/view/AKR20210625149000004?section=safe/news",
@@ -488,15 +498,5 @@
 		"title": "경북서 7명 신규 확진…사흘 만에 한 자릿수",
 		"link": "www.yna.co.kr/view/AKR20210625028500053?section=safe/news",
 		"date": "06-25 08:36"
-	},
-	"1bf871f28009c4777db2d112a10c128bdb362d4b9e9ef4281717f1befa198968": {
-		"title": "[속보] 개별접촉 감염 비중 3주 연속 늘어…39.8%→45.4%→48.5%",
-		"link": "www.yna.co.kr/view/AKR20210625028200530?section=safe/news",
-		"date": "06-25 08:32"
-	},
-	"6c736592e1e939d761064c8c36cb547478196fdae966509f127f6b53e9a5a36a": {
-		"title": "[속보] \"사흘 연속 600명대 확진…어제까지 1천520만명 1차접종 완료\"",
-		"link": "www.yna.co.kr/view/AKR20210625028100530?section=safe/news",
-		"date": "06-25 08:30"
 	}
 }
