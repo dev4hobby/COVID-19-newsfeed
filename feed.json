@@ -1,4 +1,34 @@
 {
+	"d6dc2c2a29c84a0d91d19ac83b87fd3ad294f7356c314a60a6a81b7bc9813d8a": {
+		"title": "서울 토요일 코로나 신규 확진자 올들어 최다",
+		"link": "www.yna.co.kr/view/AKR20210627026300004?section=safe/news",
+		"date": "06-27 12:00"
+	},
+	"56f8b31508193610a984bae67de031679199f70026b9c074367cacfa37ac804d": {
+		"title": "영, 하루 확진 2월초 이후 최다…런던에선 반봉쇄 시위(종합)",
+		"link": "www.yna.co.kr/view/AKR20210627005551009?section=safe/news",
+		"date": "06-27 12:00"
+	},
+	"a62a09cb2eeaee6eb9dc7a0fe41169ec7c008710a3df35d36ffa65b6ba325347": {
+		"title": "제주 코로나19 2명 신규 확진…누적 1천254명",
+		"link": "www.yna.co.kr/view/AKR20210627026000056?section=safe/news",
+		"date": "06-27 11:53"
+	},
+	"b6bda72e59ce7955b82ff2d8096385eec2cf095073bb1c5731e0466f12687ac5": {
+		"title": "의정부 영어학원 관련 1명 추가 확진…누적 23명",
+		"link": "www.yna.co.kr/view/AKR20210627025700060?section=safe/news",
+		"date": "06-27 11:51"
+	},
+	"ff24a84f7d648708fb4b82fafa22df49c74e3ba61c1c9c9e0e981d0fd433e354": {
+		"title": "태국, 코로나 확산에 방콕 이주노동자 숙소 군경 동원 봉쇄",
+		"link": "www.yna.co.kr/view/AKR20210627025000076?section=safe/news",
+		"date": "06-27 11:42"
+	},
+	"c6c69e966e339d45e847bb90cfcd69d51205b71add8e6a6a39247b0b0970dec3": {
+		"title": "인천서 23명 코로나19 확진…3명은 소규모 집단감염 관련",
+		"link": "www.yna.co.kr/view/AKR20210627024800065?section=safe/news",
+		"date": "06-27 11:41"
+	},
 	"6b4ec36a8de7545fa2724f74c3351a745bd27fc0bea0d7d6f7499872c3ad2c5e": {
 		"title": "서울 242명 신규 확진…1주 전보다 77명 많아(종합)",
 		"link": "www.yna.co.kr/view/AKR20210627015751004?section=safe/news",
@@ -468,35 +498,5 @@
 		"title": "임시 선별검사소서 102명 확진…수도권 100명·비수도권 2명",
 		"link": "www.yna.co.kr/view/AKR20210626023300530?section=safe/news",
 		"date": "06-26 09:55"
-	},
-	"6963281961f9deb26f0f6d991f7be453c7fba8a64283850bb71467aa6d20ffea": {
-		"title": "도쿄올림픽 최악 시나리오? '변이 바이러스' 세계 확산 기폭제",
-		"link": "www.yna.co.kr/view/AKR20210626021400073?section=safe/news",
-		"date": "06-26 09:54"
-	},
-	"2ac834f68bba3001ee70c543e0953148861fd676ca96256f43b8e2fcdccd684a": {
-		"title": "[3보] 신규확진 668명, 나흘째 600명대…해외유입 11개월만에 최다",
-		"link": "www.yna.co.kr/view/AKR20210626011000530?section=safe/news",
-		"date": "06-26 09:53"
-	},
-	"b47b6a794fc5efc27d446814a639b75d8f2a1d07dc60c7786caa06f9a3ab3264": {
-		"title": "서울 263명 신규 확진…전날보다 6명 적어",
-		"link": "www.yna.co.kr/view/AKR20210626022900004?section=safe/news",
-		"date": "06-26 09:46"
-	},
-	"6ac6ba25f7a2efb86274ebb8af75924bd675b09b6fe5d57b437bfe0a54553222": {
-		"title": "밤새 청주에서만 3명 확진…충북 누적 3천284명",
-		"link": "www.yna.co.kr/view/AKR20210626022500064?section=safe/news",
-		"date": "06-26 09:46"
-	},
-	"8e9f93672c09796a264fd0543be607c297a4bba10a2e18c1dd1aa3f61ebcb3df": {
-		"title": "[속보] 이틀간 백신 이상반응 4천894건↑…사망 18명↑, 인과성 미확인",
-		"link": "www.yna.co.kr/view/AKR20210626022100530?section=safe/news",
-		"date": "06-26 09:33"
-	},
-	"97c2f4456be95315c6cb8da91df8d79f6a2b1815438da5b7f8e78dc32dd093dc": {
-		"title": "[속보] 서울 263명-경기 188명-강원 35명-부산 31명-울산 22명 등 확진",
-		"link": "www.yna.co.kr/view/AKR20210626018500530?section=safe/news",
-		"date": "06-26 09:32"
 	}
 }
