@@ -1,4 +1,34 @@
 {
+	"418aef6351aa233b0fc7575872d49add893ea4c17f9fb88b78f3258c244d1d03": {
+		"title": "\"접종 예약일은 ○○일입니다\"…AI 음성 로봇이 접종 예약 안내",
+		"link": "www.yna.co.kr/view/AKR20210628153000530?section=safe/news",
+		"date": "06-28 18:24"
+	},
+	"33e0e307a76218efa251fd1f88e75ea9e7734ae324cd9caa7161fc5d267b1925": {
+		"title": "대전서 노래방 종사자 매개 6명 확진…교회 감염도 76명째",
+		"link": "www.yna.co.kr/view/AKR20210628151300063?section=safe/news",
+		"date": "06-28 18:22"
+	},
+	"5a84f5adf66dec083e4aaa3f459c2ec67551cb65c9d260aed99fa1d202c638c2": {
+		"title": "고양 어학원·노래방·방문교사 관련 연쇄 감염 이어져",
+		"link": "www.yna.co.kr/view/AKR20210628151800060?section=safe/news",
+		"date": "06-28 18:20"
+	},
+	"2e4a5bc6a3e85161b72237e6bfc77391818ac51ddff9c780ae0da66f205607a9": {
+		"title": "터키 신규 확진 8개월만에 4천명대로 떨어져…야간 통금 해제",
+		"link": "www.yna.co.kr/view/AKR20210628140100108?section=safe/news",
+		"date": "06-28 18:15"
+	},
+	"5174a1737bfce5aa6d92652393e176f04bac9672bd1ccc4eb0249323a7e0cab8": {
+		"title": "충북 9명 추가 확진…충주서 초등학생 연쇄감염 지속",
+		"link": "www.yna.co.kr/view/AKR20210628149500064?section=safe/news",
+		"date": "06-28 18:12"
+	},
+	"d0cb0945798a751c0cde432706ac55af74f61f5c54e638f64636db2aaf2401a1": {
+		"title": "'中백신 못 믿어' 지적에 난처한 中…\"WHO 인증, 효과 증명\"",
+		"link": "www.yna.co.kr/view/AKR20210628146400083?section=safe/news",
+		"date": "06-28 18:06"
+	},
 	"fbbede09040bc232f5c261db5e4e996e4585e29ce623e94a0a2d3b5cf415747c": {
 		"title": "춘천 대형마트발 확진자 28명으로 늘어…강원 7명 확진",
 		"link": "www.yna.co.kr/view/AKR20210628143400062?section=safe/news",
@@ -468,35 +498,5 @@
 		"title": "상반기 접종률 30% 가능할까…오늘부터 30세 미만 미접종자 사전예약",
 		"link": "www.yna.co.kr/view/AKR20210627036300530?section=safe/news",
 		"date": "06-28 04:55"
-	},
-	"4d0a2d86c2070a7e4a8928177b728de97d1a1b8af01adff026c67cbc6e411ccb": {
-		"title": "휴일 영향에 오늘 500명 안팎…'새 거리두기' 방역 변수 우려도",
-		"link": "www.yna.co.kr/view/AKR20210627047000530?section=safe/news",
-		"date": "06-28 04:35"
-	},
-	"5f6d4657c96bfa3413fba7925b3dd870763ab7bc6987f45c582d0f3061e8328d": {
-		"title": "아스트라제네카, 베타 변이 겨냥 3차 접종 임상 개시",
-		"link": "www.yna.co.kr/view/AKR20210628001600081?section=safe/news",
-		"date": "06-28 03:04"
-	},
-	"e78d34d08f0a79c2b3a0bb10c6dd20951c24fc66360ef1e4dabcc2795baf77a9": {
-		"title": "\"'델타 변이' 확산 인도, 코로나 사망자 대폭 축소했다\"",
-		"link": "www.yna.co.kr/view/AKR20210627060700072?section=safe/news",
-		"date": "06-28 00:00"
-	},
-	"bd9601c520373d6532c5fb8724c084c706ae9aceefe94189924213b616e8c39b": {
-		"title": "경북도 7월 1일부터 사회적 거리두기 1단계 전면 시행",
-		"link": "www.yna.co.kr/view/AKR20210627057900053?section=safe/news",
-		"date": "06-27 22:04"
-	},
-	"6e724e50500d2a979d594097a7a850c1ecb5ffcf0172f11949ae4dd9f3737be8": {
-		"title": "오후 9시까지 462명 확진, 어제보다 78명↓…28일 500명대 예상(종합)",
-		"link": "www.yna.co.kr/view/AKR20210627047651530?section=safe/news",
-		"date": "06-27 21:44"
-	},
-	"cd9327db0da08945f80563baf19a13ca2e3af28699e72ceaf06d5de2285fb3c9": {
-		"title": "덴마크서 '델타 플러스 변이' 첫 감염사례 보고",
-		"link": "www.yna.co.kr/view/AKR20210627057100098?section=safe/news",
-		"date": "06-27 21:40"
 	}
 }
