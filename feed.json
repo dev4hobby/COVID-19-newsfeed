@@ -1,4 +1,64 @@
 {
+	"13626f3d94120c3430a3dace1356665a447b2435c534edf07c2be3c7e3ad558f": {
+		"title": "'원어민 강사발' 감염 확산 벌써 132명…방문한 주점서도 16명 확진",
+		"link": "www.yna.co.kr/view/AKR20210628113300530?section=safe/news",
+		"date": "06-28 15:38"
+	},
+	"69319588567d6a0771f56847ba15c218712117b79531c516937b7679508e4f92": {
+		"title": "\"스티브 잡스 전기 쓴 작가, 일론 머스크와 접촉\"",
+		"link": "www.yna.co.kr/view/AKR20210628113800009?section=safe/news",
+		"date": "06-28 15:35"
+	},
+	"44a545cb6f6ba4b885eb705c090ed6587721a50319ecc7295013c3be0deaa8df": {
+		"title": "전면 등교 앞두고 학교·학원 확진자 잇따라…\"방역 수칙 준수\"",
+		"link": "www.yna.co.kr/view/AKR20210628114600054?section=safe/news",
+		"date": "06-28 15:32"
+	},
+	"b4b699c7db0a3a5dbfd812a4df875f3410a4dd696b483abb3a8ac56034fe28b7": {
+		"title": "거리두기 완화에 재택근무 줄이고 출근 늘리는 대기업들",
+		"link": "www.yna.co.kr/view/AKR20210628106600003?section=safe/news",
+		"date": "06-28 15:18"
+	},
+	"25c94b9be5359fc233f9f3a8e9cd49410abc7481b26a4ba3b8c0e2e56bfa69e4": {
+		"title": "젊은층 감염 확산, 지난주 20대 최다…\"식당-유흥시설서 전파 많아\"",
+		"link": "www.yna.co.kr/view/AKR20210628107900530?section=safe/news",
+		"date": "06-28 15:18"
+	},
+	"2b783344269ac52517f36667be9098eb622886d6346a707eeb7703dd7b9b2a57": {
+		"title": "델타 변이 확산에 대만, 입경자 시설 격리 의무화",
+		"link": "www.yna.co.kr/view/AKR20210628080200009?section=safe/news",
+		"date": "06-28 15:15"
+	},
+	"7a24cde30f30af8c281480272db4562b1e01085c8913d1d41fcf838c0f6220ba": {
+		"title": "당국 \"새 거리두기·예방접종 관계없이 마스크 꼭 써주세요\"",
+		"link": "www.yna.co.kr/view/AKR20210628111700530?section=safe/news",
+		"date": "06-28 15:12"
+	},
+	"e8cc0f63421de7abe2e9b2bfd5193db1f9a1ef865c11e0ea8436a2e74def923f": {
+		"title": "접종 후 확진된 돌파감염 총 44명…인피니트 김성규도 추정사례",
+		"link": "www.yna.co.kr/view/AKR20210628110100530?section=safe/news",
+		"date": "06-28 15:08"
+	},
+	"00001909d0d2a9c0ad71d58fcc4e956b3c04d7d7dce27bae43b5e0ca91e3fccb": {
+		"title": "백신 이상반응 신규 사례중 사망 41건-중증 56건 인과성 미인정",
+		"link": "www.yna.co.kr/view/AKR20210628102200530?section=safe/news",
+		"date": "06-28 15:01"
+	},
+	"2d958fa8c8c249cc157628e01671a9366e2153536f3e865fc73bef4ea6735bb1": {
+		"title": "예방조처 했지만…미 크루즈서 백신 미접종 어린이 2명 확진",
+		"link": "www.yna.co.kr/view/AKR20210628081600009?section=safe/news",
+		"date": "06-28 14:54"
+	},
+	"d7acf616766be93522dff805f0c5d8b03d9158f533c7e29624349aa820a37a59": {
+		"title": "이틀간 백신 이상반응 1천327건↑…사망 2명↑, 인과성 미확인(종합)",
+		"link": "www.yna.co.kr/view/AKR20210628045051530?section=safe/news",
+		"date": "06-28 14:49"
+	},
+	"8405d99dbabdadda52f88621d91eb5f548a23fe9648af4b246dd0b985680859e": {
+		"title": "'델타 변이' 73명↑ 누적 263명…주요 변이 267명↑ 총 2천492명",
+		"link": "www.yna.co.kr/view/AKR20210628102600530?section=safe/news",
+		"date": "06-28 14:48"
+	},
 	"2a7868d539178d6a14dba46f32384a45fb154edf13c31af85cb97e5fa5b872a8": {
 		"title": "울산 초·중·고 전면 등교…\"학생 일상 회복 지원\"",
 		"link": "www.yna.co.kr/view/AKR20210628103700057?section=safe/news",
@@ -438,65 +498,5 @@
 		"title": "부천서 11명 코로나19 확진…2명은 소규모 집단감염 관련",
 		"link": "www.yna.co.kr/view/AKR20210627043500065?section=safe/news",
 		"date": "06-27 17:30"
-	},
-	"6c53488c7e8ece7bd55baf6b4ab0c4a3f72ee48add49ebb2eec33b8ec2a115dd": {
-		"title": "아프리카 최고감염률 나미비아, 코로나 백신 동나 접종 중단",
-		"link": "www.yna.co.kr/view/AKR20210627039900099?section=safe/news",
-		"date": "06-27 16:58"
-	},
-	"c5dcee50e607fe731d7f02fb15b36b1e2c8c29acf8c02649bc203426f14adfe1": {
-		"title": "백신 접종했다면 모임·행사에 제한없이 참석…집회는 안돼",
-		"link": "www.yna.co.kr/view/AKR20210627040100530?section=safe/news",
-		"date": "06-27 16:40"
-	},
-	"c1708ac6c25a3c6c6d560a6333d840c5c47652f6f91970d31823ce2fa94dc5f1": {
-		"title": "호주, 델타변이 확산에 시드니 등 곳곳 봉쇄 돌입",
-		"link": "www.yna.co.kr/view/AKR20210627039400009?section=safe/news",
-		"date": "06-27 16:23"
-	},
-	"48c71b0f13b342272363c51620afb8fed756f3a61d251810655de400da582a9a": {
-		"title": "중국 전문가 \"델타 변이 차단 위해 밀접접촉 기준 강화해야\"",
-		"link": "www.yna.co.kr/view/AKR20210627038300083?section=safe/news",
-		"date": "06-27 16:17"
-	},
-	"2da318f1d8eb33ce9f917e3d9982f07b4f7819e47f0ae9195f90dc589f2f4c57": {
-		"title": "김총리 \"변이바이러스 유행국 추가지정…유입 적극차단\"",
-		"link": "www.yna.co.kr/view/AKR20210627038600001?section=safe/news",
-		"date": "06-27 16:06"
-	},
-	"2f70dcc80e93501766bb45ff7e47d26a10b2da905bf3a3de3ae3640b55804518": {
-		"title": "[영상] '불륜 키스' 딱 걸린 영국 보건장관…사임이유는 거리두기 위반",
-		"link": "www.yna.co.kr/view/AKR20210627037000704?section=safe/news",
-		"date": "06-27 15:43"
-	},
-	"749866f0e8c8a434b31d43efe8971a8ce9de4f91fc6e915550d6097b6b52abee": {
-		"title": "춘천 대형마트발 감염 확산세…나흘간 시민 2만2천여명 검사(종합)",
-		"link": "www.yna.co.kr/view/AKR20210627013551062?section=safe/news",
-		"date": "06-27 15:14"
-	},
-	"60a67b61ac5d8b10c0aed6a2d13bafc2b5dd6f02f51b435d65c6aca6986f713c": {
-		"title": "미 기업들, 출근재개 앞두고 잇따라 백신접종 의무화",
-		"link": "www.yna.co.kr/view/AKR20210627033100009?section=safe/news",
-		"date": "06-27 15:03"
-	},
-	"5073641ccfd03a1a3965b08f1cf5e4c6beb07e1e788d03920b919016294085cd": {
-		"title": "군내 코로나 확진자 3명 추가…2명은 백신 1차 접종자",
-		"link": "www.yna.co.kr/view/AKR20210627032200504?section=safe/news",
-		"date": "06-27 15:02"
-	},
-	"7f1f762550b31e2392526379f5eb684be589e4f8dfec0e1e9e675ca8cb05123e": {
-		"title": "전국 일상감염 지속…학교-과외교습소-체육시설 등 새 집단감염",
-		"link": "www.yna.co.kr/view/AKR20210627032500530?section=safe/news",
-		"date": "06-27 14:53"
-	},
-	"ccfd0010a15836f24cd2bea572be51e055995dfe38ec809875a6ef7bc0454ba7": {
-		"title": "광주 초등·고등학교서 확진자 발생…2천여명 검사·원격수업",
-		"link": "www.yna.co.kr/view/AKR20210627031800054?section=safe/news",
-		"date": "06-27 14:29"
-	},
-	"a9995ea4c86ea73e1c9c347d3f9e0f1a4cc31a88001658076e453d2c089b91da": {
-		"title": "1차접종 총 1천529만216명, 인구대비 29.8%…9%는 접종완료(종합)",
-		"link": "www.yna.co.kr/view/AKR20210627016551530?section=safe/news",
-		"date": "06-27 14:22"
 	}
 }
