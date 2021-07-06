@@ -1,4 +1,44 @@
 {
+	"b0d167a48d7209f3d0793aad96c41cf57e66e47329282c716558fbf82300f4a9": {
+		"title": "[속보] '직계약' 화이자 백신 62만7천회분 내일 국내 도착",
+		"link": "www.yna.co.kr/view/AKR20210706102700530?section=safe/news",
+		"date": "07-06 14:17"
+	},
+	"69d6efe5f0aed3ffe95dce4626724560904ff1c45d1ce4b88c4e2a82034cf604": {
+		"title": "[속보] 유치원 교사 등 13일부터 백신 접종…당초 28일서 보름 앞당겨져",
+		"link": "www.yna.co.kr/view/AKR20210706102500530?section=safe/news",
+		"date": "07-06 14:16"
+	},
+	"80635d1906538ae1df5fd089808cb1e352cd96a952983ff77f0b129f1a2c896c": {
+		"title": "[속보] 주요 변이 감염자 325명↑, 총 2천817명…델타 변이 누적 416명",
+		"link": "www.yna.co.kr/view/AKR20210706101900530?section=safe/news",
+		"date": "07-06 14:13"
+	},
+	"cd96bd50c96bfbca6c1ee8daa3fcd674f3b942e1398537d6c54050bc4c6f70f5": {
+		"title": "23명 확진 인천 초등학교, \"혹시 나도?\"…검사 신청 3천명 몰려",
+		"link": "www.yna.co.kr/view/AKR20210706090200065?section=safe/news",
+		"date": "07-06 14:11"
+	},
+	"37b296e4c084252e8ddb67ec4f52509e22a0d9653b6fa8f07506adb3ac6ff377": {
+		"title": "24시간 영업 허용 후 부산 주점발 감염 확산…보름동안 32명(종합)",
+		"link": "www.yna.co.kr/view/AKR20210706028051051?section=safe/news",
+		"date": "07-06 14:11"
+	},
+	"cd44f5d37cd1dc02ea51aa9ee13cf9363eb9f7310d7ca209c69173834c0740fe": {
+		"title": "[속보] 당국 \"이스라엘과의 백신 교환으로 접종 속도 빨라질 듯\"",
+		"link": "www.yna.co.kr/view/AKR20210706101100530?section=safe/news",
+		"date": "07-06 14:11"
+	},
+	"1437a42f236f6ec303a0cd3edd9d480ec9b9cd95bf54033677c3ee8e94c794fd": {
+		"title": "[속보] \"이스라엘이 보낸 백신은 13일부터 서울·경기 자율접종에 사용\"",
+		"link": "www.yna.co.kr/view/AKR20210706100900530?section=safe/news",
+		"date": "07-06 14:11"
+	},
+	"bc8abb2063949344c0eb407f1c6daef91fe3bd59cad37174fd0acf51b43a9a48": {
+		"title": "이스라엘과 화이자 백신 스와프…내일 오전 70만회분 도착",
+		"link": "www.yna.co.kr/view/AKR20210706100500530?section=safe/news",
+		"date": "07-06 14:10"
+	},
 	"9c6834a3a4ed0f9d3765a9351c40a84a146d41db5c8ca590a50f0bf623bba2a8": {
 		"title": "대전서도 첫 '델타 변이' 코로나19 바이러스 확인",
 		"link": "www.yna.co.kr/view/AKR20210706098200063?section=safe/news",
@@ -458,45 +498,5 @@
 		"title": "경남 16명 신규 확진…학교·마트서 산발 감염 이어져(종합)",
 		"link": "www.yna.co.kr/view/AKR20210705090251052?section=safe/news",
 		"date": "07-05 17:03"
-	},
-	"e1b8d923b5b66ae4d22d7fb03b770d728c99b6429ccc44f4c560bd2398f42237": {
-		"title": "'델타 변이 심상찮은데'…경기교육청 밴드 불러 훈포장 전수식",
-		"link": "www.yna.co.kr/view/AKR20210705130700061?section=safe/news",
-		"date": "07-05 17:01"
-	},
-	"17f85c4c3e3a4800ce4166d212dab2550386687d932086d5f8ff9ef4326b9dae": {
-		"title": "'화이자-모더나 백신 10억회분 생산 협의설'에 정부 \"사실무근\"",
-		"link": "www.yna.co.kr/view/AKR20210705130000530?section=safe/news",
-		"date": "07-05 17:00"
-	},
-	"fcf4eeeb7047ecfd07f4af49fb51c434764d79312ab322a56712f2598cbb41a5": {
-		"title": "[Q&A] \"심근염·심낭염 등 접종 이상반응 드물게 발생…치료도 가능\"",
-		"link": "www.yna.co.kr/view/AKR20210705122400530?section=safe/news",
-		"date": "07-05 16:54"
-	},
-	"a8ae8c56958339f865641c66b3c234d74e5f81150200369027ff7b318e3b9726": {
-		"title": "영국 여왕, 코로나 대처 NHS에 '조지 십자훈장' 수여",
-		"link": "www.yna.co.kr/view/AKR20210705128200009?section=safe/news",
-		"date": "07-05 16:51"
-	},
-	"0461247b1136119c47053f54657306bfe3b238351949a3905c3287f1ba869818": {
-		"title": "델타변이 감염자 총 416명…정은경 \"비수도권도 유행 급확산 가능성\"",
-		"link": "www.yna.co.kr/view/AKR20210705122000530?section=safe/news",
-		"date": "07-05 16:43"
-	},
-	"8715a0feb27d462cbdcc6609652ba6da73d0809da95a51b95cffc1952f0a31b9": {
-		"title": "지와이디·ALP글로벌, 서울대교구에 마스크 55만장 기부",
-		"link": "www.yna.co.kr/view/AKR20210705126100005?section=safe/news",
-		"date": "07-05 16:42"
-	},
-	"3ba2d3960542510e744e182c1db5149478665617a3d8cba0deb4556c6ba32427": {
-		"title": "인니 코로나 병상부족 '비상'…\"호흡곤란 없으면 자가 치료해야\"",
-		"link": "www.yna.co.kr/view/AKR20210705120100104?section=safe/news",
-		"date": "07-05 16:22"
-	},
-	"de9a966ae95e063eb4b65cfc4200c96182eb78741e5006ece877c74978166154": {
-		"title": "부천 노래방 집단감염 관련 3명 추가 확진…누적 9명",
-		"link": "www.yna.co.kr/view/AKR20210705117800065?section=safe/news",
-		"date": "07-05 16:02"
 	}
 }
