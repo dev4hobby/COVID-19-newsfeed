@@ -1,4 +1,44 @@
 {
+	"fdb81322f2a3b946fc769fb64c6c24a62916c8a073ddba1d7534e61e11b781d1": {
+		"title": "'초교 집단감염 발생' 인천 다른 학교서도 학생 확진 잇따라",
+		"link": "www.yna.co.kr/view/AKR20210708122700065?section=safe/news",
+		"date": "07-08 15:11"
+	},
+	"ae15b28101950f6e11be7b37686c66f3cb1c0d91a95af768e66881b5ab3c788a": {
+		"title": "수도권 중심 전방위 확산…감염경로 '조사중' 비율 30.0% 최고치",
+		"link": "www.yna.co.kr/view/AKR20210708118300530?section=safe/news",
+		"date": "07-08 15:10"
+	},
+	"2469f4aaf23e8ce22f013d98eb4c9a16ab6f1f3a3427a7013b43d783ee8da915": {
+		"title": "[속보] 1주간 전국 학생 하루 평균 73명 코로나19 확진",
+		"link": "www.yna.co.kr/view/AKR20210708123000530?section=safe/news",
+		"date": "07-08 15:08"
+	},
+	"432cc8324fa69a8538eb34c7d2b61d29aaab70da168023940bf250f0932aff74": {
+		"title": "천안 자산관리 컨설팅업체 직원 5명 코로나19 연쇄 확진",
+		"link": "www.yna.co.kr/view/AKR20210708117300063?section=safe/news",
+		"date": "07-08 15:00"
+	},
+	"5b9c4135718fd4b17502d7117fdea6acc343057ef5785e1d742157b6bfcab263": {
+		"title": "[속보] \"'숨은 감염자' 비수도권 유입 막을 방안 필요…중대본서 논의\"",
+		"link": "www.yna.co.kr/view/AKR20210708116100530?section=safe/news",
+		"date": "07-08 14:46"
+	},
+	"941be28b95e03516f8076945e47416c3de3e61781f6fdd65b4d7b265c33186f9": {
+		"title": "광주도 확진자 증가세…젊은층·소규모 집단감염 비율 높아",
+		"link": "www.yna.co.kr/view/AKR20210708112900054?section=safe/news",
+		"date": "07-08 14:46"
+	},
+	"4cda3be33c2c3cb994c8d1664d3e7383f5e652bb15cac30048bd77df6433f8db": {
+		"title": "부산 유흥주점 감염 15곳 85명으로 늘어…동선 복잡 추적 난항(종합)",
+		"link": "www.yna.co.kr/view/AKR20210708031151051?section=safe/news",
+		"date": "07-08 14:37"
+	},
+	"9bf6c641adfe2ca7ce22c2c55a8862aa448d60361caff87483014f53cdb08c29": {
+		"title": "[속보] 당국 \"델타 변이에 의해 유행 확산중…8월중 '우점화' 가능성\"",
+		"link": "www.yna.co.kr/view/AKR20210708109900530?section=safe/news",
+		"date": "07-08 14:21"
+	},
 	"87fcc1369ef310c17fcdef7dfc3e9369d3eea8b59eaeb641e71272678496098a": {
 		"title": "인천 영종도 특급 호텔 다녀간 손님 확진",
 		"link": "www.yna.co.kr/view/AKR20210708109100065?section=safe/news",
@@ -458,45 +498,5 @@
 		"title": "어린이집·유치원·초등 저학년 교사 등 오늘부터 접종 사전예약",
 		"link": "www.yna.co.kr/view/AKR20210707163300530?section=safe/news",
 		"date": "07-08 04:33"
-	},
-	"f1f5e76887669cf9aead986381efaa83bc2ae1365911ea4de9b914af1dfd514f": {
-		"title": "이틀연속 1천200명 안팎…서울, 새 거리두기 4단계 근접",
-		"link": "www.yna.co.kr/view/AKR20210707155700530?section=safe/news",
-		"date": "07-08 04:30"
-	},
-	"e568ec295523f5088b37b038217dece5ed8bf6e82897cfc28f990f80ed0a1b1d": {
-		"title": "美극우의원, '접종전략' 나치독일 비유…백악관 \"생명구하는 일\"",
-		"link": "www.yna.co.kr/view/AKR20210708004400071?section=safe/news",
-		"date": "07-08 03:19"
-	},
-	"bb86800e53ea7210ae95f29b8be83223222f0b2af7b651021c1014a4e1ba9cda": {
-		"title": "\"델타 변이 확산 이스라엘에 델타 플러스까지…4건 확인\"",
-		"link": "www.yna.co.kr/view/AKR20210708003400079?section=safe/news",
-		"date": "07-08 03:02"
-	},
-	"a6643d1c5f0d07e9e7130ea06027cae1d512386c811f80e08d69fd7bbeb035f3": {
-		"title": "미 청소년 캠프서 125명 코로나 감염…델타변이에 돌파감염까지",
-		"link": "www.yna.co.kr/view/AKR20210708003300075?section=safe/news",
-		"date": "07-08 02:53"
-	},
-	"cd498234635dfad12477c8a76d2edbd1ec4ff0bdbb721a8c9ddd1e6467ac8869": {
-		"title": "영국 하루 확진자 3만명 넘어…노 마스크·격리면제 계속 논란",
-		"link": "www.yna.co.kr/view/AKR20210708002600085?section=safe/news",
-		"date": "07-08 01:42"
-	},
-	"34c775e9ea89fe1edcfce4f38725a438d4a15b6c73d08cc9118ca6cd12893209": {
-		"title": "WHO 사무총장 \"코로나 사망 400만명 넘어…비극적 이정표\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20210708001451088?section=safe/news",
-		"date": "07-08 01:35"
-	},
-	"1d8b83f3180d64a58d35f349c4646ee7c77c1495a35303639e256ad7f0d67fb1": {
-		"title": "델타 변이에 떠는 지구촌…NYT \"백신이 델타에도 효과있다\"",
-		"link": "www.yna.co.kr/view/AKR20210708002000072?section=safe/news",
-		"date": "07-08 01:14"
-	},
-	"b4ce1d818c6bacbba7f11062635f42c3dcc72785e4ef815d8d09bebb9ea244d3": {
-		"title": "WHO 사무총장 \"코로나19 사망자 400만명 넘어…비극적 이정표\"",
-		"link": "www.yna.co.kr/view/AKR20210708001400088?section=safe/news",
-		"date": "07-08 00:49"
 	}
 }
