@@ -1,4 +1,54 @@
 {
+	"ebd4fd49e6af70e4ed612bc7a4ca9dba0bfc44632f4d4a4a390e46e2bbe9c49a": {
+		"title": "태안군 태안읍사무소 직원 1명 코로나19 확진…건물 폐쇄",
+		"link": "www.yna.co.kr/view/AKR20210713134300063?section=safe/news",
+		"date": "07-13 16:02"
+	},
+	"541a12337155b06ac467622d43d8e407e77c4d071eee7c7382bc0455f0ad762b": {
+		"title": "부천, 음악 동호회 집단감염 관련 2명 포함 36명 확진",
+		"link": "www.yna.co.kr/view/AKR20210713135400065?section=safe/news",
+		"date": "07-13 15:58"
+	},
+	"5deb51502351826a64fbcee14182918afdbde9ac800f4521ffbae096ce51e7a1": {
+		"title": "경남서 '델타형' 9명 포함 변이 바이러스 16명 추가 확인",
+		"link": "www.yna.co.kr/view/AKR20210713135600052?section=safe/news",
+		"date": "07-13 15:58"
+	},
+	"ed49164a01b8842a74cf2f44691c9a14de74d9a7554ee3e61482fc51636f2b53": {
+		"title": "이라크 코로나 치료병원 또 산소탱크 폭발 화재…\"50명 사망\"(종합2보)",
+		"link": "www.yna.co.kr/view/AKR20210713007952071?section=safe/news",
+		"date": "07-13 15:56"
+	},
+	"0414e316190335b3787e2d9884bef48af22d3b81bef6d04411611d20fe2e6f64": {
+		"title": "전국최대 성남 모란5일장 다시 휴장…코로나19 이후 26번째",
+		"link": "www.yna.co.kr/view/AKR20210713132500061?section=safe/news",
+		"date": "07-13 15:53"
+	},
+	"8e65f76f133cff9e4bedd47b41662e996540a089e56ffcf4d5c13b057f72da81": {
+		"title": "\"코로나 위험 감수 서비스에도…미국서 팁 인색해졌다\"",
+		"link": "www.yna.co.kr/view/AKR20210713127700009?section=safe/news",
+		"date": "07-13 15:45"
+	},
+	"32168b642ab0d9968e852f7fad530ad4a6090fd09ff20ae8a3faab2412f981a3": {
+		"title": "'입영예정자 우선접종' 의경·해경·의무소방원은 왜 안 돼?",
+		"link": "www.yna.co.kr/view/AKR20210713119600504?section=safe/news",
+		"date": "07-13 15:43"
+	},
+	"6173edaf60d9f5c90d38728a40ce0fdf269d88b93bf350a41e052d5c2a8a7908": {
+		"title": "화이자 백신 79만9천회분 내일 도착…고3·교직원 접종에 사용",
+		"link": "www.yna.co.kr/view/AKR20210713130400530?section=safe/news",
+		"date": "07-13 15:40"
+	},
+	"f6896391ab6b3a55e2ddeeb403b79e22240db84a030d7a92fecc5de5994dd4f5": {
+		"title": "'델타변이' 일주일새 374명↑ 총 790명…신규 변이 70%가 델타형(종합)",
+		"link": "www.yna.co.kr/view/AKR20210713114851530?section=safe/news",
+		"date": "07-13 15:36"
+	},
+	"9e2d6aae3cf21b67f37d6418c72025599112da849ccb7d91b435cd2fd22fc923": {
+		"title": "청장년층서 동연령대 접촉감염 60%…지인동료 감염고리는 배 가량↑",
+		"link": "www.yna.co.kr/view/AKR20210713118300530?section=safe/news",
+		"date": "07-13 15:13"
+	},
 	"3d9f0e8e5d9fa1e6b43d0af0ef1a59e91ac89a4f375bbbbd24e722bc9bf0bc34": {
 		"title": "수의계약·정보은폐…美조지아주, 코로나 대응 난맥상 내부고발",
 		"link": "www.yna.co.kr/view/AKR20210713094800009?section=safe/news",
@@ -448,55 +498,5 @@
 		"title": "[3보] 신규확진 1천150명, 1주일째 1천명 넘어…비수도권 27.6% 연일 확산",
 		"link": "www.yna.co.kr/view/AKR20210713033800530?section=safe/news",
 		"date": "07-13 09:37"
-	},
-	"69d897e35b8d4ad419ceb8bbccdf9388512d242291a8cbcdcad4f6ebfd0d091a": {
-		"title": "북한, 델타 변이에도 안 뚫렸나…WHO \"누적 3만2천명 모두 음성\"",
-		"link": "www.yna.co.kr/view/AKR20210713044800504?section=safe/news",
-		"date": "07-13 09:36"
-	},
-	"955f5e116cd313e995b32151046260122a4ec5ec396e4f6cd2c6a566fb418971": {
-		"title": "'집단감염' 인천 부평구 초교서 9명 추가 확진…누적 20명",
-		"link": "www.yna.co.kr/view/AKR20210713043800065?section=safe/news",
-		"date": "07-13 09:33"
-	},
-	"3fc84c875beb22a20297c7c278e2295cf94d8b06d48a06e0458d58b19df55d25": {
-		"title": "[속보] 서울 417명-경기 318명-인천 71명-경남 51명-부산 50명 등 확진",
-		"link": "www.yna.co.kr/view/AKR20210713032900530?section=safe/news",
-		"date": "07-13 09:31"
-	},
-	"b3f7b7ab4ce453972d0d24b046dddf69e9a9ebb4758df40a8d94c188e2678d39": {
-		"title": "[속보] 1차접종 3만1천182명↑ 총 1천561만8천302명…인구대비 30.4%",
-		"link": "www.yna.co.kr/view/AKR20210713043900530?section=safe/news",
-		"date": "07-13 09:31"
-	},
-	"b2cc56410899e1e26d9f1ed99363113f5b59b0b5e3f7cbf1eb883718ffc834df": {
-		"title": "[2보] 신규확진 1천150명…1주일째 1천명 넘는 네 자릿수 기록",
-		"link": "www.yna.co.kr/view/AKR20210713032700530?section=safe/news",
-		"date": "07-13 09:30"
-	},
-	"acbbe7b937354c1087672e23a4a194e9fb0dcc3ce7c3346609f826707d85e934": {
-		"title": "[속보] 코로나19로 어제 2명 사망…누적 2천46명",
-		"link": "www.yna.co.kr/view/AKR20210713032800530?section=safe/news",
-		"date": "07-13 09:30"
-	},
-	"356c7ac92c173778c067364422130cdfce8d4d5565521e85a5ca59d45329b4fa": {
-		"title": "[1보] 신규확진 1천150명…1주일째 1천명 넘는 네 자릿수 기록",
-		"link": "www.yna.co.kr/view/AKR20210713032100530?section=safe/news",
-		"date": "07-13 09:30"
-	},
-	"c034955fc1d0bc586d3ac164fc505b980f9b5fd2b4050a901dc3ae4ec81fc771": {
-		"title": "충북서 경찰관 등 8명 추가 확진…누적 3천414명",
-		"link": "www.yna.co.kr/view/AKR20210713021700064?section=safe/news",
-		"date": "07-13 09:23"
-	},
-	"9d62bd76bfd08ad29f834af147f61f499b46c34fb56453536c729ec2a465679d": {
-		"title": "12일에도 대전서 31명 확진…2단계 격상에도 하루 33명꼴",
-		"link": "www.yna.co.kr/view/AKR20210713037400063?section=safe/news",
-		"date": "07-13 09:20"
-	},
-	"60bc5b74b0df158caf79695da59298991edf4ed48e838640dc84e3a5f96d1197": {
-		"title": "수도권 거리두기 4단계에 이른 저녁 TV 시청 증가",
-		"link": "www.yna.co.kr/view/AKR20210713036700005?section=safe/news",
-		"date": "07-13 09:14"
 	}
 }
