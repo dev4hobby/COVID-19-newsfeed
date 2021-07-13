@@ -1,4 +1,39 @@
 {
+	"1b0f99aca28ae30dbf7b5fa6e2dc20a62d9061e99681c8f5a1a8fb43e18a6dbd": {
+		"title": "[속보] 당국 \"국내서 112만명 접종한 얀센 백신의 감염 예방효과 92.8%\"",
+		"link": "www.yna.co.kr/view/AKR20210713111300530?section=safe/news",
+		"date": "07-13 14:21"
+	},
+	"dc6c0af9a8e5b94030791f4fa7524573fcfdf0ab70639f7f81be59580dceaccc": {
+		"title": "[속보] '직계약' 화이자 백신 79만9천회분 내일 국내 도착",
+		"link": "www.yna.co.kr/view/AKR20210713110900530?section=safe/news",
+		"date": "07-13 14:19"
+	},
+	"70353e03d9bd4e60b06c8053295764c73967c5710a0a3d7f94039028f0b5070d": {
+		"title": "[속보] 접종후 확진 '돌파감염' 총 252명…얀센 143명-화이자 59명-AZ 50명",
+		"link": "www.yna.co.kr/view/AKR20210713110700530?section=safe/news",
+		"date": "07-13 14:17"
+	},
+	"e0b68eaaf07e74f96f5e7642269c72df0671a78266a8b83dbad48b36beb83c83": {
+		"title": "[속보] 당국 \"수도권 다중이용시설 방문 많은 사람 접촉시 적극검사 권고\"",
+		"link": "www.yna.co.kr/view/AKR20210713110000530?section=safe/news",
+		"date": "07-13 14:16"
+	},
+	"b95189f0e14c5d05e40d51122ab6a891b338bdacaa19a65ead96b414cb122977": {
+		"title": "중국 '봉쇄 완화·백신'에 6월 수출 32%↑…시장 전망 상회",
+		"link": "www.yna.co.kr/view/AKR20210713095900089?section=safe/news",
+		"date": "07-13 14:16"
+	},
+	"7ffc1c20ce682aec5704589ae8e5d2d327ba1196ef59cde55d3eb6dd259e1575": {
+		"title": "[속보] 당국 \"청장년층, 동일 연령대의 선행 확진자 통한 감염 많아\"",
+		"link": "www.yna.co.kr/view/AKR20210713108800530?section=safe/news",
+		"date": "07-13 14:12"
+	},
+	"db3b7cd7249e31752fcebda8a33c50c1db8b75a60e68e0f53676fb62f5fd54b5": {
+		"title": "[속보] 주요 변이 감염자 536명↑ 총 3천353명…델타 변이 누적 790명",
+		"link": "www.yna.co.kr/view/AKR20210713108500530?section=safe/news",
+		"date": "07-13 14:11"
+	},
 	"c631340c04c20d608e6b3485ca8defd08f64677df1e73ec0be8056c4e54be2c5": {
 		"title": "백화점노조 \"집단감염 예견된 일…영업 잠시 멈춰야\"",
 		"link": "www.yna.co.kr/view/AKR20210713105300004?section=safe/news",
@@ -463,40 +498,5 @@
 		"title": "브라질 경찰, '백신구매 배임 의혹' 대통령 조사 착수",
 		"link": "www.yna.co.kr/view/AKR20210713002800094?section=safe/news",
 		"date": "07-13 02:09"
-	},
-	"9478360fb4ef6222876a65e819d7d9fb335913fa58cb8a0e9eb50f2c74939689": {
-		"title": "WHO 사무총장 \"백신 충분치 않아\"…부스터샷 고려 중단 촉구",
-		"link": "www.yna.co.kr/view/AKR20210713002200088?section=safe/news",
-		"date": "07-13 01:31"
-	},
-	"008a8e0fe0ddbcd7b8def277238cc6d18ec3c62dfdf9a242ddd19ad711ba5500": {
-		"title": "美서 코로나 사망자 재급증 경고…\"최근 일주일 감염 47% 증가\"",
-		"link": "www.yna.co.kr/view/AKR20210713002100071?section=safe/news",
-		"date": "07-13 01:20"
-	},
-	"8aa7a399edf48ce92e46a4786a111409fd791b989a5fb0bcc928028f30b775ac": {
-		"title": "네덜란드 총리, 코로나19 제한조치 완화 뒤 확진자 급증에 사과",
-		"link": "www.yna.co.kr/view/AKR20210713001600098?section=safe/news",
-		"date": "07-13 01:01"
-	},
-	"8ebef400230616eac6c3e433145d282474e090b7499e1e6bceec671a330d403d": {
-		"title": "\"코로나19로 세계 기아 인구 급증…7억6천만명 위기 직면\"",
-		"link": "www.yna.co.kr/view/AKR20210713000500109?section=safe/news",
-		"date": "07-13 00:17"
-	},
-	"3bd989d413f36873f4595f8389d0f966aca7a18b1eb51721b8c56e21e96b6142": {
-		"title": "\"이탈리아 자체 개발 코로나19 백신 2상 임상서 99% 효능\"",
-		"link": "www.yna.co.kr/view/AKR20210712167900109?section=safe/news",
-		"date": "07-12 23:16"
-	},
-	"3d29c1c55021d18ce1e7aa6d5393fd5c29e069b4699227cb01c700d8953b3b8e": {
-		"title": "55~59세 접종예약 첫날 185만명 조기마감…'선착순' 공지안해 혼선(종합2보)",
-		"link": "www.yna.co.kr/view/AKR20210712153651530?section=safe/news",
-		"date": "07-12 23:02"
-	},
-	"fa41d003408f9837e221d521a362c244b4b806a28664eb8d762ab7ad93c487a3": {
-		"title": "이란 하루 코로나19 신규 확진 2만명대…182명 숨져",
-		"link": "www.yna.co.kr/view/AKR20210712166400111?section=safe/news",
-		"date": "07-12 23:02"
 	}
 }
