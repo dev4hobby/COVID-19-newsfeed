@@ -1,4 +1,109 @@
 {
+	"7d44c8d7797dbaca028916109b3fac6e658d9416707edd5837f8353706377a82": {
+		"title": "미 보건당국 \"백신 접종 완료자는 부스터샷 필요 없어\"",
+		"link": "www.yna.co.kr/view/AKR20210713063300009?section=safe/news",
+		"date": "07-13 10:41"
+	},
+	"5ccaf76093e1239ce9a7f974ad9de11954560860c3f361c136267d2a3c099b18": {
+		"title": "미얀마 신규확진 처음 5천명 넘어서…검사자 3명 중 1명꼴 확진",
+		"link": "www.yna.co.kr/view/AKR20210713062900076?section=safe/news",
+		"date": "07-13 10:33"
+	},
+	"da221dc1e85f35064528bde127b617fbc4a2feb1b40981c46cc832163f27854d": {
+		"title": "브라질, 델타 변이 우려에 백신 2차 접종 속속 앞당겨",
+		"link": "www.yna.co.kr/view/AKR20210713030000094?section=safe/news",
+		"date": "07-13 10:29"
+	},
+	"63755935716c6cdfb05cc04d2d8e428bd9f099c39947a70e575fa326f3cf1704": {
+		"title": "파주시, 운정 예방접종센터 추가 설치…14일부터 운영",
+		"link": "www.yna.co.kr/view/AKR20210713060700060?section=safe/news",
+		"date": "07-13 10:25"
+	},
+	"09d4cd19995db3d867b562716cc3feb63768795b7a8b0c29a315f02461416a49": {
+		"title": "브라질 대통령, 백신비리 배임의혹 경찰조사에 \"난 해당 안 돼\"(종합)",
+		"link": "www.yna.co.kr/view/AKR20210713043700094?section=safe/news",
+		"date": "07-13 10:25"
+	},
+	"4606f3298fc02bc94409be196de09b5cbd16156f72598c3292a1cc7da24544ae": {
+		"title": "영월군 15일부터 거리두기 2단계 상향…사적 모임 8명 이하",
+		"link": "www.yna.co.kr/view/AKR20210713060800062?section=safe/news",
+		"date": "07-13 10:25"
+	},
+	"30d798bd174eaae8fb2a896c78070ca7137eda72357934cd79a73a1ebfe1a987": {
+		"title": "[영상] 이라크 코로나 치료 병원 화재 참사…\"최소 50명 사망\"",
+		"link": "www.yna.co.kr/view/AKR20210713058900704?section=safe/news",
+		"date": "07-13 10:21"
+	},
+	"0579d0044964e45c02e9fd69d4e9642df86cc4760c31347c0ff26a07ed16ec54": {
+		"title": "'코로나 급증' 인니·말레이, 경제성장률 전망치 하향",
+		"link": "www.yna.co.kr/view/AKR20210713053600104?section=safe/news",
+		"date": "07-13 10:14"
+	},
+	"76b4bd9050a7edd14974d4947b86e50afe56d15a6ba1048c61801b56cbb12257": {
+		"title": "강릉시, 경포해수욕장 '야간 취식 금지·마스크 착용' 행정명령",
+		"link": "www.yna.co.kr/view/AKR20210713055400062?section=safe/news",
+		"date": "07-13 10:14"
+	},
+	"f3801c6515d6436cc838e38bb203d1f9e94f47b03c47b99ac821cb36e7fe741b": {
+		"title": "국민의힘 정점식, 코로나 확진…경남 의원들 '비상'",
+		"link": "www.yna.co.kr/view/AKR20210713050800001?section=safe/news",
+		"date": "07-13 10:08"
+	},
+	"cadd8776606686b0b7c64a4f18d1bd4362d960faf55c1a8251bf97d9a9441bc8": {
+		"title": "한국코러스 \"러 백신 스푸트니크 라이트 검증용 물량 현지 도착\"",
+		"link": "www.yna.co.kr/view/AKR20210713052800017?section=safe/news",
+		"date": "07-13 10:06"
+	},
+	"cd1b3f419318ec9c9ff8d4f236dae80fb02823195f7444cfda6221fc6a0c3d1a": {
+		"title": "중국 '코로나 방역 1위는 미국'에 발끈…\"사실 아냐\" 맹비난",
+		"link": "www.yna.co.kr/view/AKR20210713047600083?section=safe/news",
+		"date": "07-13 10:00"
+	},
+	"e5fc3e5402eb8dd2049e989f4e342c1a98769512c714db10c8d01aa5c7a167cd": {
+		"title": "경남 밤새 23명 확진…김해 유흥주점발 감염 15명 추가",
+		"link": "www.yna.co.kr/view/AKR20210713052400052?section=safe/news",
+		"date": "07-13 10:00"
+	},
+	"c2a5bc0e76c585105a1325758491e12ff9141e5ce233f01bcc190e07d9a5f026": {
+		"title": "부산 5명 추가 확진…3명은 감염원인 불분명",
+		"link": "www.yna.co.kr/view/AKR20210713030400051?section=safe/news",
+		"date": "07-13 10:00"
+	},
+	"52ae6fd041a320fd3a719e783d1b1f369ff11ba942757fc0619ad16deeb087f2": {
+		"title": "경기, 신규확진 318명…생활치료센터 1곳 추가 개소",
+		"link": "www.yna.co.kr/view/AKR20210713047900061?section=safe/news",
+		"date": "07-13 10:00"
+	},
+	"82a684669c964bd1aac30f15391ea7e2ba2c61c75bce2ffead4d8c5132768050": {
+		"title": "검사자 30%가량 줄었는데…서울 417명 신규 확진",
+		"link": "www.yna.co.kr/view/AKR20210713049300004?section=safe/news",
+		"date": "07-13 09:53"
+	},
+	"1143a121cfc8d3a7c4059eb2188d656ba58dac414ea6668b7559767ecfa48c52": {
+		"title": "호주 '젊은여성' 백신광고 역풍…\"접종 못하는 후순위들 겁주냐\"",
+		"link": "www.yna.co.kr/view/AKR20210713046000009?section=safe/news",
+		"date": "07-13 09:53"
+	},
+	"78b7cf3b762c69f363b401a508efce178942c6693e2e2b6aac0c97b89b873c45": {
+		"title": "임시 선별검사소서 149명 확진…수도권 128명-비수도권 21명",
+		"link": "www.yna.co.kr/view/AKR20210713047800530?section=safe/news",
+		"date": "07-13 09:52"
+	},
+	"f0aaf00f92bd3efdf58acded786278ceea6abb50373d72ce9fe5c28acf023498": {
+		"title": "1차 접종 3만1천182명↑ 총 1천561만8천302명…인구 대비 30.4%",
+		"link": "www.yna.co.kr/view/AKR20210713049000530?section=safe/news",
+		"date": "07-13 09:52"
+	},
+	"4bf6d0e7f9ba1dd92130dad106a907086c43235102a6a61e746fb87abf6514d5": {
+		"title": "태국 '물백신' 논란에 시노백+AZ 교차 접종…백신정책 전격 수정",
+		"link": "www.yna.co.kr/view/AKR20210713047500076?section=safe/news",
+		"date": "07-13 09:49"
+	},
+	"b50ef22d3eeb6c57ae0dc5e198f43a97e2aacedc8250e1e9b8f0d5eca0cbfa66": {
+		"title": "신규확진 1천150명, 1주일째 1천명 넘어…비수도권 27.6% 연일 확산(종합)",
+		"link": "www.yna.co.kr/view/AKR20210713033851530?section=safe/news",
+		"date": "07-13 09:46"
+	},
 	"284c262c3555778b9badbbad11543115345373b19874d6fc6449691d941815a0": {
 		"title": "[3보] 신규확진 1천150명, 1주일째 1천명 넘어…비수도권 27.6% 연일 확산",
 		"link": "www.yna.co.kr/view/AKR20210713033800530?section=safe/news",
@@ -393,110 +498,5 @@
 		"title": "유명희 통상본부장, 코로나 확진자 접촉으로 美 출장 취소",
 		"link": "www.yna.co.kr/view/AKR20210712136000003?section=safe/news",
 		"date": "07-12 16:59"
-	},
-	"6ba8e330b7ba16573550ccdc0ad369c9109b93e69980552f9b0514f1795f793d": {
-		"title": "의령군, 3만명 이하 지자체 중 인구 대비 확진자 수 최저",
-		"link": "www.yna.co.kr/view/AKR20210712134400052?section=safe/news",
-		"date": "07-12 16:58"
-	},
-	"881c06d09783b0d5f063d6df78244d36a15dca980990448b54391977a063191f": {
-		"title": "코로나19 검사받고 대학병원 방문…다인실 면회 중 확진 통보",
-		"link": "www.yna.co.kr/view/AKR20210712133600054?section=safe/news",
-		"date": "07-12 16:53"
-	},
-	"23c39ba657b16e528ad7f62d92e9507d4a41b59e48ff928c0a9ff19fab7432de": {
-		"title": "미얀마 군부, 코로나 사태에 이제서야 \"산소 공장 최대 가동\"",
-		"link": "www.yna.co.kr/view/AKR20210712133400076?section=safe/news",
-		"date": "07-12 16:45"
-	},
-	"f1945a2563a885793d466e96bbb9ff15ba4d9bdae406d672c0a6cf719ed673a2": {
-		"title": "수도권 골프장, 거리두기 4단계 '충격'…예약 취소 급증",
-		"link": "www.yna.co.kr/view/AKR20210712126300007?section=safe/news",
-		"date": "07-12 16:13"
-	},
-	"7aaf3d5b91f8cce4c369caf46cbb9ada4b13f2e2e0f309aa0dbce59193d71768": {
-		"title": "부천서 집단감염 음악 동호회 관련 5명 포함 22명 확진",
-		"link": "www.yna.co.kr/view/AKR20210712127300065?section=safe/news",
-		"date": "07-12 16:17"
-	},
-	"6baccc434c11609c374174dc3d33b22b8575aa06a65207771b487fea5289ec6f": {
-		"title": "'최근 확진자 또 반등' 울산시, 거리두기 단계 상향하나",
-		"link": "www.yna.co.kr/view/AKR20210712125400057?section=safe/news",
-		"date": "07-12 16:17"
-	},
-	"063fec7ea26b08c376a9590ff6af827b009ecd577c53d614382b457c64f46d4a": {
-		"title": "사회적 거리두기 4단계에 수도권 골프장 취소 문의 급증",
-		"link": "www.yna.co.kr/view/AKR20210712126300007?section=safe/news",
-		"date": "07-12 16:13"
-	},
-	"67ec0991b0060bd920c3c070cc364a6fc422c7896c9a15cf2cfd2a9f6ec4ca11": {
-		"title": "방역수칙 위반으로 격리사태 경남도의원들 \"사과드립니다\"",
-		"link": "www.yna.co.kr/view/AKR20210712101800052?section=safe/news",
-		"date": "07-12 14:44"
-	},
-	"17279f15314c4f910415713d8d8e8a25c39a4b1d832e16544e22d002e3cabbcd": {
-		"title": "강원 모든 시군 '거리두기 2단계'…사적 모임 9인 미만(종합)",
-		"link": "www.yna.co.kr/view/AKR20210712095251062?section=safe/news",
-		"date": "07-12 15:50"
-	},
-	"d6da2262873168725449da0321e2bc4be4189377e3a6de0b60cea4142f758b3c": {
-		"title": "천안서 종교시설 관련 코로나19 5명 추가…누적 18명",
-		"link": "www.yna.co.kr/view/AKR20210712119300063?section=safe/news",
-		"date": "07-12 15:48"
-	},
-	"51a596311fd065e113a54055004af64343bff6b8fb85b18edf6845cd9c9b5840": {
-		"title": "광주 보건환경연구원, 코로나19 변이 자체 분석 능력 확보",
-		"link": "www.yna.co.kr/view/AKR20210712118500054?section=safe/news",
-		"date": "07-12 15:45"
-	},
-	"ad14d394c87c6c4c5ae295a3ac9f50b04b777196a82bee91f36013062b3699dc": {
-		"title": "서울시, 백신 우선 접종대상에 콜센터·돌봄 종사자 추가",
-		"link": "www.yna.co.kr/view/AKR20210712119000004?section=safe/news",
-		"date": "07-12 15:44"
-	},
-	"8b56a9f07a24642ff3a22ab2b5549a5cdd02460526e6bf427b379f9d09546300": {
-		"title": "전북 전국단위 체육대회 줄줄이 연기·축소…\"코로나 확산 고려\"",
-		"link": "www.yna.co.kr/view/AKR20210712114500055?section=safe/news",
-		"date": "07-12 15:42"
-	},
-	"ef8745ec3f9ccc7429acc98fc40d3f2182da37186aff936624c3a7e194928df2": {
-		"title": "익산시, 외국인 노동자 '전원 검사' 권고…13명 집단감염 여파",
-		"link": "www.yna.co.kr/view/AKR20210712114400055?section=safe/news",
-		"date": "07-12 15:36"
-	},
-	"97a15ff7e33acffb0553b51354f9e3b09408adbc6bb4c3785b4a2fdbdbf05486": {
-		"title": "전국서 곳곳서 집단감염…감염경로 '조사중' 31.1% 연일 최고치",
-		"link": "www.yna.co.kr/view/AKR20210712110700530?section=safe/news",
-		"date": "07-12 15:23"
-	},
-	"bb7c47e6e608c48efe78b834429e440959241ac27a08fddba76e42687470d320": {
-		"title": "문대통령 \"코로나 고강도 조치 송구…짧고 굵게 끝내겠다\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20210712111800001?section=safe/news",
-		"date": "07-12 15:16"
-	},
-	"98ff252001115aaab805a1f9199b66f8e865c396ff32e009ed19208b2d72fdd0": {
-		"title": "\"코로나 대응\" 뉴질랜드 16일 APEC 원격 정상회의 소집",
-		"link": "www.yna.co.kr/view/AKR20210712102000009?section=safe/news",
-		"date": "07-12 14:36"
-	},
-	"b2faec668de462e68165e400ae8f1c67dbbcbe32bff9f23a4b745ccb681c6082": {
-		"title": "광주서 타지역 모임 관련 소규모 집단감염 지속",
-		"link": "www.yna.co.kr/view/AKR20210712107100054?section=safe/news",
-		"date": "07-12 15:01"
-	},
-	"6aa7d567305933cc8c0294b729d6e5596ff8674de2c4bdb5c299da0a02d3b8b2": {
-		"title": "코로나 4차 대유행에 공연계 프레스콜 등 일정 취소 잇따라",
-		"link": "www.yna.co.kr/view/AKR20210712103100005?section=safe/news",
-		"date": "07-12 14:47"
-	},
-	"fa306683e7f469e1ea85bdbbb88b8404e3f0d3b9f786526d0c08f7cadd72b42c": {
-		"title": "[1보] 문대통령 \"코로나 고강도 조치 송구…짧고 굵게 끝내겠다\"",
-		"link": "www.yna.co.kr/view/AKR20210712104500001?section=safe/news",
-		"date": "07-12 14:46"
-	},
-	"11ee892035ed63ea8630013a75015122017f1cd272af07f3666fc8cb19912995": {
-		"title": "웨이브 대표도 코로나19 확진…방송가도 사례 누적",
-		"link": "www.yna.co.kr/view/AKR20210712102600005?section=safe/news",
-		"date": "07-12 14:45"
 	}
 }
