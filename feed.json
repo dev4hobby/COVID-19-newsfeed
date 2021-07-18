@@ -1,4 +1,39 @@
 {
+	"c09135f6e51646c688475a3f11b8c78f93ab3f3a3842780ab4b7ed4a9da73039": {
+		"title": "[속보] \"부산-광주-대전-세종-제주는 접종완료자도 사적모임 기준에 포함\"",
+		"link": "www.yna.co.kr/view/AKR20210718046600530?section=safe/news",
+		"date": "07-18 17:07"
+	},
+	"bc6c015edd14826501193f5446e6250c1e0063dd98425af29987708b80fc85af": {
+		"title": "파병 청해부대 코로나 집단감염 현실로…군 수송기 2대 급파",
+		"link": "www.yna.co.kr/view/AKR20210718045500504?section=safe/news",
+		"date": "07-18 16:57"
+	},
+	"3c6cacd85f57d60ce9143383d125395509decf96ac72792ec4354f8bf31b3529": {
+		"title": "러 전문가 \"코로나19, 독감보다 바이러스 변이 훨씬 느려\"",
+		"link": "www.yna.co.kr/view/AKR20210718045100080?section=safe/news",
+		"date": "07-18 16:52"
+	},
+	"2b44e17a5e129eb03e9f880cbc0638c41a31ebe8e81e4dfcba73ecfeebd7028e": {
+		"title": "[속보] 정부 \"변이 바이러스 감염도 계속 증가…델타 변이 검출률 34%\"",
+		"link": "www.yna.co.kr/view/AKR20210718045300530?section=safe/news",
+		"date": "07-18 16:51"
+	},
+	"17add6021e7fbc518138da58bc6c0328df72fc1f9036ec934db1e62b0daa4f74": {
+		"title": "[속보] \"지난주 감염 재생산지수 1.32, 3주 연속 1 이상…유행 확산중\"",
+		"link": "www.yna.co.kr/view/AKR20210718044500530?section=safe/news",
+		"date": "07-18 16:45"
+	},
+	"97c1598e68734ff2eb5d6520b4c86ad3f2defcb4f1930b4ad776c5220486fb2d": {
+		"title": "[속보] 정부 \"내일부터 제주는 거리두기 3단계, 강릉은 4단계 적용\"",
+		"link": "www.yna.co.kr/view/AKR20210718044400530?section=safe/news",
+		"date": "07-18 16:44"
+	},
+	"19a01e33c898dda2b6a23cdac076c5eb7911200edbc0c9c79e3e624df3db987f": {
+		"title": "[속보] \"비수도권 중 제주·대전·충청·부산 중심 확진자 증가세 뚜렷\"",
+		"link": "www.yna.co.kr/view/AKR20210718044300530?section=safe/news",
+		"date": "07-18 16:43"
+	},
 	"b4c3b24b0afee54c5ea2aeebfbc5c9060ee2b455a195a63cfcad14d7be99f406": {
 		"title": "김어진 화순전남대병원 감염관리실장, 복지부 장관상 수상",
 		"link": "www.yna.co.kr/view/AKR20210718041500054?section=safe/news",
@@ -463,40 +498,5 @@
 		"title": "'8천명 참석' 민노총 집회 첫 확진…김총리 \"전원 검사받길\"(종합)",
 		"link": "www.yna.co.kr/view/AKR20210717053051001?section=safe/news",
 		"date": "07-17 21:46"
-	},
-	"f8409420b2a00edf434f0c755b549262b7d38ea1255e0db80e34e94a9147285d": {
-		"title": "오후 9시까지 서울 511명 확진…전날보다 34명↓",
-		"link": "www.yna.co.kr/view/AKR20210717055600004?section=safe/news",
-		"date": "07-17 21:30"
-	},
-	"7c891cdfb5451e977586afa44673a6bac040461f4895de605c43fd635c00835c": {
-		"title": "'방역수칙위반' 한화·키움 선수 과태료…거짓 진술 혐의도(종합2보)",
-		"link": "www.yna.co.kr/view/AKR20210717049552007?section=safe/news",
-		"date": "07-17 21:16"
-	},
-	"8c66fa690759f7df2b106241e95b88f1a24c37fcbb0ca64e9265cf65bbdbe803": {
-		"title": "호주서 코로나 감염 알고도 300km 이동한 이삿짐 직원들 기소",
-		"link": "www.yna.co.kr/view/AKR20210717053400093?section=safe/news",
-		"date": "07-17 20:09"
-	},
-	"f93f8c755d97406ec98c674aea49ef818e0caabd09b1504129a734a65f2605f6": {
-		"title": "민주노총 집회 참석자 첫 확진…김총리 \"전원 검사 받아달라\"",
-		"link": "www.yna.co.kr/view/AKR20210717053000001?section=safe/news",
-		"date": "07-17 19:44"
-	},
-	"908fcb1a5e5ce551301f527e935b7519d881e8cd17f980f2c0d9c5592e66e2b6": {
-		"title": "일본 코로나 신규 확진 4천명 육박…수도권 중심 5파 양상(종합)",
-		"link": "www.yna.co.kr/view/AKR20210717047851073?section=safe/news",
-		"date": "07-17 19:20"
-	},
-	"e30d9a5f071dba873dd691b58c55427d6a5b3785c3d7698a3caf3a90f6fa5add": {
-		"title": "인도네시아 확진자 나흘 연속 5만명대…한인 사망자 또 늘어",
-		"link": "www.yna.co.kr/view/AKR20210717051700104?section=safe/news",
-		"date": "07-17 18:54"
-	},
-	"e4bd2008975ced0ca45db19d6c6e1c5817b08c01df50978c0f03632d91516764": {
-		"title": "한화·키움 선수들의 거짓말…방역수칙위반 숨기려 허위 진술(종합)",
-		"link": "www.yna.co.kr/view/AKR20210717049551007?section=safe/news",
-		"date": "07-17 18:43"
 	}
 }
