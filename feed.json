@@ -1,4 +1,34 @@
 {
+	"db99174139e94b472456717a402520ac3d8724040a9f38a90a02197362601db4": {
+		"title": "[속보] \"백신 공급 유동적…50대에 모더나와 함께 화이자 백신도 접종\"",
+		"link": "www.yna.co.kr/view/AKR20210719099700530?section=safe/news",
+		"date": "07-19 14:20"
+	},
+	"edf129f1a656293f3c6d01435483ab1179442a69f271e5bfe38f75b7ceb63ebc": {
+		"title": "전북도 보건연구원, 신종감염병과 신설…감염병 신속 대응",
+		"link": "www.yna.co.kr/view/AKR20210719098900055?section=safe/news",
+		"date": "07-19 14:19"
+	},
+	"c10189c2157cf4727a4ed19552c68bae173b9eac27284284184d4a3f4f74be5f": {
+		"title": "[속보] 7월 접종대상자 81.4% 예약 완료…교육·보육인력 예약률 95.3%",
+		"link": "www.yna.co.kr/view/AKR20210719099100530?section=safe/news",
+		"date": "07-19 14:19"
+	},
+	"4c5472a78207a2f030ce8a5af3cdfd395ff4f8bc1ae73c957087bc155657fc74": {
+		"title": "[올림픽] 남아공축구 밀접 접촉자 21명…22일 일본전 불투명",
+		"link": "www.yna.co.kr/view/AKR20210719098700007?section=safe/news",
+		"date": "07-19 14:17"
+	},
+	"063942a0325b966c06b0ddea65c5eca6f93035d0d53157e91c4a285f24e17f66": {
+		"title": "\"마음 놓고 공부할 수 있어요\"…수능 앞둔 고3 접종 시작(종합)",
+		"link": "www.yna.co.kr/view/AKR20210719083351530?section=safe/news",
+		"date": "07-19 14:08"
+	},
+	"3882300c0a089476df326b90375dc431468f9b35753f9996858d8bd98542e8c8": {
+		"title": "같은 반 고3 수험생 9명 등 고교 집단감염…부산 48명 확진(종합)",
+		"link": "www.yna.co.kr/view/AKR20210719022051051?section=safe/news",
+		"date": "07-19 14:06"
+	},
 	"d506decdc0971cec018b66f936442fe9b7f5e18c90fa62a380522e7b35b2818b": {
 		"title": "광주디자인진흥원, 코로나19 예방접종센터에 주먹밥 전달",
 		"link": "www.yna.co.kr/view/AKR20210719090100054?section=safe/news",
@@ -468,35 +498,5 @@
 		"title": "충북서 확진자 가족 등 4명 추가 감염…누적 3천486명(종합)",
 		"link": "www.yna.co.kr/view/AKR20210718052951064?section=safe/news",
 		"date": "07-18 22:15"
-	},
-	"a79b4acebaba0d001bdbf8b71c2b6e0fb6cf185018a44b7259bf32988c109ed2": {
-		"title": "오후 9시까지 서울 420명 확진…일요일 기준 최다 기록",
-		"link": "www.yna.co.kr/view/AKR20210718062400004?section=safe/news",
-		"date": "07-18 21:41"
-	},
-	"269f1f479bedd70f31fce5f6466954c67ab2f4a3569e95443fb61ab38307d947": {
-		"title": "[올림픽] 개최도시 도쿄 코로나 확진 닷새째 1천명대(종합)",
-		"link": "www.yna.co.kr/view/AKR20210718049551073?section=safe/news",
-		"date": "07-18 21:08"
-	},
-	"34760eaa68c0f06d79ffb7728ead0c7c5a537939f1dfa8e83911735f535cad1c": {
-		"title": "광운대 아이스하키부 18명 집단감염…\"확진 늘 수도\"",
-		"link": "www.yna.co.kr/view/AKR20210718060900004?section=safe/news",
-		"date": "07-18 21:01"
-	},
-	"62f29af4d1b400d6b4bf7eb39163eed745e537e217538c9e1df7ef60fbe5694f": {
-		"title": "[올림픽] 日국민, 코로나 확산 불안에 \"즐길 기분 아냐\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20210718048751073?section=safe/news",
-		"date": "07-18 20:50"
-	},
-	"dc054f00381aa822581b6395d385381387758a02478cc95504173914aa18264c": {
-		"title": "영국 총리, 방역규제 완전해제 앞두고 확진자 접촉해 자가격리(종합)",
-		"link": "www.yna.co.kr/view/AKR20210718049651009?section=safe/news",
-		"date": "07-18 19:07"
-	},
-	"b69a7658a7b15d8f36fa54e824cbc599b60136698613c6c30e926354b69c2e2a": {
-		"title": "오후 6시까지 전국서 1천42명 확진…어제보다 19명 적어",
-		"link": "www.yna.co.kr/view/AKR20210718053800530?section=safe/news",
-		"date": "07-18 19:01"
 	}
 }
