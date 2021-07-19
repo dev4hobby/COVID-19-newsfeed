@@ -1,4 +1,84 @@
 {
+	"79e18ee1487aac6db6da8bd272d30d4cb48de7a135446bcea92d138da9680ada": {
+		"title": "[속보] 서울 419명-경기 341명-대전 83명-경남 74명-인천 67명 등 확진",
+		"link": "www.yna.co.kr/view/AKR20210719021100530?section=safe/news",
+		"date": "07-19 09:32"
+	},
+	"eadf1a945fa76ac5e21f70cbd1a943c0742dffb56902acf29004e601aaa14ca2": {
+		"title": "[2보] 신규확진 1천252명, 일요일 기준 최다…전국 확산세 지속",
+		"link": "www.yna.co.kr/view/AKR20210719020900530?section=safe/news",
+		"date": "07-19 09:31"
+	},
+	"b6926273f0af9feb463335e635dd06e3f61da65104a74e042823ed8746655c0c": {
+		"title": "[속보] 코로나19로 어제 1명 사망…국내 누적 2천58명",
+		"link": "www.yna.co.kr/view/AKR20210719021000530?section=safe/news",
+		"date": "07-19 09:31"
+	},
+	"a5cd877341dab3a7a941b6c56fb34261e50f062e04a605f9851a49782666d99f": {
+		"title": "[1보] 신규확진 1천252명, 일요일 기준 최다…전국 확산세 지속",
+		"link": "www.yna.co.kr/view/AKR20210719020800530?section=safe/news",
+		"date": "07-19 09:31"
+	},
+	"bbac7225a617a1820d88ea9e0e94239160da7b17c07b57250e1b87741e7839d9": {
+		"title": "광주 14명·전남 16명 확진…지역도 '5인이상 모임금지'(종합)",
+		"link": "www.yna.co.kr/view/AKR20210719023951054?section=safe/news",
+		"date": "07-19 09:30"
+	},
+	"36f10103364f659cbf70dfca01cf1b72b04e2a21f04046546db7ab469d5e14d8": {
+		"title": "파병사상 초유 집단감염…'늑장대응·방역무지'가 화 불렀다",
+		"link": "www.yna.co.kr/view/AKR20210719031800504?section=safe/news",
+		"date": "07-19 09:27"
+	},
+	"46b17df14f2e21c0187f435249b0553d989097a6bcc813723a26fbad6c0c52a3": {
+		"title": "청해부대 승조원 82% 코로나19 양성 확인…사상 초유의 집단감염(종합)",
+		"link": "www.yna.co.kr/view/AKR20210719028151504?section=safe/news",
+		"date": "07-19 09:22"
+	},
+	"f080236541ca1f18753e3614a2d8c47079e1c7306db70346121798413d0b6815": {
+		"title": "연천 어린이집서 원생·교사·가족 등 12명 확진",
+		"link": "www.yna.co.kr/view/AKR20210719029800060?section=safe/news",
+		"date": "07-19 09:20"
+	},
+	"b37b49e595d12bd04a8c604e9f3a6fc417b5e41ee99d3578e721b749f206efba": {
+		"title": "\"코로나 확산 방지\" 법무부, 외국인 9만명 체류 연장",
+		"link": "www.yna.co.kr/view/AKR20210719033800004?section=safe/news",
+		"date": "07-19 09:20"
+	},
+	"9e0adb359fcd5a58890185160219d1df7e431c7b2c29ad17d6672bdc2ab96ceb": {
+		"title": "SKT \"코로나19 증상 모니터링 '누구콜' 300만콜 돌파\"",
+		"link": "www.yna.co.kr/view/AKR20210719034300017?section=safe/news",
+		"date": "07-19 09:20"
+	},
+	"18058bae5b8147174ce400803eae07d8d4ae5e159a0bafc138be211eba1dff0a": {
+		"title": "\"천식환자가 코로나19 감염 시 더 위험하다? 사실 아니다\"",
+		"link": "www.yna.co.kr/view/AKR20210716139700017?section=safe/news",
+		"date": "07-19 09:00"
+	},
+	"d3d4c0f05d7b9fd1b71f448a6b9d83b1cbee7f57a45c6465d86e5c102dbbbf75": {
+		"title": "인천 부평구보건소 직원 1명 확진…17명 자가격리",
+		"link": "www.yna.co.kr/view/AKR20210719028200065?section=safe/news",
+		"date": "07-19 08:58"
+	},
+	"0138ee108bc1df326314f8bfc21c6cc403dec1f99d90fc3af082bd44f1115ee6": {
+		"title": "[2보] 청해부대 301명 중 247명 코로나19 확진…전체 82% 감염",
+		"link": "www.yna.co.kr/view/AKR20210719028100504?section=safe/news",
+		"date": "07-19 08:54"
+	},
+	"0f670492e2a0422fd54001253351e7fd6b72ba2fa7ffe5097a7d6a17b2164e91": {
+		"title": "광주 14명·전남 16명 확진…지역도 '5인이상 모임금지'",
+		"link": "www.yna.co.kr/view/AKR20210719023900054?section=safe/news",
+		"date": "07-19 08:47"
+	},
+	"bbdac71831db8bb420faaae0d95e807a51cd1e66ab912f023259a64bf5f18b4c": {
+		"title": "[속보] 단양 소백산국립공원사무소 집단감염…최소 18명",
+		"link": "www.yna.co.kr/view/AKR20210719026100064?section=safe/news",
+		"date": "07-19 08:46"
+	},
+	"b9f1a1e719464e68c3aef9d4e78158f4d94ae3e0cb51c787476b13f72109b92f": {
+		"title": "브라질 델타 변이 확산 심상치 않아…리우주에서만 74명 보고",
+		"link": "www.yna.co.kr/view/AKR20210719021800094?section=safe/news",
+		"date": "07-19 08:40"
+	},
 	"c8e7cc06698aa09fe87ac36a46090a674a79afbe37f86738963738e97b81d64e": {
 		"title": "[연통TV] 코로나 델타 변이 위협에도 北이 백신 고르는 이유",
 		"link": "www.yna.co.kr/view/AKR20210716107700888?section=safe/news",
@@ -418,85 +498,5 @@
 		"title": "[올림픽] 남아공 럭비팀 관계자 1명, 코로나 양성…늘어나는 확진자",
 		"link": "www.yna.co.kr/view/AKR20210718016700007?section=safe/news",
 		"date": "07-18 09:57"
-	},
-	"4059bda2e7b2f00b5d15957776f15b26bb09b18d082ebc788dd00883e3d3645f": {
-		"title": "서울 523명 신규 확진…전날보다 39명 적어(종합)",
-		"link": "www.yna.co.kr/view/AKR20210718015151004?section=safe/news",
-		"date": "07-18 11:00"
-	},
-	"34555e9b42a9a0921ca3bce3a2c8e5755bc27f274809a470670ed82e1d045bc7": {
-		"title": "[올림픽] 남아공·체코 대표팀 확진자 발생…코로나로 멍든 올림픽(종합)",
-		"link": "www.yna.co.kr/view/AKR20210718016751007?section=safe/news",
-		"date": "07-18 10:59"
-	},
-	"32906a167454b65a26e551f00f598ddd8e00c47f50d169f0919daa695d91d45a": {
-		"title": "죽은 원숭이 해부한 중국 수의사 바이러스 감염 사망",
-		"link": "www.yna.co.kr/view/AKR20210718022300083?section=safe/news",
-		"date": "07-18 10:54"
-	},
-	"9f32afb88b5d57a848b2488f69879f63aa776694b81a84c5deb355c462f711b7": {
-		"title": "해외파병 해군 청해부대서 대규모 '집단감염'…61명 추가 확진(종합2보)",
-		"link": "www.yna.co.kr/view/AKR20210718012454504?section=safe/news",
-		"date": "07-18 10:42"
-	},
-	"7b6a0f13f5db9e40ca51f5e3247b68a9f5a6903a04094de89cebf05c1ca74277": {
-		"title": "파우치 \"코로나, 자연 기원설이 여전히 가능성 높다고 생각\"",
-		"link": "www.yna.co.kr/view/AKR20210718019600091?section=safe/news",
-		"date": "07-18 10:38"
-	},
-	"11d1c25d4d0d8fab060c7ae31d393509483278ab889aa16a44b6cd3b01832a0a": {
-		"title": "대구 42명 신규 확진…대부분 기존 확진자 접촉 후 감염(종합)",
-		"link": "www.yna.co.kr/view/AKR20210718009551053?section=safe/news",
-		"date": "07-18 10:27"
-	},
-	"61db6ee1431899c20cefe4ff81381a60b1c5a70bbe6e994b3efac87e93a6377e": {
-		"title": "[올림픽] 외신 \"유승민, IOC 위원 중 첫 코로나 확진 사례\"",
-		"link": "www.yna.co.kr/view/AKR20210718019700007?section=safe/news",
-		"date": "07-18 10:26"
-	},
-	"fd267db01dda27bc8dd07e8fa9cb2bee1b1157b15a914e208d67d5f945d9021c": {
-		"title": "베트남 코로나 확산일로…신규 확진 사흘 연속 3천명대",
-		"link": "www.yna.co.kr/view/AKR20210718019200084?section=safe/news",
-		"date": "07-18 10:21"
-	},
-	"299b0620a6f8789ee6b36f635b3dc33c007b45ba10afbf01c04fc01b5e4fe06d": {
-		"title": "인천서 방역수칙 어긴 업소 322곳 적발…1천420명 입건",
-		"link": "www.yna.co.kr/view/AKR20210718018000065?section=safe/news",
-		"date": "07-18 10:12"
-	},
-	"7d6bf1e20a1521a0552e89f45f9c22fd36ce6c56f9442f528b63da9ad31afc2b": {
-		"title": "해외파병 해군 청해부대서 대규모 '집단감염'…61명 추가 확진(종합)",
-		"link": "www.yna.co.kr/view/AKR20210718012453504?section=safe/news",
-		"date": "07-18 10:11"
-	},
-	"c7d562c785707e69481d374788e02835eba888c2c8b8eece9f4ac47e7dfcb8de": {
-		"title": "백신 1차접종 3만4천384명↑ 총 1천613만678명…인구대비 31.4%",
-		"link": "www.yna.co.kr/view/AKR20210718017000530?section=safe/news",
-		"date": "07-18 10:10"
-	},
-	"d6c245985ef9b946513e045ea240fb87ca561e593153511f827d271d6e2c8b56": {
-		"title": "경남 코로나19 27명 확진…5개 시·군 산발적 감염 이어져",
-		"link": "www.yna.co.kr/view/AKR20210718017900052?section=safe/news",
-		"date": "07-18 10:09"
-	},
-	"fe0120bcb497f58a2ba7a64595532009f7c6eb44faf9cbf7f9343c04bec09481": {
-		"title": "내일부터 청소년 첫 접종…고3·교직원 63만명 화이자 1차 접종(종합)",
-		"link": "www.yna.co.kr/view/AKR20210717042451530?section=safe/news",
-		"date": "07-18 10:09"
-	},
-	"ebbdcdfc42dffae0b504a631c8420a000a411c65d8650ce53a735c0bb5563f00": {
-		"title": "민주노총 \"확진자들, 집회서 감염확률 낮아…사실 왜곡\"",
-		"link": "www.yna.co.kr/view/AKR20210718016200004?section=safe/news",
-		"date": "07-18 10:07"
-	},
-	"c223fb472c609df76cd6f2346ee359caceae5a0476d8e9e0f565b9d3ac184e60": {
-		"title": "신규확진 1천454명 '주말 최다'…비수도권 첫 30%대, '5인모임' 금지(종합)",
-		"link": "www.yna.co.kr/view/AKR20210718011951530?section=safe/news",
-		"date": "07-18 10:02"
-	},
-	"0a383c0519a42da3042748805d2c2959d750c6601d1206d44bd1edad4f637610": {
-		"title": "부산, 확진자 접촉·해외 입국·감염원 불상 등 7명 추가 확진",
-		"link": "www.yna.co.kr/view/AKR20210718017300051?section=safe/news",
-		"date": "07-18 10:02"
 	}
 }
