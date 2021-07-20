@@ -1,4 +1,39 @@
 {
+	"6a043a3352a4c4b02f28679180388d312db7490f8a16c23e7ba3711848ea6341": {
+		"title": "코로나 재확산에 미 기업들도 대응 나서",
+		"link": "www.yna.co.kr/view/AKR20210720132900009?section=safe/news",
+		"date": "07-20 16:08"
+	},
+	"de8b62fc1cbd963406b4f0befad981d32ce81fcd44613cc273030ff306b9cacd": {
+		"title": "WHO \"페루서 첫 확인 '람다 변이' 30여개국 확산\"",
+		"link": "www.yna.co.kr/view/AKR20210720134200088?section=safe/news",
+		"date": "07-20 16:05"
+	},
+	"b721354a0e72b9e9bf4c5d1aab9eb1d4e16f4cfefb66e939c6d2209df21b9c51": {
+		"title": "\"부스터샷 결정하면 즉시 제공…이스라엘-화이자 비밀 협약\"",
+		"link": "www.yna.co.kr/view/AKR20210720132600079?section=safe/news",
+		"date": "07-20 15:59"
+	},
+	"d8fef968161fd1fbb1d154f1c80d9338c41f164ea66f3b0c879849745e9bd5a1": {
+		"title": "당국 \"4차 대유행 지속…델타 변이 확산에 상황 악화할 수도\"(종합)",
+		"link": "www.yna.co.kr/view/AKR20210720088451530?section=safe/news",
+		"date": "07-20 15:51"
+	},
+	"cd6e92d86c54465ce3c8bf53fc33c13555017702c5640169db071f69a9d07d32": {
+		"title": "당국 \"현재는 접종 필요한 파병부대 없어…향후 백신 반출절차 검토\"",
+		"link": "www.yna.co.kr/view/AKR20210720132000530?section=safe/news",
+		"date": "07-20 15:51"
+	},
+	"4cf571f526aaab8af7c951ac2c007bb7f5f60e6048ab82bf154dfccceec690c4": {
+		"title": "세종시 22일부터 거리두기 2단계…식당·카페 자정까지만",
+		"link": "www.yna.co.kr/view/AKR20210720130000063?section=safe/news",
+		"date": "07-20 15:48"
+	},
+	"21bfa33770015ad11c14419ea50e4ea6f83052b8c7131aff7a5b32380fc41629": {
+		"title": "코로나19 치명률 2.70%→0.24%…젊은층 위중증·사망자는 2배↑",
+		"link": "www.yna.co.kr/view/AKR20210720131200530?section=safe/news",
+		"date": "07-20 15:42"
+	},
 	"9db7fad7869935847a0571895d8cc50286cf26c60f331aa5465a4e95bf8c527a": {
 		"title": "'코로나 비상' 방송가, 정부 검사 권고에 \"큰 변화는 없을 듯\"(종합)",
 		"link": "www.yna.co.kr/view/AKR20210720102051005?section=safe/news",
@@ -463,40 +498,5 @@
 		"title": "여수서 유치원생 등 14명 감염…선별진료소 설치, 전수조사",
 		"link": "www.yna.co.kr/view/AKR20210720049700054?section=safe/news",
 		"date": "07-20 09:46"
-	},
-	"3c783d46a71b18f8031fee71a01f8644bd7e788b1442ac971b240c4539b3b053": {
-		"title": "임시 선별검사소서 217명 확진…수도권 210명-비수도권 7명",
-		"link": "www.yna.co.kr/view/AKR20210720034500530?section=safe/news",
-		"date": "07-20 09:42"
-	},
-	"ce48065a3a00e726e717c97c46573778aff4ee6a16e91fc310eba60bade03702": {
-		"title": "[3보] 신규확진 1천278명, 2주째 네 자릿수…비수도권 사흘연속 30%대",
-		"link": "www.yna.co.kr/view/AKR20210720024700530?section=safe/news",
-		"date": "07-20 09:39"
-	},
-	"b0687e061bf970ad4a5d871056eca44ac1dad3d309456effc604f088094374be": {
-		"title": "[올림픽] 멕시코 야구대표팀, 출국 사흘 앞두고 투수 2명 확진",
-		"link": "www.yna.co.kr/view/AKR20210720046000007?section=safe/news",
-		"date": "07-20 09:33"
-	},
-	"636180d07bb1b1023de554cdf4459139202306c7819204d6f1d32cd8230f0e49": {
-		"title": "[속보] 1차접종 15만8천538명↑ 총 1천629만1천956명…인구대비 31.7%",
-		"link": "www.yna.co.kr/view/AKR20210720046300530?section=safe/news",
-		"date": "07-20 09:33"
-	},
-	"e74dec5d72f7be6c70c17381a053259f8a8060ea4ba548243e93ad683fdbed78": {
-		"title": "[속보] 서울 394명-경기 383명-대전 73명-인천 71명-경남 57명 등 확진",
-		"link": "www.yna.co.kr/view/AKR20210720045500530?section=safe/news",
-		"date": "07-20 09:32"
-	},
-	"dd19e2f8417a7441a1cdcacb4af91317af966136a41f9c772ef36fcc6bcb65d3": {
-		"title": "울산서 어린이집 관련 1명 포함 4명 확진…누적 3천42명",
-		"link": "www.yna.co.kr/view/AKR20210720045400057?section=safe/news",
-		"date": "07-20 09:31"
-	},
-	"3a1547fed7b8890377c87e802fa7eb431bdab46a360b9fbaf5a6282d14d05bb3": {
-		"title": "[2보] 코로나19 신규확진 1천278명…2주째 네 자릿수 기록",
-		"link": "www.yna.co.kr/view/AKR20210720020700530?section=safe/news",
-		"date": "07-20 09:30"
 	}
 }
