@@ -1,4 +1,64 @@
 {
+	"ce02b515ab9a97d9d0340be0763c976f18760da3ca49f788b7fb3df4b7c22adb": {
+		"title": "코로나19 확산세 지속…직장-체육시설-게스트하우스 등 새 집단감염",
+		"link": "www.yna.co.kr/view/AKR20210727118200530?section=safe/news",
+		"date": "07-27 15:07"
+	},
+	"6f8b67ceca486604c62ab726b5e55f00990232e80732060c6ddf5ba9f476d5b5": {
+		"title": "[속보] 5일간 전국서 학생 585명 코로나19 확진",
+		"link": "www.yna.co.kr/view/AKR20210727122000530?section=safe/news",
+		"date": "07-27 15:07"
+	},
+	"1040a44334b1d17905ef1d52302e54e5d11829e6809eb16249319690bf67ca90": {
+		"title": "접종후 확진 '돌파감염' 추정 사흘새 132명↑ 총 779명…5명 위중증",
+		"link": "www.yna.co.kr/view/AKR20210727116000530?section=safe/news",
+		"date": "07-27 14:56"
+	},
+	"08942072cbb5a57f6181593e0e0d20a46b89ad90b73779fc635a82bf35fd16f7": {
+		"title": "경남 지난주 하루 평균 확진자 90.7명…코로나 이후 '최다'",
+		"link": "www.yna.co.kr/view/AKR20210727114300052?section=safe/news",
+		"date": "07-27 14:55"
+	},
+	"7e22dc4a82ed394098a1913c9df13f7ba0d51cdec29d733e5072cda62ad84b4e": {
+		"title": "서울성모병원 간호사 코로나19 확진…\"접촉자 조사 중\"",
+		"link": "www.yna.co.kr/view/AKR20210727117000017?section=safe/news",
+		"date": "07-27 14:49"
+	},
+	"ed7d72275dffa48b203a96a9c5c2ddacdca544d667fecfa78f3c83d843330102": {
+		"title": "울산서 자가격리 중 양성 3명 포함 6명 확진…누적 3천143명(종합)",
+		"link": "www.yna.co.kr/view/AKR20210727031951057?section=safe/news",
+		"date": "07-27 14:46"
+	},
+	"052ea681f6e656a493485e9781f410ec0d6669f1db50b50b0a10b5792a4d2367": {
+		"title": "[속보] 55∼59세 백신접종 첫날 어제 47만2천8명 접종…대상자의 13.3%",
+		"link": "www.yna.co.kr/view/AKR20210727115400530?section=safe/news",
+		"date": "07-27 14:41"
+	},
+	"d6ffea4df8a508dd172fc9384345151333971777c72dde97430c7a18b60d3ade": {
+		"title": "정부세종청사 정부청사관리본부 직원 1명 코로나19 확진",
+		"link": "www.yna.co.kr/view/AKR20210727114600530?section=safe/news",
+		"date": "07-27 14:39"
+	},
+	"44a663f3bd3fea848d081ba0d8330f7bf5700a6071c2db62966f4c7749b2939f": {
+		"title": "1주간 델타변이 1천242명↑, 신규 변이의 88%…\"국내서도 우세종\"",
+		"link": "www.yna.co.kr/view/AKR20210727113600530?section=safe/news",
+		"date": "07-27 14:39"
+	},
+	"feda4127bd11959bf16a87d0e7a7e3f524bcda1aa374b884df3a175dc45fc707": {
+		"title": "[속보] \"모더나 생산차질은 한국뿐 아니라 여러나라에 공통적으로 영향\"",
+		"link": "www.yna.co.kr/view/AKR20210727115000530?section=safe/news",
+		"date": "07-27 14:38"
+	},
+	"52ab0a86a8a1d04c8da532f11b00234f0e74d0baf981664347b00c461a458a65": {
+		"title": "당국 \"모더나 백신 생산차질…7월 말 공급 예정분 8월에 공급\"",
+		"link": "www.yna.co.kr/view/AKR20210727113000530?section=safe/news",
+		"date": "07-27 14:38"
+	},
+	"f556ef9494b58852bcf5532a4250692ff896c2808e6372c3c2f1a9750fcd7b15": {
+		"title": "강원 델타 변이 검출률 보름 만에 '9%→76%'로 급증…확진자도↑",
+		"link": "www.yna.co.kr/view/AKR20210727113900062?section=safe/news",
+		"date": "07-27 14:38"
+	},
 	"7d78a2e9997fdccfebd6bef5573c2df4063db52e1ed61ff173d2dab25ea6d01a": {
 		"title": "'코로나19 극복'…와이에스개발, 고양시에 성금 1억원",
 		"link": "www.yna.co.kr/view/AKR20210727111900060?section=safe/news",
@@ -438,65 +498,5 @@
 		"title": "방중 셔먼, '인권탄압·코로나기원' 압박…북한문제 협력도 강조(종합)",
 		"link": "www.yna.co.kr/view/AKR20210726171751071?section=safe/news",
 		"date": "07-27 00:02"
-	},
-	"58b15b173749e3c6f034665ac4ccc2b95e68ea68315b7e7c248187897b387c99": {
-		"title": "모더나 백신 공급 차질…정부 \"'생산 문제' 있다고 통보해 와\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20210726127751530?section=safe/news",
-		"date": "07-26 18:45"
-	},
-	"fbf2ccb291ccb3d3fdbb6310e2c12bf5ac2015a78a1fb81c9d3fdf1835023f73": {
-		"title": "이란 코로나 신규 확진 3만명 넘어…일주일 만에 또 최다치 경신",
-		"link": "www.yna.co.kr/view/AKR20210726172400111?section=safe/news",
-		"date": "07-26 22:42"
-	},
-	"16d93fcaefa110bf09de96c83eec6ccd42f7fdf1678c5ef88e34ee0fd8544595": {
-		"title": "방중 셔먼, '인권탄압·코로나기원' 압박…북한문제 협력도 강조",
-		"link": "www.yna.co.kr/view/AKR20210726171700071?section=safe/news",
-		"date": "07-26 22:12"
-	},
-	"f32277f70b519d0e16e064e4f7f6ca98ae73cfdc7abca9b190a4f8c47dbb4087": {
-		"title": "영국 신규 확진자 5일째 감소…\"규제해제 영향 아직 반영 안돼\"",
-		"link": "www.yna.co.kr/view/AKR20210726167900085?section=safe/news",
-		"date": "07-26 22:02"
-	},
-	"e9498126758696abcb8c5b7cb9ad2414e895d622294a2a1a7c0a2a6c976f0430": {
-		"title": "오후 9시까지 서울 330명 확진…1주 전보다 42명↓",
-		"link": "www.yna.co.kr/view/AKR20210726156451004?section=safe/news",
-		"date": "07-26 21:03"
-	},
-	"594a74cca50f39a335d969129fd8cfe7e33512ff77b801a7608c8340feaa5349": {
-		"title": "프랑스 백신 접종자 4천만명 돌파…인구 10명 중 6명꼴",
-		"link": "www.yna.co.kr/view/AKR20210726165000009?section=safe/news",
-		"date": "07-26 20:44"
-	},
-	"25efe53a51a14c56897a5839acfc26a9085d21fb3a583975cbf8b64f38798ee5": {
-		"title": "올림픽 개막 나흘째 日, 코로나 신규 확진 폭증세",
-		"link": "www.yna.co.kr/view/AKR20210726162100073?section=safe/news",
-		"date": "07-26 19:43"
-	},
-	"5c1bc2c40a4824e236ba396670f13568603ba1a8b5066342c495cf6147613fab": {
-		"title": "울산 코로나19 확진자 3명 추가 발생…누적 3천137명(종합)",
-		"link": "www.yna.co.kr/view/AKR20210726111651057?section=safe/news",
-		"date": "07-26 19:13"
-	},
-	"9a754f8cac700332f0f820092b64c8637878d6883d24384350d8fca4bdd0913a": {
-		"title": "한류스타 지창욱도 코로나19 확진…방송가 코로나 확산 지속(종합)",
-		"link": "www.yna.co.kr/view/AKR20210726159800005?section=safe/news",
-		"date": "07-26 19:11"
-	},
-	"b30fe67f9d4a7febc5f835ba9714d575b16988fff255b8f68355d373b487181c": {
-		"title": "모더나 백신 공급 차질빚나…정부 \"'생산 문제' 있다고 통보 와\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20210726127751530?section=safe/news",
-		"date": "07-26 18:45"
-	},
-	"81e72068b66e1387d31cca22c86dcbb878fa5ab2a7bca2cf3c48748e319a0733": {
-		"title": "지창욱·알베르토 코로나19 확진…방송가 코로나 확산 지속(종합2보)",
-		"link": "www.yna.co.kr/view/AKR20210726094701005?section=safe/news",
-		"date": "07-26 18:41"
-	},
-	"d6704587ebfba6842b7cbd516d4aee78ec20cc9e8362284ac4a2fb5afcb25e42": {
-		"title": "오후 6시까지 서울 301명 확진…1주 전보다 25명↓",
-		"link": "www.yna.co.kr/view/AKR20210726156400004?section=safe/news",
-		"date": "07-26 18:36"
 	}
 }
