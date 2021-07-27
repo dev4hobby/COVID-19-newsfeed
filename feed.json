@@ -1,4 +1,64 @@
 {
+	"5fbc788d59f4394bfba0ea35b85e304c393e3f4ce3058b36c213108d72435557": {
+		"title": "[속보] 1차 접종 61만7천251명↑ 총 1천751만6천422명…인구 대비 34.1%",
+		"link": "www.yna.co.kr/view/AKR20210727043700530?section=safe/news",
+		"date": "07-27 09:32"
+	},
+	"3386a2c807ced96ac572513b6ef4c62d467a5653d7b50f1e431bb79b928718a0": {
+		"title": "[속보] 경기 375명-서울 351명-경남 88명-대전 71명-대구 69명 등 확진",
+		"link": "www.yna.co.kr/view/AKR20210727032900530?section=safe/news",
+		"date": "07-27 09:31"
+	},
+	"a26b689be7bd37f5f77d4a9f02d4c82c76b7603948c497c932ee518eafe708e8": {
+		"title": "[2보] 신규확진 1천365명, 3주째 네 자릿수…비수도권 확산세 지속",
+		"link": "www.yna.co.kr/view/AKR20210727024100530?section=safe/news",
+		"date": "07-27 09:30"
+	},
+	"8fb699d5aff6027ea70994627611571a4d3ac31d21004103948f11e72f13d382": {
+		"title": "화성 제조업체 기숙사 공동생활 근로자 10명 확진…누적 11명",
+		"link": "www.yna.co.kr/view/AKR20210727041400061?section=safe/news",
+		"date": "07-27 09:30"
+	},
+	"53fe72e84c105b3c17e83b9e5c3b5cd4c51801204682d960e7ee637fdb971dc2": {
+		"title": "[속보] 코로나19로 어제 2명 사망…누적 2천79명",
+		"link": "www.yna.co.kr/view/AKR20210727024200530?section=safe/news",
+		"date": "07-27 09:30"
+	},
+	"1b59b0ccd4b9a60dfe81e8b0fb3a064ed522d11c5093cc933cb32b5d1cd078f5": {
+		"title": "[1보] 신규확진 1천365명, 3주째 네 자릿수…비수도권 확산세 지속",
+		"link": "www.yna.co.kr/view/AKR20210727024000530?section=safe/news",
+		"date": "07-27 09:30"
+	},
+	"25c860368267b68d1533d8cc93b14abb70c64aaf7a1e31a081e31964592fb65b": {
+		"title": "태안 국화, 코로나19 기세 속 일본에 4만8천본 수출",
+		"link": "www.yna.co.kr/view/AKR20210727038700063?section=safe/news",
+		"date": "07-27 09:21"
+	},
+	"1b8a23b25680a22f85ee32426c6dd52845627486e1582bd69e28acb9c6f31499": {
+		"title": "세계은행·코백스, 개도국 코로나19 백신 구매 추가지원",
+		"link": "www.yna.co.kr/view/AKR20210727033300009?section=safe/news",
+		"date": "07-27 09:08"
+	},
+	"f494d8be5e3720717a0b69affcf1475dfc24a9397eab01855f9eef4eb06a8858": {
+		"title": "김총리 \"모더나, 공급일정 차질 통보…접종계획 보완 곧 발표\"",
+		"link": "www.yna.co.kr/view/AKR20210727031700001?section=safe/news",
+		"date": "07-27 09:00"
+	},
+	"77b7a4b20bf128625675f5812d8cb1a95ed3572e92f9a9689047e30ffdb7463a": {
+		"title": "진원생명, 코로나백신 피내·비강내 병용 임상1상 FDA 승인",
+		"link": "www.yna.co.kr/view/AKR20210727030800017?section=safe/news",
+		"date": "07-27 08:52"
+	},
+	"aa272048e0b5fe513a9de11a88a1b2006ad6521e4d099957ef87b07419c22683": {
+		"title": "울산서 3명 코로나19 신규 확진…누적 3천140명",
+		"link": "www.yna.co.kr/view/AKR20210727031900057?section=safe/news",
+		"date": "07-27 08:52"
+	},
+	"bcf6185a7807a6f738fa9440863ab98ec2732f156ee6a17faa49d506be033050": {
+		"title": "브라질 코로나 사망 55만명 넘어…델타 변이 감염 계속 늘어",
+		"link": "www.yna.co.kr/view/AKR20210727029200094?section=safe/news",
+		"date": "07-27 08:49"
+	},
 	"99a4e7f1fbad27b89f0d71b41193097b4c01265b5f339b88511797ac2c8530e4": {
 		"title": "거리두기 3단계 첫날, 광주·전남서 46명 확진…산발 감염 지속",
 		"link": "www.yna.co.kr/view/AKR20210727026200054?section=safe/news",
@@ -438,65 +498,5 @@
 		"title": "[속보] 심근염 사망 1건·심낭염-희귀혈전 이상반응 2건 백신 인과성 인정",
 		"link": "www.yna.co.kr/view/AKR20210726105100530?section=safe/news",
 		"date": "07-26 14:36"
-	},
-	"7481eda065429aafc73e779b420ffbc1ecfc0835342abc9833a7021a9e59b01f": {
-		"title": "충북 영동·옥천군 코로나19 확진자 10명 중 7명 '대전발'",
-		"link": "www.yna.co.kr/view/AKR20210726102900064?section=safe/news",
-		"date": "07-26 14:35"
-	},
-	"ad284bde87379599cfd9b97cfc04aafffe32a48a0e5c1ee6e49fdde245fd7670": {
-		"title": "광주 유흥업소 종사자 지인·손님 6명 확진",
-		"link": "www.yna.co.kr/view/AKR20210726103400054?section=safe/news",
-		"date": "07-26 14:27"
-	},
-	"53b1104391050ce41591cda6f4109b9062b0eb8f677f1694d096fcb10e469c2a": {
-		"title": "[속보] \"민주노총 집회참석 확진자 3명은 지난 7일 음식점에서 감염\"",
-		"link": "www.yna.co.kr/view/AKR20210726103700530?section=safe/news",
-		"date": "07-26 14:26"
-	},
-	"fe3815ffde142187e5409466253800cd905836d455c2ca3ca8c1a8feab08b642": {
-		"title": "[연합시론] 비수도권 감염 40% 빨간불…백신접종 서둘러 확산 막아야",
-		"link": "www.yna.co.kr/view/AKR20210726099700022?section=safe/news",
-		"date": "07-26 14:26"
-	},
-	"19f7f40e0a2a9d69ee0b03bc3c52a01e33b3671700d3006e719641ae1092e472": {
-		"title": "보성군 코로나19 백신 1차 접종률 60% 돌파",
-		"link": "www.yna.co.kr/view/AKR20210726101800054?section=safe/news",
-		"date": "07-26 14:26"
-	},
-	"30bd82435585b738a979fd6b0d6e90a7307b6564c3c7b74746b54baac92b3ea3": {
-		"title": "[영상] 장관에 국가주석까지…끈질긴 베트남 백신 요구에 SK는 곤혹",
-		"link": "www.yna.co.kr/view/AKR20210726100400704?section=safe/news",
-		"date": "07-26 14:25"
-	},
-	"f64ff6ecc7bda43ee98f51b282f216d399b4ee394adaabfff3c2dedebcaa91dc": {
-		"title": "[속보] \"민주노총 집회 참석자중 4천701명 검사…추가 확진자 없어\"",
-		"link": "www.yna.co.kr/view/AKR20210726103100530?section=safe/news",
-		"date": "07-26 14:25"
-	},
-	"3e8b5c656002581331e24a7925b48b4a722b9a344dd8ff0e63eb7a63cd2d1370": {
-		"title": "강원 코로나19 경증환자 치료 병상 33개뿐…\"30개 더 마련 중\"",
-		"link": "www.yna.co.kr/view/AKR20210726101700062?section=safe/news",
-		"date": "07-26 14:24"
-	},
-	"26ac1697b0d1f63ad0d4d543510d1f975d0535bd15b45a6d183e5efc8ef7ad42": {
-		"title": "[속보] 8월 첫째주 사전예약한 55∼59세 화이자 백신 접종",
-		"link": "www.yna.co.kr/view/AKR20210726100500530?section=safe/news",
-		"date": "07-26 14:15"
-	},
-	"2fd69e41998540c2a8759dda55be62b4c61e19a6769f3378ad3cf7139dd24579": {
-		"title": "수애, 취약계층 코로나19 극복 위해 1억원 기부",
-		"link": "www.yna.co.kr/view/AKR20210726101200005?section=safe/news",
-		"date": "07-26 14:20"
-	},
-	"5e76fccd422a9e2b2207cc22677a4a7c2a64b8fb6a01b13a3bff0cefaac7ad6b": {
-		"title": "부산 63명 추가 감염…\"확진세 하향곡선 안심 금물\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20210726025751051?section=safe/news",
-		"date": "07-26 14:20"
-	},
-	"8f370524b97247541cc4d455aa1116e26db4fe26dce9f0fab2cf111dbd468470": {
-		"title": "[속보] 의무경찰-해경-소방-교정시설 대체복무자도 28일부터 접종",
-		"link": "www.yna.co.kr/view/AKR20210726101300530?section=safe/news",
-		"date": "07-26 14:18"
 	}
 }
