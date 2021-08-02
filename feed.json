@@ -1,4 +1,64 @@
 {
+	"90eea3baf072e984af0108bcc93fdc4fb912eb46798c536151a040d88b087da9": {
+		"title": "[속보] 서울 365명-경기 337명-경남 84명-부산 72명-대전 64명 등 확진",
+		"link": "www.yna.co.kr/view/AKR20210802037600530?section=safe/news",
+		"date": "08-02 09:33"
+	},
+	"b6181090ec6b0747e0411037e9caa922ca2e46f47f52b6c0ec9413a4cb7f8466": {
+		"title": "코로나19·원자잿값 급등 속 경영난 중소기업 '집중 지원'",
+		"link": "www.yna.co.kr/view/AKR20210802035900063?section=safe/news",
+		"date": "08-02 09:32"
+	},
+	"75e4e9c797bbd3a53f0b4f5a32d2579da0eb0d8c1de1176192c80998fcdb79c3": {
+		"title": "[속보] 이틀간 백신 이상반응 1천279건↑…사망 1명↑, 인과성 미확인",
+		"link": "www.yna.co.kr/view/AKR20210802037400530?section=safe/news",
+		"date": "08-02 09:31"
+	},
+	"8463a684472d4f9612185cdea83c419c8525797a63eb8a7cc36d526b948d5a24": {
+		"title": "[속보] 1차접종 2만7천892명↑ 총 1천947만2천376명…인구의 37.9%",
+		"link": "www.yna.co.kr/view/AKR20210802037200530?section=safe/news",
+		"date": "08-02 09:31"
+	},
+	"7ba698537a308a52e32532b7f8dc345a0dd629eaf190f7bd6a26be57d9df393e": {
+		"title": "[2보] 신규확진 1천219명, 27일 연속 네 자릿수…누적 20만명 넘어",
+		"link": "www.yna.co.kr/view/AKR20210802019900530?section=safe/news",
+		"date": "08-02 09:30"
+	},
+	"87161eb1553f70247380facc7e43cc97071796d26c8cb64a3a489ce5d1eecc1f": {
+		"title": "[속보] 코로나19로 어제 1명 사망…누적 2천99명",
+		"link": "www.yna.co.kr/view/AKR20210802020000530?section=safe/news",
+		"date": "08-02 09:30"
+	},
+	"e08ca4aca4f10856964f0027c1ce126acbdb4a39e58482196458ab6a91f790b2": {
+		"title": "[1보] 신규확진 1천219명, 27일 연속 네 자릿수…누적 20만명 넘어",
+		"link": "www.yna.co.kr/view/AKR20210802019800530?section=safe/news",
+		"date": "08-02 09:30"
+	},
+	"557093ce7bd1b4ea075ef4fee6007d0ba0c501f3cb6d81f16c8a6265298155ae": {
+		"title": "문승욱 장관, 안성 코로나19 생활치료센터 찾아 의료진 격려",
+		"link": "www.yna.co.kr/view/AKR20210801043900003?section=safe/news",
+		"date": "08-02 09:30"
+	},
+	"6a824089191593b5b6dd1a5e85348bb9e61c21fceddbd479288a73344fc7c234": {
+		"title": "인천 시민·기업, 코로나19 취약계층에 32억원 온정",
+		"link": "www.yna.co.kr/view/AKR20210802033700065?section=safe/news",
+		"date": "08-02 09:23"
+	},
+	"6a63eae87ca816bf39b67eb3e8e02d82416e9de07229075020585d349b456173": {
+		"title": "서울 중구 \"백신 1차 접종률 53.5%…자치구 중 1위\"",
+		"link": "www.yna.co.kr/view/AKR20210802034200004?section=safe/news",
+		"date": "08-02 09:22"
+	},
+	"9521b597efbce928b71ac6dc78cf14d62b3bdbecf8155621e1f5e865bb949de8": {
+		"title": "GC녹십자엠에스, 코로나19 신속 항원 진단키트 국내 사용 승인",
+		"link": "www.yna.co.kr/view/AKR20210802031400017?section=safe/news",
+		"date": "08-02 09:15"
+	},
+	"1b6d2da42180d48245fcdb332d67d5f57359c36e1281dd9bbeb92f1d036eb493": {
+		"title": "코로나19로 인천 섬 관광객 37만명 감소…영흥도 직격탄",
+		"link": "www.yna.co.kr/view/AKR20210730096600065?section=safe/news",
+		"date": "08-02 09:10"
+	},
 	"534a6e0c03d820ae220aa3aff0cd4c664f8649e77cf9cdc25d490b60239e1b4b": {
 		"title": "대구서 26명 신규 확진…감염경로 불상이 8명",
 		"link": "www.yna.co.kr/view/AKR20210802020500053?section=safe/news",
@@ -438,65 +498,5 @@
 		"title": "건국대-세종대, 코로나 학번들 '광진구 점령전' 흥행",
 		"link": "www.yna.co.kr/view/AKR20210731052400004?section=safe/news",
 		"date": "08-01 09:00"
-	},
-	"dc939fe0e3bc29642b944ce4d4276a1d48220294d96c45fbe7cc81691fc46ff4": {
-		"title": "광주 14명·전남 9명 확진자 추가…n차 감염 지속",
-		"link": "www.yna.co.kr/view/AKR20210801008200054?section=safe/news",
-		"date": "08-01 08:26"
-	},
-	"9ee9802199f8d177bc840b6516ef8ddb8f2d1ff3cb7f184a8b147c1742793e88": {
-		"title": "경북 28명 신규 확진…지역 확진자 접촉 감염 많아",
-		"link": "www.yna.co.kr/view/AKR20210801007500053?section=safe/news",
-		"date": "08-01 08:15"
-	},
-	"5b73134ed534ab29c504f0025090065b2942d63c746afdffcceb089aa86e75e7": {
-		"title": "'종식은 없다'…영국 과학자들 \"코로나로 매년 수천명 사망\"",
-		"link": "www.yna.co.kr/view/AKR20210801006200009?section=safe/news",
-		"date": "08-01 07:58"
-	},
-	"d87affc7c5f60b58051a29cfb491993c487330869d8b7b85099b53e16e674419": {
-		"title": "[미얀마쿠데타 반년]④이양희 前보고관 \"유엔, 코로나 지원으로 변곡점 만들어야\"",
-		"link": "www.yna.co.kr/view/AKR20210730148300076?section=safe/news",
-		"date": "08-01 07:00"
-	},
-	"e09e388ab7b6dbe95136da8ee8be0c7bffee21398d99655b7244408800041926": {
-		"title": "<뉴욕증시-주간전망> 고용보고서 대기·코로나19 주시",
-		"link": "www.yna.co.kr/view/AKR20210801004500009?section=safe/news",
-		"date": "08-01 07:00"
-	},
-	"05b55b0259c6060187ba2f95cfa32b9e4095bd814d782838ac425bcf067cd5f7": {
-		"title": "\"오 노! 하루만에 또…\" 영국 국회의원 자가격리만 43일",
-		"link": "www.yna.co.kr/view/AKR20210801001200085?section=safe/news",
-		"date": "08-01 06:30"
-	},
-	"58a6af8f3698fb497fc5ac0f97e0b9ac7599a500a4d27952425efb5e105f51f4": {
-		"title": "이번주 18∼49세 택배기사-미화원·발달장애인 등 접종예약 시작",
-		"link": "www.yna.co.kr/view/AKR20210731042800530?section=safe/news",
-		"date": "08-01 04:55"
-	},
-	"2963484f8d1ca174ccecdeff8f3f5c158467d6980dab104e73c208ddfa38f806": {
-		"title": "백신 맞는 게 죄?…미국 일부 주민, 변장하고 주변 몰래 접종",
-		"link": "www.yna.co.kr/view/AKR20210801001500075?section=safe/news",
-		"date": "08-01 03:48"
-	},
-	"5aa5054cc1b2f9649b7c8a70762d7512eef0ec2f3b23a67e535c9225e65f7a5d": {
-		"title": "프랑스서 3주째 \"백신 여권 반대\" 대규모 시위",
-		"link": "www.yna.co.kr/view/AKR20210801000700085?section=safe/news",
-		"date": "08-01 02:48"
-	},
-	"d9f675ebc0ea2528a7f92cebded53118fb51d2a44433797d39ff3708d851ac2b": {
-		"title": "미 CDC 국장 \"연방 차원서 백신접종 전국적 의무화 안 해\"",
-		"link": "www.yna.co.kr/view/AKR20210801000400071?section=safe/news",
-		"date": "08-01 00:34"
-	},
-	"020e68f998481d7611de62ae3c45281b3d3e1a74697836e96ac20950c59dbfca": {
-		"title": "르완다, 코로나19 확산세에도 수도 등 봉쇄령 해제",
-		"link": "www.yna.co.kr/view/AKR20210731056500009?section=safe/news",
-		"date": "07-31 22:51"
-	},
-	"361996279e4eea5b2e011f36b06d7d77349aeafe58ac8f7bb6c51c303efc3a2a": {
-		"title": "일본 코로나 신규확진 1만2천명 넘어…나흘째 최다기록 경신(종합)",
-		"link": "www.yna.co.kr/view/AKR20210731045251073?section=safe/news",
-		"date": "07-31 22:11"
 	}
 }
