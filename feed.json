@@ -1,4 +1,104 @@
 {
+	"57f8ca1c56318f95f04eccd48562ed464bf0ec1082256a0bfaa2f8932175b253": {
+		"title": "인도네시아 코로나 사망 누적 10만명…의사도 640명 희생",
+		"link": "www.yna.co.kr/view/AKR20210805054000104?section=safe/news",
+		"date": "08-05 10:33"
+	},
+	"4ed44fa3abfbf47706eefc157135ae1f4b5551dac9da7a27802ab0c6fc327c50": {
+		"title": "\"코로나19 감염 위험도, 실내가 개방된 곳보다 4배 이상\"",
+		"link": "www.yna.co.kr/view/AKR20210805055500017?section=safe/news",
+		"date": "08-05 10:32"
+	},
+	"e947682a1b94af8486249fc5cd8af75d0260176e4389378c5b9d67e33e8d1fec": {
+		"title": "군내 코로나19 병사 4명 추가 확진…청해부대원 1명 퇴원예정",
+		"link": "www.yna.co.kr/view/AKR20210805054400504?section=safe/news",
+		"date": "08-05 10:31"
+	},
+	"baf3d07d8660608bd5c46a17223e3ebd4fdf563a855c36829a7f93ffb606123f": {
+		"title": "직계약 AZ백신 118만5천회분 SK바이오 안동공장서 추가 출하",
+		"link": "www.yna.co.kr/view/AKR20210804121200530?section=safe/news",
+		"date": "08-05 10:28"
+	},
+	"e34927d5324657b3f4b169df7791d631c0c51c3e1ecdb1416cefc44d8ab9a8c4": {
+		"title": "충남 천안 오픈채팅방 모임 코로나19 확산…누적 17명",
+		"link": "www.yna.co.kr/view/AKR20210805051200063?section=safe/news",
+		"date": "08-05 10:12"
+	},
+	"914ca4dab4559088dec61d198980ba5118e378299a647310dcf6531198d3a572": {
+		"title": "여름방학인데 학생 확진자 속출…학원·PC방·가족 감염",
+		"link": "www.yna.co.kr/view/AKR20210805049100051?section=safe/news",
+		"date": "08-05 10:07"
+	},
+	"422ae939c624b685aa24f07bb4e36a4b1bdd61e95aa37a811c27e56147f2466b": {
+		"title": "서울 466명 신규 확진…어제보다 20명 감소",
+		"link": "www.yna.co.kr/view/AKR20210805048500004?section=safe/news",
+		"date": "08-05 10:05"
+	},
+	"76007e4bd27f7500fa6298b07fe57f9a857a0c68f71c6db3d93f2437c8ed5756": {
+		"title": "미코바이오메드, 코로나 중화항체 신속진단키트 유럽인증받아",
+		"link": "www.yna.co.kr/view/AKR20210805050200017?section=safe/news",
+		"date": "08-05 10:02"
+	},
+	"c61200a1c7b93b8fdf5a057a9ca6787ea8ece21d03a7931dd691413ecbaf775b": {
+		"title": "백신 1차접종 16만4천924명↑ 총 2천33만6천252명…인구의 39.6%",
+		"link": "www.yna.co.kr/view/AKR20210805048100530?section=safe/news",
+		"date": "08-05 10:01"
+	},
+	"2b827aafa0832581e35c6391fc7a8764d6a90108486066ab039d846d09777df8": {
+		"title": "日코로나 폭증…확산 더 빨라져 \"도쿄 신규확진 1만명 될 수도\"",
+		"link": "www.yna.co.kr/view/AKR20210805039800073?section=safe/news",
+		"date": "08-05 10:00"
+	},
+	"060a6eb1bd0a677426de8a5e7b0e26330dfa0bae2f90da5c23a7ddf8ca7bea6d": {
+		"title": "부산 28명 추가 확진…다시 급증하는 감염 추세",
+		"link": "www.yna.co.kr/view/AKR20210805026000051?section=safe/news",
+		"date": "08-05 10:00"
+	},
+	"82db674648f7e1ba93c61ce5cf2f9841442ecba22958ab0fe34735a70ed2ca63": {
+		"title": "4일 대전서 70명 확진…지난달 27일 4단계 격상 후 하루 72.8명",
+		"link": "www.yna.co.kr/view/AKR20210805026900063?section=safe/news",
+		"date": "08-05 10:00"
+	},
+	"b5eb0c03d0688af27a1dc492ea8d88ca4a2b6f036a13f940d65688c57a784b0c": {
+		"title": "백신 접종 안 해도 수능 치른다…자가격리자·확진자도 응시",
+		"link": "www.yna.co.kr/view/AKR20210805033900530?section=safe/news",
+		"date": "08-05 10:00"
+	},
+	"5c763b20ac03ced764fa005166e2b04b3ae6985ce85b1f972556357dc62fa585": {
+		"title": "경기 신규확진 487명…경로 불명 33%",
+		"link": "www.yna.co.kr/view/AKR20210805042100061?section=safe/news",
+		"date": "08-05 10:00"
+	},
+	"0463f213da7b2362ebf6be04410dddb845cc96fc8f486e7bc428fd2553d22ed1": {
+		"title": "경남 밤새 17명 확진…마트·주점 등 기존 확진자 접촉",
+		"link": "www.yna.co.kr/view/AKR20210805047100052?section=safe/news",
+		"date": "08-05 10:00"
+	},
+	"6fd6f591fc9f3bfd1f7a623b801eae8de0654e1be69e700775bbbe3de711742e": {
+		"title": "'오프스프링' 드러머, 백신 미접종으로 밴드 활동서 배제",
+		"link": "www.yna.co.kr/view/AKR20210805048300075?section=safe/news",
+		"date": "08-05 09:59"
+	},
+	"197604fbd1f7a80827f8ae8d868a464dd6be3fb206a5a516c072c471e8a00c21": {
+		"title": "임시 선별검사소서 425명 확진…수도권 328명-비수도권 97명",
+		"link": "www.yna.co.kr/view/AKR20210805044500530?section=safe/news",
+		"date": "08-05 09:49"
+	},
+	"39cedfd29167a23ceb4d49bf91094b90ce7572a96fdc83ea71bd079a31bec994": {
+		"title": "신규확진 1천776명,한달째 네자리…비수도권 700명 육박-위중증 급증(종합)",
+		"link": "www.yna.co.kr/view/AKR20210805032451530?section=safe/news",
+		"date": "08-05 09:46"
+	},
+	"92e3eabf400209e43e83b6ee242a784c0e7d2ec808567719c901d92e12d99881": {
+		"title": "미 전염병연구소장 \"올가을 하루 확진 20만명으로 2배 될 수도\"",
+		"link": "www.yna.co.kr/view/AKR20210805031400009?section=safe/news",
+		"date": "08-05 09:39"
+	},
+	"98c8e03c05dd6260e4af35feaa0194f5eaec82f5a1fb9aa260663bfb91c57307": {
+		"title": "[3보] 신규확진 1천776명,한달째 네자리…비수도권 700명 육박-위중증 급증",
+		"link": "www.yna.co.kr/view/AKR20210805032400530?section=safe/news",
+		"date": "08-05 09:37"
+	},
 	"2fb3f55db3c88decc33e34d9f97ed1e607fd6c5fa94af6c2f616f5a36b3cc174": {
 		"title": "[속보] 코로나19 위중증 하루새 40명↑ 총 369명…전국 확산세속 급증",
 		"link": "www.yna.co.kr/view/AKR20210805040200530?section=safe/news",
@@ -398,105 +498,5 @@
 		"title": "中, 코로나 기원규명 맞서 '백신외교'…\"1.1억회분 추가제공\"",
 		"link": "www.yna.co.kr/view/AKR20210804114400083?section=safe/news",
 		"date": "08-04 15:55"
-	},
-	"93d99b1800b6d763a6309e97f7214c1649594012b6f19d7504c6c4eb75918d7f": {
-		"title": "\"국내서도 '델타 변이' 증가로 위중증 환자 약간 늘어나는 흐름\"",
-		"link": "www.yna.co.kr/view/AKR20210804111100530?section=safe/news",
-		"date": "08-04 15:47"
-	},
-	"aef6452a759ee790f543a27e89d3fba7a3d077721b42b27cac6f368100c98845": {
-		"title": "\"미 정부, 국경 넘어온 불법이민자 대상 백신 접종 준비\"",
-		"link": "www.yna.co.kr/view/AKR20210804114300009?section=safe/news",
-		"date": "08-04 15:46"
-	},
-	"91ad8b04dec674155aacdbcfa81506a0a3669815ee039d99438c17864011f5c1": {
-		"title": "코로나19 대유행에 의료폐기물 급증…낙동강청, 실태 점검",
-		"link": "www.yna.co.kr/view/AKR20210804112500052?section=safe/news",
-		"date": "08-04 15:34"
-	},
-	"ef780eeb1ffceba22bdc15d1d70454343cdef554076727ca7547df3bf96f4079": {
-		"title": "파주 외국인 일용직 근로자 9명 추가 확진…누적 20명",
-		"link": "www.yna.co.kr/view/AKR20210804112400060?section=safe/news",
-		"date": "08-04 15:30"
-	},
-	"86065fe86af753274b534b99d254306f7c50bbe987ba0a755d0b6ab11ae53f6b": {
-		"title": "동해시 외국인 확진자 확산 추세…코로나19 검사 독려",
-		"link": "www.yna.co.kr/view/AKR20210804111400062?section=safe/news",
-		"date": "08-04 15:29"
-	},
-	"0dbab7a68c809be1d9f5ca52dca311d3767d276c3927a06525dec198c9c7f1c5": {
-		"title": "'마크롱 티셔츠 로고 정체가?'…백신접종 촉구 영상에 음모론",
-		"link": "www.yna.co.kr/view/AKR20210804108100009?section=safe/news",
-		"date": "08-04 15:25"
-	},
-	"b021a31d0979b4e9f3eb7ebe5ea96da1ee1fe31f7ac76aa53896a6f592ed8b61": {
-		"title": "[팩트체크] 김제덕은 자가격리, 안산은 격리면제 특혜?",
-		"link": "www.yna.co.kr/view/AKR20210803129500502?section=safe/news",
-		"date": "08-04 15:17"
-	},
-	"440e9a358da4ce9aa7447a4e9d09b50547931282fb81646907f6db4db19547be": {
-		"title": "체육시설-학원-음식점서 새 집단감염…파주 신병교육대 12명 확진",
-		"link": "www.yna.co.kr/view/AKR20210804104300530?section=safe/news",
-		"date": "08-04 15:13"
-	},
-	"ac7b75cdacd3c0d64e7ab55b6dff38051586ea62bcd62fec70f7cb50a10d11c1": {
-		"title": "AZ백신 118만5천회분 내일 SK바이오 안동공장서 추가 출고",
-		"link": "www.yna.co.kr/view/AKR20210804106200530?section=safe/news",
-		"date": "08-04 15:09"
-	},
-	"76a51c1b4e4ad3da3c87eb674df819e3e5d65d3b8afdaf45ce834958aaeba033": {
-		"title": "충북 누적 확진 4천명 넘었다…6월 4일 이후 두 달 만에 1천명↑",
-		"link": "www.yna.co.kr/view/AKR20210804102800064?section=safe/news",
-		"date": "08-04 15:08"
-	},
-	"4d118a85446ebb6e50afe2982c2548ce9ff18ad5f49f5769fd3265681c77d8f1": {
-		"title": "포항 외국인 모임 관련 확진자 급증…사흘 새 25명",
-		"link": "www.yna.co.kr/view/AKR20210804104700053?section=safe/news",
-		"date": "08-04 14:58"
-	},
-	"e8ec65237483a4600db771ab813a7d43bc8051eea20b07eb29d1c2f5b663f5f1": {
-		"title": "백신 이상반응 3천803건↑…30대 포함 사망 5명↑ 인과성 미확인(종합)",
-		"link": "www.yna.co.kr/view/AKR20210804047851530?section=safe/news",
-		"date": "08-04 14:55"
-	},
-	"8aa4e5b61379eae81749762cfa40e3fb4cffba9224491119e1fa3eee28206feb": {
-		"title": "전남도 18~49세 필수업무 우선접종자 4~6일 사전예약",
-		"link": "www.yna.co.kr/view/AKR20210804105100054?section=safe/news",
-		"date": "08-04 14:54"
-	},
-	"6b8164029ada16c8d045eda2611b5833635a07830c029e935067a9f2531af3f6": {
-		"title": "1차접종 총 2천16만9천592명, 인구의 39.3%…잔여백신 604만회분(종합)",
-		"link": "www.yna.co.kr/view/AKR20210804047251530?section=safe/news",
-		"date": "08-04 14:51"
-	},
-	"c96db30c5061205a1fbce46acf89b204dc833f628402d2c0d6f0e7c1fe7e4229": {
-		"title": "울산 10명 신규 확진…가족 간 전파 4명 포함(종합)",
-		"link": "www.yna.co.kr/view/AKR20210804103600057?section=safe/news",
-		"date": "08-04 14:41"
-	},
-	"44616ef823c8c188f92af4dc7780e6fa0be0476487910d8cc9b8b26e961955c9": {
-		"title": "신세계백화점 센텀점 직원 잇단 확진에 방역망 구멍",
-		"link": "www.yna.co.kr/view/AKR20210804101600051?section=safe/news",
-		"date": "08-04 14:38"
-	},
-	"f95e8fe12b2b93ea6a9fe34b99d2af754c56418354996654fe8c39e1ed26bc60": {
-		"title": "당국 \"청해부대 확진자 272명 전원 '델타 변이' 감염 추정\"",
-		"link": "www.yna.co.kr/view/AKR20210804101100530?section=safe/news",
-		"date": "08-04 14:38"
-	},
-	"c684065ec0159144e576b5c9c699e96a52fb5855058d3e50442f53f0674a8ec5": {
-		"title": "[속보] \"국내서도 '델타 변이' 증가로 위중증 환자 약간 늘어나는 흐름\"",
-		"link": "www.yna.co.kr/view/AKR20210804102200530?section=safe/news",
-		"date": "08-04 14:34"
-	},
-	"697255a83a19765f2b9aeba4fdb466e2eb26645fd0fe313ac6932258bcb352ae": {
-		"title": "[속보] \"오늘 오후 3시부터 60∼74세 보건소외 위탁기관 접종예약도 가능\"",
-		"link": "www.yna.co.kr/view/AKR20210804100700530?section=safe/news",
-		"date": "08-04 14:30"
-	},
-	"825f49c35494aeda7a80e742e34e02111c8345a3b766075c03c3c5f3db75047d": {
-		"title": "[올림픽] 선수촌 첫 코로나 집단감염…그리스 선수단 5명",
-		"link": "www.yna.co.kr/view/AKR20210804096100073?section=safe/news",
-		"date": "08-04 14:29"
 	}
 }
