@@ -1,4 +1,34 @@
 {
+	"0e3bd0b05f659ae72710c9a86dda7a83816f0d9584b0da312773bca6b5048b80": {
+		"title": "[속보] \"병상 아직 여유 있지만 유행 장기화시 적절한 의료 어려울수도\"",
+		"link": "www.yna.co.kr/view/AKR20210808046300530?section=safe/news",
+		"date": "08-08 16:47"
+	},
+	"486544d6e76c82a2b57b804323fcdca675d49dc00017b284465601f54544da61": {
+		"title": "[속보] \"감염 재생산지수 1.04→0.99…환자감소세 완만, 재유행 위험 상존\"",
+		"link": "www.yna.co.kr/view/AKR20210808045900530?section=safe/news",
+		"date": "08-08 16:45"
+	},
+	"de8ea2084926787aae8bbdae94f12b51002ca9c90c1991839d3aa36a43c0cbee": {
+		"title": "아프리카돼지열병 석달여 만에 재발…강원 고성 돼지농장서 확진(종합)",
+		"link": "www.yna.co.kr/view/AKR20210808003851530?section=safe/news",
+		"date": "08-08 16:39"
+	},
+	"2172e2db308a0102e3450291aa174eac8e5463e72ddce3107cbc539ac4f1fa7b": {
+		"title": "[올림픽] '동병상련' 中, 도쿄 극찬하며 베이징올림픽 의지 강조",
+		"link": "www.yna.co.kr/view/AKR20210808044100083?section=safe/news",
+		"date": "08-08 16:23"
+	},
+	"32587532d8beb0e22a34ee56f224dfd4d5b41cf35082a9e6179ca777cb80e8b8": {
+		"title": "충남 86명 확진돼 일일 최대…천안·아산 산발적 확산 이어져(종합)",
+		"link": "www.yna.co.kr/view/AKR20210808023151063?section=safe/news",
+		"date": "08-08 16:13"
+	},
+	"dce242e710af23aec6981f8341fe4c5a9aef5743db92041bd82a7488874103c5": {
+		"title": "집단감염 울산 청소업체 관련 1명 추가 확진…누적 32명(종합)",
+		"link": "www.yna.co.kr/view/AKR20210808014251057?section=safe/news",
+		"date": "08-08 16:11"
+	},
 	"7af802188e492e7d51fe7266cb81ea9ee318ee6249a6f765d86d0f38d0884866": {
 		"title": "고성 ASF 확진…강원도, 양돈농가 긴급 차단방역(종합)",
 		"link": "www.yna.co.kr/view/AKR20210808007651062?section=safe/news",
@@ -468,35 +498,5 @@
 		"title": "아마존, 직원 백신 접종 독려하려 22억 원 상당 상품 지급",
 		"link": "www.yna.co.kr/view/AKR20210807032300009?section=safe/news",
 		"date": "08-07 13:32"
-	},
-	"18437c13463568dffe0ae796fe29ae8c7b0149e5b0964a05e459c847be83e8d4": {
-		"title": "중국 양저우서 마작하던 노인 집단감염 속출…각지 마작방 폐쇄",
-		"link": "www.yna.co.kr/view/AKR20210807032800083?section=safe/news",
-		"date": "08-07 13:32"
-	},
-	"1d47279f48a2947456da87f859bd438553fb8a89358a6a664533531cbd5e6eec": {
-		"title": "전북 이틀간 코로나19 26명 추가 확진…일상 감염 지속",
-		"link": "www.yna.co.kr/view/AKR20210807029700055?section=safe/news",
-		"date": "08-07 11:56"
-	},
-	"55989fc891df9826c8835e8b7cd3ce4b5a1805faec85510aa13015271087f83c": {
-		"title": "제주 지인·일가족 집단감염 사례 신규 발생…관련 16명 확진",
-		"link": "www.yna.co.kr/view/AKR20210807028600056?section=safe/news",
-		"date": "08-07 11:36"
-	},
-	"f18a609d721e3b0a7cbb025e7fadd92c1a59244f1d8cb80d1122b441a9c30f85": {
-		"title": "노량진수산시장 또 집단감염…나흘간 23명",
-		"link": "www.yna.co.kr/view/AKR20210807028500004?section=safe/news",
-		"date": "08-07 11:28"
-	},
-	"ebb2d4133689e713a5933bf0bcc47f7be753909ef67be9af35cb08b420bb3b68": {
-		"title": "코로나 걸린 미 11개월 아기, 병상 없어 240㎞ 비행해 입원",
-		"link": "www.yna.co.kr/view/AKR20210807027100075?section=safe/news",
-		"date": "08-07 11:23"
-	},
-	"e56aef76f1cd7247ecd56d55eb65b2b90e51fcab2071629bc3b553635065df73": {
-		"title": "바이든 정부, 코로나에 학자금 대출 상환유예 기간 다시 연장",
-		"link": "www.yna.co.kr/view/AKR20210807026800009?section=safe/news",
-		"date": "08-07 11:18"
 	}
 }
