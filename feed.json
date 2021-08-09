@@ -1,4 +1,9 @@
 {
+	"6cc713c219740e0d3b90ae979b548a542eb6cba2275aebcfd7e105a2534052d7": {
+		"title": "뉴욕증시, 코로나19 우려에 하락 출발",
+		"link": "www.yna.co.kr/view/AKR20210809155500009?section=safe/news",
+		"date": "08-09 23:02"
+	},
 	"2ad50216797fd183df6d5c4107e086ffb6ff301e1c9d08cc4e535a053d8c5a23": {
 		"title": "충북 42명 확진…22일째 두 자릿수(종합)",
 		"link": "www.yna.co.kr/view/AKR20210809134751064?section=safe/news",
@@ -493,10 +498,5 @@
 		"title": "[속보] 정부 \"오늘 오후 2시10분 백신도입·접종계획 관련 브리핑 예정\"",
 		"link": "www.yna.co.kr/view/AKR20210809059300530?section=safe/news",
 		"date": "08-09 11:05"
-	},
-	"1480c862c1a855efa32d066385fabb03b12da79c802bbfd407376fedf69edbba": {
-		"title": "화성 아파트 건설현장서 7명 추가 확진…사흘 새 누적 34명",
-		"link": "www.yna.co.kr/view/AKR20210809058000061?section=safe/news",
-		"date": "08-09 11:04"
 	}
 }
