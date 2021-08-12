@@ -1,4 +1,69 @@
 {
+	"edb3b1e8f7295de7ec13ac73fcf185eba85ca4d4ed89366aaa19afa0df45e51c": {
+		"title": "부산 수영구 한 요양병원서 백신 미접종 간병인 확진",
+		"link": "www.yna.co.kr/view/AKR20210812043300051?section=safe/news",
+		"date": "08-12 09:31"
+	},
+	"efdce0a0ccaac43caa72b94afecc4c70c16364024cf885388eb0c182fd2e6770": {
+		"title": "[속보] 1차접종 17만5천763명↑ 총 2천181만3천171명…인구 대비 42.5%",
+		"link": "www.yna.co.kr/view/AKR20210812043700530?section=safe/news",
+		"date": "08-12 09:31"
+	},
+	"eda2595f4f6e2960f9bf461b98e15eabca59ac09de63f6ce526edfe654c554e9": {
+		"title": "[2보] 신규확진 1천987명, 일단 2천명 아래로…전국 확산세 지속",
+		"link": "www.yna.co.kr/view/AKR20210812021100530?section=safe/news",
+		"date": "08-12 09:30"
+	},
+	"ce9b1fea2b0e3382ffa47991876916e9f9fb6ec2f5aa17ed9ee856a89ac6d5a3": {
+		"title": "日 코로나 폭증에 긴급사태 지역 확대·기간 연장안 부상",
+		"link": "www.yna.co.kr/view/AKR20210812034700073?section=safe/news",
+		"date": "08-12 09:30"
+	},
+	"ef877489d2f5945e009e4c0def5e1308011e7f8fee3debb3fd495d40619a9ea1": {
+		"title": "[속보] 코로나19로 어제 3명 사망…국내 누적 2천138명",
+		"link": "www.yna.co.kr/view/AKR20210812030200530?section=safe/news",
+		"date": "08-12 09:30"
+	},
+	"f86ea3f038a997c5af0b3c7a46a59d1a3f33a2cd17aa023086006832b4eac101": {
+		"title": "[1보] 신규확진 1천987명, 일단 2천명 아래로…전국 확산세 지속",
+		"link": "www.yna.co.kr/view/AKR20210812021400530?section=safe/news",
+		"date": "08-12 09:30"
+	},
+	"d20a48f29b0b49c369a0dbdd0a9411d683ccb9b229200ccc2b0ab228f168071b": {
+		"title": "맥도날드도 백신 의무화…보수지역 학교 '反마스크' 불복 확산",
+		"link": "www.yna.co.kr/view/AKR20210812038200009?section=safe/news",
+		"date": "08-12 09:28"
+	},
+	"f1f0081d983d382dbdc336a95d6b506ee213cac5463c1fb39dc0b7f9488c9318": {
+		"title": "울산 밤사이 22명 신규 확진…누적 3천573명",
+		"link": "www.yna.co.kr/view/AKR20210812041300057?section=safe/news",
+		"date": "08-12 09:23"
+	},
+	"526af4af6be826e7fc0a64c0081f2a1a6706e0b7d0a6ad515743f3d6b4158412": {
+		"title": "브라질 중환자실 병상점유율 80% 밑돌아…작년 10월이후 처음",
+		"link": "www.yna.co.kr/view/AKR20210812013900094?section=safe/news",
+		"date": "08-12 09:18"
+	},
+	"bbaa29d0041788381fd742e5c4216aeb7cc1c7210a818fc2c4b570f5d9ee7a59": {
+		"title": "미 FDA, 면역체계 손상자에 부스터샷 접종 곧 승인",
+		"link": "www.yna.co.kr/view/AKR20210812025300091?section=safe/news",
+		"date": "08-12 08:56"
+	},
+	"3f94a81dad36f232804503d8e83fd965cab2f31ab69a11cadff1b9a634c41f45": {
+		"title": "셀트리온 코로나19 치료제 렉키로나, 브라질 긴급사용승인 획득",
+		"link": "www.yna.co.kr/view/AKR20210812031100017?section=safe/news",
+		"date": "08-12 08:50"
+	},
+	"e059807f0ab053d52857fbd47fa991607f0ff2eef7cb76c04bd546b109826287": {
+		"title": "광주·전남서 50명 신규 확진…해외입국 없이 모두 지역전파",
+		"link": "www.yna.co.kr/view/AKR20210812029100054?section=safe/news",
+		"date": "08-12 08:50"
+	},
+	"c256b7f48a54689b215cfd49175e81983d3c452fda025891baad16dfe1ff530c": {
+		"title": "경북 63명 확진…이틀째 60명대, 누계 6천 명 넘어",
+		"link": "www.yna.co.kr/view/AKR20210812026200053?section=safe/news",
+		"date": "08-12 08:28"
+	},
 	"493660fa73eb40f8dc1ea2aa6cce3c033d51daf4f2f7a26bebeb9355d2708e34": {
 		"title": "멕시코 하루 확진 2만2천명 최다 기록…누적 300만명 넘어서",
 		"link": "www.yna.co.kr/view/AKR20210812024000087?section=safe/news",
@@ -433,70 +498,5 @@
 		"title": "4단계 지역 요양병원 방문면회 금지…1~3단계는 비접촉 면회만(종합)",
 		"link": "www.yna.co.kr/view/AKR20210811071651530?section=safe/news",
 		"date": "08-11 12:20"
-	},
-	"819eed3417bd58da215ed3017c0e03b6beedbae630ee094d81211e1a048d56bf": {
-		"title": "'7말8초' 휴가 영향에 감염 크게 확산…\"정점인지는 더 지켜봐야\"",
-		"link": "www.yna.co.kr/view/AKR20210811089000530?section=safe/news",
-		"date": "08-11 12:15"
-	},
-	"2fa0524f0fab6473506e4313e0df3937ce2be88c6fbc1ddc2f693adf3b25e23a": {
-		"title": "베트남 중앙정부 \"호찌민시 코로나 확산 9월 중순 전에 통제\"",
-		"link": "www.yna.co.kr/view/AKR20210811089700084?section=safe/news",
-		"date": "08-11 12:13"
-	},
-	"6aa2c9e149aa6ffa1dc2fef4f0f9e2e927a33760c252da68246d4759e4791142": {
-		"title": "최악 시나리오 현실화하나…확진자 2천명 돌파에 전국 초비상",
-		"link": "www.yna.co.kr/view/AKR20210811087300061?section=safe/news",
-		"date": "08-11 12:02"
-	},
-	"4215cd3b9b4ff21790b1f52c31079ec95236c72ac8324c7725053926f927fdc8": {
-		"title": "'확진자 발생에도 영업 강행' 남창원농협 마트에 법적 조치 검토",
-		"link": "www.yna.co.kr/view/AKR20210811083100052?section=safe/news",
-		"date": "08-11 11:55"
-	},
-	"340aed70d9e74f1a75dece4ea0e54a97b8bc24659299995814c9b756505b1f99": {
-		"title": "코로나 하루 70만명씩 확진…'괴물 변이'에 지구촌 다시 비명",
-		"link": "www.yna.co.kr/view/AKR20210811081000009?section=safe/news",
-		"date": "08-11 11:50"
-	},
-	"a03bfe866ce8134d57cbd97a0018fbec677badc111f9ff2f64991608d730a51c": {
-		"title": "지난주 마스크 6천395만개 생산…가격 안정세 지속",
-		"link": "www.yna.co.kr/view/AKR20210811085600530?section=safe/news",
-		"date": "08-11 11:50"
-	},
-	"f22e7ce33fbbd336925dd9e6c23d6d48c232c13adf85d1d36590dd9ebe06c49a": {
-		"title": "학교노조 \"학생 학습·건강 위해 전면 등교 필요\"",
-		"link": "www.yna.co.kr/view/AKR20210811084700004?section=safe/news",
-		"date": "08-11 11:47"
-	},
-	"53ffd145c9c7451094e0979892b2e183a041983c57f34038e3441ad641e1b242": {
-		"title": "WHO \"백신불평등 치욕스러운 일\"…선진국에 해결 촉구",
-		"link": "www.yna.co.kr/view/AKR20210811082900009?section=safe/news",
-		"date": "08-11 11:46"
-	},
-	"2cdcabcbad4839f878f493f4742322836e8c339c34305dec269e3e5b76e91185": {
-		"title": "집단감염 '쉬쉬' 영업 강행한 남창원농협 조합장 대시민 사과",
-		"link": "www.yna.co.kr/view/AKR20210811083000052?section=safe/news",
-		"date": "08-11 11:46"
-	},
-	"fe707392c1350c5465062fc2cb27b9d3b4bf1b5583ef74161242730334373714": {
-		"title": "中 7월 하순이후 코로나 누적확진 1천명…델타 변이 영향",
-		"link": "www.yna.co.kr/view/AKR20210811077600097?section=safe/news",
-		"date": "08-11 11:42"
-	},
-	"8f4849716610a7e011bb7b33c87792b0e039040921087e87de18b30e7072b8b5": {
-		"title": "서울식물원 근로자 3명 추가 확진…22일까지 휴관",
-		"link": "www.yna.co.kr/view/AKR20210811084200004?section=safe/news",
-		"date": "08-11 11:42"
-	},
-	"0f2b24cde322fac684996f120125c65e125ecd1a88f5643c9013f6acd428c31e": {
-		"title": "해수욕장 등 휴가지 다녀온 공무원은 코로나19 선제검사 권고",
-		"link": "www.yna.co.kr/view/AKR20210811074200530?section=safe/news",
-		"date": "08-11 11:42"
-	},
-	"a4319a2265a6b564cc245a741e3795a980f38ea4879187c268ce84b9bbb7e60f": {
-		"title": "서울시 \"'하루 600명 이상' 며칠 이어지면 병상 부족\"",
-		"link": "www.yna.co.kr/view/AKR20210811083700004?section=safe/news",
-		"date": "08-11 11:41"
 	}
 }
