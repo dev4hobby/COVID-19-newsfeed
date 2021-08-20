@@ -1,4 +1,99 @@
 {
+	"7888a46c8946aa3a38b9e393b30f08f00d5ed345f407626a5b956fd29a62b3ce": {
+		"title": "진도군 공무원노조, \"코로나 방역 비난보다 적극 동참\" 호소",
+		"link": "www.yna.co.kr/view/AKR20210820067700054?section=safe/news",
+		"date": "08-20 11:31"
+	},
+	"d2c2537adebfb0d5756eff9cf50adead5efd9c09fb7446b6871014d44d77c2bb": {
+		"title": "일본 코로나 비극…코로나 임신부 병원 못찾아 아기 숨져[영상] ",
+		"link": "www.yna.co.kr/view/AKR20210820063700704?section=safe/news",
+		"date": "08-20 11:30"
+	},
+	"8a965c1b4d9ef465231a17be83012421dd09964857b8c6068c3d25777b9c0abe": {
+		"title": "서울시 \"사랑제일교회 시설폐쇄 불응시 고발\"",
+		"link": "www.yna.co.kr/view/AKR20210820067000004?section=safe/news",
+		"date": "08-20 11:30"
+	},
+	"6079d32e9e90e6eab1a7d9411819f8ebed4937a7e5a000ca2f65c095aed42eb0": {
+		"title": "전문가들 \"불가피한 조치지만 확진자 안 줄어들듯…중장기전략 필요\"",
+		"link": "www.yna.co.kr/view/AKR20210820050900530?section=safe/news",
+		"date": "08-20 11:27"
+	},
+	"0f4d2383e43dc4f58641160cb2156e0e4f480df9460b04dd989ba3d089b54373": {
+		"title": "충북 밤새 4개 시군서 25명 확진…산발감염 지속",
+		"link": "www.yna.co.kr/view/AKR20210820064500064?section=safe/news",
+		"date": "08-20 11:25"
+	},
+	"be7caca140b28136c5d88173cd16ec37f3bf905923adbccb01d7b8494b50b560": {
+		"title": "김천시 산단 근로자 8천여명에 코로나19 검사 행정명령",
+		"link": "www.yna.co.kr/view/AKR20210820063000053?section=safe/news",
+		"date": "08-20 11:24"
+	},
+	"ad006ca3c983898d7823f1e28aaa109f7e6a4426584fc36dbdb483dfc17569b1": {
+		"title": "서울 실내체육시설·공연연습실 집단감염…29명 확진",
+		"link": "www.yna.co.kr/view/AKR20210820065700004?section=safe/news",
+		"date": "08-20 11:22"
+	},
+	"2acd03ed6f61aafde9c21cc0ce1bf10000e36b38349a5216c817ae79f144c3ba": {
+		"title": "[속보] 정부 \"'위드 코로나' 전략 9월 말 10월에는 검토 가능할 듯\"",
+		"link": "www.yna.co.kr/view/AKR20210820065300530?section=safe/news",
+		"date": "08-20 11:19"
+	},
+	"369f8e4adececb774217ec8155a1dd3cdcab5281a779c96f785e81c974fbc419": {
+		"title": "서울 556명 신규 확진…사흘째 500명대(종합)",
+		"link": "www.yna.co.kr/view/AKR20210820043451004?section=safe/news",
+		"date": "08-20 11:15"
+	},
+	"5a5eba9c94ea68aa27989e590451c84d1cfad95473635cf02a71dd5f1f26b367": {
+		"title": "[속보] 지자체별로 방역수칙 위반 처분 후속 관리할 '이행점검단' 신설",
+		"link": "www.yna.co.kr/view/AKR20210820063200530?section=safe/news",
+		"date": "08-20 11:11"
+	},
+	"cefec619b77332e72089d12726ef145953bbbc9361cca72ef2f353516abb3370": {
+		"title": "[속보] \"거리두기 효과로 최악 상황은 방지…폭발적 유행 위험은 여전\"",
+		"link": "www.yna.co.kr/view/AKR20210820062300530?section=safe/news",
+		"date": "08-20 11:06"
+	},
+	"68a100cde5b4f0635604b9025e2b313360ae9b52611f8606913e732a0ba328e1": {
+		"title": "동해시 향토축제 '무릉제' 2년 연속 취소…\"확진자 지속 발생\"",
+		"link": "www.yna.co.kr/view/AKR20210820061400062?section=safe/news",
+		"date": "08-20 11:06"
+	},
+	"8bdd4c4c09944c7fd22831d12acb4d3ca361b2793ec14ac837023746f39abfc9": {
+		"title": "[속보] 정부 \"하루 2천500명 이상 지속 확진땐 현 의료체계로 대응 곤란\"",
+		"link": "www.yna.co.kr/view/AKR20210820059500530?section=safe/news",
+		"date": "08-20 11:01"
+	},
+	"949805840c939ac6b596acf66b13cf110da17a08279b0c628bb2130aae517eb5": {
+		"title": "[속보] 편의점 취식 4단계 지역 밤 9시, 3단계 지역 밤 10시 이후 금지",
+		"link": "www.yna.co.kr/view/AKR20210820057600530?section=safe/news",
+		"date": "08-20 11:00"
+	},
+	"6144559fa933fd1e071b1d12caf1061f43bcbf9d1df6c2a9a00ae9208867986f": {
+		"title": "[속보] 실내 흡연실 2ｍ 거리두기 강제 적용…소형 흡연실은 1인만 이용",
+		"link": "www.yna.co.kr/view/AKR20210820057700530?section=safe/news",
+		"date": "08-20 11:00"
+	},
+	"de0c4cb911c099f910d514ea98dc8e1a9e2e93228664c1fa516cf5daa40cb6e1": {
+		"title": "[속보] 정부 \"거리두기에도 이동량 정체…단기간 내 유행통제 곤란\"",
+		"link": "www.yna.co.kr/view/AKR20210820058800530?section=safe/news",
+		"date": "08-20 11:00"
+	},
+	"8b22c6262e5e9a462fda62bee572ddf6b6afc4395d2e91968092f4ccbf671c5f": {
+		"title": "[속보] \"국민의 26%인 1천300만명 이달까지 접종완료…내달 47% 예상\"",
+		"link": "www.yna.co.kr/view/AKR20210820059400530?section=safe/news",
+		"date": "08-20 11:00"
+	},
+	"e00578f223eecf2c7b180fb6a5e5faa93f20b6e4e81e11600f258b9f36e11589": {
+		"title": "수도권 식당-카페 영업 밤 9시까지…접종자 포함 4명까지 모임 허용",
+		"link": "www.yna.co.kr/view/AKR20210820058500530?section=safe/news",
+		"date": "08-20 11:00"
+	},
+	"7d90700a8d36b55026e719fd21bdd42bea404463e09698c31fb14b0965300cdb": {
+		"title": "인천서 120명 확진…매장·직장·모임서 새 집단감염",
+		"link": "www.yna.co.kr/view/AKR20210820060300065?section=safe/news",
+		"date": "08-20 10:59"
+	},
 	"039995e4c2d7d48e00004050319139f26c18a0337f66e09da48edf941da9c81b": {
 		"title": "대구 신규 확진 39명…일상 접촉에 의한 감염 이어져(종합)",
 		"link": "www.yna.co.kr/view/AKR20210820020851053?section=safe/news",
@@ -403,100 +498,5 @@
 		"title": "제주 코로나19 50명 추가 확진…8월 누적 560명",
 		"link": "www.yna.co.kr/view/AKR20210819148000056?section=safe/news",
 		"date": "08-19 17:23"
-	},
-	"c4e448c4c4c97b7c1c6c4e1f74ca120d02921fe7f38891d5c48ce2d1507e9bce": {
-		"title": "천안 건축 현장 외국인 2명 더 확진…누적 12명",
-		"link": "www.yna.co.kr/view/AKR20210819148600063?section=safe/news",
-		"date": "08-19 17:23"
-	},
-	"097098262680dcaab0cda85ed9f117e902fb171e23b33def5ae769a0227236bb": {
-		"title": "\"해외입국자 상대하는데 하청은 우선접종 제외\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20210819133651004?section=safe/news",
-		"date": "08-19 17:03"
-	},
-	"95b30f2143652f8976649f879bacb3b838bb9bdd7376e0677e35c056c22240e3": {
-		"title": "아산 의료기기 체험 숍 관련 4명 추가 확진…누적 6명",
-		"link": "www.yna.co.kr/view/AKR20210819141000063?section=safe/news",
-		"date": "08-19 16:49"
-	},
-	"51046724acc3886f7ee4e521dc886ba284b741e40c8b547a33eb2bd05a66c316": {
-		"title": "군산시, 외국인 노동자 코로나19 선제검사로 이틀간 16명 찾아내",
-		"link": "www.yna.co.kr/view/AKR20210819140300055?section=safe/news",
-		"date": "08-19 16:41"
-	},
-	"a82fa46c4ab2416d217bfd299833b9a05d258cb6ddf93476732874a54a2d4093": {
-		"title": "\"델타변이 무섭네\" 4단계 격상 2주 넘은 충주 확산세 안 잡혀",
-		"link": "www.yna.co.kr/view/AKR20210819132600064?section=safe/news",
-		"date": "08-19 16:27"
-	},
-	"36c28ded6ee628c3339cfbf612ecce045867e2bbad5dbb6756b45dd0adf980a5": {
-		"title": "'화물 세계 최대' 中닝보항, 코로나 봉쇄 여파 물동량 10% 감소",
-		"link": "www.yna.co.kr/view/AKR20210819134500097?section=safe/news",
-		"date": "08-19 16:22"
-	},
-	"bd7a62a3446f00f88b992778b69ca903005e0e0f3a9dca76c6c3a0abdfb52248": {
-		"title": "코로나19 확산에 '새만금 케이팝 페스티벌' 10월 말로 연기",
-		"link": "www.yna.co.kr/view/AKR20210819134700055?section=safe/news",
-		"date": "08-19 16:21"
-	},
-	"78fa9a551df5fc241f37a11f19dccb71bc6958427e52e00d2f0e0371d6129ccd": {
-		"title": "울산시, 코로나19 민생 맞춤형 지원에 103억원 투입",
-		"link": "www.yna.co.kr/view/AKR20210819135800057?section=safe/news",
-		"date": "08-19 16:20"
-	},
-	"eade74d65993bea2c127ebff48849d751c9f56768095efae984f9c93ec07a791": {
-		"title": "\"해외입국자 상대하는데 하청은 우선접종 제외\"",
-		"link": "www.yna.co.kr/view/AKR20210819133600004?section=safe/news",
-		"date": "08-19 16:18"
-	},
-	"2aa17abc9c5c97c9f1e747590e5fe58122146fe787130a417862b29c4a72ce2a": {
-		"title": "강릉커피축제 11월로 연기…\"코로나19 4차 대유행 영향\"",
-		"link": "www.yna.co.kr/view/AKR20210819130500062?section=safe/news",
-		"date": "08-19 16:09"
-	},
-	"2cdd521b370dffd4b1195a0f7cf2dcf68c914f98e6f6f124db40ac70f7dfab8a": {
-		"title": "도요타, 9월 생산량 35만대 줄인다…반도체 부족·코로나 여파",
-		"link": "www.yna.co.kr/view/AKR20210819130100073?section=safe/news",
-		"date": "08-19 16:07"
-	},
-	"cf5e9c3574f8d3edd4ca3b76f9740c7f491b7ed5a3cbc4432e7a840a929ec1aa": {
-		"title": "'코로나19 방역이 우선\"…청원생명축제 2년 연속 취소",
-		"link": "www.yna.co.kr/view/AKR20210819129300064?section=safe/news",
-		"date": "08-19 16:06"
-	},
-	"97d41e1325fbb2975f91b8fdec3e7a7513f7d94ae93b67e27e432b276236af71": {
-		"title": "거리두기 재연장속 접종 인센티브 부활?…당국 \"인센티브 검토 필요\"",
-		"link": "www.yna.co.kr/view/AKR20210819124400530?section=safe/news",
-		"date": "08-19 16:03"
-	},
-	"ca4e5bbb6dae4d4a23e63c49d900cdf18c4afde1a5d29b06fc631d9b3401f8bd": {
-		"title": "김천시 방역수칙 위반 유흥시설 4곳 적발",
-		"link": "www.yna.co.kr/view/AKR20210819130800053?section=safe/news",
-		"date": "08-19 16:01"
-	},
-	"7d3bc144f157bb394cbdade9e07f4f0db22f0d2cb5dca06bbe432a59eba73062": {
-		"title": "강원 8월 둘째 주 델타형 변이 검출률 96.8%…돌파감염 48명",
-		"link": "www.yna.co.kr/view/AKR20210819128100062?section=safe/news",
-		"date": "08-19 15:56"
-	},
-	"360a5f631202ebda3e1ad83d15df99cbd8603a1b8b7ac2d376ad1bff56ae29f5": {
-		"title": "'밀집·밀접·밀폐 환경' 함께 숙식…외국인 노동자 감염 잇따라",
-		"link": "www.yna.co.kr/view/AKR20210819122700052?section=safe/news",
-		"date": "08-19 15:52"
-	},
-	"c4eb3da8f537af44ea45194137511003cf82210a91453a42bc4c63c34785dec9": {
-		"title": "교원단체들, 조희연 '전면등교'에 \"과밀학급 해소 대책 없어\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20210819106651530?section=safe/news",
-		"date": "08-19 15:48"
-	},
-	"9962018828e743568f031b52575ba606067593d50329402d3cd26ea9ffc22039": {
-		"title": "동해시 공무원 1명 확진…복지과 27일까지 폐쇄",
-		"link": "www.yna.co.kr/view/AKR20210819126600062?section=safe/news",
-		"date": "08-19 15:43"
-	},
-	"f17090562cf1186961f034c43f7dce8a4de7b3405188ef0fc27a4cc8b9da02da": {
-		"title": "김지철 충남교육감 \"2학기 개학시점부터 모든 학교 전면 등교\"",
-		"link": "www.yna.co.kr/view/AKR20210819121100063?section=safe/news",
-		"date": "08-19 15:40"
 	}
 }
