@@ -1,4 +1,74 @@
 {
+	"05a9d06acaccfbaea1aefaf463f43d1c1d09e841323eb6aa932f513ea2b5a532": {
+		"title": "울산 35명 신규 확진…5개 집단감염 사례 관련 25명 포함",
+		"link": "www.yna.co.kr/view/AKR20210831080600057?section=safe/news",
+		"date": "08-31 11:15"
+	},
+	"794888a659a2a8de4ca9ab1988bdeddab4fb8114a668b335234d96ea17ff463f": {
+		"title": "서울시 \"코로나로 돌봄SOS센터 이용 증가\"",
+		"link": "www.yna.co.kr/view/AKR20210830149000004?section=safe/news",
+		"date": "08-31 11:15"
+	},
+	"cd1ce4381eef772bd426a5a628de4a67239e84f33bb83568cc14e663bf71b79c": {
+		"title": "\"백신 접종 캠페인, 나치 같다\" 미 라디오 진행자 코로나로 숨져",
+		"link": "www.yna.co.kr/view/AKR20210831060300091?section=safe/news",
+		"date": "08-31 11:11"
+	},
+	"cdc70b944111d76a322d2ecc90189620ccf7e968b450391c1d5c79ff82d4632c": {
+		"title": "[2022예산] 신규 9천만회분 포함 내년도 백신 1억7천만회분…1조 백신펀드 조성",
+		"link": "www.yna.co.kr/view/AKR20210830153300530?section=safe/news",
+		"date": "08-31 11:10"
+	},
+	"5a8807bb87caac226c69c7d7f3da3eae8412cd5398df1625e25bd2a85a42ce6c": {
+		"title": "기부금 때문에 감염병병원 부지 예산삭감?…정부 \"사실 아니다\"",
+		"link": "www.yna.co.kr/view/AKR20210831073900530?section=safe/news",
+		"date": "08-31 11:10"
+	},
+	"34629cf8eef877525cd79348927170e7b5dd666f14d255b455e6edd79868811a": {
+		"title": "전남 8월 발생 코로나 확진자 556명…월별 최고",
+		"link": "www.yna.co.kr/view/AKR20210831078200054?section=safe/news",
+		"date": "08-31 11:08"
+	},
+	"7c01dbaffdf1179efa2366839631999c7a204f05c1eee6d10d3ac550b403146b": {
+		"title": "대구 대학병원발 14명 추가 확진…의료진 등 누적 175명(종합)",
+		"link": "www.yna.co.kr/view/AKR20210831027051053?section=safe/news",
+		"date": "08-31 11:04"
+	},
+	"08a1c70763a08d8500476b2728ce561eadd46753a234c08d8b24587e2b8b0f3d": {
+		"title": "부산해경 경비함정 코로나19 방역상황 점검",
+		"link": "www.yna.co.kr/view/AKR20210831078000051?section=safe/news",
+		"date": "08-31 11:04"
+	},
+	"dae11d9d9c4aea35dbb6685bd07d9baab7ec332216f8034537af4f78e6749fb4": {
+		"title": "MLB, 다시 코로나19 '비상'…샌프란시스코도 확진자 속출",
+		"link": "www.yna.co.kr/view/AKR20210831075800007?section=safe/news",
+		"date": "08-31 10:56"
+	},
+	"274d4e2ada78195566252189298cb4206e23958b6839ca88c258c4bd57c41eb6": {
+		"title": "\"미 국방부, 자폭테러 임박 알고도 출입구 폐쇄 안 해\"",
+		"link": "www.yna.co.kr/view/AKR20210831070100009?section=safe/news",
+		"date": "08-31 10:54"
+	},
+	"ecd91d4b84fe865b0811edcbab795242005863d40c8a47c2a92ba0cc03415134": {
+		"title": "청주 남이면사무소 직원 2명 확진…청사 폐쇄",
+		"link": "www.yna.co.kr/view/AKR20210831068700064?section=safe/news",
+		"date": "08-31 10:52"
+	},
+	"05dc0e17f59556000f217b474211aeeffe41a516fe77bdc65964e17359017b77": {
+		"title": "충북 22명 확진…청주 등 4개 시·군 n차감염 지속",
+		"link": "www.yna.co.kr/view/AKR20210831065200064?section=safe/news",
+		"date": "08-31 10:46"
+	},
+	"07d909086fd15b975bb620f61ac2f61f1da824d3b1c7ce8151019c5bc674695a": {
+		"title": "델타변이에도 알루미늄 값은 10년만의 최고…\"물류차질 탓\"",
+		"link": "www.yna.co.kr/view/AKR20210831064700009?section=safe/news",
+		"date": "08-31 10:44"
+	},
+	"0f06b5cdba1b35868b0e6295d2404830a3b0562a59c4dc8b9a3179e04b8e76c7": {
+		"title": "한국산업기술시험원, 공연장 내 코로나19 대응 매뉴얼 개발",
+		"link": "www.yna.co.kr/view/AKR20210831066500052?section=safe/news",
+		"date": "08-31 10:40"
+	},
 	"350341d41dd8364f0caa98f0d24d277f99716300dd17b69d7058b6dd68c9df2e": {
 		"title": "군 코로나19 확진자 2명 추가…모두 '돌파감염'",
 		"link": "www.yna.co.kr/view/AKR20210831067100504?section=safe/news",
@@ -428,75 +498,5 @@
 		"title": "새 시즌 앞둔 프로농구도 코로나 확진자 발생…삼성 선수 등 3명",
 		"link": "www.yna.co.kr/view/AKR20210830115900007?section=safe/news",
 		"date": "08-30 15:29"
-	},
-	"a184ec69c1bba19ace3dc10dcb46c788bf5bbfd7ab991a4ccc973e44b712f118": {
-		"title": "이틀간 백신 이상반응 2천862건↑…사망 4명↑ 인과성은 미확인(종합)",
-		"link": "www.yna.co.kr/view/AKR20210830043351530?section=safe/news",
-		"date": "08-30 15:24"
-	},
-	"4538240dff021fa062a2e6330e482e4dea9a6d26c3f00fd4a89753a089b4f156": {
-		"title": "해남군보건소 일반업무 중단 코로나 선별진료소 투입 '총력전'",
-		"link": "www.yna.co.kr/view/AKR20210830113500054?section=safe/news",
-		"date": "08-30 15:22"
-	},
-	"357f4980167607b24754069c75e32fd8af9dccbf964f7d410eb79880df36fbda": {
-		"title": "직장-어린이집 등서 새 집단발병…감염경로 '조사중' 33.6% 최고치",
-		"link": "www.yna.co.kr/view/AKR20210830102100530?section=safe/news",
-		"date": "08-30 15:17"
-	},
-	"a4da58b2fed44e88bfdbe524c4f333877a3469ec4d003e406e53481658006466": {
-		"title": "1차접종 2천864만1천79명, 인구 55.8%…잔여백신 1천48만회분(종합)",
-		"link": "www.yna.co.kr/view/AKR20210830043951530?section=safe/news",
-		"date": "08-30 15:11"
-	},
-	"089440b0b3af91416944762cf753b0cd28274e4588f23a371dadad3a89d6b08f": {
-		"title": "문대통령 \"고령층·의료진 등 고위험군부터 부스터샷 접종\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20210830104551001?section=safe/news",
-		"date": "08-30 15:08"
-	},
-	"bf051b242e19142e611668ba5fc5ec4c010520d927ba80cd0d06a334523480d5": {
-		"title": "전북도, 외국인 노동자·미등록 외국인 등에 얀센 백신 접종",
-		"link": "www.yna.co.kr/view/AKR20210830106300055?section=safe/news",
-		"date": "08-30 14:57"
-	},
-	"05bc2c9f1a5ef19085e38030f0f7473eec3cf473c31d3494d84f65cb3d88b24e": {
-		"title": "정은경 \"4분기부터 부스터샷 접종 시행…세부계획 수립 중\"",
-		"link": "www.yna.co.kr/view/AKR20210830105600530?section=safe/news",
-		"date": "08-30 14:55"
-	},
-	"b78876ddaae18a4d17c4bd92a7a488519ce31ef23f151ac2c132564f2e48cf2d": {
-		"title": "AZ백신 119만2천회분 내일 추가 공급…직계약 2천만회분 공급 완료",
-		"link": "www.yna.co.kr/view/AKR20210830104100530?section=safe/news",
-		"date": "08-30 14:53"
-	},
-	"8361165d1d9382551d9180421be011d0b2057cc6f55495352a797646ccf31808": {
-		"title": "[속보] \"12∼17세는 화이자, 임신부는 화이자 또는 모더나로 접종 예정\"",
-		"link": "www.yna.co.kr/view/AKR20210830103600530?section=safe/news",
-		"date": "08-30 14:43"
-	},
-	"997392660333fd0e0c3c2213832f283627cbe5795f4c4b8ee8e2846a85725088": {
-		"title": "12~17세 소아청소년-임신부도 4분기부터 접종…6개월후 부스터샷",
-		"link": "www.yna.co.kr/view/AKR20210830101500530?section=safe/news",
-		"date": "08-30 14:43"
-	},
-	"3f37d610b3ab36b12c50f2cd9ce552c4c1af19dc2e387fe58b4841eaf553f22a": {
-		"title": "[속보] 정은경 \"18세 이상 성인 백신 접종률 80% 이상일 것으로 예상\"",
-		"link": "www.yna.co.kr/view/AKR20210830100100530?section=safe/news",
-		"date": "08-30 14:25"
-	},
-	"4b4cfa6c802111c1e073ed5d0a016b3526535c15910ed90794af5c48da4f4889": {
-		"title": "광주 16명 신규 확진…가족·동료·지인 등 일상 감염 지속",
-		"link": "www.yna.co.kr/view/AKR20210830098800054?section=safe/news",
-		"date": "08-30 14:24"
-	},
-	"e75aa3ae38c012999fc870cc7e79f24d349363c4e38015dc95286bab51939b5a": {
-		"title": "[속보] 50·60·70대 1차 접종률 모두 90% 넘어…80세 이상은 82.3%",
-		"link": "www.yna.co.kr/view/AKR20210830099100530?section=safe/news",
-		"date": "08-30 14:22"
-	},
-	"9d7d8da0c1568900f48d2e6547795ff78ef944f7c424041983c47b4d3fa31f97": {
-		"title": "부산 55일 만에 30명대로 감소…\"거리두기 하향 논의 중\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20210830021751051?section=safe/news",
-		"date": "08-30 14:19"
 	}
 }
