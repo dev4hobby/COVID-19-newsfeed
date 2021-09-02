@@ -1,4 +1,14 @@
 {
+	"86ce765656cd148565bae134e29c69574f2a710e82d5b921c1a110fa97cd58db": {
+		"title": "[속보] 오후 6시까지 전국서 1천438명 확진…어제보다 60명 적어",
+		"link": "www.yna.co.kr/view/AKR20210902155100530?section=safe/news",
+		"date": "09-02 18:23"
+	},
+	"4feef384d03e15bceb1fbd300a884c2fa687f13b565b230bd9183f056911aeca": {
+		"title": "오후 6시까지 서울 463명 확진…전날보다 26명↓",
+		"link": "www.yna.co.kr/view/AKR20210902151900004?section=safe/news",
+		"date": "09-02 18:22"
+	},
 	"c6a5584a8bbb69f809223ee726cba70727e6cd66eb71f2b81f2152f8bbdecf2d": {
 		"title": "'위드 코로나' 이스라엘 신규확진 또 최다…절반이상 18세 미만",
 		"link": "www.yna.co.kr/view/AKR20210902151200079?section=safe/news",
@@ -488,15 +498,5 @@
 		"title": "노정협상 타결…코로나19 치료병원 인력기준 마련-생명안전수당 도입",
 		"link": "www.yna.co.kr/view/AKR20210902004500530?section=safe/news",
 		"date": "09-02 04:15"
-	},
-	"293de542d0330f4929f7a018308f75ff37f42631fd531b0c583be3e3afaeb70a": {
-		"title": "애플, 미국 전 직원에 \"백신 접종 여부 자발적으로 보고하라\"",
-		"link": "www.yna.co.kr/view/AKR20210902004800091?section=safe/news",
-		"date": "09-02 04:06"
-	},
-	"b104cd06063b1c7315215f3c80fd9c8c09e5572eba029a5cd8adbd5b496409e6": {
-		"title": "美 하루평균 확진 16만명…CDC 국장 \"백신 미접종자, 여행 말라\"",
-		"link": "www.yna.co.kr/view/AKR20210902003600091?section=safe/news",
-		"date": "09-02 03:29"
 	}
 }
