@@ -1,4 +1,69 @@
 {
+	"30c091130a2dbd8a772600c08e6e3527b47c7c0c43bbb4863b94786bab5aec8c": {
+		"title": "코로나19 이후 골프 관련 특허출원 급증…1년 새 100건 이상 ↑",
+		"link": "www.yna.co.kr/view/AKR20210906033900063?section=safe/news",
+		"date": "09-06 09:36"
+	},
+	"0dd44ee2f29fc4501c4abc108c4cf8b6ee1cb13ec558ed8cdc2884b895e75fbc": {
+		"title": "싱가포르, 한국 '코로나 카테고리 2'로 완화…자가격리 14→7일",
+		"link": "www.yna.co.kr/view/AKR20210906036200076?section=safe/news",
+		"date": "09-06 09:35"
+	},
+	"404f045a5604e00e2b1d6ef1fa4b978f4d0cfd51c3bf2ff5d17538d2bfcfbd70": {
+		"title": "[속보] 서울 464명-경기 400명-인천 83명-충남 62명-경남 57명 등 확진",
+		"link": "www.yna.co.kr/view/AKR20210906025900530?section=safe/news",
+		"date": "09-06 09:32"
+	},
+	"0a76374ccea36d54c61eb574da88595fa65cad308c491b938730354acfb2a8b0": {
+		"title": "[속보] 이틀간 백신 이상반응 2천451건↑…사망 4명↑ 인과성은 미확인",
+		"link": "www.yna.co.kr/view/AKR20210906037200530?section=safe/news",
+		"date": "09-06 09:32"
+	},
+	"8f54df51eb48583cac4d2935aab6eb915fd1cd2d838898107110063f6d05570a": {
+		"title": "[속보] 백신 1차접종 8천305명↑ 총 3천만5천459명…인구대비 58.4%",
+		"link": "www.yna.co.kr/view/AKR20210906027100530?section=safe/news",
+		"date": "09-06 09:31"
+	},
+	"267e169b973e765f23c9e59e598955fb4e25d32acc3a587f229bf0c1484eafd4": {
+		"title": "[2보] 신규확진 1천375명 62일째 네자릿수…소폭 내림세속 확산세 여전",
+		"link": "www.yna.co.kr/view/AKR20210906017200530?section=safe/news",
+		"date": "09-06 09:31"
+	},
+	"929fca5f879b75ff21d10031e837f453c6e5e86db133d5b10e88794e61a33ee1": {
+		"title": "[속보] 코로나19로 어제 6명 사망…국내 누적 2천327명",
+		"link": "www.yna.co.kr/view/AKR20210906017300530?section=safe/news",
+		"date": "09-06 09:30"
+	},
+	"e0922b3d20bf907b28ace9f07adb28f969452e25624402b3a6b31a80a982dcd4": {
+		"title": "[1보] 신규확진 1천375명 62일째 네자릿수…소폭 내림세속 확산세 여전",
+		"link": "www.yna.co.kr/view/AKR20210906017100530?section=safe/news",
+		"date": "09-06 09:30"
+	},
+	"7aaf07e2d532c5e9db04de50dd50a9cdb2b7bf148e886e5b1f36c0359b81f203": {
+		"title": "김포시청 공무원 1명 확진…민원동 1층 임시 폐쇄",
+		"link": "www.yna.co.kr/view/AKR20210906030900065?section=safe/news",
+		"date": "09-06 09:11"
+	},
+	"d7dac800e4beac42c2c8e3e0ece5a7924d6831a6dcad4756d167faec573e8d3a": {
+		"title": "진원생명, 국가임상재단과 코로나백신 임상 대상자 모집 협력",
+		"link": "www.yna.co.kr/view/AKR20210906030700017?section=safe/news",
+		"date": "09-06 09:10"
+	},
+	"455e54dd2d660be4bf2d4ba2878149d5589d16e877b886ec803fd0b92b40963f": {
+		"title": "광주 27명·전남 4명 확진…외국인 관련 코로나 확산 지속",
+		"link": "www.yna.co.kr/view/AKR20210906021400054?section=safe/news",
+		"date": "09-06 08:38"
+	},
+	"6d1577fbca6c1c895e36213e6077d1769af6bf2f8ab5a8e643323218c6b39c44": {
+		"title": "경북 38명 확진…구미서만 교회 관련 8명 등 17명",
+		"link": "www.yna.co.kr/view/AKR20210906018800053?section=safe/news",
+		"date": "09-06 08:32"
+	},
+	"bed806325b88a27c1b7dcae05796a45688cd5293078a5f9cfc55b67b00f6490f": {
+		"title": "대구서 43명 확진…대학병원 관련 4명 추가",
+		"link": "www.yna.co.kr/view/AKR20210906019300053?section=safe/news",
+		"date": "09-06 08:29"
+	},
 	"348470bfd262a0151b4e1e7b9bf0ab9784326b9952c4d12754e0f2fb058ef910": {
 		"title": "\"10월초 '위드코로나' 조기 전환, 찬성 58.5% 반대 34.3%\"",
 		"link": "www.yna.co.kr/view/AKR20210906009400001?section=safe/news",
@@ -433,70 +498,5 @@
 		"title": "거리두기 연장…내일부터 수도권 식당-카페 밤 10시까지 6인 허용",
 		"link": "www.yna.co.kr/view/AKR20210904040600530?section=safe/news",
 		"date": "09-05 04:41"
-	},
-	"8c5e6bc8a0f560eb276b06674c58846618fd72a5653324f449ac6c39e196f406": {
-		"title": "오늘 1천500명대…접종 인센티브 확대로 '위드 코로나' 실험적 첫발",
-		"link": "www.yna.co.kr/view/AKR20210904039600530?section=safe/news",
-		"date": "09-05 04:35"
-	},
-	"3da75d80f487016c9e57e579a30cdc90dc696334bceade93d81ca7adaa02a1d2": {
-		"title": "케냐, 존슨앤존슨 백신 첫 물량 14만 도스 도입",
-		"link": "www.yna.co.kr/view/AKR20210904052200009?section=safe/news",
-		"date": "09-05 00:26"
-	},
-	"01a50aea051ac270052dd73a61588c9b58670768b382c4e03a3e32b97e836ea1": {
-		"title": "백신 남몰래 맞았던 트럼프, 부스터샷도 \"안 맞을 것같다\"",
-		"link": "www.yna.co.kr/view/AKR20210904051800071?section=safe/news",
-		"date": "09-04 22:59"
-	},
-	"6db32870b7e222f496d55503037bf9acf9f3c606ae982739541f390b3ea0f18c": {
-		"title": "호주 뉴사우스웨일스주 일일 신규확진자 1천500명 첫 돌파",
-		"link": "www.yna.co.kr/view/AKR20210904051100093?section=safe/news",
-		"date": "09-04 22:28"
-	},
-	"ad71c63cbf3fa6b51d9cea9e4ac967b02e396a363213be1aa761581e36cecfb0": {
-		"title": "충북서 17명 확진…감염경로 미확인 다수(종합)",
-		"link": "www.yna.co.kr/view/AKR20210904041951064?section=safe/news",
-		"date": "09-04 22:04"
-	},
-	"1bcd88c25c179e0fd69a79b64a6e00495c7278e53acbd347255eccc0f4d93f41": {
-		"title": "고대구로병원 140여명에 화이자 오접종…기한 7일 지난 백신도 사용(종합2보)",
-		"link": "www.yna.co.kr/view/AKR20210904029052530?section=safe/news",
-		"date": "09-04 21:55"
-	},
-	"82a7069d55c7163cc7a41444a8503375f34b395d371ee285207872cfef403413": {
-		"title": "\"유엔 안보리, 대북 제재 완화 논의…코로나19 곤경 고려\"",
-		"link": "www.yna.co.kr/view/AKR20210904049300080?section=safe/news",
-		"date": "09-04 21:20"
-	},
-	"7107ad4584fb093e33ce1bf7d564366687a8a1dcac2faa8f7ab34689bd72eb8d": {
-		"title": "오후 9시까지 서울 513명 확진…전날보다 37명↓",
-		"link": "www.yna.co.kr/view/AKR20210904044051004?section=safe/news",
-		"date": "09-04 21:04"
-	},
-	"3d5576ef5c460b25513dda3b7b600c6f7b7c913855e1c46caf7331e2b8224c8c": {
-		"title": "일본 코로나 신규 확진 1만6천명대…도쿄 2천362명",
-		"link": "www.yna.co.kr/view/AKR20210904048600073?section=safe/news",
-		"date": "09-04 20:51"
-	},
-	"04ef5803707311c1e258d8b48124a67647211dddbbdcb27bff351b620745d6dd": {
-		"title": "남아공 정부, 코로나19 백신 접종 의무화에 '부정적'",
-		"link": "www.yna.co.kr/view/AKR20210904045700099?section=safe/news",
-		"date": "09-04 20:30"
-	},
-	"199514135ab37ecfe2bfdf6a97eb7dd200162241aac5b38f5ace70d7ef084d9f": {
-		"title": "마크롱, EU 농약 사용 감축 추진…\"병든 지구엔 백신도 없다\"",
-		"link": "www.yna.co.kr/view/AKR20210904045000081?section=safe/news",
-		"date": "09-04 20:16"
-	},
-	"f2a178e084ccd0b729696b6ccae6f0c4b6b99e12277e86df65574c9489e062b4": {
-		"title": "오후 6시까지 전국서 1천286명 확진…어제보다 208명 적어",
-		"link": "www.yna.co.kr/view/AKR20210904043600530?section=safe/news",
-		"date": "09-04 18:40"
-	},
-	"8b692884b0bf25efd1692fd1a6daa53b29044e9dd3c775045f3237f770254dd7": {
-		"title": "오후 6시까지 서울 450명 확진…집단감염 확산",
-		"link": "www.yna.co.kr/view/AKR20210904044000004?section=safe/news",
-		"date": "09-04 18:35"
 	}
 }
