@@ -1,4 +1,39 @@
 {
+	"b84ab4be627d1d5a7998e8ec97dbb9b770267ea62f638bd0cb242b42b594c9b9": {
+		"title": "서울 지난주 하루 평균 534명 확진…2주 연속 최다",
+		"link": "www.yna.co.kr/view/AKR20210906070300004?section=safe/news",
+		"date": "09-06 11:27"
+	},
+	"b4c1326d1d0238ac54ff072924155ef036264112dd89a043347bf0a59bd38d0f": {
+		"title": "서울서 고시원·실내체육시설 등 집단감염 계속",
+		"link": "www.yna.co.kr/view/AKR20210906069400004?section=safe/news",
+		"date": "09-06 11:24"
+	},
+	"63181ecd5862545f0a77db499b49d0791d7d6408c7b5a64c694ecfd45f79ccdb": {
+		"title": "전북 이틀간 코로나19 19명 확진…확산세 '주춤'",
+		"link": "www.yna.co.kr/view/AKR20210906067600055?section=safe/news",
+		"date": "09-06 11:19"
+	},
+	"c1a03ab7b8b8ecd791aeb58312adec0e0bb05cf1f43d7b686c2f19ea69e34f89": {
+		"title": "전남 광양서 중학생 21명 집단감염…가족 이동중지 권고(종합)",
+		"link": "www.yna.co.kr/view/AKR20210906067800054?section=safe/news",
+		"date": "09-06 11:19"
+	},
+	"a642f559ecf2eee1de8e0e93b117df9bce0e16e76228a4f4dabb144a4dc1f648": {
+		"title": "충북 21명 확진…소년원·자동차영업소 연쇄감염 지속",
+		"link": "www.yna.co.kr/view/AKR20210906065800064?section=safe/news",
+		"date": "09-06 11:17"
+	},
+	"eb514df8244507fa4faf87fdbf97603c5758a987f887678ee81fe68f0349b86d": {
+		"title": "서울 464명 신규 확진…1주 전보다 22명↑(종합)",
+		"link": "www.yna.co.kr/view/AKR20210906040051004?section=safe/news",
+		"date": "09-06 11:14"
+	},
+	"4def5fefefc44c1e99b98e05ad1524010288ce9ec3452b4c1c50a37027496f00": {
+		"title": "대구서 43명 확진…대학병원 관련 4명 추가(종합)",
+		"link": "www.yna.co.kr/view/AKR20210906019351053?section=safe/news",
+		"date": "09-06 11:07"
+	},
 	"b6857a72778baa9e611285b938143b03d6af8dead397aaae75d0f8e8858532f0": {
 		"title": "안산시, 확진자 통계·스마트폰 위치정보로 맞춤형 방역",
 		"link": "www.yna.co.kr/view/AKR20210906060400061?section=safe/news",
@@ -463,40 +498,5 @@
 		"title": "외국인 밀집 광주 광산구서 코로나19 백신 단체접종 시작",
 		"link": "www.yna.co.kr/view/AKR20210905025500054?section=safe/news",
 		"date": "09-05 11:36"
-	},
-	"cfbc635653aa2460cfd8c225987e07cc48050af5c3a9c6ce304da9d9154b5e7a": {
-		"title": "전북 코로나19 확진자 14명 추가 발생…누적 3천700명",
-		"link": "www.yna.co.kr/view/AKR20210905025200055?section=safe/news",
-		"date": "09-05 11:16"
-	},
-	"765793cd37ea595f40f57f0a1602fc721fcf90063894ffed63607467bf0558ca": {
-		"title": "은평구 종교시설 집단감염 20명 확진",
-		"link": "www.yna.co.kr/view/AKR20210905025100004?section=safe/news",
-		"date": "09-05 11:10"
-	},
-	"a70578ec5d12c59d84afd2e94f148e43ec72a937e9fb45be9f6b46242a1f1c3e": {
-		"title": "서울 508명 신규 확진…1주 전보다 9명↓(종합)",
-		"link": "www.yna.co.kr/view/AKR20210905016651004?section=safe/news",
-		"date": "09-05 11:06"
-	},
-	"e22cabcab72504e923301e3ccc227f4763d46413a8291756f0a084663533cc7b": {
-		"title": "인천 100명 추가 확진·1명 사망…어린이집 관련 감염 잇따라",
-		"link": "www.yna.co.kr/view/AKR20210905021100065?section=safe/news",
-		"date": "09-05 10:42"
-	},
-	"8569cd2c9e86e651f3474e3d9bb79b52864fd8ac40699694efa9ba7e2eabf2d5": {
-		"title": "주태국 中대사관 \"중국산 시노백 백신 비판, 양국 관계 손상\"",
-		"link": "www.yna.co.kr/view/AKR20210905019200076?section=safe/news",
-		"date": "09-05 10:25"
-	},
-	"ce83cfd428d685a253e20a60ce1eda03f05db3b45cbc0815abc22b00d860aa70": {
-		"title": "대구·경북 신규 확진자 62명 발생",
-		"link": "www.yna.co.kr/view/AKR20210905018900053?section=safe/news",
-		"date": "09-05 10:14"
-	},
-	"f784e8cccf5a52690381f5fc49428b456bd560cf39e5657af04057efbf0df620": {
-		"title": "울산 코로나 19명 확진…대부분 기존 확진자 접촉자",
-		"link": "www.yna.co.kr/view/AKR20210905017800057?section=safe/news",
-		"date": "09-05 10:06"
 	}
 }
