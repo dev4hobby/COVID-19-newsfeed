@@ -1,4 +1,54 @@
 {
+	"68b41e0b6a8a836c90d4ce8cde41486b91727eca762aa0dc21a5b90b244c0955": {
+		"title": "[속보] 이틀간 백신 이상반응 8천165건↑…사망 18명↑ 인과성은 미확인",
+		"link": "www.yna.co.kr/view/AKR20210908041400530?section=safe/news",
+		"date": "09-08 09:32"
+	},
+	"ecbfe511e38719c34640c02c917431fbf93ff04fcd3e10810190fa4001339305": {
+		"title": "[속보] 1차접종 57만3천321명↑ 총 3천132만3천194명…인구대비 61.0%",
+		"link": "www.yna.co.kr/view/AKR20210908030600530?section=safe/news",
+		"date": "09-08 09:32"
+	},
+	"3acb5d146ce8b9b1169def6090776b92d765a7a4489f767277d31f1b0b77a417": {
+		"title": "[속보] 경기 703명-서울 671명-인천 120명-충남 84명-경남 70명 등 확진",
+		"link": "www.yna.co.kr/view/AKR20210908030000530?section=safe/news",
+		"date": "09-08 09:31"
+	},
+	"96681ae9214be2f42cc54364598f3c54a31911ca598c3e1b1516f908088d494c": {
+		"title": "[2보] 신규확진 2천50명, 1주일만에 다시 2천명대…수도권 본격 재확산",
+		"link": "www.yna.co.kr/view/AKR20210908028100530?section=safe/news",
+		"date": "09-08 09:30"
+	},
+	"960ab877c21b81fef821b6aaea71dec05583ab60b8201d609d36fef89229f756": {
+		"title": "[속보] 코로나19로 어제 4명 사망…누적 2천334명",
+		"link": "www.yna.co.kr/view/AKR20210908029800530?section=safe/news",
+		"date": "09-08 09:30"
+	},
+	"b9fb89a696f10ba593635fdb3f112a7c7aabd1294104bb131026f75885f49f2b": {
+		"title": "[1보] 신규확진 2천50명, 1주일만에 다시 2천명대…수도권 본격 재확산",
+		"link": "www.yna.co.kr/view/AKR20210908027900530?section=safe/news",
+		"date": "09-08 09:30"
+	},
+	"13cc766efdce2b8fddfa6a8a7ba6c07d3974a7e376c5e4848b934212bded9f27": {
+		"title": "스웨덴·핀란드도 '위드 코로나'…방역 제한 해제하기로",
+		"link": "www.yna.co.kr/view/AKR20210908032600009?section=safe/news",
+		"date": "09-08 09:25"
+	},
+	"1014e303997cd8784e8bd2335c8e794577b23cdc437e667e4be10b10e0802950": {
+		"title": "양주 건설현장·포천 제조업체서 25명 확진…21명이 외국인",
+		"link": "www.yna.co.kr/view/AKR20210908035900060?section=safe/news",
+		"date": "09-08 09:17"
+	},
+	"bdd3cd2928061df4c2cc7dedd968fac43cd7ce44d6b09cd6dfcc7e831b38b06b": {
+		"title": "중대본 \"신규 확진자 다시 2천명 넘어…앞으로 4주간이 고비\"(종합)",
+		"link": "www.yna.co.kr/view/AKR20210908026751530?section=safe/news",
+		"date": "09-08 08:59"
+	},
+	"e0da34ffd9adf8b34ef88effe57ef803e8cd291f699e090ac52801ebe24c4dc7": {
+		"title": "중대본 \"신규 확진자 다시 2천명 넘어…앞으로 4주간이 고비\"",
+		"link": "www.yna.co.kr/view/AKR20210908026700530?section=safe/news",
+		"date": "09-08 08:49"
+	},
 	"d30434160431907333fbdfd0d750a8d5ebf91f7ef11602ebcd26b5031bca5d70": {
 		"title": "학교·외국인 관련 확산 비상, 광주·전남 65명 확진",
 		"link": "www.yna.co.kr/view/AKR20210908023300054?section=safe/news",
@@ -448,55 +498,5 @@
 		"title": "이·미용업장 코로나 방역 강화…동행 제한-예약제 운영 권고",
 		"link": "www.yna.co.kr/view/AKR20210907067400530?section=safe/news",
 		"date": "09-07 11:20"
-	},
-	"d328c294478efefc225b6abf517fb8581292662104fa105715644b1a764ee5d0": {
-		"title": "서울 어린이 체험활동 시설에서 28명 집단감염",
-		"link": "www.yna.co.kr/view/AKR20210907067500004?section=safe/news",
-		"date": "09-07 11:19"
-	},
-	"103ff3ebcf180127505367d6086d68fba4459b08f7c16aaed2f111aa4e8b00c3": {
-		"title": "광양시, 사회적 거리두기 강화 행정명령…일부 공공시설 폐쇄",
-		"link": "www.yna.co.kr/view/AKR20210907067000054?section=safe/news",
-		"date": "09-07 11:13"
-	},
-	"84743c221f53a367bc5bbb5b6bf199ebbb51c28523506440e595e440a322cee8": {
-		"title": "대구 38명 신규 확진…대학병원 관련 8명 늘어(종합)",
-		"link": "www.yna.co.kr/view/AKR20210907022851053?section=safe/news",
-		"date": "09-07 11:12"
-	},
-	"28058232b7c7afe2803bd53de4dcc121b4e31ebcb8d07738e586ecf1e5c3e1b3": {
-		"title": "[속보] 정부 \"백신 물량, 10월 전국민 70% 2차 접종에도 문제 없어\"",
-		"link": "www.yna.co.kr/view/AKR20210907065600530?section=safe/news",
-		"date": "09-07 11:10"
-	},
-	"16c3eba14dca0d93ca1232085bd17138f9bace9be553e10d6027769e6c5518ae": {
-		"title": "\"코로나19 확산막고 지역경제 활성화\"…충남 추석 종합대책 마련",
-		"link": "www.yna.co.kr/view/AKR20210907063900063?section=safe/news",
-		"date": "09-07 11:10"
-	},
-	"0d6b559596acd84c2970ed8c530477390abb12c6e450a4568a163e3edc61c88b": {
-		"title": "[속보] \"수도권 환자 증가세…최근 1주간 10만명당 일평균 4.5명 확진\"",
-		"link": "www.yna.co.kr/view/AKR20210907065200530?section=safe/news",
-		"date": "09-07 11:07"
-	},
-	"3b100a99b531ec4f5c4593174088ff4d16af5b35a094c1583873a7985a811e0f": {
-		"title": "경남도의회, 코로나19 대응 도청·교육청 추경안 의결",
-		"link": "www.yna.co.kr/view/AKR20210907062700052?section=safe/news",
-		"date": "09-07 11:04"
-	},
-	"c04dce60dd0ebdc15668210bf31112968e9e649c817c1791905cd055c50d7e3e": {
-		"title": "[속보] 루마니아서 확보한 화이자-모더나 백신 97만6천500회분 내일 도착",
-		"link": "www.yna.co.kr/view/AKR20210907061000530?section=safe/news",
-		"date": "09-07 11:00"
-	},
-	"b4fc36a9e9f2c2a1c50a3033c4161f4e05d63579e2823fc32ae9e05157208834": {
-		"title": "[속보] 당국 \"국민 10명 중 7명, '일상속 코로나' 방역체계 전환 찬성\"",
-		"link": "www.yna.co.kr/view/AKR20210907057700530?section=safe/news",
-		"date": "09-07 11:00"
-	},
-	"e476867cc20afb997d0cd4839ba53201c5ded61d8e014937e2879364a25a7edc": {
-		"title": "[속보] 정부 \"직계약 화이자 백신 342만8천회분 내일 오전 도착\"",
-		"link": "www.yna.co.kr/view/AKR20210907058700530?section=safe/news",
-		"date": "09-07 11:00"
 	}
 }
