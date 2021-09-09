@@ -1,4 +1,9 @@
 {
+	"0426f7d762d15400bbab66fe2122d7786fa02ea2f5917ea5af20792de9765b97": {
+		"title": "오후 9시까지 서울 667명 확진…전날보다 35명↑",
+		"link": "www.yna.co.kr/view/AKR20210909175300004?section=safe/news",
+		"date": "09-09 21:15"
+	},
 	"67972d9a31b283f3fc75226adc2378d4b1a774f13dc8fe6c075ae97469455c3e": {
 		"title": "[2보] ECB, 기준금리 동결…\"코로나19대응 채권매입 속도 낮춘다\"",
 		"link": "www.yna.co.kr/view/AKR20210909174451082?section=safe/news",
@@ -493,10 +498,5 @@
 		"title": "경북 33명 확진…가족·지인 등 일상 전파 지속",
 		"link": "www.yna.co.kr/view/AKR20210909025800053?section=safe/news",
 		"date": "09-09 08:25"
-	},
-	"dd05abebe071913dc5cb90c7a1588891e981f96dd7fa66f14a9498499a94356a": {
-		"title": "[속보] 정부 \"오늘 모더나 백신 87만3천회분 추가 도입\"",
-		"link": "www.yna.co.kr/view/AKR20210909024500530?section=safe/news",
-		"date": "09-09 08:02"
 	}
 }
