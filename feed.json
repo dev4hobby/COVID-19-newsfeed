@@ -1,4 +1,9 @@
 {
+	"be9e72221bde520ffe8abe1ddb870cd4dea27020273b277a8647649497137cf9": {
+		"title": "미 CDC \"코로나 백신 미접종자 사망률, 접종자의 11배\"",
+		"link": "www.yna.co.kr/view/AKR20210912050000009?section=safe/news",
+		"date": "09-12 18:50"
+	},
 	"a152be1ae71f66e28530d45487f225cff54a30b443c9a97cba6df0f33a595856": {
 		"title": "오후 6시까지 전국서 1천234명 확진…어제보다 22명 적어",
 		"link": "www.yna.co.kr/view/AKR20210912038500530?section=safe/news",
@@ -493,10 +498,5 @@
 		"title": "서울 659명 신규 확진…나흘째 600명대 후반",
 		"link": "www.yna.co.kr/view/AKR20210911021200004?section=safe/news",
 		"date": "09-11 09:46"
-	},
-	"ae342547221adab871ee7c3590e6a57175df5fc7bf4b37511b6d0e7aec06fefa": {
-		"title": "임시 선별검사소서 473명 확진…수도권 439명-비수도권 34명",
-		"link": "www.yna.co.kr/view/AKR20210911021500530?section=safe/news",
-		"date": "09-11 09:45"
 	}
 }
