@@ -1,4 +1,49 @@
 {
+	"7dd526129ff2403336d8319f4ab709c7d65cafa7549118c8fb384d2933cb583e": {
+		"title": "방글라, 코로나 딛고 18개월 만에 등교수업 재개",
+		"link": "www.yna.co.kr/view/AKR20210913070600077?section=safe/news",
+		"date": "09-13 11:22"
+	},
+	"6a592fd5db78468ff8f9521e7e1ec4415a501b2dc817148c791a00d4fa869df5": {
+		"title": "가락농수산물시장 집단감염 123명으로 증가",
+		"link": "www.yna.co.kr/view/AKR20210913070400004?section=safe/news",
+		"date": "09-13 11:20"
+	},
+	"dfd5dfea6d59d3fd895fe58f7da90dbcc30e27792fa8e4a8aa83bc1397134558": {
+		"title": "하나투어 내달 전 직원 근무 복귀…코로나 이후 1년 6개월만",
+		"link": "www.yna.co.kr/view/AKR20210913068300030?section=safe/news",
+		"date": "09-13 11:17"
+	},
+	"6a454e8d531f53e726da79322818343d33628a6163f5d7772631c9ad54de611f": {
+		"title": "서울 556명 신규 확진…1주 전보다 92명↑(종합)",
+		"link": "www.yna.co.kr/view/AKR20210913044851004?section=safe/news",
+		"date": "09-13 11:17"
+	},
+	"c56095f7e0a01f2b589ee8b74f202d07549e1fdfffa70493419fbff00e3b5f10": {
+		"title": "서울시 '감염병 정보 직관적 전달' 디자인 개발",
+		"link": "www.yna.co.kr/view/AKR20210912015900004?section=safe/news",
+		"date": "09-13 11:15"
+	},
+	"f60e72a643d5e062933ec6371ae9a1e698289b816dbce35ff61e9c0d46b553cd": {
+		"title": "[속보] 정부 \"금주중 '국민 70% 1차 접종' 목표 달성 문제없을 듯\"",
+		"link": "www.yna.co.kr/view/AKR20210913065600530?section=safe/news",
+		"date": "09-13 11:05"
+	},
+	"3b210ca4c9a0b9ee8e1139bf313bd95bd8ce7b17cc8a4ba8db07e16d4821a668": {
+		"title": "금산군 외국인 고용사업장 근로자 코로나19 선제검사",
+		"link": "www.yna.co.kr/view/AKR20210913064800063?section=safe/news",
+		"date": "09-13 11:03"
+	},
+	"5224bd92c13db435c0596a1fc2e2d6d87772b63727ec1a09e45102ba47850a13": {
+		"title": "대구서 31명 확진…주점·고교생 모임 등서 퍼져(종합)",
+		"link": "www.yna.co.kr/view/AKR20210913021551053?section=safe/news",
+		"date": "09-13 11:02"
+	},
+	"05a31172abb612f30b4533ef237dfe1c88515526069c41ef657d14cf140fbced": {
+		"title": "영국, 12~15세 백신 접종 이르면 이번주 시작할 듯",
+		"link": "www.yna.co.kr/view/AKR20210913059900009?section=safe/news",
+		"date": "09-13 10:59"
+	},
 	"8fbbb836cf887de612cfdb229418599e04eb57f4da78855241e31a54ead25bde": {
 		"title": "미 동물원 고릴라 13마리 코로나 집단감염…사육사가 옮긴 듯",
 		"link": "www.yna.co.kr/view/AKR20210913050400009?section=safe/news",
@@ -453,50 +498,5 @@
 		"title": "아프리카 누적 확진 800만 명↑…완전접종 3.18%",
 		"link": "www.yna.co.kr/view/AKR20210911053100099?section=safe/news",
 		"date": "09-11 21:48"
-	},
-	"ebb4bc6d626d1496f2a3aa0fd78d50ec5730e7039fc6e412e8502c76428ffd74": {
-		"title": "오후 6시까지 전국서 1천256명 확진…어제보다 252명 적어",
-		"link": "www.yna.co.kr/view/AKR20210911046700530?section=safe/news",
-		"date": "09-11 18:44"
-	},
-	"80f855d4c35c9d8e03081d4e26aa8f6f479bd25380f5dca5dce10c4602e2b45a": {
-		"title": "오후 9시까지 서울 648명 확진…전날보다 5명↑",
-		"link": "www.yna.co.kr/view/AKR20210911052800004?section=safe/news",
-		"date": "09-11 21:37"
-	},
-	"afadc32c00c2cf1063c333abd1fc6be1da175d8e38037793e2f3f986a989eb3c": {
-		"title": "남아공, 화이자 백신 12세 이상 사용 허가",
-		"link": "www.yna.co.kr/view/AKR20210911052200099?section=safe/news",
-		"date": "09-11 21:29"
-	},
-	"edc43c25694dd842ccc9bb805c905c6267689ed85809054cc53dafe1206beba2": {
-		"title": "일본 코로나 신규 확진 8천807명…인구 절반 백신 2회 접종",
-		"link": "www.yna.co.kr/view/AKR20210911050700073?section=safe/news",
-		"date": "09-11 20:33"
-	},
-	"e49a648c1a5b6f5ff9edc56852707cf28e868de4172dedb78ccd963561eec1f1": {
-		"title": "독일 예방접종위 \"임산부 코로나19 백신 접종\" 권고",
-		"link": "www.yna.co.kr/view/AKR20210911048600082?section=safe/news",
-		"date": "09-11 19:25"
-	},
-	"7261d1a5eb6002c3427a28d0ed4eec1b6e00d94cf8336f810911315fee1bb347": {
-		"title": "프랑스 연금개편 무기한중단…마크롱 \"마스크 벗으면 불지필것\"",
-		"link": "www.yna.co.kr/view/AKR20210911047800081?section=safe/news",
-		"date": "09-11 19:06"
-	},
-	"ddb961e8d9ced47e18d597e4801edd996b0e5c9ff8b85e3ae5f9358e85fddcb2": {
-		"title": "남아공 중국 시노백 백신 어린이 2천명 접종 임상시험",
-		"link": "www.yna.co.kr/view/AKR20210911046900099?section=safe/news",
-		"date": "09-11 19:01"
-	},
-	"d01021cc0823efabc26fe0f8650a918e1fc07acb7ee3ca7d4ac5696b27fb1e68": {
-		"title": "'마스크 깜박' 애벗 전 호주 총리, 43만원 벌금 처분",
-		"link": "www.yna.co.kr/view/AKR20210911044500093?section=safe/news",
-		"date": "09-11 18:54"
-	},
-	"98b4a91eea710d2be808498dbb9d62a17fe69573a02a8c301613bac232d40a31": {
-		"title": "[속보] 오후 6시까지 전국서 1천256명 확진…어제보다 252명 적어",
-		"link": "www.yna.co.kr/view/AKR20210911045900530?section=safe/news",
-		"date": "09-11 18:27"
 	}
 }
