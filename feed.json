@@ -1,4 +1,9 @@
 {
+	"9ba079b9a809422c5f8fbe192dc0845e703acc7cc99aad34b2941bbe8e0bbcb6": {
+		"title": "프랑스, 요양원에서부터 코로나19 백신 3차 접종 시작",
+		"link": "www.yna.co.kr/view/AKR20210913158100081?section=safe/news",
+		"date": "09-13 18:48"
+	},
 	"ed6711d3357a4377ee42c49937bb6a7a7a67048db9a3ef5012747b75192fa00f": {
 		"title": "오후 6시까지 전국서 1천204명 확진…어제보다 30명 적어",
 		"link": "www.yna.co.kr/view/AKR20210913143600530?section=safe/news",
@@ -493,10 +498,5 @@
 		"title": "오후 9시까지 서울 546명 확진…전날보다 102명↓",
 		"link": "www.yna.co.kr/view/AKR20210912058300004?section=safe/news",
 		"date": "09-12 21:29"
-	},
-	"93fc3850ec4972d948d737344656ba58066fe5a2e0555e7634a38b40aaa17dae": {
-		"title": "日 코로나 신규 확진 증가세 둔화…사흘 연속 1만명 미만",
-		"link": "www.yna.co.kr/view/AKR20210912057000073?section=safe/news",
-		"date": "09-12 20:36"
 	}
 }
