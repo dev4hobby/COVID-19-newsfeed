@@ -1,4 +1,44 @@
 {
+	"8a14a747bd5980105af393126e27a07d631728b9d372975e923a191029731156": {
+		"title": "[3보] 신규확진 1천433명, 7일만에 1천500명 아래…수도권 비중 80% 육박",
+		"link": "www.yna.co.kr/view/AKR20210913030600530?section=safe/news",
+		"date": "09-13 09:39"
+	},
+	"2ece5d2c2a6c8910224fbd248096d2ecd2315e73002dd911eb3363a8d495742e": {
+		"title": "[속보] 서울 556명-경기 402명-인천 151명-충남 58명-대전 39명 등 확진",
+		"link": "www.yna.co.kr/view/AKR20210913030700530?section=safe/news",
+		"date": "09-13 09:31"
+	},
+	"e02f76e17bb76a53a59156387b20d6322ab28c09f20cd9fe6556f015c8d63a4c": {
+		"title": "[속보] 이틀간 백신 이상반응 3천271건↑…사망 2명↑ 인과성은 미확인",
+		"link": "www.yna.co.kr/view/AKR20210913039600530?section=safe/news",
+		"date": "09-13 09:31"
+	},
+	"73abca16203b2f47dc140ea4512040c36ff79309d0deeb568526911fc858c74b": {
+		"title": "[속보] 1차접종 2만1천645명↑ 총 3천315만2천722명…인구대비 64.6%",
+		"link": "www.yna.co.kr/view/AKR20210913020600530?section=safe/news",
+		"date": "09-13 09:31"
+	},
+	"951a5af7178f9364c4c7ed6a00578974bc7a5546e0bdf533b0a206fed45dcc91": {
+		"title": "[2보] 신규확진 1천433명, 7일만에 1천500명 아래…수도권 확산세 지속",
+		"link": "www.yna.co.kr/view/AKR20210913021900530?section=safe/news",
+		"date": "09-13 09:30"
+	},
+	"92cdda306b7b1165fae0db1d51811146a3f806acfbee4f1740ae5496c8499968": {
+		"title": "[속보] 코로나19로 어제 1명 사망…국내 누적 2천360명",
+		"link": "www.yna.co.kr/view/AKR20210913022000530?section=safe/news",
+		"date": "09-13 09:30"
+	},
+	"6b089c13fd001bdebee51574ea66b1a2bc5972401c44f5033d2494ad764a12ac": {
+		"title": "[1보] 신규확진 1천433명, 7일만에 1천500명 아래…수도권 확산세 지속",
+		"link": "www.yna.co.kr/view/AKR20210913021800530?section=safe/news",
+		"date": "09-13 09:30"
+	},
+	"7d674b363a169db1a967675f0aa6cc3d041c6039da67a6bccc00c8a3c45a47aa": {
+		"title": "브라질 코로나 일평균 사망·확진 눈에 띄게 감소",
+		"link": "www.yna.co.kr/view/AKR20210913032700094?section=safe/news",
+		"date": "09-13 09:20"
+	},
 	"07262d68050ab974f68be2e9d7b8a34a8ed5907d4b9ddbb728eb641c779c085e": {
 		"title": "대구 31명 신규 확진…주점·고교생 모임 등서 퍼져",
 		"link": "www.yna.co.kr/view/AKR20210913021500053?section=safe/news",
@@ -458,45 +498,5 @@
 		"title": "경남서 창원·양산·거제 집단감염 등 19명 신규 확진",
 		"link": "www.yna.co.kr/view/AKR20210911032400052?section=safe/news",
 		"date": "09-11 13:52"
-	},
-	"baef0b7be225434428853bf448e917723878aa4eb4c3633e774e9b990f0083a5": {
-		"title": "목욕탕 집단감염 등 부산 44명 신규 확진(종합)",
-		"link": "www.yna.co.kr/view/AKR20210911022551051?section=safe/news",
-		"date": "09-11 13:36"
-	},
-	"0509583b70e65c3f74dc831d5476a5cb0ea45bf5d53cadbdb3ff2fb873cb5a0b": {
-		"title": "정부세종청사 산업통상자원부 직원 1명 코로나19 확진",
-		"link": "www.yna.co.kr/view/AKR20210911030000530?section=safe/news",
-		"date": "09-11 12:51"
-	},
-	"78eb76394712057477214f4ec7abb11bca1811c7e1df012a963e23be894011c8": {
-		"title": "전국 중환자 병상 가동률 48.9%…울산·대전 4개, 제주 5개 남아",
-		"link": "www.yna.co.kr/view/AKR20210911028800530?section=safe/news",
-		"date": "09-11 12:09"
-	},
-	"2e33bf169029d2071866cea07f17bcbe79a34d099cf8fd2ab119c5d27f854de4": {
-		"title": "제주 코로나 확진자 하루평균 10명대 발생…이달 105명",
-		"link": "www.yna.co.kr/view/AKR20210911028600056?section=safe/news",
-		"date": "09-11 12:00"
-	},
-	"6cd289100a0c7d65a2da0091cddf13a3d00d602f7c8c754c49ede41728def49a": {
-		"title": "싱가포르 확진자 곧 1천명 넘을듯 \"우려\"…'위드 코로나' 시험대",
-		"link": "www.yna.co.kr/view/AKR20210911028300076?section=safe/news",
-		"date": "09-11 11:50"
-	},
-	"8fe5d8e80f4520d1947fa5d87d3815c74bdbe184c2dc567f51ddb562ff0a0cf8": {
-		"title": "\"미국, 10월에 5∼11세 화이자 코로나 백신 승인 가능\"",
-		"link": "www.yna.co.kr/view/AKR20210911024600009?section=safe/news",
-		"date": "09-11 11:25"
-	},
-	"ecdcd4e7c2e02ba0001c4988f003f0efad73dfc8be9682b46c332800a0cc4c4a": {
-		"title": "전북 코로나19 확진자 26명 발생…\"홀덤펍서 직·간접 감염\"",
-		"link": "www.yna.co.kr/view/AKR20210911027100055?section=safe/news",
-		"date": "09-11 11:18"
-	},
-	"74e687c0ffac628730bed4e5bca2b9465433e8f3b3848b74ccfc41deeba4f2c3": {
-		"title": "서울 659명 신규 확진…나흘째 600명대 후반(종합)",
-		"link": "www.yna.co.kr/view/AKR20210911021251004?section=safe/news",
-		"date": "09-11 11:17"
 	}
 }
