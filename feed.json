@@ -1,4 +1,89 @@
 {
+	"ee4754a5210c7a150162d284a96b9c0a95682706af9c308f4e5f792073d82cef": {
+		"title": "인천서 137명 코로나19 확진…병원·학교 집단감염 확산",
+		"link": "www.yna.co.kr/view/AKR20210916066600065?section=safe/news",
+		"date": "09-16 10:36"
+	},
+	"2b09f734328bed3f84872703a9ee8efd3c628a281a86f16d2c0ca80769f447a2": {
+		"title": "군, 코로나19 확진자 8명 추가…모두 돌파감염",
+		"link": "www.yna.co.kr/view/AKR20210916067300504?section=safe/news",
+		"date": "09-16 10:36"
+	},
+	"ba4efe04718d04f9b02bbf9a9a26aad266c50776dd91d5bb2b85eee51f80ec7d": {
+		"title": "충북 밤새 23명 확진…외국인근로자 연쇄감염 지속",
+		"link": "www.yna.co.kr/view/AKR20210916065400064?section=safe/news",
+		"date": "09-16 10:36"
+	},
+	"d08adb294f6c2a05ad27d39a981a4cfd215689087465825c282ca75d97f887fd": {
+		"title": "금산군, 전 군민에게 코로나19 지원금 지급키로…조례 제정 추진",
+		"link": "www.yna.co.kr/view/AKR20210916059200063?section=safe/news",
+		"date": "09-16 10:23"
+	},
+	"75ecd2d373931e6732f688d398aa08a4ed8b55400651cf55d773d91761670f53": {
+		"title": "울산서 12명 신규 확진…현대고 축구부원 1명 추가 감염",
+		"link": "www.yna.co.kr/view/AKR20210916057800057?section=safe/news",
+		"date": "09-16 10:11"
+	},
+	"e83d1c0095203798e0d8a0b6b40f9ec778935ab918f4082497f5f9d0bd56c085": {
+		"title": "백신 1차접종 37만4천256명↑ 총 3천497만7천73명…인구의 68.1%",
+		"link": "www.yna.co.kr/view/AKR20210916056200530?section=safe/news",
+		"date": "09-16 10:11"
+	},
+	"a3224a20e5d2f383781fa6312836890567435e4f37cb718407f2e3614cd17971": {
+		"title": "[속보] 1주간 인구 10만명당 확진자 수도권 5.1명, 비수도권 1.6명",
+		"link": "www.yna.co.kr/view/AKR20210916056900530?section=safe/news",
+		"date": "09-16 10:04"
+	},
+	"0ef1602edbd535de1a8d13700392b1b4d31f3aa8e2a60c664e5771ff40be9496": {
+		"title": "日스가 '초라한' 취임 1년…코로나·불통 정치에 곧 퇴장",
+		"link": "www.yna.co.kr/view/AKR20210916049500073?section=safe/news",
+		"date": "09-16 10:02"
+	},
+	"5e0c82f1d5faa6bfb99ca1db0becdc51b430d7f044db28610cbc0b91ea02ea65": {
+		"title": "부산 2명 추가 확진…추석연휴 전 1차 접종률 70% 돌파?",
+		"link": "www.yna.co.kr/view/AKR20210916028100051?section=safe/news",
+		"date": "09-16 10:00"
+	},
+	"9d1c26092f52f1e084ac571b38369aea513028e52549992e358ace0899a3ffaf": {
+		"title": "대전서 15일 36명 확진…보습학원·유학생 관련 확산 지속",
+		"link": "www.yna.co.kr/view/AKR20210915167451063?section=safe/news",
+		"date": "09-16 10:00"
+	},
+	"611f727fbea1fd751e837c796d0a7615d46f3e95408f94e70965f3b3a76bf06d": {
+		"title": "경기 신규확진 656명…18일 만에 1만명 늘어 누적 8만명",
+		"link": "www.yna.co.kr/view/AKR20210916044900061?section=safe/news",
+		"date": "09-16 10:00"
+	},
+	"4f9142062b584ac73745cd0f849ec5719c3bafdc972cbe0ef04c5ca3e049f7bb": {
+		"title": "전북서 20명 코로나19 추가…유흥업소발 연쇄 감염 지속",
+		"link": "www.yna.co.kr/view/AKR20210916052400055?section=safe/news",
+		"date": "09-16 09:54"
+	},
+	"6b2a4c2836d6f8fbc007cee69f30b8c914191b7b97c64d9495a38c8b3d3fc366": {
+		"title": "신규확진 1천943명, 수도권 이틀째 80% 안팎…추석 방역 '비상'(종합)",
+		"link": "www.yna.co.kr/view/AKR20210916018451530?section=safe/news",
+		"date": "09-16 09:50"
+	},
+	"f00fd66bbe77381ea1ae2799324f9d48f337abbab96b978e2fe5adf9e3f94055": {
+		"title": "서울 719명 신규 확진…역대 2위 기록",
+		"link": "www.yna.co.kr/view/AKR20210916046800004?section=safe/news",
+		"date": "09-16 09:44"
+	},
+	"d86a8a492ed5babe607dc2ee20f1e42685e3a6354883326869ddd764e8af8c74": {
+		"title": "임시 선별검사소서 532명 확진…수도권 496명-비수도권 36명",
+		"link": "www.yna.co.kr/view/AKR20210916025400530?section=safe/news",
+		"date": "09-16 09:43"
+	},
+	"24cfcf4cb21f58afbfc6b126ad2284cc972fe0bab404b802c4d542e0148aa380": {
+		"title": "가을철 진드기·쥐 매개 감염병↑…\"농작업·야외활동 조심해야\"",
+		"link": "www.yna.co.kr/view/AKR20210916043700530?section=safe/news",
+		"date": "09-16 09:43"
+	},
+	"beccef9f575a4f57d05c4c8723b97432799d5d0d706d3c5b7855746013cf8402": {
+		"title": "[3보] 신규확진 1천943명, 수도권 이틀째 80% 안팎…추석 방역 '비상'",
+		"link": "www.yna.co.kr/view/AKR20210916018400530?section=safe/news",
+		"date": "09-16 09:40"
+	},
 	"baa27b6dd76479840869f67c3a8c2029f5e9ca4d0b5b7c2a8029e791e3e7751f": {
 		"title": "'코로나 무시' 브라질 대통령, 국제형사재판소에 또 고발될 듯",
 		"link": "www.yna.co.kr/view/AKR20210916028000094?section=safe/news",
@@ -413,90 +498,5 @@
 		"title": "중증환자 병상 가동률 49.4%…비수도권 일부 지역 병상 부족",
 		"link": "www.yna.co.kr/view/AKR20210915082400530?section=safe/news",
 		"date": "09-15 11:34"
-	},
-	"027916f5f4ef08349ca14588dca7dc86502519fc59f845bca7980f4ca2fed745": {
-		"title": "코로나 속 캐나다 총선 사전투표 역대 최다…초박빙 격전 지속",
-		"link": "www.yna.co.kr/view/AKR20210915077900009?section=safe/news",
-		"date": "09-15 11:29"
-	},
-	"d9702c08dca815e54f442240f4c72d9a25223fdc5cfa218584832e4e8f67bc13": {
-		"title": "제주, 백신 1차 접종 66.2％…곧 목표 달성 전망",
-		"link": "www.yna.co.kr/view/AKR20210915081700056?section=safe/news",
-		"date": "09-15 11:28"
-	},
-	"b44aec0c0a5ea25305b0e044f4d8719246e2621ea9e339ba586d0dcfe11cd0b0": {
-		"title": "영동군, 추석연휴 거리두기 위반 '무관용'…무조건 과태료",
-		"link": "www.yna.co.kr/view/AKR20210915079400064?section=safe/news",
-		"date": "09-15 11:26"
-	},
-	"bd0cadf46ea8aac5c22b42d22e353011a45f2c911072727a24a7de4957223231": {
-		"title": "중국, 아프간 과도정부에 신속 접근…\"백신·인도지원 용의\"",
-		"link": "www.yna.co.kr/view/AKR20210915080400083?section=safe/news",
-		"date": "09-15 11:26"
-	},
-	"a8d08d55147c6e05f6d943863cd81846a629ed7074edf516bb33f4e4cec50b79": {
-		"title": "서울 강동구 고교서 14명 집단감염",
-		"link": "www.yna.co.kr/view/AKR20210915082000004?section=safe/news",
-		"date": "09-15 11:25"
-	},
-	"96a64c9a6eb02c0e2b0ebb992210c98e64c733e93f109c64aa3ef184695e44a0": {
-		"title": "대구서 27명 신규 확진…감염경로 미확인 8명(종합)",
-		"link": "www.yna.co.kr/view/AKR20210915028551053?section=safe/news",
-		"date": "09-15 11:16"
-	},
-	"5da0ba5b12c800da5baca2c2c22e4c04cfbbd89d2292cd53c103c84554dfa43d": {
-		"title": "서울 808명 신규 확진…역대 첫 800명대(종합)",
-		"link": "www.yna.co.kr/view/AKR20210915049251004?section=safe/news",
-		"date": "09-15 11:13"
-	},
-	"cf45052496c32399aae93463575d51bf3182761cb755ff86784fa122da0d3684": {
-		"title": "\"조리원서 확진된 신생아 4명 평택 병원서 엄마와 8인1실 격리\"",
-		"link": "www.yna.co.kr/view/AKR20210915076000061?section=safe/news",
-		"date": "09-15 11:10"
-	},
-	"6d57f4a48158dbcec07a91bb75e407866939b435aab603c5e7b6a01fd16729bf": {
-		"title": "[속보] 1주간 수도권 10만명당 5.1명 확진…서울 6.7명, 증가세 지속",
-		"link": "www.yna.co.kr/view/AKR20210915076900530?section=safe/news",
-		"date": "09-15 11:06"
-	},
-	"73c35becf88d8d171d2eb1a7fc30018b74b03c98e54f7e520a1c8bbf30942e43": {
-		"title": "최근 1주간 외국인 확진 1천804명, 전체의 15%…예방접종 주력",
-		"link": "www.yna.co.kr/view/AKR20210915071600530?section=safe/news",
-		"date": "09-15 11:03"
-	},
-	"792347555546dba7097020a94c2eca83849a8fbf7df7f5b68bea9b5139842772": {
-		"title": "MLB 보스턴 좌완 불펜 페레스, 코로나19 회복하고 복귀",
-		"link": "www.yna.co.kr/view/AKR20210915075200007?section=safe/news",
-		"date": "09-15 11:02"
-	},
-	"2f33863f8367565143462a93f7297bb64f2d970856cfa49215690617c1fc505f": {
-		"title": "옥천군민 2명 중 1명 '접종 완료'…추석 방역 강화",
-		"link": "www.yna.co.kr/view/AKR20210915074900064?section=safe/news",
-		"date": "09-15 11:02"
-	},
-	"47547b300e6286f3fe8674a550af556e8d7aa8b0e0f458498ef1ce9febbb1524": {
-		"title": "충북 23명 확진…인력회사 고리 외국인 연쇄감염 확산",
-		"link": "www.yna.co.kr/view/AKR20210915072900064?section=safe/news",
-		"date": "09-15 11:00"
-	},
-	"88a07bc80989ee24fc8e5d023a005d9483e2c85bb4fe2dd32e09a47fc011d477": {
-		"title": "인천서 하루 164명 코로나19 신규 확진…역대 최다",
-		"link": "www.yna.co.kr/view/AKR20210915070100065?section=safe/news",
-		"date": "09-15 10:58"
-	},
-	"892cb653ea57e55e61716377feee40e314f6c3b069de7bd401595b19a5616c13": {
-		"title": "임상재단, SK바사 코로나19 백신 임상 3상 희망자 723명 연계",
-		"link": "www.yna.co.kr/view/AKR20210915072300017?section=safe/news",
-		"date": "09-15 10:57"
-	},
-	"4aa971f6adffdeb83fa0adf58f59c1d9317ad516529ad4c5bcedade7c56be4cd": {
-		"title": "[연합시론] 추석 앞두고 수도권 확진자 급증…귀성·여행 최대한 자제해야",
-		"link": "www.yna.co.kr/view/AKR20210915071500022?section=safe/news",
-		"date": "09-15 10:56"
-	},
-	"5ca70a852864aee77727c958905b7152e5c38981d585f12d65943f408dc13edb": {
-		"title": "직계약 화이자 백신 130만2천회분 인천공항 도착",
-		"link": "www.yna.co.kr/view/AKR20210915029500530?section=safe/news",
-		"date": "09-15 10:35"
 	}
 }
