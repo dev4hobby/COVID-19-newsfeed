@@ -1,4 +1,49 @@
 {
+	"58d5f7accd3098fb34822a87db6141a3248b41f17bb7fbad37bfeea20d7bfdd9": {
+		"title": "직장·노래연습실·시장 등 서울 집단감염 지속",
+		"link": "www.yna.co.kr/view/AKR20210928076100004?section=safe/news",
+		"date": "09-28 11:22"
+	},
+	"cf6bcae5af616c7e54cd47bb87ac82b7d141e3adb2edf249e75f595b257e6da5": {
+		"title": "전남 '타지역 접촉' 연쇄감염 지속…돌파감염 2명 발생",
+		"link": "www.yna.co.kr/view/AKR20210928073000054?section=safe/news",
+		"date": "09-28 11:15"
+	},
+	"85a66947b7afa7a3cfa06d12a840b57576ae3c7ee1157aa498f4b131b38c0be0": {
+		"title": "대구 126명 확진…추석 연휴 이후 닷새 연속 100명대(종합)",
+		"link": "www.yna.co.kr/view/AKR20210928026951053?section=safe/news",
+		"date": "09-28 11:10"
+	},
+	"d966e9aa443722e27494950cccbb9a413382a4b662ea1fa1411f9cc26f265043": {
+		"title": "[속보] 권덕철 \"하루 신규확진자 3천명씩 계속 나오면 추가대책 필요\"",
+		"link": "www.yna.co.kr/view/AKR20210928072800530?section=safe/news",
+		"date": "09-28 11:10"
+	},
+	"f0a23059b7eda0007df86faed8e2ce445ade65491da9b24c487a86001b8a3724": {
+		"title": "\"싱가포르 코로나 신규확진자 속출, 꼭 나쁜 것만은 아냐\"",
+		"link": "www.yna.co.kr/view/AKR20210928071600076?section=safe/news",
+		"date": "09-28 11:09"
+	},
+	"c8e6b94bb2d5d8f2ca8d53b46c4f368abf64e0945b10ad1bf3bd81451dce6b61": {
+		"title": "[속보] 권덕철 \"현행 거리두기 유지 어려운 상황…일상회복 방안 모색\"",
+		"link": "www.yna.co.kr/view/AKR20210928071500530?section=safe/news",
+		"date": "09-28 11:05"
+	},
+	"a2feba7550a51325afa0129a3d4276c4c5ee0caac2dad698a85abfd28fd84f56": {
+		"title": "서울 842명 신규 확진…닷새 연속 요일별 최다(종합)",
+		"link": "www.yna.co.kr/view/AKR20210928055451004?section=safe/news",
+		"date": "09-28 11:03"
+	},
+	"a1733c6b72f9ac0fc48c4f57083003037f6ffc4320e95f9acf560610427f629d": {
+		"title": "[속보] 국내 체류 외국인 접종률 1차 65.7%, 2차 24.4%…접종확대 주력",
+		"link": "www.yna.co.kr/view/AKR20210928069200530?section=safe/news",
+		"date": "09-28 11:02"
+	},
+	"64c68e2068afa5d849483590eb6778132739f8ad9acf5e1f2db9ac05131fa097": {
+		"title": "[속보] 외국인 한주간 10만명당 208명 확진…내국인 23명의 9배 수준",
+		"link": "www.yna.co.kr/view/AKR20210928068700530?section=safe/news",
+		"date": "09-28 11:00"
+	},
 	"81fcb23370f5e16bccb578d7c2a963a2c35ffd69749c84dc434e077bebea9df3": {
 		"title": "올겨울 '트윈데믹' 경고음…화이자, 독감 mRNA 백신도 개발중",
 		"link": "www.yna.co.kr/view/AKR20210928065000009?section=safe/news",
@@ -453,50 +498,5 @@
 		"title": "과천청사 방사청·대전청사 산림청 직원 각 1명 코로나19 확진",
 		"link": "www.yna.co.kr/view/AKR20210927091800530?section=safe/news",
 		"date": "09-27 14:15"
-	},
-	"73fc3691fcc41904276765456fdfaa72c6c80e187f61dadf1e57508a48c9ebd8": {
-		"title": "정부 \"10월말 고령층 90%, 성인 80% 접종완료…위드코로나 준비\"",
-		"link": "www.yna.co.kr/view/AKR20210927089300530?section=safe/news",
-		"date": "09-27 14:10"
-	},
-	"39bf8f66490fa2b660c28500f5099a70e2b64182ee95e044c3243a04bcfb8230": {
-		"title": "[Q＆A] 12∼17세도 잔여백신 접종될까?…\"내달 18일부터 가능\"",
-		"link": "www.yna.co.kr/view/AKR20210927081700530?section=safe/news",
-		"date": "09-27 14:10"
-	},
-	"edd84b2293eef1482c231b0eb3d94e0d5ded1df40782bed768ec2a3feba297bb": {
-		"title": "화이자-모더나 접종간격 6주→4~5주로…내달 11일 2차접종자부터",
-		"link": "www.yna.co.kr/view/AKR20210927089400530?section=safe/news",
-		"date": "09-27 14:10"
-	},
-	"ff1e4e2343bc3388c2e84be6c461be9f4a98e0eabe7d3a614d01133215ee0f27": {
-		"title": "12∼17세 접종 후 2일까지 출석인정…개인별로 의료기관 예약 접종",
-		"link": "www.yna.co.kr/view/AKR20210927084900530?section=safe/news",
-		"date": "09-27 14:10"
-	},
-	"dd61858f5a4d954cb1052a7daf74d2e5bf443897986ae9fb946ba8eca17967eb": {
-		"title": "12∼17세·임신부 내달 18일부터 접종…고위험군 부스터샷 시작",
-		"link": "www.yna.co.kr/view/AKR20210927082400530?section=safe/news",
-		"date": "09-27 14:10"
-	},
-	"e5e97c78588aede94846af828dcf765714cc0772f43eb0f108b0f067f8788972": {
-		"title": "문대통령 \"추석 확진자 증가세 안정화 관건…방역대응 총력\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20210927093900001?section=safe/news",
-		"date": "09-27 14:04"
-	},
-	"9696d13f7498b99b50b50969e005721085e250fffa7f88d166ca609e0d1c2d11": {
-		"title": "경남 외국인 14명 포함 39명 확진…6개 시·군서 감염 지속",
-		"link": "www.yna.co.kr/view/AKR20210927093300052?section=safe/news",
-		"date": "09-27 14:03"
-	},
-	"39fc5646c6b0c85b628f6f9ade6240d499b7ca789d0477948f583b8bfceb349f": {
-		"title": "광주·전남 진단 검사량 많고 확진 비율은 낮았다…의미는",
-		"link": "www.yna.co.kr/view/AKR20210927094100054?section=safe/news",
-		"date": "09-27 14:03"
-	},
-	"f19fc657440fc3957f042f6af7dca382822dab9c5dece4ff527be75b3b9d960c": {
-		"title": "외국인 확진자 급증…방역당국 통역 앱까지 동원 '이중고'",
-		"link": "www.yna.co.kr/view/AKR20210927089800064?section=safe/news",
-		"date": "09-27 14:01"
 	}
 }
