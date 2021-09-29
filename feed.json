@@ -1,4 +1,39 @@
 {
+	"842959b42bf856b5dfbdd09a6a50ea7c466bd11b31943100873b4841a42959c9": {
+		"title": "확진자 급증에 병상부족 우려…수도권 중증환자 병상 가동률 57.5%",
+		"link": "www.yna.co.kr/view/AKR20210929075900530?section=safe/news",
+		"date": "09-29 11:26"
+	},
+	"96dc45e2ceadb2acf358411c2a2860529b21283399eace58e000c35e555600d5": {
+		"title": "[속보] \"확진자에 접종완료자와 동일한 '백신 패스' 효력 부여도 검토\"",
+		"link": "www.yna.co.kr/view/AKR20210929078500530?section=safe/news",
+		"date": "09-29 11:22"
+	},
+	"d14a04b651135892f6a150bd0702aedf3695e107903b4d6e879a8ff87c11270b": {
+		"title": "[속보] 정부 \"접종기회 없었던 저연령·학생은 '백신 패스' 예외 검토\"",
+		"link": "www.yna.co.kr/view/AKR20210929075500530?section=safe/news",
+		"date": "09-29 11:15"
+	},
+	"b2db2fb14f9b72e6707fa09e7ac71c171907c61ffe34ee7242c5b1f2770cb1bb": {
+		"title": "서울 1천54명 신규 확진…역대 두번째로 많아(종합)",
+		"link": "www.yna.co.kr/view/AKR20210929045751004?section=safe/news",
+		"date": "09-29 11:15"
+	},
+	"73a4abd724277f87c4b6408416489f6b0900c7d670d2afaac348c0bf714885c9": {
+		"title": "[속보] 백신 미접종자 PCR 음성확인서 없으면 다중시설-행사 참여 제한될듯",
+		"link": "www.yna.co.kr/view/AKR20210929075400530?section=safe/news",
+		"date": "09-29 11:15"
+	},
+	"8e6c7c7f3ef744c435cb8a13d260c831074612028ed60275de739bb97edfdf92": {
+		"title": "여수 외국인 근로자 확진자 속출…거문도 전 주민 진단검사",
+		"link": "www.yna.co.kr/view/AKR20210929074000054?section=safe/news",
+		"date": "09-29 11:12"
+	},
+	"825b229f32651246085ae547bac383c4099f4394761fe57064a8a824596add41": {
+		"title": "대구 109명 신규 확진…베트남 지인 모임 누계 489명",
+		"link": "www.yna.co.kr/view/AKR20210929072900053?section=safe/news",
+		"date": "09-29 11:07"
+	},
 	"3aa23783a1bf42516ed1cf6d7ab7e7a15b0a7aa76b0d7e1201948b76952bf262": {
 		"title": "충북 밤새 34명 확진…외국인 근로자 연쇄감염 긴꼬리",
 		"link": "www.yna.co.kr/view/AKR20210929070200064?section=safe/news",
@@ -463,40 +498,5 @@
 		"title": "인천 학원·과외교사 등 1만5천여명 백신 맞아…1차 접종률 97%",
 		"link": "www.yna.co.kr/view/AKR20210928092900065?section=safe/news",
 		"date": "09-28 13:32"
-	},
-	"d52657f9f0ec6333359739c83908a2dd6ed86319629c740578fff63de54d77c6": {
-		"title": "복지장관 \"12∼17세도 접종으로 인한 이득 커…접종 권고\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20210928082251530?section=safe/news",
-		"date": "09-28 12:29"
-	},
-	"976b20c1db0d897043663aa8639f1da8307897cfd5592637f870e719d94cf2b9": {
-		"title": "10만명당 외국인 확진자, 내국인의 9배…맞춤형 백신접종 확대(종합)",
-		"link": "www.yna.co.kr/view/AKR20210928077151530?section=safe/news",
-		"date": "09-28 12:13"
-	},
-	"da0766d0b5bcfebdbc1df8ebfdd4ecf2e0149c4d17e33115463cb6a5924ca818": {
-		"title": "\"미국 코로나19 일일 사망자, 나머지 고소득국 총합보다 많아\"",
-		"link": "www.yna.co.kr/view/AKR20210928082400009?section=safe/news",
-		"date": "09-28 11:54"
-	},
-	"e728e856fa1b80fb7800c4e8d87159a9e591435ac62b92c61122e86eb69e1b3c": {
-		"title": "복지장관 \"12∼17세도 접종으로 인한 이득 커…접종 권고\"",
-		"link": "www.yna.co.kr/view/AKR20210928082200530?section=safe/news",
-		"date": "09-28 11:51"
-	},
-	"fdfd0859e211302655a14c497ca378c6c8814d0e5a9346ca32d65ecabd460caf": {
-		"title": "\"캐나다인 66%, 백신 접종-미접종자 간 관계 부정적으로 봐\"",
-		"link": "www.yna.co.kr/view/AKR20210928074100009?section=safe/news",
-		"date": "09-28 11:47"
-	},
-	"2c818171dd0ea2bfab6cad1c300a4bdeeff5d91f52f5130c17e97f181b87f06f": {
-		"title": "지난주 외국인 확진자 발생률 내국인의 9배…10만명당 208명꼴",
-		"link": "www.yna.co.kr/view/AKR20210928077100530?section=safe/news",
-		"date": "09-28 11:46"
-	},
-	"e4fdd6aaf8b0dcd8abde49f43b3a0e9b56b3b4a0ff2d8ccc15bf77f28347c383": {
-		"title": "\"외국인 확산세 꺾어라\" 청주시 백신 접종 총력전",
-		"link": "www.yna.co.kr/view/AKR20210928079600064?section=safe/news",
-		"date": "09-28 11:44"
 	}
 }
