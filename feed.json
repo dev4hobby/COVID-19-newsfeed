@@ -1,4 +1,9 @@
 {
+	"1a4ca19a9c77d434da72d7e5f542f7057ae35229947bbd96597fa66de66b73bd": {
+		"title": "주한미군 가족·장병 등 17명 코로나19 확진",
+		"link": "www.yna.co.kr/view/AKR20211001167500504?section=safe/news",
+		"date": "10-01 20:12"
+	},
 	"63355053f3377db1aa9909011db1358428cba465195860d65fdefcd578473fa0": {
 		"title": "오후 6시까지 전국서 1천654명 확진…어제보다 75명 많아",
 		"link": "www.yna.co.kr/view/AKR20211001160200530?section=safe/news",
@@ -493,10 +498,5 @@
 		"title": "\"러 코로나 백신 '스푸트니크V' 3상 종료…효능·안정성 뛰어나\"",
 		"link": "www.yna.co.kr/view/AKR20210930176900080?section=safe/news",
 		"date": "09-30 21:41"
-	},
-	"b93ccc5eb8857966da6e7c4834a3229be00e97a92a717d80779b44a5ecd159f2": {
-		"title": "오후 9시까지 서울 940명 신규 확진…다시 요일 최다기록",
-		"link": "www.yna.co.kr/view/AKR20210930111000004?section=safe/news",
-		"date": "09-30 21:09"
 	}
 }
