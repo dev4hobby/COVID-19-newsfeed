@@ -1,4 +1,9 @@
 {
+	"60858054636f87e75db75364d54279e3356c3af3418b35e7942e1a82771ce3f0": {
+		"title": "인천 코로나19 확진자 120명 추가…사망자도 1명 발생",
+		"link": "www.yna.co.kr/view/AKR20211004028500065?section=safe/news",
+		"date": "10-04 11:05"
+	},
 	"8341f888603c9b406611c09ceb70838775a80da8a26c8440c9d94527904e0053": {
 		"title": "서울 574명 신규 확진…전날보다 162명↓(종합)",
 		"link": "www.yna.co.kr/view/AKR20211004026951004?section=safe/news",
@@ -493,10 +498,5 @@
 		"title": "오후 6시까지 전국서 1천296명 확진…어제보다 358명 적어",
 		"link": "www.yna.co.kr/view/AKR20211002029900530?section=safe/news",
 		"date": "10-02 18:43"
-	},
-	"4ae5476c4a90cfd420800bb56e2872ea94a14657ae2b947870a51e8800fb78d6": {
-		"title": "오후 6시까지 서울 256명 신규 확진…1주 전보다 416명↓",
-		"link": "www.yna.co.kr/view/AKR20211002037800004?section=safe/news",
-		"date": "10-02 18:35"
 	}
 }
