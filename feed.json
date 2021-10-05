@@ -1,4 +1,9 @@
 {
+	"859c47e4ed664613b2400b4d05dbef9404a07fad239bc36ff6e5866a1026b2c4": {
+		"title": "남아공 슬그머니 코로나19 백신접종 증명서 도입",
+		"link": "www.yna.co.kr/view/AKR20211006001100099?section=safe/news",
+		"date": "10-06 01:24"
+	},
 	"c560169d8c3470b4eafb618b81f02854998d6cd813d316b633c5fccd89607297": {
 		"title": "노르웨이, 65세 이상 부스터샷 접종키로",
 		"link": "www.yna.co.kr/view/AKR20211006000800098?section=safe/news",
@@ -493,10 +498,5 @@
 		"title": "[1보] 신규확진 1천575명, 연휴 영향에 이틀째 1천명대…확산세 여전",
 		"link": "www.yna.co.kr/view/AKR20211005028400530?section=safe/news",
 		"date": "10-05 09:31"
-	},
-	"ad0a6fb9f2ba176ae65844a6b1c535e0eadeafa156a3f0926d87e1e1c8fcf282": {
-		"title": "의정부 고교 19명, 양주공장 10명 코로나19 집단감염",
-		"link": "www.yna.co.kr/view/AKR20211005036100060?section=safe/news",
-		"date": "10-05 09:27"
 	}
 }
