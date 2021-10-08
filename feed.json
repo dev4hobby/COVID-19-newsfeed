@@ -1,4 +1,64 @@
 {
+	"b4a936c0d29e74eecf04594dbea0d8dafd6b56b44dadb0ef1a98d20704ae2d7c": {
+		"title": "[속보] 서울 776명-경기 759명-인천 128명-경북 77명-충북 64명 등 확진",
+		"link": "www.yna.co.kr/view/AKR20211008044600530?section=safe/news",
+		"date": "10-08 09:35"
+	},
+	"5c7911f47af34915e53c7f5951c017732d0fa77ef7ea9592539183d3998293a3": {
+		"title": "[2보] 신규확진 2천176명, 사흘 연속 2천명대…수도권 확산세 지속",
+		"link": "www.yna.co.kr/view/AKR20211008025400530?section=safe/news",
+		"date": "10-08 09:35"
+	},
+	"027f34235f3d481f24794d0f8a9e33ed5a1ba2fea7ea8c2ebba39accd857479b": {
+		"title": "[속보] 1차접종 총 3천986만여명, 인구대비 77.6%…접종완료율 56.9%",
+		"link": "www.yna.co.kr/view/AKR20211008043900530?section=safe/news",
+		"date": "10-08 09:32"
+	},
+	"4a3b3a9f097a12a625e879290a067ce88293329e97dff9e380e2c32b6e8f4410": {
+		"title": "[속보] 코로나19로 어제 10명 사망…국내 누적 2천554명",
+		"link": "www.yna.co.kr/view/AKR20211008025500530?section=safe/news",
+		"date": "10-08 09:31"
+	},
+	"9e8d602da1a7984a9d4493886e2b438d2ede1143ee7aa5eee429d805ff200b29": {
+		"title": "[1보] 신규확진 2천176명, 사흘 연속 2천명대…수도권 확산세 지속",
+		"link": "www.yna.co.kr/view/AKR20211008025300530?section=safe/news",
+		"date": "10-08 09:30"
+	},
+	"b21cb239eaf803e0e60358622ef72e12aea8f5989383ccde5be28ea00a51b46e": {
+		"title": "브라질, 도시 58%서 9월중 코로나사망자 없어…\"최악 상황 지나\"",
+		"link": "www.yna.co.kr/view/AKR20211008005200094?section=safe/news",
+		"date": "10-08 09:27"
+	},
+	"3e06c707f4d592922089e837f0bd25aa3b3c30bfaf30960783927b556b282773": {
+		"title": "'교내 집단감염' 화순 고교서 1명 추가 확진…누적 21명",
+		"link": "www.yna.co.kr/view/AKR20211008040100054?section=safe/news",
+		"date": "10-08 09:16"
+	},
+	"93eac78c443c7521145c657b56264ce46142298fc1b46a3b24c58d46e36cf52a": {
+		"title": "광주 서구청 직원 2명 추가 감염…같은 층에서 확진자 4명(종합)",
+		"link": "www.yna.co.kr/view/AKR20211008030951054?section=safe/news",
+		"date": "10-08 09:01"
+	},
+	"53ba296b39f0e3fe2926aab3de2642d954a050cabad7218e49f888db006082b6": {
+		"title": "대구서 베트남 지인 모임 관련 확진자 700명 넘어",
+		"link": "www.yna.co.kr/view/AKR20211008029200053?section=safe/news",
+		"date": "10-08 08:55"
+	},
+	"6f7a4f8ef99604bdfb4edcca84aeec53b15e14e0c999a4cd92307da391679a96": {
+		"title": "학교 마스크 의무화로 갈라진 美…이번엔 주정부-교육구 갈등",
+		"link": "www.yna.co.kr/view/AKR20211008027500091?section=safe/news",
+		"date": "10-08 08:50"
+	},
+	"af2e0049d54017e7aa61cd16d759b07d917b752fedad7eb2208f8144337b1b09": {
+		"title": "광주 서구청 직원 2명 추가 확진…집단감염 우려",
+		"link": "www.yna.co.kr/view/AKR20211008030900054?section=safe/news",
+		"date": "10-08 08:50"
+	},
+	"e907435f4f56767416c9cafe949a02ad5344fb8e9733604aea1f5a1dded9df10": {
+		"title": "영국 '위드 코로나'…여행제한국 54개국서 7개국으로",
+		"link": "www.yna.co.kr/view/AKR20211008025100009?section=safe/news",
+		"date": "10-08 08:48"
+	},
 	"7d5ef46e0ea66fc45aad0e02efd63fbc87dc7d0679ff905d2eeba60fdcd4e931": {
 		"title": "경북 77명 확진…경산 소재 사업장서 외국인 33명 집단감염",
 		"link": "www.yna.co.kr/view/AKR20211008027000053?section=safe/news",
@@ -438,65 +498,5 @@
 		"title": "부산 1명 추가 확진…식당 방문한 자가격리 이탈자 적발",
 		"link": "www.yna.co.kr/view/AKR20211007030200051?section=safe/news",
 		"date": "10-07 10:00"
-	},
-	"6f6cc3e36091068313ca7d6f7e80909db4b796904b5e53981051207168c62350": {
-		"title": "어제 대전서 30명 확진…고교 관련 누적 24명",
-		"link": "www.yna.co.kr/view/AKR20211007044300063?section=safe/news",
-		"date": "10-07 10:00"
-	},
-	"b0e122b2035944928ed7604d8237b18a29c03449de94ccbf081479d71636b806": {
-		"title": "서울 837명 신규 확진…전날보다 147명↑",
-		"link": "www.yna.co.kr/view/AKR20211007053500004?section=safe/news",
-		"date": "10-07 10:00"
-	},
-	"f023058d8a57ccef2f7e6062b0c3e90fb52a7dfead47be073be6bbda2374869a": {
-		"title": "경기 신규확진 856명…엿새 만에 다시 800명대로",
-		"link": "www.yna.co.kr/view/AKR20211007047100061?section=safe/news",
-		"date": "10-07 10:00"
-	},
-	"1de7086f6cdff8c0509dab1710a5cde0a809ecaf0aed0e51874b35332b7b9340": {
-		"title": "울산 밤사이 12명 신규 확진…대부분 기존 확진자들 접촉자",
-		"link": "www.yna.co.kr/view/AKR20211007054300057?section=safe/news",
-		"date": "10-07 10:00"
-	},
-	"6289cbde2179aa86e311daf863b70b921fb7690cade7e0347f67473536048a5a": {
-		"title": "1차접종 총 3천982만여명, 인구대비 77.6%…접종완료율 55.5%",
-		"link": "www.yna.co.kr/view/AKR20211007050600530?section=safe/news",
-		"date": "10-07 09:55"
-	},
-	"18d037fcddf629dbcc28707825b474ea7659784d7bcbdd96daefb041e8972f16": {
-		"title": "인니 리아우주, 확진자 급증 싱가포르와 트래블 버블 취소",
-		"link": "www.yna.co.kr/view/AKR20211007049100076?section=safe/news",
-		"date": "10-07 09:55"
-	},
-	"64de0a23885e27fca8aac11bbee0341dc03b9eda3d835a8149af982085820dc2": {
-		"title": "AZ 백신 개발자 \"글로벌 백신 불평등 못 줄이면 사태 악화\"",
-		"link": "www.yna.co.kr/view/AKR20211007048300009?section=safe/news",
-		"date": "10-07 09:49"
-	},
-	"a2d6837b28823f6ba6a0678d9aead8269a522b8736da80d1a7676f0f06e58ea1": {
-		"title": "\"백신 접종 후 머리카락이 우수수 빠져요\" 청와대 국민청원",
-		"link": "www.yna.co.kr/view/AKR20211007045300063?section=safe/news",
-		"date": "10-07 09:48"
-	},
-	"f37cd9e1114786e1a8868f07d5ead720db9427097dac47cc096560a344b6eb79": {
-		"title": "임시 선별검사소서 773명 확진…수도권 743명-비수도권 30명",
-		"link": "www.yna.co.kr/view/AKR20211007012100530?section=safe/news",
-		"date": "10-07 09:47"
-	},
-	"eacbf7f2f8a34d453e71b9af8f8a207c4954f47473dafbd3eed836d0929923a7": {
-		"title": "수원연극축제 작년 이어 올해도 코로나19로 취소",
-		"link": "www.yna.co.kr/view/AKR20211007046600061?section=safe/news",
-		"date": "10-07 09:42"
-	},
-	"6626a166b17f95220833522576da7f74fbb732b79195e90ee2a8e5aaa16516ea": {
-		"title": "[3보] 신규확진 2천427명, 엿새만에 2천400명대…수도권 확산 여전",
-		"link": "www.yna.co.kr/view/AKR20211007011700530?section=safe/news",
-		"date": "10-07 09:42"
-	},
-	"cc7e7ba9068a0edce28236e4d82f46c403f4e6c161ed51026d6368d3ef1c607c": {
-		"title": "[속보] 1차접종 총 3천982만여명, 인구대비 77.6%…접종완료율 55.5%",
-		"link": "www.yna.co.kr/view/AKR20211007045900530?section=safe/news",
-		"date": "10-07 09:32"
 	}
 }
