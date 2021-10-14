@@ -1,4 +1,34 @@
 {
+	"7de50f7264382f9fd19449eb8b3523d98ffee896b8243d00f4b2588853817f66": {
+		"title": "전북 신규 확진자 22명…확진자와 같은 병실 환자도 감염",
+		"link": "www.yna.co.kr/view/AKR20211014078800055?section=safe/news",
+		"date": "10-14 11:46"
+	},
+	"4322e8d761a48255fe780d358cac29b88cc1b3fba479a364e6d3716a16af9822": {
+		"title": "정부 \"확진자, 감염병전담병원서 단기 진료하는 방안 검토\"",
+		"link": "www.yna.co.kr/view/AKR20211014080000530?section=safe/news",
+		"date": "10-14 11:45"
+	},
+	"b1b8f0f8c39ab6313cc007791df9e6b74599636f06a40a93090dfb6b6a95fbc8": {
+		"title": "일상회복, 백신접종 완료율 따라 단계적 추진…\"세부 논의중\"",
+		"link": "www.yna.co.kr/view/AKR20211014073000530?section=safe/news",
+		"date": "10-14 11:40"
+	},
+	"a34565d2e2af2a31254a6468c021080c73d67b47c2de525ef1b17fedda52afcd": {
+		"title": "청주 학생 중심 연쇄감염 진정 기미…추가 확진 3명",
+		"link": "www.yna.co.kr/view/AKR20211014080200064?section=safe/news",
+		"date": "10-14 11:39"
+	},
+	"645e355d69c91124a55085625282c2113a554e0c0335b52421db27c9b108b752": {
+		"title": "서울 동작구 아파트 43명 집단감염…'엘리베이터 감염' 추정",
+		"link": "www.yna.co.kr/view/AKR20211014075400004?section=safe/news",
+		"date": "10-14 11:32"
+	},
+	"f43314cd021527733c85056fe23c03b4ba4a34e4dd344e27462782bbcc55ee60": {
+		"title": "청주 청원경찰서 경찰관 3명 확진…1명은 '돌파감염'",
+		"link": "www.yna.co.kr/view/AKR20211014079300064?section=safe/news",
+		"date": "10-14 11:30"
+	},
 	"a7aa46a22d06e305d3349d1a921d8c047629c1dc576d7c35585c8c0a248d0897": {
 		"title": "중소기업 옴부즈만, 정부에 '거리두기 완화' 건의",
 		"link": "www.yna.co.kr/view/AKR20211014077400003?section=safe/news",
@@ -468,35 +498,5 @@
 		"title": "주간 일평균 지역확진자 감소…수도권 14.5%↓·비수도권 19%↓",
 		"link": "www.yna.co.kr/view/AKR20211013092900530?section=safe/news",
 		"date": "10-13 12:46"
-	},
-	"fb7d51c8f72cab4091b789af335c62d066de0c80b1b13511c2b98d4c6f3a6b7a": {
-		"title": "중국, 우한 혈액 샘플 수천 건 검사…코로나19 조사",
-		"link": "www.yna.co.kr/view/AKR20211013080000009?section=safe/news",
-		"date": "10-13 12:12"
-	},
-	"914392d93d577ac7b7b2a3efe231aeb166d08b6c40f8596731702047ee2382c1": {
-		"title": "개인정보위 \"코로나 열화상카메라 보안취약…과기부와 실태조사\"",
-		"link": "www.yna.co.kr/view/AKR20211013090400530?section=safe/news",
-		"date": "10-13 12:07"
-	},
-	"5109fe4d90e1bca4e550cd3332ef021039042eca46daa45ff67bf56a961da5f0": {
-		"title": "미 보잉, 전직원에 \"12월8일까지 코로나19 백신 의무접종\"",
-		"link": "www.yna.co.kr/view/AKR20211013087100009?section=safe/news",
-		"date": "10-13 12:05"
-	},
-	"8328657a47c859fca95397bf662c111bbea08f8cd66b0e710e92577586a061c0": {
-		"title": "[속보] 주간 일평균 지역확진자 감소…수도권 14.5%↓·비수도권 19%↓",
-		"link": "www.yna.co.kr/view/AKR20211013085800530?section=safe/news",
-		"date": "10-13 12:00"
-	},
-	"8e9454fe236ffe92f22f0e77e6ec0df1c7341d97d5008dbe33c97ffbb6c88d98": {
-		"title": "[속보] 16∼17세 코로나19 백신 예약률 50.2%…18일부터 접종",
-		"link": "www.yna.co.kr/view/AKR20211013086700530?section=safe/news",
-		"date": "10-13 12:00"
-	},
-	"59f931d9dc308bffc1f4e6be3fbdab16ee5703b979b5b81fd8690f3be81e62c7": {
-		"title": "직계약 화이자 백신 13만6천회분 인천공항 도착",
-		"link": "www.yna.co.kr/view/AKR20211013088800530?section=safe/news",
-		"date": "10-13 12:00"
 	}
 }
