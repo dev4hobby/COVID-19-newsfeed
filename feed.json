@@ -1,4 +1,9 @@
 {
+	"584c8ec5e237564df472f68f1459f8da056c5cf74126591998ab4bf71143afd6": {
+		"title": "[속보] 오후 6시까지 전국서 1천273명 확진…어제보다 376명 많아",
+		"link": "www.yna.co.kr/view/AKR20211019162200530?section=safe/news",
+		"date": "10-19 18:39"
+	},
 	"1848fb0b08c4732a5b88a3e0bb5804d0976fc495bca04273a5650a003abc2296": {
 		"title": "충북 18시 67명 확진…학교·요양원·축산업체 연쇄감염",
 		"link": "www.yna.co.kr/view/AKR20211019157200064?section=safe/news",
@@ -493,10 +498,5 @@
 		"title": "오후 9시까지 전국서 1천39명 확진…전날과 비슷(종합)",
 		"link": "www.yna.co.kr/view/AKR20211018153751530?section=safe/news",
 		"date": "10-18 22:09"
-	},
-	"25d25dc94b4212f43af7127caeec603562a190fa33c16d2ed4e6ffc314f1b8db": {
-		"title": "충북 41명 확진…청주·충주 학생 감염 '비상'(종합)",
-		"link": "www.yna.co.kr/view/AKR20211018146551064?section=safe/news",
-		"date": "10-18 22:01"
 	}
 }
