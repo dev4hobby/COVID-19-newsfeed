@@ -1,4 +1,109 @@
 {
+	"ae6bd0d4528ebdaec2b5be284d12a4e3cdc849fb28b28161c52f9a0c52bcc9ae": {
+		"title": "김포 어학원서 학생·강사 등 11명 코로나 확진",
+		"link": "www.yna.co.kr/view/AKR20211020072100065?section=safe/news",
+		"date": "10-20 10:55"
+	},
+	"e37ae6e1eff496037955eb92fe2b898f45a495f35f805124949cd072988b7a54": {
+		"title": "일상회복위 자치안전 분과회의 개최…거리두기 개편방향 등 논의",
+		"link": "www.yna.co.kr/view/AKR20211020067100530?section=safe/news",
+		"date": "10-20 10:38"
+	},
+	"a8c0983468da8ee512f9eb3bf562b3cef68521a3a9c31217170233f9d23497d3": {
+		"title": "하루 5만명…영국, '마스크 벗은 위드코로나'에 확진자 급증",
+		"link": "www.yna.co.kr/view/AKR20211020053700009?section=safe/news",
+		"date": "10-20 10:31"
+	},
+	"ac39278d5b7894f775e443d56a4aab4d89faed1e98ad59776db89aa1a0a2fcbe": {
+		"title": "전북 12명 신규 확진…백신 접종 완료율 70% 육박",
+		"link": "www.yna.co.kr/view/AKR20211020061400055?section=safe/news",
+		"date": "10-20 10:21"
+	},
+	"e41bfb41e1d3e4de4a8c3959d8fa79579f3ade982f1dde4f059d3e5242840dd1": {
+		"title": "신규확진 1천571명…휴일 효과 사라지며 어제보다 498명 늘어(종합)",
+		"link": "www.yna.co.kr/view/AKR20211020050951530?section=safe/news",
+		"date": "10-20 10:21"
+	},
+	"5dd4dceaab6142470c75a910347a7afb592bd491c28c865706a6de5e64632270": {
+		"title": "인천 109명 확진…건설사·의료기관 집단감염 확산",
+		"link": "www.yna.co.kr/view/AKR20211020058800065?section=safe/news",
+		"date": "10-20 10:13"
+	},
+	"c4e09abee91899e61610f1aec8adfaa64a1a53ad8957dd94e13cbec4a1daa154": {
+		"title": "위드코로나 앞둔 청주 확산세 진정 안 돼…하루 25.8명꼴 확진",
+		"link": "www.yna.co.kr/view/AKR20211020050700064?section=safe/news",
+		"date": "10-20 10:06"
+	},
+	"44f6c24965876f58992c72fe60381c342d08b407b0e33e2fb301de5da2a841a3": {
+		"title": "[3보] 신규확진 1천571명, 어제보다 498명↑…휴일효과 끝 급증",
+		"link": "www.yna.co.kr/view/AKR20211020050900530?section=safe/news",
+		"date": "10-20 10:00"
+	},
+	"9518ec61d008663a73432e6d7c6783a8c0d2b40ac311958c89528978e8391e2a": {
+		"title": "경기 신규확진 588명…학원·요양원 등 3곳서 새 집단감염",
+		"link": "www.yna.co.kr/view/AKR20211020040100061?section=safe/news",
+		"date": "10-20 10:00"
+	},
+	"db99c23bbf2445f786781ca5f66897894a41d13fc48684d509417233bf03c08a": {
+		"title": "어제 대전서 9명 확진…최근 1주일간 하루 9.1명꼴",
+		"link": "www.yna.co.kr/view/AKR20211019047752063?section=safe/news",
+		"date": "10-20 10:00"
+	},
+	"60d059f53212ff93ca4317becb07e1f9d98cdbc6ee6a04d7596f66b257038f2e": {
+		"title": "코로나19 백신 접종완료율 인구의 66.7%…1차 접종률은 78.9%",
+		"link": "www.yna.co.kr/view/AKR20211020052300530?section=safe/news",
+		"date": "10-20 09:59"
+	},
+	"a327163429f2457dbe095912d5252819f3a7cd0a7cfba5567ce2b6bb041928ef": {
+		"title": "'접종률 84%' 싱가포르, 신규 확진 또 최다…4천명 육박",
+		"link": "www.yna.co.kr/view/AKR20211020049400084?section=safe/news",
+		"date": "10-20 09:56"
+	},
+	"c9de0c6cb7b5f8183a3d9411ed6fa69a9dcc080953642352bffa5d069e8c2471": {
+		"title": "결핵도 코로나19처럼 숨결로 전염…기침전파 통념 깨졌다",
+		"link": "www.yna.co.kr/view/AKR20211020049300009?section=safe/news",
+		"date": "10-20 09:56"
+	},
+	"ecd0b58961e8326a316366950a4cada14eb1b3356365a9af0b7f7ace0601e35c": {
+		"title": "서울 504명 신규 확진…전날보다 206명 급증",
+		"link": "www.yna.co.kr/view/AKR20211020049800004?section=safe/news",
+		"date": "10-20 09:44"
+	},
+	"23e21e9ad40d959a077c3663b443d16cb236f3642601d152427c7b744465a271": {
+		"title": "\"코로나 확진자 10명 중 1명은 재택치료 중\"",
+		"link": "www.yna.co.kr/view/AKR20211020045400001?section=safe/news",
+		"date": "10-20 09:36"
+	},
+	"cdba10d4ab61290334959dd5c777f02db101933fa4ee89a23705e246096fba6e": {
+		"title": "[2보] 신규확진 1천571명, 어제보다 498명↑…휴일효과 끝 급증",
+		"link": "www.yna.co.kr/view/AKR20211020030100530?section=safe/news",
+		"date": "10-20 09:33"
+	},
+	"6fa236656b79e47ca9f7539db6065b45a44aa07234fa70ff2098191fb8c75b25": {
+		"title": "[속보] 이틀간 백신 이상반응 6천345건…사망 12명, 인과성 미확인",
+		"link": "www.yna.co.kr/view/AKR20211020047300530?section=safe/news",
+		"date": "10-20 09:33"
+	},
+	"b34baac1ae5d5b6c9e8eac94c36cc59ca2694a72c8043d61b6745c738800a15c": {
+		"title": "[속보] 접종완료율 66.7%, 총 3천426만5천84명…1차 접종률 78.9%",
+		"link": "www.yna.co.kr/view/AKR20211020047100530?section=safe/news",
+		"date": "10-20 09:32"
+	},
+	"0a295d9f0ef8b6033f1da5bfe742b8add2ac911ad5a3a7f805532f4653f88a49": {
+		"title": "[속보] 코로나19로 어제 9명 사망…국내 누적 2천698명",
+		"link": "www.yna.co.kr/view/AKR20211020026100530?section=safe/news",
+		"date": "10-20 09:31"
+	},
+	"bef7245381660e344a342f56ed08c8144707dee86bfad4462ffa51b29d524842": {
+		"title": "지난주 마스크 6천843만개 생산…가격은 안정세 유지",
+		"link": "www.yna.co.kr/view/AKR20211020045500530?section=safe/news",
+		"date": "10-20 09:31"
+	},
+	"60dd777ee5a56142ee17a1fdfa711faa4de93bcdfa6017235810de410909e21e": {
+		"title": "[1보] 신규확진 1천571명, 어제보다 498명↑…휴일효과 끝 급증",
+		"link": "www.yna.co.kr/view/AKR20211020025600530?section=safe/news",
+		"date": "10-20 09:31"
+	},
 	"f92828ee92bb5f025afc8b4109333f35968550405c30f955b712757c88c9b829": {
 		"title": "\"미 FDA, 백신 부스터샷 65세→40세 이상 확대 전망\"",
 		"link": "www.yna.co.kr/view/AKR20211020028700009?section=safe/news",
@@ -393,110 +498,5 @@
 		"title": "'위드코로나, 어떻게' 22일 단계적 일상회복 2차 공개토론회",
 		"link": "www.yna.co.kr/view/AKR20211019082900530?section=safe/news",
 		"date": "10-19 11:48"
-	},
-	"1780cae16a1c0529aae457a2b225c40e44a07bda0209904446bda4c474ecfa5e": {
-		"title": "\"코로나19 감염시 백신 미접종자 중증화율 3∼4배 높아\"",
-		"link": "www.yna.co.kr/view/AKR20211019079000530?section=safe/news",
-		"date": "10-19 11:42"
-	},
-	"1c33333e1279c9a8424bf5adfa58da54e58e83e794c9758baaa625ea7ea9ee20": {
-		"title": "전북 20명 신규 확진…병원·코인노래방서 연쇄 감염",
-		"link": "www.yna.co.kr/view/AKR20211019080000055?section=safe/news",
-		"date": "10-19 11:42"
-	},
-	"16ccae9a8d3f11653cb66d3c9933197e301c8d5f3933a1629ed427c72c1d3d54": {
-		"title": "'위드코로나' 앞두고 확진자 감소 유지될까…방역당국 예의주시",
-		"link": "www.yna.co.kr/view/AKR20211019040200530?section=safe/news",
-		"date": "10-19 11:28"
-	},
-	"f83edd3a8df2e4018389ce1d3e563165a63bff2a56cafb7976c81dd3030912d4": {
-		"title": "LG전자도 재택 인원 줄이고 집합교육 허용…'위드 코로나' 준비",
-		"link": "www.yna.co.kr/view/AKR20211019069700003?section=safe/news",
-		"date": "10-19 11:11"
-	},
-	"89fdc920c53e1da205905d241b07a189e0b7e8c4de68298b6a2014d1f891f6cf": {
-		"title": "[속보] 내일부터 격리면제서 없는 내국인 해외접종자도 접종력 인정",
-		"link": "www.yna.co.kr/view/AKR20211019073300530?section=safe/news",
-		"date": "10-19 11:10"
-	},
-	"5bdb12f4ea107de43340b4bd65f7eb58992c01dd7bd9583c070c81cfc0f4a7d1": {
-		"title": "주간 일평균 확진자, 1주새 400명 가까이 줄어…'감소세 뚜렷'",
-		"link": "www.yna.co.kr/view/AKR20211019071200530?section=safe/news",
-		"date": "10-19 11:10"
-	},
-	"e6872f763de6f3409f00d45a80ca1b4f182eea40919dfee50dc1b8807c5320b6": {
-		"title": "[속보] \"확진자 감소세…수도권 17.8%, 비수도권 28.1% 감소\"",
-		"link": "www.yna.co.kr/view/AKR20211019064600530?section=safe/news",
-		"date": "10-19 11:00"
-	},
-	"3883157d178b48b4ee93837761b2ccf42826565b696c3db9e78129a743deab0c": {
-		"title": "조기잡이 철 목포로 몰려든 외국인 선원 '줄줄이' 코로나 확진",
-		"link": "www.yna.co.kr/view/AKR20211019068800054?section=safe/news",
-		"date": "10-19 10:59"
-	},
-	"dd53ea2feeaa25a6ba9f88ae05e5115ea12756cb2c8d988cf70dbf241ac66edb": {
-		"title": "\"대통령 사과해야\"…브라질 코로나 사망자 가족들 눈물의 호소",
-		"link": "www.yna.co.kr/view/AKR20211019066400094?section=safe/news",
-		"date": "10-19 10:56"
-	},
-	"27a5602156b9528380f8d568d2a91614595836c05581c8bbb9d30028733dbdbd": {
-		"title": "대구서 PC방 관련 9명 등 35명 신규 확진",
-		"link": "www.yna.co.kr/view/AKR20211019066800053?section=safe/news",
-		"date": "10-19 10:49"
-	},
-	"7d486db5bffad4b03e49b03eddc4bd1774ea9725f72d1d0e6609de7aace76e72": {
-		"title": "캐나다 \"5~11세 아동대상 화이자 백신사용 승인신청 심의할 것\"",
-		"link": "www.yna.co.kr/view/AKR20211019060000009?section=safe/news",
-		"date": "10-19 10:37"
-	},
-	"b03fd3b1baee9f0e3fac0a0fb91b3c10de501ce47874f11a64ff39c1be6382aa": {
-		"title": "\"얀센+모더나→항체 생성 76배\"…\"미, 혼용 부스터샷 허용 임박\"",
-		"link": "www.yna.co.kr/view/AKR20211019053600009?section=safe/news",
-		"date": "10-19 10:30"
-	},
-	"9b50e47ba9ddc8b6b326c52b4d46457bc7b8fc385286f9dc0fce26c68ba31c52": {
-		"title": "인천 93명 신규 확진…의료기관 등 2곳서 새 집단감염",
-		"link": "www.yna.co.kr/view/AKR20211019058600065?section=safe/news",
-		"date": "10-19 10:27"
-	},
-	"7d5d67b7650426a485fab113ee82b4fcd2bc128acb060b3720c34721a70390f8": {
-		"title": "신규확진 1천73명, 이틀째 1천명선…4차 유행 주춤(종합)",
-		"link": "www.yna.co.kr/view/AKR20211019034351530?section=safe/news",
-		"date": "10-19 10:24"
-	},
-	"918e493ea4d1c140f25edf6c5b1c70c17fd77cf114836c74dcffb6e38d7be5b3": {
-		"title": "울산 5명 신규 확진…교회 관련 연쇄감염 1명 포함",
-		"link": "www.yna.co.kr/view/AKR20211019058100057?section=safe/news",
-		"date": "10-19 10:16"
-	},
-	"4a1ed0fe88cadf18e2d65087c66fa6c008872669fb491d854acb89512cf906d4": {
-		"title": "[여행소식] 터키 정부 \"한국인 접종자 자가격리 없이 입국\"",
-		"link": "www.yna.co.kr/view/AKR20211019042300805?section=safe/news",
-		"date": "10-19 10:07"
-	},
-	"abf79926f957f5e6bb640a53eca148b8205f861e5b713aee7e94c4eedc2d5557": {
-		"title": "코로나19 백신 접종완료율 66% 육박…1차 접종률은 78.8%",
-		"link": "www.yna.co.kr/view/AKR20211019052500530?section=safe/news",
-		"date": "10-19 10:06"
-	},
-	"663541e61adf36939704c1afa4f622d4de6809445bbcc13308c9ad035eaf9df7": {
-		"title": "[3보] 신규확진 1천73명, 이틀째 1천명선…4차 유행 주춤",
-		"link": "www.yna.co.kr/view/AKR20211019034300530?section=safe/news",
-		"date": "10-19 10:04"
-	},
-	"d018e6d7d7f3ff02e54e14885464dfbdef256ba53def897c8377ea64f8cb502c": {
-		"title": "확진·격리자 별도공간서 수능 본다…당일 증상있어도 따로 응시",
-		"link": "www.yna.co.kr/view/AKR20211018138800530?section=safe/news",
-		"date": "10-19 10:00"
-	},
-	"2993804a46c0fb26b27f6da69f6119643404d4174c11faeb640a0aedc2a0580f": {
-		"title": "경기 신규확진 401명…건설현장 등 4곳서 새 집단감염",
-		"link": "www.yna.co.kr/view/AKR20211019043000061?section=safe/news",
-		"date": "10-19 10:00"
-	},
-	"e42bd1e28bcf2c5d31a1448d0d62bd97fb0d06a3985378a97c10a6d96f99611a": {
-		"title": "어제 대전서 15명 확진…초등·중학교 집단 감염 이어져",
-		"link": "www.yna.co.kr/view/AKR20211019047700063?section=safe/news",
-		"date": "10-19 10:00"
 	}
 }
