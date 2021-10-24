@@ -1,4 +1,19 @@
 {
+	"773d770fbda5158ad09498aa3e005a65752465b1ae0c5229e372f9a50da36219": {
+		"title": "[속보] 오후 6시까지 전국서 957명 확진…어제보다 174명 적어",
+		"link": "www.yna.co.kr/view/AKR20211024052700530?section=safe/news",
+		"date": "10-24 18:38"
+	},
+	"47b62dc6055aa26273702cd9cd8fd5f404facc1b378a310594e1093723c5b816": {
+		"title": "오후 6시까지 서울 417명 확진…전날과 같아",
+		"link": "www.yna.co.kr/view/AKR20211024051800004?section=safe/news",
+		"date": "10-24 18:36"
+	},
+	"947a7e626cedbcc8db2a1437e6f627da07bafa7e6cb513c77b18f71771f6fbbe": {
+		"title": "울산 4명 신규 확진…누적 5천386명(종합)",
+		"link": "www.yna.co.kr/view/AKR20211024017751057?section=safe/news",
+		"date": "10-24 18:22"
+	},
 	"987f261bca001f3b98d55ee99e04d83f18bb15323211676625f5dfcc037ce7ba": {
 		"title": "충북 37명 확진…요양원·사업장 등 집단감염 여파",
 		"link": "www.yna.co.kr/view/AKR20211024049900064?section=safe/news",
@@ -483,20 +498,5 @@
 		"title": "광주·전남서 코로나19 확진자 14명 추가",
 		"link": "www.yna.co.kr/view/AKR20211023015800054?section=safe/news",
 		"date": "10-23 08:33"
-	},
-	"c0569a35860a6de41cc6bf7e4daae756cd6f0369ec90388d8192db0377f64fdb": {
-		"title": "코로나로 보건·사회복지 단순노무자↑…60대 이상 많아",
-		"link": "www.yna.co.kr/view/AKR20211022106200530?section=safe/news",
-		"date": "10-23 07:01"
-	},
-	"a0c9bbf12755a57366183f490dfcbc3e6c66f1a130363c2dbff37e43b5eeda1b": {
-		"title": "지방정부의 타국 백신기부 막는 백악관…\"물류·법적 애로 탓\"",
-		"link": "www.yna.co.kr/view/AKR20211023009600071?section=safe/news",
-		"date": "10-23 06:58"
-	},
-	"96ce3ff94b2435dc0f362ab387e5f6e01784da443ed0e67110ffe264e2309755": {
-		"title": "미국서 도전받는 백신 의무화…경찰노조 반발·산업계 연기 요청",
-		"link": "www.yna.co.kr/view/AKR20211023005300091?section=safe/news",
-		"date": "10-23 05:11"
 	}
 }
