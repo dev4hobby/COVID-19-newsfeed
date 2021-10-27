@@ -1,4 +1,34 @@
 {
+	"5fca0b9c24753dab86a2818a661e07b85c8dca1246aff201a3ceafb93d94c921": {
+		"title": "[속보] \"주간 감염재생산지수 0.88, 3주간 1 미만…이번주 상승 가능성\"",
+		"link": "www.yna.co.kr/view/AKR20211027112600530?section=safe/news",
+		"date": "10-27 14:24"
+	},
+	"d09453a4a0b2618121dd603e421ea578be4d1355beaaa8ac658ccdd9efa33f3f": {
+		"title": "[속보] \"코로나19-독감 동시유행 우려…대학 대면수업서 감염위험 상존\"",
+		"link": "www.yna.co.kr/view/AKR20211027111200530?section=safe/news",
+		"date": "10-27 14:21"
+	},
+	"df6a02feff4cdc873092f07a61e68bc2d74e534a8f2e1941764b4f35ee84f86b": {
+		"title": "[속보] \"수도권 유행·겨울철 진입·거리두기 완화로 추가 확산 위험\"",
+		"link": "www.yna.co.kr/view/AKR20211027109700530?section=safe/news",
+		"date": "10-27 14:16"
+	},
+	"25bac15fd1f7b46f53afcc9491f6dc2480e5d64554ad5cb36002cb9fb6d7bf80": {
+		"title": "[속보] '돌파감염' 누적 1만9천954명…국내 접종완료자 중 0.074%",
+		"link": "www.yna.co.kr/view/AKR20211027109400530?section=safe/news",
+		"date": "10-27 14:13"
+	},
+	"44c28ebd844c062637213e3731c7f8b6e060bb15871fba1276e5a9d2d51715f8": {
+		"title": "\"위드코로나 되면 대구서 하루 최대 300명까지 확진 가능\"",
+		"link": "www.yna.co.kr/view/AKR20211027107700053?section=safe/news",
+		"date": "10-27 14:12"
+	},
+	"0852b6b1deb4bfb7ea3dc3094df6a25d54db657a329a131920ff50f01082e199": {
+		"title": "부산 최근 확진자의 45%가 돌파감염…신규 확진 49명",
+		"link": "www.yna.co.kr/view/AKR20211027104100051?section=safe/news",
+		"date": "10-27 14:05"
+	},
 	"f8914095f087ed7894972c3da20aa7f7d496523f958de071857c7fa19397278e": {
 		"title": "경남 26명 확진…목욕탕·어린이집·공장 집단감염 영향 지속",
 		"link": "www.yna.co.kr/view/AKR20211027103000052?section=safe/news",
@@ -468,35 +498,5 @@
 		"title": "[영상] \"왜 마스크 안쓰냐\" 항의하는 승객에 멱살 잡은 美경찰",
 		"link": "www.yna.co.kr/view/AKR20211026090300534?section=safe/news",
 		"date": "10-26 14:03"
-	},
-	"c1fdc2debc393c3a1a8540803c639bf6ac859aca57239ffd2b909c0ca670a99b": {
-		"title": "일상회복 어떻게 하나…부산 위드 코로나 준비 착수(종합)",
-		"link": "www.yna.co.kr/view/AKR20211026073251051?section=safe/news",
-		"date": "10-26 13:59"
-	},
-	"bd503291f9e4a289d7cf840b91161fd0ced12445fd7f62a22dd80b49c7f7a039": {
-		"title": "경남 36명 확진…의료기관·회사 집단감염 영향 지속",
-		"link": "www.yna.co.kr/view/AKR20211026105000052?section=safe/news",
-		"date": "10-26 13:49"
-	},
-	"5b9992642936ce99c1c43bda21bb2c394cba417e94b0f3e9e67ad508da980151": {
-		"title": "사업장 집단감염 등 부산 40명 신규 확진",
-		"link": "www.yna.co.kr/view/AKR20211026104100051?section=safe/news",
-		"date": "10-26 13:42"
-	},
-	"cc401ab7db73e453f4da635fd4de82875cd13912ebc530b2960b7594c05166af": {
-		"title": "중국 코로나 비상에…홍콩 \"격리면제 대부분 없앨 것\"",
-		"link": "www.yna.co.kr/view/AKR20211026101900074?section=safe/news",
-		"date": "10-26 13:35"
-	},
-	"ec7e9670415671e4ef7df403c36e14a0574ade856cca79f86ec122ba377ab1fd": {
-		"title": "병원갈때도 백신패스 필요?…진료땐 불필요·면회엔 필수",
-		"link": "www.yna.co.kr/view/AKR20211026094400530?section=safe/news",
-		"date": "10-26 13:25"
-	},
-	"2fb865475065098c804d70b85cf4a762ec2862950e298b98f68d3f02eb9e3f39": {
-		"title": "印 뉴델리, 이번엔 뎅기열 환자 폭증…\"병상 빠르게 소진\"",
-		"link": "www.yna.co.kr/view/AKR20211026099100077?section=safe/news",
-		"date": "10-26 13:11"
 	}
 }
