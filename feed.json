@@ -1,4 +1,34 @@
 {
+	"608f75b81ac082eac8d864b65da5674639aed288f5a5e26d3492564316339fcf": {
+		"title": "[속보] 접종완료율 75.3%, 총 3천866만478명…1차 접종률 80.1%",
+		"link": "www.yna.co.kr/view/AKR20211031014800530?section=safe/news",
+		"date": "10-31 09:32"
+	},
+	"8a2b109cf5a568b038e271dc4b7a56140c2fefb9bf1b04e4b53f27d21e26f65a": {
+		"title": "[속보] 코로나19로 어제 19명 사망…누적 2천849명",
+		"link": "www.yna.co.kr/view/AKR20211031011100530?section=safe/news",
+		"date": "10-31 09:31"
+	},
+	"4c33dc7d3af9e98c8acf0c21314170046d4092841ee6cc21fc08eae3919f4df6": {
+		"title": "[1보] 신규확진 2천61명, 나흘 연속 2천명대…수도권 확산세 지속",
+		"link": "www.yna.co.kr/view/AKR20211031010900530?section=safe/news",
+		"date": "10-31 09:31"
+	},
+	"3a29ca9e24f1c5ef080e196441bc2f3f3fe48ea45f6ecf1b99dac4a2891bef3f": {
+		"title": "뉴욕 소방관 '백신의무 반대' 파업…7살 어린이 화재로 사망",
+		"link": "www.yna.co.kr/view/AKR20211031011900009?section=safe/news",
+		"date": "10-31 09:23"
+	},
+	"046cf6ec1942e55ec7af7f86d0ab61e5b843ed5206795f966399faeb769e5d4c": {
+		"title": "광주·전남 코로나 확진자 53명…일상 회복 앞두고 폭증하나",
+		"link": "www.yna.co.kr/view/AKR20211031012000054?section=safe/news",
+		"date": "10-31 09:13"
+	},
+	"7eb1b1b98a48b02ea84bb1928769048cabfbcd4a7a4fb6818ea43d5b7d3c97ca": {
+		"title": "南 위드코로나 시작인데…北, 여전히 철통 방역 강조",
+		"link": "www.yna.co.kr/view/AKR20211031010600504?section=safe/news",
+		"date": "10-31 08:57"
+	},
 	"f0fc5d94bdac0937e78577ea662c25dcde3ed5f630b37708e2bc6e61db5909fd": {
 		"title": "겨울철·연말연시 겹친 '위드코로나'…\"확진자 5천명 달할수도\"",
 		"link": "www.yna.co.kr/view/AKR20211029147000530?section=safe/news",
@@ -468,35 +498,5 @@
 		"title": "헝가리, 확진자 재증가에 \"국가기관 직원에 백신접종 요구할 것\"",
 		"link": "www.yna.co.kr/view/AKR20211029141600088?section=safe/news",
 		"date": "10-29 17:08"
-	},
-	"faa2849bc682fc0bb42e30dbe0006a6e1e17df79c019b9a5ba38bc37391160b4": {
-		"title": "[영상] 니카라과 국민들, 강 건너 온두라스로 백신 원정접종",
-		"link": "www.yna.co.kr/view/AKR20211029138600534?section=safe/news",
-		"date": "10-29 17:05"
-	},
-	"1bbbab725f631847f25cdb9a553f8dffeb57addbf0eb8c88c314d4061528abd1": {
-		"title": "[속보] 1차 접종률 80% 넘어…국내 접종 246일째 기록",
-		"link": "www.yna.co.kr/view/AKR20211029138900530?section=safe/news",
-		"date": "10-29 16:54"
-	},
-	"f5960f59564575625f1ce125231800d0bc548fa7f46e388b777d27430f24dd3f": {
-		"title": "가을 야구도 '방역패스'…전 좌석 백신 접종자 구역 운영(종합)",
-		"link": "www.yna.co.kr/view/AKR20211029079751007?section=safe/news",
-		"date": "10-29 16:49"
-	},
-	"d1debeec960e9fee732ea3e559f1a8805624368611853ee96cc8af5f6307f971": {
-		"title": "미국 미접종 근로자 72% \"코로나 백신 강요하면 퇴사\"",
-		"link": "www.yna.co.kr/view/AKR20211029125000009?section=safe/news",
-		"date": "10-29 16:48"
-	},
-	"bf188b05e6cdf1a5c147bb7d0a47f378be0867b50bd29d7ca2ebfc4e0f1d67d9": {
-		"title": "통가서 첫 코로나 확진자 나와…뉴질랜드발 입국자 확인",
-		"link": "www.yna.co.kr/view/AKR20211029130400009?section=safe/news",
-		"date": "10-29 16:42"
-	},
-	"d3706d67e175673772aac18d5a4a6179234cebf655a3c2b4a1f1e1def12ad17c": {
-		"title": "\"국내 코로나19 바이러스 공통조상, 2019년 10월 중순 첫 출현\"",
-		"link": "www.yna.co.kr/view/AKR20211029100400530?section=safe/news",
-		"date": "10-29 16:33"
 	}
 }
