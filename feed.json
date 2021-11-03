@@ -1,4 +1,44 @@
 {
+	"044b81e460d9a82667c9396a33b1ed6bab59f59135781082c174a5fa779c807a": {
+		"title": "[속보] 미, 5~11세 화이자백신 접종 승인…바이든 \"팬데믹 전환점\"",
+		"link": "www.yna.co.kr/view/AKR20211103045700009?section=safe/news",
+		"date": "11-03 09:36"
+	},
+	"a4c734880e31b557c5c011752597b62d6340354745e9d072a990cad68f3663b8": {
+		"title": "[속보] 이틀간 백신 이상반응 5천898건…사망 12명, 인과성 미확인",
+		"link": "www.yna.co.kr/view/AKR20211103044100530?section=safe/news",
+		"date": "11-03 09:32"
+	},
+	"31c0b2f25315e766eb02c43186a60f66ee6451f35e64bbc3a116c3c3f4d8c633": {
+		"title": "[속보] 접종완료율 75.7%, 총 3천889만5천232명…1차 접종률 80.4%",
+		"link": "www.yna.co.kr/view/AKR20211103043900530?section=safe/news",
+		"date": "11-03 09:31"
+	},
+	"d5cb702c306c14153e8f8fceeeb95cf022f4ba267eecef601f00052078c15b67": {
+		"title": "[속보] 코로나19로 어제 18명 사망, 누적 2천892명…위중증 378명",
+		"link": "www.yna.co.kr/view/AKR20211103029200530?section=safe/news",
+		"date": "11-03 09:31"
+	},
+	"65b1db5ad14ff57396ff04edd1663f93d3f0bdf29eb66f048bc68af593c6b7ec": {
+		"title": "[1보] 신규확진 2천667명, 어제보다 1천78명 급증…방역완화 영향 주시",
+		"link": "www.yna.co.kr/view/AKR20211103029100530?section=safe/news",
+		"date": "11-03 09:30"
+	},
+	"deb32896df9b39f779b1680d78f1cbf9b6b11da468f9a2d1eab8797ca211cad5": {
+		"title": "방역당국 \"돌파감염 늘수밖에 없는 구조…그렇게 문제되지 않아\"",
+		"link": "www.yna.co.kr/view/AKR20211103031100530?section=safe/news",
+		"date": "11-03 09:06"
+	},
+	"911d3a93e631e73b87b42b1ca2ff9570bb3d0506e2147479e56803db1189bb94": {
+		"title": "정부 \"신규확진자 2천600명대…정부합동 특별점검단 운영\"",
+		"link": "www.yna.co.kr/view/AKR20211103030200530?section=safe/news",
+		"date": "11-03 08:52"
+	},
+	"970e1219a9abf592025238f95f074f5050c64eb959943c63af68808eb23b089a": {
+		"title": "전주 모 초교·병설 유치원서 21명 확진…\"접촉자 조사 중\"",
+		"link": "www.yna.co.kr/view/AKR20211103032200055?section=safe/news",
+		"date": "11-03 08:51"
+	},
 	"c11707691a8e3502e833d149edd567bdca07094f8dd6a4daf24e09bacc00013e": {
 		"title": "[속보] 중대본 \"신규확진자 2천600명대…10대 비중 24% 이상\"",
 		"link": "www.yna.co.kr/view/AKR20211103025000530?section=safe/news",
@@ -458,45 +498,5 @@
 		"title": "[1보] 신규확진 1천589명, 이틀연속 2천명 아래…위중증 환자는 347명",
 		"link": "www.yna.co.kr/view/AKR20211102028300530?section=safe/news",
 		"date": "11-02 09:31"
-	},
-	"63aea5a698a1d52174624bf7c949b118315a44d99919444fe0cdfa83645a67ef": {
-		"title": "일본 8일부터 비즈니스 목적 입국자 격리기간 10일→3일",
-		"link": "www.yna.co.kr/view/AKR20211102038200073?section=safe/news",
-		"date": "11-02 09:30"
-	},
-	"f0ea1d4c60412406c988d64acf778dff52dfe6eccdf5f56610b6ded44fb528c9": {
-		"title": "제천시 코로나19 확진자 재택치료 전담팀 가동",
-		"link": "www.yna.co.kr/view/AKR20211102042600064?section=safe/news",
-		"date": "11-02 09:24"
-	},
-	"7cf580fc50c383fe4764fedd5e6754f5964fd599e8e350c7fb2e9fe91a32f011": {
-		"title": "인도네시아, 노바백스 코로나 백신 긴급사용 첫 승인",
-		"link": "www.yna.co.kr/view/AKR20211102034900104?section=safe/news",
-		"date": "11-02 09:23"
-	},
-	"c465266cd379e83eadadd1b95d4cd597d451b466a2319c2d00eb268e8f0d22a1": {
-		"title": "홍남기 \"일본 수출규제가 '백신' 됐다…공급망 문제에 만전\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20211102018651081?section=safe/news",
-		"date": "11-02 09:22"
-	},
-	"c865d9bf4832dab064e84b4b61edea066ad2bf5db9c00a72a9adfda7049024c3": {
-		"title": "조코비치 \"내년 호주오픈 출전? 코로나19 상황 봐서…\"",
-		"link": "www.yna.co.kr/view/AKR20211102037600007?section=safe/news",
-		"date": "11-02 09:04"
-	},
-	"28a1ecd305abc894559a9bf95faac38a3d7dfd1be714973fef087041ffddd00b": {
-		"title": "브라질 코로나 주간 일평균 사망 300명 아래로…18개월만에 처음",
-		"link": "www.yna.co.kr/view/AKR20211102029500094?section=safe/news",
-		"date": "11-02 08:38"
-	},
-	"f1d365201f0e7c1470755c2e2d2604eb118f17bfcaeeeb0bd3a32ae0c6f21e14": {
-		"title": "경북 21명 확진…확진된 가족·지인 통해 추가 감염",
-		"link": "www.yna.co.kr/view/AKR20211102027300053?section=safe/news",
-		"date": "11-02 08:31"
-	},
-	"067fedea2284c148b628daae4b8aec060df7ca9207f22431f3b68b296f7300ba": {
-		"title": "일상회복 첫날 집단감염…광주 17명·전남 34명 확진",
-		"link": "www.yna.co.kr/view/AKR20211102027000054?section=safe/news",
-		"date": "11-02 08:28"
 	}
 }
