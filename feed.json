@@ -1,4 +1,9 @@
 {
+	"0c3645fd403b1dbc1a684172d5785ce0d0c50a5871c559af3ef8ce759e58fc2b": {
+		"title": "뉴질랜드, 하루 확진자 206명으로 역대 최다",
+		"link": "www.yna.co.kr/view/AKR20211106030900009?section=safe/news",
+		"date": "11-06 12:42"
+	},
 	"612304485d38fa3232d42e0835789ef459f2f58b85f9a2ca76cdb67166c6f045": {
 		"title": "인천 144명 확진…중고차단지·종교시설 신규 집단감염",
 		"link": "www.yna.co.kr/view/AKR20211106029400065?section=safe/news",
@@ -493,10 +498,5 @@
 		"title": "접종완료자 어제 12만여명 늘어 76.1%…1차 접종률 80.6%",
 		"link": "www.yna.co.kr/view/AKR20211105029500530?section=safe/news",
 		"date": "11-05 09:45"
-	},
-	"33d244fda4bbee38dca8bd01b93be8eeb860a0014775dd274415d7357632a884": {
-		"title": "신규확진 2천344명, 사흘연속 2천명대 중반…위중증 382명(종합)",
-		"link": "www.yna.co.kr/view/AKR20211105028700530?section=safe/news",
-		"date": "11-05 09:41"
 	}
 }
