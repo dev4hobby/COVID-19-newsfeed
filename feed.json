@@ -1,4 +1,69 @@
 {
+	"e40bb6e2dd8594ca97bee00501854eea23e170e69a83253afee69434eb5a59a5": {
+		"title": "中 전문가 \"먹는 코로나 치료제, 비싸서 개도국은 못 쓸 것\"",
+		"link": "www.yna.co.kr/view/AKR20211108050300083?section=safe/news",
+		"date": "11-08 10:51"
+	},
+	"dd8b47e3a437e4aa465a0a5920e735717f2d9430f10cc3452cc567575619f883": {
+		"title": "세계 코로나 확진자 2억5천만 육박…인구 3.2% 감염",
+		"link": "www.yna.co.kr/view/AKR20211108052000009?section=safe/news",
+		"date": "11-08 10:51"
+	},
+	"588bedbeb9b377e5060c91de9b35d83f2de64ecbd59133075de1ada05db27b21": {
+		"title": "용인 요양병원 집단감염 주말 새 35명 추가…누적 58명",
+		"link": "www.yna.co.kr/view/AKR20211108053800061?section=safe/news",
+		"date": "11-08 10:29"
+	},
+	"f18b85868cb4a7673af102ed1ab5957a6dd86de000a8043aebf8fd3d464e0d3e": {
+		"title": "\"세서미 스트리트가 백신 독려한다고?…\" 미 '어린이 접종' 잡음",
+		"link": "www.yna.co.kr/view/AKR20211108039500009?section=safe/news",
+		"date": "11-08 10:10"
+	},
+	"749ca02f5805a75d250369b42c12c0907173ff819a40cf7dbfdf5cada56a3c32": {
+		"title": "日 코로나 사망 15개월만에 '0'…감염급감 이유 '의견분분'",
+		"link": "www.yna.co.kr/view/AKR20211108040300073?section=safe/news",
+		"date": "11-08 10:05"
+	},
+	"7d1363045053e00dd10bc57c57e04d555e9de9e27d89a625100d57845392fba3": {
+		"title": "프레스티지바이오, 러 스푸트니크 라이트 코로나백신 기술도입",
+		"link": "www.yna.co.kr/view/AKR20211108047600017?section=safe/news",
+		"date": "11-08 10:03"
+	},
+	"e7ba3bfbbcd764502c03a7d2f0d9997fe2673fa80aae40cf59b07a6427845033": {
+		"title": "인천 98명 확진…유치원·요양병원 감염 이어져",
+		"link": "www.yna.co.kr/view/AKR20211108047300065?section=safe/news",
+		"date": "11-08 10:02"
+	},
+	"c371df7f9ef1ef9d3b775a3725ade9bc833fa3526790acfeab646a1b8bb77a0c": {
+		"title": "대전 봉명동 사우나 집단감염 7명 더 확진…누적 32명",
+		"link": "www.yna.co.kr/view/AKR20211107009851063?section=safe/news",
+		"date": "11-08 10:00"
+	},
+	"0e3c0ce022e350f07816e3aba9fe5807636a2a07a9e37ab3573b48c14034ef48": {
+		"title": "경기 신규 확진 544명…휴일 영향에 엿새 만에 500명대",
+		"link": "www.yna.co.kr/view/AKR20211108041300061?section=safe/news",
+		"date": "11-08 10:00"
+	},
+	"2dba82e99b17f288748f8a82bcc322614452612bc01d01e4a9bfb591bf93b0b5": {
+		"title": "울산 밤사이 2명 확진…선교원 관련 연쇄감염 1명 포함",
+		"link": "www.yna.co.kr/view/AKR20211108046200057?section=safe/news",
+		"date": "11-08 10:00"
+	},
+	"d7c62be82f832dc758f07876f7e9548147dc3d87946f44c4db9b1e4aee11ffe4": {
+		"title": "신규확진 1천760명, 휴일영향 엿새 만에 2천명 밑…위중증 409명(종합)",
+		"link": "www.yna.co.kr/view/AKR20211108031451530?section=safe/news",
+		"date": "11-08 09:56"
+	},
+	"9217e005bb030faba8408d0d24314512fd8c8fd17630bdf0228b7d9abaa1afd4": {
+		"title": "접종완료자 어제 4천300여명 늘어 76.6%…1차 접종률 80.9%",
+		"link": "www.yna.co.kr/view/AKR20211108042200530?section=safe/news",
+		"date": "11-08 09:47"
+	},
+	"aa9567878caf245fb291badf6fdde0c5b36278612111afdd15e5d9fa8411e1d5": {
+		"title": "백신 안맞고 구충제 복용…美 NFL 스타 확진 뒤 뭇매",
+		"link": "www.yna.co.kr/view/AKR20211108024000009?section=safe/news",
+		"date": "11-08 09:47"
+	},
 	"170ccd560ebcf73040ec168671a272f0c8e1015f073b0fe71fe4f62eaaabc94c": {
 		"title": "[2보] 신규확진 1천760명, 휴일 영향 엿새 만에 2천명 아래로",
 		"link": "www.yna.co.kr/view/AKR20211108031400530?section=safe/news",
@@ -433,70 +498,5 @@
 		"title": "수능 직전 서울 강남고교서 학생 5명 확진…학교·학원 방역비상(종합)",
 		"link": "www.yna.co.kr/view/AKR20211106034400530?section=safe/news",
 		"date": "11-06 14:13"
-	},
-	"0829414f3363a0ff878b5dfb5208f0342036b99c7084408eea199e3e80acc733": {
-		"title": "경남 신규 확진 37명…의료기관 확산 지속",
-		"link": "www.yna.co.kr/view/AKR20211106033800052?section=safe/news",
-		"date": "11-06 14:01"
-	},
-	"2cd483613d1ad40bf53657d5454e39d7d6cc74b636be7923b10547ef1809b92e": {
-		"title": "서울 강남 단대부고 학생 5명 확진…역학조사 중",
-		"link": "www.yna.co.kr/view/AKR20211106032200004?section=safe/news",
-		"date": "11-06 13:27"
-	},
-	"a8e063748f48ab4a03095208c7ad2123729b0a88b76d58a862d6e142705041b7": {
-		"title": "확진자 증가세에 위중증 환자도 400명대로…79%가 60세 이상",
-		"link": "www.yna.co.kr/view/AKR20211106032100530?section=safe/news",
-		"date": "11-06 13:22"
-	},
-	"0c3645fd403b1dbc1a684172d5785ce0d0c50a5871c559af3ef8ce759e58fc2b": {
-		"title": "뉴질랜드, 하루 확진자 206명으로 역대 최다",
-		"link": "www.yna.co.kr/view/AKR20211106030900009?section=safe/news",
-		"date": "11-06 12:42"
-	},
-	"612304485d38fa3232d42e0835789ef459f2f58b85f9a2ca76cdb67166c6f045": {
-		"title": "인천 144명 확진…중고차단지·종교시설 신규 집단감염",
-		"link": "www.yna.co.kr/view/AKR20211106029400065?section=safe/news",
-		"date": "11-06 12:00"
-	},
-	"0f7f60a8b9678d6d5c2c57bf6f043e652e66a0e61b73b461b8927dbba2a9005d": {
-		"title": "전주시 건설 현장 외국인 노동자 14명 집단 감염",
-		"link": "www.yna.co.kr/view/AKR20211106029500055?section=safe/news",
-		"date": "11-06 11:58"
-	},
-	"92035710b271ee2a134a3a1d82f6283c696c4f2d3901f8972ab5a42925f752d3": {
-		"title": "부산 59명 신규 확진…나흘째 50명 이상 추가 감염",
-		"link": "www.yna.co.kr/view/AKR20211106028100051?section=safe/news",
-		"date": "11-06 11:20"
-	},
-	"6a98ad044bdea515a6594f9e378bca3f910ff5a991272d3bbdbc0e52d9e05013": {
-		"title": "서울 916명 신규 확진…전날보다 64명 적어",
-		"link": "www.yna.co.kr/view/AKR20211106018700004?section=safe/news",
-		"date": "11-06 11:18"
-	},
-	"58efa9caa6c8b02836faf8e2ad20e4a6fa1a0ce6e3571f7ff667baa47a1b1b69": {
-		"title": "싱가포르 확진자 3천명→1천명대 왜…\"디왈리 축제로 검사 줄어\"",
-		"link": "www.yna.co.kr/view/AKR20211106028000076?section=safe/news",
-		"date": "11-06 11:18"
-	},
-	"95239f5dc010e359faf4c77de5d8e65141a03d598a06542ef86468e5ba2e8e75": {
-		"title": "캐나다, 접종 촉진 위해 한번으로 끝나는 얀센 백신 도입",
-		"link": "www.yna.co.kr/view/AKR20211106027000009?section=safe/news",
-		"date": "11-06 11:05"
-	},
-	"3d43ca0290f57517500db934e307affa799445a25e8982ed610cc1b5062ca5ff": {
-		"title": "울산 4명 신규 확진…선교원 관련 연쇄 감염 2명 포함",
-		"link": "www.yna.co.kr/view/AKR20211106027300057?section=safe/news",
-		"date": "11-06 10:58"
-	},
-	"5c8790750affc164e22b812a05bac1318b0ffe32ca06134869c72cf4e7791e22": {
-		"title": "대구 38명 추가 확진…종교시설·의료기관 등 잇단 감염",
-		"link": "www.yna.co.kr/view/AKR20211106026500053?section=safe/news",
-		"date": "11-06 10:46"
-	},
-	"9c233d282aa392f5099b71bf0e3598afa9bb09bc2e429822c3492857533936c2": {
-		"title": "인도, 미국에 백신 공급 추진…아동·청소년 대상 허가 신청",
-		"link": "www.yna.co.kr/view/AKR20211106025100104?section=safe/news",
-		"date": "11-06 10:45"
 	}
 }
