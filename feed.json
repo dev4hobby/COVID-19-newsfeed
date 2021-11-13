@@ -1,4 +1,19 @@
 {
+	"3adb76ed66486f89b7711341629dc19674f45f7ff3efb08e9d438d5e74631133": {
+		"title": "오후 6시까지 전국서 1천486명 확진…어제보다 119명 적어",
+		"link": "www.yna.co.kr/view/AKR20211113035600530?section=safe/news",
+		"date": "11-13 18:23"
+	},
+	"f88f9017802d80b3e5d1d67f35417a0d2ddc370cf39cfcd96718db6b6e449751": {
+		"title": "오후 6시까지 서울 647명 확진…어제보다 91명 적어",
+		"link": "www.yna.co.kr/view/AKR20211113043300004?section=safe/news",
+		"date": "11-13 18:20"
+	},
+	"722f5dd39c3a720352897ef605e9c02e5a64a1e9866568c384611d67ad749094": {
+		"title": "광주 모 요양병원 관련 10명 추가 확진…사흘새 누적 58명",
+		"link": "www.yna.co.kr/view/AKR20211113043100054?section=safe/news",
+		"date": "11-13 18:17"
+	},
 	"0c6636fdd903b93d4cad01c9b34bdf1ef94bed620043345958ece2161a9580fd": {
 		"title": "경남 44명 추가 확진…진주서 한 회사 관련 집단감염 발생(종합)",
 		"link": "www.yna.co.kr/view/AKR20211113032251052?section=safe/news",
@@ -483,20 +498,5 @@
 		"title": "위중증 환자 475명, 사흘연속 최다…신규확진 2천368명(종합)",
 		"link": "www.yna.co.kr/view/AKR20211112018600530?section=safe/news",
 		"date": "11-12 09:43"
-	},
-	"e7f41512d09b8a2bfa06eb76ad00be7d0bd98cdb4bdba73e094d30ff32a33aff": {
-		"title": "[속보] 접종완료자 10만7천68명 늘어 77.6%,…1차 접종률 81.4%",
-		"link": "www.yna.co.kr/view/AKR20211112035800530?section=safe/news",
-		"date": "11-12 09:31"
-	},
-	"55d7485d0f38517600e0ff639125cbffea9062b71f84fd327ae64b41d045bead": {
-		"title": "[속보] 코로나19로 어제 18명 사망…누적 3천51명",
-		"link": "www.yna.co.kr/view/AKR20211112017200530?section=safe/news",
-		"date": "11-12 09:30"
-	},
-	"e76708f2d164c621dfdc63ccb60a01f848e887a59bd3b00e0499e7af34e7812c": {
-		"title": "[1보] 위중증 환자 475명, 사흘연속 최다…신규확진 2천368명",
-		"link": "www.yna.co.kr/view/AKR20211112016900530?section=safe/news",
-		"date": "11-12 09:30"
 	}
 }
