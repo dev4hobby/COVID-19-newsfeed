@@ -1,4 +1,39 @@
 {
+	"9b1da9cc2008b3bf42583607d33d35c4bd7d6471453a197a552a8503bf2c1c84": {
+		"title": "서울시 \"중증병상 가동률 78.6%…감염병 전담병원 2곳 추가\"",
+		"link": "www.yna.co.kr/view/AKR20211115081700004?section=safe/news",
+		"date": "11-15 12:11"
+	},
+	"efd131bd474303d15b35632ff6db2691a6e519f78654bf8ffa66041003b98086": {
+		"title": "\"김부겸 총리, 사적모임 방역수칙 위반 과태료 납부 완료\"",
+		"link": "www.yna.co.kr/view/AKR20211115082900530?section=safe/news",
+		"date": "11-15 12:11"
+	},
+	"13cbe6636ca5e31ff1840f3ac1eabcd46f1fe2ae1d7d9cb7d6859274409e582a": {
+		"title": "경기도의원 1명 확진…도의회 정례회 일정 정상 진행",
+		"link": "www.yna.co.kr/view/AKR20211115080100061?section=safe/news",
+		"date": "11-15 12:01"
+	},
+	"450a77b55656408a119dfa863e0d0d44068e351fbed3f01a56ecf56e734623bd": {
+		"title": "백신 임상시험 참가자 방역패스 예외…국산 백신·치료제 개발지원",
+		"link": "www.yna.co.kr/view/AKR20211115080000530?section=safe/news",
+		"date": "11-15 11:57"
+	},
+	"9694a80284dc09ee99041a3f8f30bbf5c648d5b421a4ef74874e7e4cc3af656d": {
+		"title": "일평균 위중증 환자 447명, 전주보다 22.5%↑…82.1%는 60대이상",
+		"link": "www.yna.co.kr/view/AKR20211115081000530?section=safe/news",
+		"date": "11-15 11:56"
+	},
+	"5770e5ddc19aaa74895a91a065f1b3265df45d67b03aac7c907dee39cb37ca90": {
+		"title": "중국서 주인 격리된 사이 방역요원이 반려견 도살",
+		"link": "www.yna.co.kr/view/AKR20211115072700074?section=safe/news",
+		"date": "11-15 11:54"
+	},
+	"b4f2034a7f4e48de622ecccf09dd6a725742d11726db0c563a5f727f0cff11b1": {
+		"title": "수도권 중환자 병상 가동률 76.4%…'비상계획' 예시기준 도달(종합)",
+		"link": "www.yna.co.kr/view/AKR20211115053951530?section=safe/news",
+		"date": "11-15 11:50"
+	},
 	"cb242ee1b381c62c5c47d81dbd86d42a9c4927da240082be2e850b89bd99fc4b": {
 		"title": "위드 코로나 후 제주 하루 확진자 15명대…지역 연쇄 감염 원인",
 		"link": "www.yna.co.kr/view/AKR20211115070100056?section=safe/news",
@@ -463,40 +498,5 @@
 		"title": "경남 31명 추가 확진…기존 확진자 중심 산발적 n차 감염",
 		"link": "www.yna.co.kr/view/AKR20211113032200052?section=safe/news",
 		"date": "11-13 14:08"
-	},
-	"609608114ff14d159fec70c689dc8fbf1477f2ecbe363b08224b88372cfeb6f1": {
-		"title": "서울 1천5명 신규확진…이틀만에 또 1천명 넘어서",
-		"link": "www.yna.co.kr/view/AKR20211113027000004?section=safe/news",
-		"date": "11-13 11:30"
-	},
-	"5a1f0b7bb24e48ea190f849181ed94fc438846793780cc9f38f387c2944eae49": {
-		"title": "베트남 코로나 '확산일로'…하루 확진자 9천명 육박",
-		"link": "www.yna.co.kr/view/AKR20211113030200084?section=safe/news",
-		"date": "11-13 13:07"
-	},
-	"15e8fdf6d1f3a8ccd866da2f43f49cf6f5fb6e3f4fdb09b94ca5627590408c1f": {
-		"title": "코로나로 더 악화한 美 백화점 잔혹사…한때 최대 시어스도 타격",
-		"link": "www.yna.co.kr/view/AKR20211113029300009?section=safe/news",
-		"date": "11-13 13:07"
-	},
-	"5ca7b6a236a206daa4c391153e434551a5626b2ed15c0635cfa28530bed333ec": {
-		"title": "중앙보훈병원서 입원환자 등 58명 집단감염…추가확산 우려(종합)",
-		"link": "www.yna.co.kr/view/AKR20211113029251504?section=safe/news",
-		"date": "11-13 13:02"
-	},
-	"7b46d29202d0626bef1097a419750f335f5fb84bbab6c9f239ddb987f62a79af": {
-		"title": "강동구 중앙보훈병원서 입원환자 등 58명 집단감염…추가검사",
-		"link": "www.yna.co.kr/view/AKR20211113029200504?section=safe/news",
-		"date": "11-13 12:31"
-	},
-	"3bcb30551a61eb5348e63a37fb75db21690cdf4a64f5fe7ca7a69a9fd4ce235a": {
-		"title": "옐런 미 재무 \"노동참여율, 코로나 이전보다 '상당히 침체'\"",
-		"link": "www.yna.co.kr/view/AKR20211113028700009?section=safe/news",
-		"date": "11-13 12:22"
-	},
-	"a0a02f27023c5483c8ef71286d18eade9cc33c17d679a300c9fac5790a61f467": {
-		"title": "수도권 중환자 병상 72.2%는 사용 중…병상부족 현실화하나",
-		"link": "www.yna.co.kr/view/AKR20211113028100530?section=safe/news",
-		"date": "11-13 12:14"
 	}
 }
