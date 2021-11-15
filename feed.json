@@ -1,4 +1,34 @@
 {
+	"e6efa7b730a8aee8c970524491f846a07f1bf4632be9e288d40579cae52d056b": {
+		"title": "[속보] 코로나19로 어제 12명 사망…누적 3천115명",
+		"link": "www.yna.co.kr/view/AKR20211115021400530?section=safe/news",
+		"date": "11-15 09:31"
+	},
+	"460774dd0c4c99b6d70db61124ce6b44ce35577ce3430cfe09812d2f6fb70cc3": {
+		"title": "[1보] 신규확진 2천6명, 휴일에도 2천명대…위중증 환자 471명",
+		"link": "www.yna.co.kr/view/AKR20211115021100530?section=safe/news",
+		"date": "11-15 09:30"
+	},
+	"002b4f9bb92a3b110233dffe34f77fac14be2a07cac27183fdb01569603c05a9": {
+		"title": "중대본 \"전면등교·연말모임이 위험요인…수도권 병상 아슬아슬\"",
+		"link": "www.yna.co.kr/view/AKR20211115033200530?section=safe/news",
+		"date": "11-15 09:28"
+	},
+	"6e5bd6a5b53833bef3554f7237eb7caa47ab2028f4e56d78c5f6ce30573ca4d0": {
+		"title": "[특징주] 셀트리온, 코로나 항체치료제 렉키로나 EU 승인에 상승",
+		"link": "www.yna.co.kr/view/AKR20211115029800002?section=safe/news",
+		"date": "11-15 09:09"
+	},
+	"c863876c2a198c4e94187bae443ee5633b26949cc09cce2548eb887df19aafe3": {
+		"title": "충북, 전날 18명 확진…병원·사업장발 감염 지속",
+		"link": "www.yna.co.kr/view/AKR20211115026400064?section=safe/news",
+		"date": "11-15 08:59"
+	},
+	"09c28253ce7a17746145c1c85323a8a26ebfb9039e1d72932230eb6103e728ac": {
+		"title": "수도권 중증 병상 가동률 75% 근접…당국 \"전국적으로는 여유\"",
+		"link": "www.yna.co.kr/view/AKR20211115024100530?section=safe/news",
+		"date": "11-15 08:53"
+	},
 	"4a1e17e89d5c85d7756bd294d20c7775e8e9cc7dc6a7dda8b4f673f8f41c01e4": {
 		"title": "'곳곳에서 집단감염' 광주 26명·전남 19명 코로나19 확진",
 		"link": "www.yna.co.kr/view/AKR20211115022400054?section=safe/news",
@@ -468,35 +498,5 @@
 		"title": "미 금문교 입구서 백신접종 반대 시위 도중 차량추돌로 5명 부상",
 		"link": "www.yna.co.kr/view/AKR20211113004100075?section=safe/news",
 		"date": "11-13 05:08"
-	},
-	"f5654261dca33eae902220d91ce8af812c84613103c2e9d941a2a8234f7e78e8": {
-		"title": "[유럽증시] 실적 호조에 상승…인플레·코로나 우려에도",
-		"link": "www.yna.co.kr/view/AKR20211113002700085?section=safe/news",
-		"date": "11-13 03:14"
-	},
-	"35f6da7f464414312413c1a40d0c9ad26dad29a6be0a923808505f90a05732cf": {
-		"title": "WHO 사무총장 \"북한과 에리트레아만 백신 접종 개시 안 해\"",
-		"link": "www.yna.co.kr/view/AKR20211113002400088?section=safe/news",
-		"date": "11-13 02:11"
-	},
-	"2f1a08cd8ad9f07751da4952b63b0a76fbd035871fe0a7bbbddaf3d859a9f39d": {
-		"title": "푸틴 \"코로나19 백신 상호 승인, 국제 경제활동 재개 촉진할 것\"",
-		"link": "www.yna.co.kr/view/AKR20211113001900080?section=safe/news",
-		"date": "11-13 01:46"
-	},
-	"9f2255b34d844971916d336f965ff432b7df7a009264da271a2ee09cfc10868c": {
-		"title": "EU, 셀트리온 코로나 항체치료제 렉키로나 승인",
-		"link": "www.yna.co.kr/view/AKR20211112162451082?section=safe/news",
-		"date": "11-13 00:23"
-	},
-	"b559508ba016cfa97942a96464aa000b336bc90176984655f819953bcbfeefd6": {
-		"title": "독일 코로나19 닷새째 최고속도 확산…\"4차 확산 직격탄\"",
-		"link": "www.yna.co.kr/view/AKR20211112161300082?section=safe/news",
-		"date": "11-12 23:48"
-	},
-	"8ae3e041a871f57e14f77849e87855ad697c3b4a1427c663ef4105112e95209a": {
-		"title": "[속보] \"EU집행위, 셀트리온 코로나19 항체치료제 렉키로나 승인\"",
-		"link": "www.yna.co.kr/view/AKR20211112162400082?section=safe/news",
-		"date": "11-12 23:46"
 	}
 }
