@@ -1,4 +1,34 @@
 {
+	"2e8d88ba80ef7af0ed02ce54dea96f1c4e078423f098f63bed940a868bbeab45": {
+		"title": "코로나19 접종완료율 78.3%…18세 이상 완료율 90.5%(종합)",
+		"link": "www.yna.co.kr/view/AKR20211116047651530?section=safe/news",
+		"date": "11-16 15:29"
+	},
+	"a6fec122ddc8ddd6d6a1c0b2243f17d69ec17c16491c0dd5722d6a97f191e7e1": {
+		"title": "수능 이틀 앞두고 전국서 학생 일평균 272.6명 코로나19 확진",
+		"link": "www.yna.co.kr/view/AKR20211116119600530?section=safe/news",
+		"date": "11-16 15:25"
+	},
+	"191659b7d7381ea8bc3e2a87ca0895ca67016a84262dac49f0ac812d98f0ea5c": {
+		"title": "정부 \"코로나19 비상계획 발동 상황 아냐…의료체계 여력있어\"(종합)",
+		"link": "www.yna.co.kr/view/AKR20211116088851530?section=safe/news",
+		"date": "11-16 15:23"
+	},
+	"b68d44e5abd4295fff9b55c7e9749513b7d8924ec30c8a1e2cd38e9bed30af8d": {
+		"title": "내일 코로나19 위험도 평가지표·추가접종 간격 조정안 발표(종합)",
+		"link": "www.yna.co.kr/view/AKR20211116109451530?section=safe/news",
+		"date": "11-16 15:20"
+	},
+	"d20ea40f7fb6ae4bfcff5f422b51f2e3529203287d47196c6d36840d9c132f14": {
+		"title": "중앙보훈병원 확진자 27명 늘어 총 134명…17일까지 입원 중단",
+		"link": "www.yna.co.kr/view/AKR20211116116700504?section=safe/news",
+		"date": "11-16 15:15"
+	},
+	"90286cb8eae9102acc97fdf00816e8f4141ffba0f743400b170806b1cab758f7": {
+		"title": "충북 코로나19 백신접종 80% 완료…부스터샷도 속도",
+		"link": "www.yna.co.kr/view/AKR20211116117700064?section=safe/news",
+		"date": "11-16 15:13"
+	},
 	"49d8bf3e5b0245b1c764815c011c038b7685ef2a8201db3e8016a17a97075b9a": {
 		"title": "태백시, 코로나19 집단 발생 어린이집 원생 자가격리 명령",
 		"link": "www.yna.co.kr/view/AKR20211116113700062?section=safe/news",
@@ -468,35 +498,5 @@
 		"title": "\"김부겸 총리, 사적모임 방역수칙 위반 과태료 납부 완료\"",
 		"link": "www.yna.co.kr/view/AKR20211115082900530?section=safe/news",
 		"date": "11-15 12:11"
-	},
-	"13cbe6636ca5e31ff1840f3ac1eabcd46f1fe2ae1d7d9cb7d6859274409e582a": {
-		"title": "경기도의원 1명 확진…도의회 정례회 일정 정상 진행",
-		"link": "www.yna.co.kr/view/AKR20211115080100061?section=safe/news",
-		"date": "11-15 12:01"
-	},
-	"450a77b55656408a119dfa863e0d0d44068e351fbed3f01a56ecf56e734623bd": {
-		"title": "백신 임상시험 참가자 방역패스 예외…국산 백신·치료제 개발지원",
-		"link": "www.yna.co.kr/view/AKR20211115080000530?section=safe/news",
-		"date": "11-15 11:57"
-	},
-	"9694a80284dc09ee99041a3f8f30bbf5c648d5b421a4ef74874e7e4cc3af656d": {
-		"title": "일평균 위중증 환자 447명, 전주보다 22.5%↑…82.1%는 60대이상",
-		"link": "www.yna.co.kr/view/AKR20211115081000530?section=safe/news",
-		"date": "11-15 11:56"
-	},
-	"5770e5ddc19aaa74895a91a065f1b3265df45d67b03aac7c907dee39cb37ca90": {
-		"title": "중국서 주인 격리된 사이 방역요원이 반려견 도살",
-		"link": "www.yna.co.kr/view/AKR20211115072700074?section=safe/news",
-		"date": "11-15 11:54"
-	},
-	"b4f2034a7f4e48de622ecccf09dd6a725742d11726db0c563a5f727f0cff11b1": {
-		"title": "수도권 중환자 병상 가동률 76.4%…'비상계획' 예시기준 도달(종합)",
-		"link": "www.yna.co.kr/view/AKR20211115053951530?section=safe/news",
-		"date": "11-15 11:50"
-	},
-	"cb242ee1b381c62c5c47d81dbd86d42a9c4927da240082be2e850b89bd99fc4b": {
-		"title": "위드 코로나 후 제주 하루 확진자 15명대…지역 연쇄 감염 원인",
-		"link": "www.yna.co.kr/view/AKR20211115070100056?section=safe/news",
-		"date": "11-15 11:12"
 	}
 }
