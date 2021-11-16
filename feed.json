@@ -1,4 +1,34 @@
 {
+	"0100a92846d6bfa3dca79a7670a888ba7230d51577b5402e54c9907e47983a49": {
+		"title": "국내 돌파감염, 접종완료자 10만명당 99명꼴로 발생",
+		"link": "www.yna.co.kr/view/AKR20211116126300530?section=safe/news",
+		"date": "11-16 16:04"
+	},
+	"c43555db9cfedf0e3cc177101e6268ba541ea16cf2873d52d96edc7a7c20ae09": {
+		"title": "천안 고교 운동부 16명 확진…주말 서울 시합 후 증상 보여 귀가",
+		"link": "www.yna.co.kr/view/AKR20211116126400063?section=safe/news",
+		"date": "11-16 16:03"
+	},
+	"49be696dd3aaca2c5de30fc7f1f14100e788fbe6e9bd8d0eaa5f5d55a6508632": {
+		"title": "백신 반대 외치던 오스트리아 극우당 대표, 코로나19 확진",
+		"link": "www.yna.co.kr/view/AKR20211116128600088?section=safe/news",
+		"date": "11-16 16:00"
+	},
+	"b4f2eeb98f86e6149e66eb65bac488b551d454b55bbcd3388cc6667dcee6b18a": {
+		"title": "인천 코로나 중환자 병상가동률 73.4%…의료진도 탈진",
+		"link": "www.yna.co.kr/view/AKR20211116123800065?section=safe/news",
+		"date": "11-16 16:00"
+	},
+	"0905853f1c58cf1d6ee4c6fa191b80142faa138c3c7590a4d5795947db1fe4fe": {
+		"title": "독어권 국가들 코로나 취약…배경 보니 극우 지지층 건재",
+		"link": "www.yna.co.kr/view/AKR20211116126100009?section=safe/news",
+		"date": "11-16 15:51"
+	},
+	"f810ed58acca74928de8d52b073ffffbfb0e7960937897719849d3e8a486d3f3": {
+		"title": "겨울철 코로나19-독감 동시유행 주의…\"독감 환자 증가세\"",
+		"link": "www.yna.co.kr/view/AKR20211116123600530?section=safe/news",
+		"date": "11-16 15:46"
+	},
 	"302de59db2b9d654e5b5263af9410371fbbb4b8c5df721b22e90a6889449dba9": {
 		"title": "화이자·모더나, 코로나 백신으로 1초에 120만원 번다",
 		"link": "www.yna.co.kr/view/AKR20211116121100009?section=safe/news",
@@ -468,35 +498,5 @@
 		"title": "현대차 남양연구소서 집단감염 발생, 21명 확진…대부분 돌파감염",
 		"link": "www.yna.co.kr/view/AKR20211115088800003?section=safe/news",
 		"date": "11-15 13:37"
-	},
-	"66326deaf6d5bbd791146b122760af2ef23d0ae33755482d8b72b44623f5731a": {
-		"title": "경남 22명 확진…집단감염 여파·기존 확진자 접촉 산발 감염",
-		"link": "www.yna.co.kr/view/AKR20211115088200052?section=safe/news",
-		"date": "11-15 13:32"
-	},
-	"c65e155a71765a63a2287ba259ff7abd6007860859a53ecad1e3e4091e901aa7": {
-		"title": "위중증, 고령층이 82%…\"추가접종 대상자에 방역패스 검토 안해\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20211115081051530?section=safe/news",
-		"date": "11-15 13:24"
-	},
-	"9cb1765f5075db1804c1c44f34c601d7de9ade36db2eca029d047fbe7ed3049b": {
-		"title": "수도권 중환자 병상 4개중 3개이상 '사용중'…병상 부족 현실화(종합2보)",
-		"link": "www.yna.co.kr/view/AKR20211115053952530?section=safe/news",
-		"date": "11-15 12:43"
-	},
-	"42e611c30e63e253f98ef521dd334cae4257370a069fb8ec243bd8db6a990a7c": {
-		"title": "말레이시아 \"코로나 사망자 10명 중 4명 당뇨병 앓아\"",
-		"link": "www.yna.co.kr/view/AKR20211115082000104?section=safe/news",
-		"date": "11-15 12:19"
-	},
-	"efc3ee30a0892d6e89faefb04f4b6316d0d24412843b6a70df05a8121d5c1903": {
-		"title": "서울 859명 신규 확진…일요일 역대 최다 기록",
-		"link": "www.yna.co.kr/view/AKR20211115083400004?section=safe/news",
-		"date": "11-15 12:18"
-	},
-	"301c3b60931298ab28f386be121a659fdbb8811f7af88c832b257ee23c47e246": {
-		"title": "일본 3분기 성장률 -0.8％…코로나 확산에 다시 마이너스(종합2보)",
-		"link": "www.yna.co.kr/view/AKR20211115028252073?section=safe/news",
-		"date": "11-15 12:16"
 	}
 }
