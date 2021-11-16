@@ -1,4 +1,34 @@
 {
+	"4c3372edf54fe4926205fce956822d2a294131f2633e43864e59a89601e80992": {
+		"title": "[속보] 코로나19로 어제 22명 사망…누적 3천137명",
+		"link": "www.yna.co.kr/view/AKR20211116033400530?section=safe/news",
+		"date": "11-16 09:32"
+	},
+	"a4258178349b7ca5e8f09bb32eedf995b32483b061cab724bbe8e0e1b5eea918": {
+		"title": "[1보] 위중증 495명, 500명 육박하며 또 최다치…신규확진 2천125명",
+		"link": "www.yna.co.kr/view/AKR20211116033200530?section=safe/news",
+		"date": "11-16 09:31"
+	},
+	"ec5e44703b404ccd67898ce35937c9ea00f9437d1702b679c2677d7ccac020ee": {
+		"title": "코로나19 여파로 온라인 교육 관련 상표출원 크게 늘어",
+		"link": "www.yna.co.kr/view/AKR20211116039800063?section=safe/news",
+		"date": "11-16 09:24"
+	},
+	"2325bb680f74add520073607806d684dd7c25cf7ef03f24b550a8f18a67f0d18": {
+		"title": "서울 중증 병상 가동률 78.8%…수도권 상급종합병원장 긴급회의",
+		"link": "www.yna.co.kr/view/AKR20211116040500530?section=safe/news",
+		"date": "11-16 09:23"
+	},
+	"a953c1248b2e6f60e3dd903bd06868def4108f69e4251e479de6aecb1c30e1da": {
+		"title": "요양병원·기도원에서 집단감염…광주 11명·전남 29명",
+		"link": "www.yna.co.kr/view/AKR20211116038100054?section=safe/news",
+		"date": "11-16 09:13"
+	},
+	"2f9bb9ca0c0356f66b68c440f9ef32a88b9a5cf955762ea9fff48ca523034505": {
+		"title": "충북 어제 28명 확진…병원·학원 등 연쇄감염 지속",
+		"link": "www.yna.co.kr/view/AKR20211116024400064?section=safe/news",
+		"date": "11-16 08:50"
+	},
 	"ffaebfe2d4647345e724368059becef1c7306d91371c568e2331bdeebb654158": {
 		"title": "경북 9명 추가 확진…4개월 만에 한 자릿수 기록",
 		"link": "www.yna.co.kr/view/AKR20211116025400053?section=safe/news",
@@ -468,35 +498,5 @@
 		"title": "호주, 1월부터 5∼11세 화이자 백신 접종 추진",
 		"link": "www.yna.co.kr/view/AKR20211114044700009?section=safe/news",
 		"date": "11-14 17:49"
-	},
-	"def27c912b7868d37b1ca962a1fe701e8732aba02e8e2273483d87b930a00d53": {
-		"title": "경남 48명 추가 확진…창원 의료기관 집단감염 여파 지속(종합)",
-		"link": "www.yna.co.kr/view/AKR20211114030151052?section=safe/news",
-		"date": "11-14 17:07"
-	},
-	"3cd897fbd421634f3ccb78dfbea3076ea680f709e4b8c7f2f4a963d189f1264c": {
-		"title": "중앙보훈병원 코로나19 집단감염 확산…97명으로 급증",
-		"link": "www.yna.co.kr/view/AKR20211114041000504?section=safe/news",
-		"date": "11-14 16:53"
-	},
-	"0ed8131d9fe5d43d9e9230cd490b7c5ca5aa65d1ff8b542f2d102365d7504b3a": {
-		"title": "충북 13명 추가 확진…진천 식품업체 감염 이어져",
-		"link": "www.yna.co.kr/view/AKR20211114039200064?section=safe/news",
-		"date": "11-14 16:23"
-	},
-	"1f3a18f7558eb133d49977a21916037cc91d576bb24368daef32e9970db230e4": {
-		"title": "청주시 '동절기 종합대책' 추진…코로나19 예방 최우선",
-		"link": "www.yna.co.kr/view/AKR20211114033800064?section=safe/news",
-		"date": "11-14 15:15"
-	},
-	"6c75082b866373612147bb69036ca3b5d941cf2f722931259cb0d0139e1a97da": {
-		"title": "전북 곳곳에서 코로나19 확진 이어져…\"백신 접종 당부\"",
-		"link": "www.yna.co.kr/view/AKR20211114032300055?section=safe/news",
-		"date": "11-14 14:53"
-	},
-	"147969e394d411e03d0d27113b72543a9fdf293a9c91b419e008ceebb2203b32": {
-		"title": "광주서 요양병원·대형사업장 산발 감염 '지속'",
-		"link": "www.yna.co.kr/view/AKR20211114033100054?section=safe/news",
-		"date": "11-14 14:52"
 	}
 }
