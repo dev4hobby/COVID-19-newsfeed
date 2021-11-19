@@ -1,4 +1,74 @@
 {
+	"9d75cad3a80b985a0bc47f5e8656d8e648873e0947a957d0b708dfca3f83138d": {
+		"title": "강원 72명 신규 확진…코로나19 발생 이후 두 번째로 많아",
+		"link": "www.yna.co.kr/view/AKR20211119058000062?section=safe/news",
+		"date": "11-19 10:32"
+	},
+	"d5a34c14ceaae2ce7121b1827d38dbe14616ee95e4f1f9a28eaee8ba1d504b80": {
+		"title": "군 코로나19 10명 추가확진…9명은 돌파감염",
+		"link": "www.yna.co.kr/view/AKR20211119052700504?section=safe/news",
+		"date": "11-19 10:22"
+	},
+	"d2ff37b5ee0bf598b8b23271c7302c3c8c777ba19d1c610b476c20ae149b3119": {
+		"title": "완도군, 코로나 대응 인력 '마음 쉼' 프로그램 진행",
+		"link": "www.yna.co.kr/view/AKR20211119051700054?section=safe/news",
+		"date": "11-19 10:17"
+	},
+	"c217b7a55329a90d9ae79a42048aebb5990c4e7e49c296dabe1c2f08ea7d5e12": {
+		"title": "확진자 7명 나온 검찰 대장동 수사팀 '쪼개기 회식' 논란",
+		"link": "www.yna.co.kr/view/AKR20211119048300004?section=safe/news",
+		"date": "11-19 10:12"
+	},
+	"e42fa352fb1de02c4498cc4bc8344a0e9efb78f583a1138de7c5152764749452": {
+		"title": "충북교육청 \"내주부터 전면등교…학교 정상운영\"",
+		"link": "www.yna.co.kr/view/AKR20211119045800064?section=safe/news",
+		"date": "11-19 10:08"
+	},
+	"aa8d62aca0314840aac0b5c7ac1b872d02143c705640987491918d0762aa4075": {
+		"title": "인천 188명 확진·3명 사망…중환자 병상가동률 75.9%",
+		"link": "www.yna.co.kr/view/AKR20211119050200065?section=safe/news",
+		"date": "11-19 10:06"
+	},
+	"b96228ca3ba173e6afaffb86bd9d06b06af415fe4228aecbeed06afa6a104ecd": {
+		"title": "\"워킹맘 60%, 코로나19로 돌봄 부담 가중…'독박육아' 여전\"",
+		"link": "www.yna.co.kr/view/AKR20211118161700530?section=safe/news",
+		"date": "11-19 10:02"
+	},
+	"e35da077402ff76ec1af79ab2c7a181272ed0a4b029225055fa873b468fe901e": {
+		"title": "경기 중증병상 가동률 이틀째 75% 넘어…어제 기준 76.1%",
+		"link": "www.yna.co.kr/view/AKR20211119045500061?section=safe/news",
+		"date": "11-19 10:00"
+	},
+	"40c6962b9a8b6e8a8343c311a024513b70595864eeba618236087f2b1de1db20": {
+		"title": "대전서 52일 만에 50명대 확진…일가족→병원 확산에 7명 감염",
+		"link": "www.yna.co.kr/view/AKR20211117045252063?section=safe/news",
+		"date": "11-19 10:00"
+	},
+	"4efe7bf28aa8ced6bf55020b97ce4be0b2bf6bebc0f1ef1145eedd5befb9ccd5": {
+		"title": "울산서 밤사이 1명 확진…자가격리 중 양성",
+		"link": "www.yna.co.kr/view/AKR20211119048000057?section=safe/news",
+		"date": "11-19 10:00"
+	},
+	"116c734ea577e56cc7366edb08a8fc08be261170c6428b2eca325f8d7fa9165e": {
+		"title": "제주도, '럭셔리피시카페' 확진자 동선 공개…진단검사 당부",
+		"link": "www.yna.co.kr/view/AKR20211119046300056?section=safe/news",
+		"date": "11-19 09:55"
+	},
+	"dab7f7d87be0c0044a5fc177139929a4fa09b2073f3033a8af4e1b165418414b": {
+		"title": "접종완료율 78.6%…추가접종 누적 160만8천명",
+		"link": "www.yna.co.kr/view/AKR20211119043600530?section=safe/news",
+		"date": "11-19 09:47"
+	},
+	"ea00bb8243c48c397c3d52b55f79c42fa391e6c91cae80773d3607d2ea2d5578": {
+		"title": "신규확진 3천34명, 사흘 연속 3천명대…위중증 환자 499명(종합)",
+		"link": "www.yna.co.kr/view/AKR20211119031100530?section=safe/news",
+		"date": "11-19 09:41"
+	},
+	"291326ad1f559255fbdbe1cf6d7d49249d6533301e8b0010be14996a412aba2c": {
+		"title": "미 플로리다주, 백신의무 금지법 통과…미국서 처음",
+		"link": "www.yna.co.kr/view/AKR20211119004200071?section=safe/news",
+		"date": "11-19 02:30"
+	},
 	"21b71717ecdeb877c6e520c67e9a0aa15772c43db308196763518b34ee9048c5": {
 		"title": "전북 목욕탕·황토방발 코로나 집단감염 확산세",
 		"link": "www.yna.co.kr/view/AKR20211119038800055?section=safe/news",
@@ -428,75 +498,5 @@
 		"title": "[수능] \"한 만큼만 해\" 힘껏 포옹…코로나 뚫고 시험장으로(종합)",
 		"link": "www.yna.co.kr/view/AKR20211118024651004?section=safe/news",
 		"date": "11-18 10:21"
-	},
-	"b70c2e6ab4a47cf5ded428fda426187ca94712767394486c7d065a6ecd0de206": {
-		"title": "코로나에도 의약품·화장품 수출 '순항'…\"내년 역대 최고 예상\"",
-		"link": "www.yna.co.kr/view/AKR20211118049400530?section=safe/news",
-		"date": "11-18 10:15"
-	},
-	"3d98e6fe8b5b61fe50eaf68566119057ce9ba1c7cce3aea903b2806c11534c72": {
-		"title": "신규확진자 연이틀 3천명 넘어…일상회복 2단계 어려워지나",
-		"link": "www.yna.co.kr/view/AKR20211118028200530?section=safe/news",
-		"date": "11-18 10:10"
-	},
-	"9cd8aeb1428eb8a7b0d8f37ffa83a9a15225778f4134d02cda30eb8c54758dfe": {
-		"title": "신규확진 3천292명, 코로나19 이후 역대 최다…위중증 506명(종합)",
-		"link": "www.yna.co.kr/view/AKR20211118035551530?section=safe/news",
-		"date": "11-18 10:05"
-	},
-	"9db7481a87e2cc6458e065ff472d9aba0bb59319c4f32f61057f0497b990701b": {
-		"title": "대전서 교회 등 매개 확산 지속…타지 확진자 접촉 감염도 속출",
-		"link": "www.yna.co.kr/view/AKR20211117045251063?section=safe/news",
-		"date": "11-18 10:00"
-	},
-	"edfac82fd922d3977d83e10d6bd05f92fae949a213cb02eb767a7efa4df13203": {
-		"title": "보은 요양원 입소자 등 집단감염…코호트 격리",
-		"link": "www.yna.co.kr/view/AKR20211118044200064?section=safe/news",
-		"date": "11-18 09:59"
-	},
-	"afff31e29a4b4185a2928c16af9e5c7e064b6355636d0e3bd4772d53663a5bce": {
-		"title": "서울 이틀째 1천400명대 확진…하루 사망자 14명 최다",
-		"link": "www.yna.co.kr/view/AKR20211118037600004?section=safe/news",
-		"date": "11-18 09:43"
-	},
-	"295ca9228313be958985a011e99657a9b734c8304489fb4d16805cda05783815": {
-		"title": "[2보] 신규확진 3천292명, 코로나19 이후 역대 최다…위중증 506명",
-		"link": "www.yna.co.kr/view/AKR20211118035500530?section=safe/news",
-		"date": "11-18 09:39"
-	},
-	"f8d98dd273f2d29b29fb8cc59d7c26943112434e2a65cd624266b5d2b0743651": {
-		"title": "충남도 코로나19 백신 접종 완료율 80% 돌파",
-		"link": "www.yna.co.kr/view/AKR20211118041100063?section=safe/news",
-		"date": "11-18 09:35"
-	},
-	"e5f151dec02fd8e31943e7ddb9194707b3b1889f76d0114bc63b846ab3725619": {
-		"title": "[속보] 코로나19로 어제 29명 사망…누적 3천187명",
-		"link": "www.yna.co.kr/view/AKR20211118029000530?section=safe/news",
-		"date": "11-18 09:31"
-	},
-	"77a1b1af892da9d04b12e4ec867666ce3a430dfc573de409c0426d06a43e78c3": {
-		"title": "[1보] 신규확진 3천292명, 코로나19 이후 역대 최다…위중증 506명",
-		"link": "www.yna.co.kr/view/AKR20211118028900530?section=safe/news",
-		"date": "11-18 09:30"
-	},
-	"01fa72aac78d7d86c1ccd3695e941b6cdf3c6770a0fab46858920f0f9f46874e": {
-		"title": "광주·전남 학교발 집단감염 잇따라…74명 확진",
-		"link": "www.yna.co.kr/view/AKR20211118033500054?section=safe/news",
-		"date": "11-18 09:09"
-	},
-	"80148b90d956f6ccfc69c1a3dc69b63dbf4a0b88bc345ec21c1d0e6d125441ae": {
-		"title": "'백신 접종 완료' 정의가 달라진다…\"3번은 맞아야\"",
-		"link": "www.yna.co.kr/view/AKR20211118030400009?section=safe/news",
-		"date": "11-18 09:04"
-	},
-	"8fefb1a5e5abc30af97c6b746202652db1bfdb21c416d63c1889f1f3ecf2b010": {
-		"title": "주한미군, 5∼11세 어린이에 화이자 백신 접종 시작",
-		"link": "www.yna.co.kr/view/AKR20211118026800504?section=safe/news",
-		"date": "11-18 09:02"
-	},
-	"6b26320ee05b9feb8e6028eb20db24076bc8a1ac4686db8a3430b2365ac28e91": {
-		"title": "충북 어제 26명 확진…7개 시·군서 산발 감염",
-		"link": "www.yna.co.kr/view/AKR20211118032900064?section=safe/news",
-		"date": "11-18 09:02"
 	}
 }
