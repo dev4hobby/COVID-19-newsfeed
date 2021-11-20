@@ -1,4 +1,24 @@
 {
+	"9d7218734350d0ff1ed91f459e4c4369c6b3b377ca255e1721524e2b3051201f": {
+		"title": "[속보] 코로나19로 어제 29명 사망…누적 3천244명",
+		"link": "www.yna.co.kr/view/AKR20211120009800530?section=safe/news",
+		"date": "11-20 09:31"
+	},
+	"77d29a343ba6c5ff366f7143883536867e0a2351afd53cc9a68eaed6fcc71093": {
+		"title": "[1보] 신규확진 3천212명, 나흘 연속 3천명대…위중증 508명",
+		"link": "www.yna.co.kr/view/AKR20211120009600530?section=safe/news",
+		"date": "11-20 09:30"
+	},
+	"ee0565ec33e61ad2be572ec06132a1acee179425a5253096672ac506abfd9b1c": {
+		"title": "충북 어제 34명 확진…청주서 중학교 집단감염 등 발생",
+		"link": "www.yna.co.kr/view/AKR20211120020600064?section=safe/news",
+		"date": "11-20 09:19"
+	},
+	"fc22c553d090698bd98004f364ae2ea65dd5a3597dee1e39245a5e53b8153373": {
+		"title": "학교발 집단감염 여파…광주·전남 신규 확진 100명 넘어",
+		"link": "www.yna.co.kr/view/AKR20211120019400054?section=safe/news",
+		"date": "11-20 09:00"
+	},
 	"31a980570dc8a64ca29be4f9e1f3d0b5c0da4aa64d96a4ee2cfee7df2a84208d": {
 		"title": "뉴캐슬 하우 신임 감독, 코로나 확진…데뷔전 연기",
 		"link": "www.yna.co.kr/view/AKR20211120017300007?section=safe/news",
@@ -478,25 +498,5 @@
 		"title": "'反바이든' 플로리다주, 백신의무화 금지법 통과…미국서 처음",
 		"link": "www.yna.co.kr/view/AKR20211119004200071?section=safe/news",
 		"date": "11-19 02:30"
-	},
-	"39a226f0bf1302bd8f98765f839b98b309f785d0b51886abb2732f71bfe6503a": {
-		"title": "아이티 대통령 암살 용의자 1명, 수감 중 코로나19로 사망",
-		"link": "www.yna.co.kr/view/AKR20211119004100087?section=safe/news",
-		"date": "11-19 02:23"
-	},
-	"386b9f14b46b3fa791ae3e35c110477583d7ab28c1de2ddffdc21ebd45739b01": {
-		"title": "바이든 \"화이자 코로나 치료제 1천만명분 구매…무료 배포\"",
-		"link": "www.yna.co.kr/view/AKR20211119002200071?section=safe/news",
-		"date": "11-19 01:21"
-	},
-	"636e115ef876c8ad15d61dee1490e81e2c466cf1c898a927daf4b402ba0ccc39": {
-		"title": "독일 신규확진 6만명 넘어…보건당국 \"끔찍한 크리스마스\" 경고(종합)",
-		"link": "www.yna.co.kr/view/AKR20211118171551098?section=safe/news",
-		"date": "11-19 01:02"
-	},
-	"4f4ba58813f202b562643623cdf415cc58d44e912f416bb63d6ad6578d701492": {
-		"title": "충북 단양서 아프리카돼지열병 감염 의심 사례",
-		"link": "www.yna.co.kr/view/AKR20211118183100064?section=safe/news",
-		"date": "11-18 23:20"
 	}
 }
