@@ -1,4 +1,19 @@
 {
+	"2b6258f2503a032137b68020ea4f1e6ea1edd07c76ad66ace90905178eef5d25": {
+		"title": "[속보] 주간 감염재생산지수 1.05→1.10 증가…\"확산세 유지\"",
+		"link": "www.yna.co.kr/view/AKR20211122099500530?section=safe/news",
+		"date": "11-22 14:18"
+	},
+	"691350dcc883fa0561d1875426ae9c0324f624561bb166b16f5afe79844d6cad": {
+		"title": "코로나19 위험도 '높음'…수도권 '매우높음'으로 최고단계",
+		"link": "www.yna.co.kr/view/AKR20211122098800530?section=safe/news",
+		"date": "11-22 14:16"
+	},
+	"b05d8471ce30b68c0bdffbe6647e7fd058afa62a2599bb767ee3288fe9f7ebe7": {
+		"title": "[속보] 코로나19 위험도 '높음'…수도권 '매우높음', 비수도권 '중간'",
+		"link": "www.yna.co.kr/view/AKR20211122098000530?section=safe/news",
+		"date": "11-22 14:12"
+	},
 	"f6f6a6ad4ad371bdfb1267f859cea4c67933d6a1342b5eea6e8811d07c6d2151": {
 		"title": "경남 49명 확진, 산발 감염 확산…접종 완료 77.5%",
 		"link": "www.yna.co.kr/view/AKR20211122087200052?section=safe/news",
@@ -483,20 +498,5 @@
 		"title": "유럽 곳곳서 '봉쇄 재도입·백신 의무화' 반대 시위(종합)",
 		"link": "www.yna.co.kr/view/AKR20211120053051088?section=safe/news",
 		"date": "11-21 03:20"
-	},
-	"2db9f6236d5f117a154cd8809a9f6ef81ee6381e88171016e59a771ae599ce19": {
-		"title": "오스트리아서 '봉쇄·백신 의무화 반대' 시위…7천명 참가",
-		"link": "www.yna.co.kr/view/AKR20211120053000088?section=safe/news",
-		"date": "11-20 23:25"
-	},
-	"132c20704082174aaea82c9c7463197fa643852544506e1fd226725d5f90d3e9": {
-		"title": "오후 9시까지 2천219명 확진…주말영향에 21일 3천명 밑돌듯(종합)",
-		"link": "www.yna.co.kr/view/AKR20211120035151530?section=safe/news",
-		"date": "11-20 21:40"
-	},
-	"1e22bf3618d78bd7017eb7d2a41d1fc9427852c80894e92ea092922aee66df4d": {
-		"title": "오후 9시까지 서울 1천117명 확진…닷새째 동시간대 1천명대",
-		"link": "www.yna.co.kr/view/AKR20211120050900004?section=safe/news",
-		"date": "11-20 21:21"
 	}
 }
