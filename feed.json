@@ -1,4 +1,69 @@
 {
+	"f964dc329297ed048d3c65a1c0d55d0abccdf77aa757e96706d99316f3f1a07a": {
+		"title": "대구서 53명 신규 확진…목욕탕 2곳서 17명 감염",
+		"link": "www.yna.co.kr/view/AKR20211122058800053?section=safe/news",
+		"date": "11-22 10:48"
+	},
+	"3db4c51f0398cb2004c0f6d812a19a1fff7ab6d460d4df7a7a856f0cd81b5640": {
+		"title": "코로나19 재확산에 미국 기업들 사무실 복귀여부 고심",
+		"link": "www.yna.co.kr/view/AKR20211122042600009?section=safe/news",
+		"date": "11-22 10:38"
+	},
+	"f355d2430371bea9e246a176c443b652da3097c935c14f5f6ce50a44937a4601": {
+		"title": "수도권 병상 대기자 907명…중환자 병상 가동률 83% 넘어",
+		"link": "www.yna.co.kr/view/AKR20211122054800530?section=safe/news",
+		"date": "11-22 10:35"
+	},
+	"dd3439320ac800813fae34e2aaae7e01baac9f1698c7a2f70ce73015cf683c5a": {
+		"title": "제천 초·중생 6명 코로나19 확진…일부 등교 중지",
+		"link": "www.yna.co.kr/view/AKR20211122042900064?section=safe/news",
+		"date": "11-22 10:31"
+	},
+	"d7e42fadb2d8a75616250580e43aaf942cf23491e7ed66642b600cbb094d2830": {
+		"title": "군 코로나19 확진 5명 늘어…국방부 청사에서도 발생",
+		"link": "www.yna.co.kr/view/AKR20211122054100504?section=safe/news",
+		"date": "11-22 10:29"
+	},
+	"5a8280fb6fca29cfd3b6611e54e9e88b3da193b7e8c6f49c6d4b30abd65266ca": {
+		"title": "교보문고, 코로나 사태 이후 첫 대면 강연",
+		"link": "www.yna.co.kr/view/AKR20211122045300005?section=safe/news",
+		"date": "11-22 10:07"
+	},
+	"31094a01083d216a459366ba23c3bb3dfba9aded24c7f700b187819275dd4bf9": {
+		"title": "울산서 밤사이 4명 확진…누적 5천580명",
+		"link": "www.yna.co.kr/view/AKR20211122048700057?section=safe/news",
+		"date": "11-22 10:07"
+	},
+	"4639cb1d3bbe679d38b4bd54f127ffbb3d4dcb7612f2ce5b65782c1a21083184": {
+		"title": "싱가포르, 두 달만에 확진자 최저…오늘부터 방역조치 완화",
+		"link": "www.yna.co.kr/view/AKR20211122045100076?section=safe/news",
+		"date": "11-22 10:07"
+	},
+	"def9a84ea571e772783b0429723fda43367b486f522931ebc0b136a10a5054d8": {
+		"title": "법원행정처 직원 1명 확진…시설 소독·접촉자 자가격리",
+		"link": "www.yna.co.kr/view/AKR20211122046600004?section=safe/news",
+		"date": "11-22 10:01"
+	},
+	"1f3a274ead302f453f32a670d504d6beda982a289eaf2f2e145fe56d5ec7ad67": {
+		"title": "대전서 일가족 등 12명 연쇄 감염…자녀 다니는 유치원 3명 포함",
+		"link": "www.yna.co.kr/view/AKR20211121050351063?section=safe/news",
+		"date": "11-22 10:00"
+	},
+	"9e946be3cfb4b85c14a8142ce9556f2fb7c2afa1935f15c3ccd96221350b3002": {
+		"title": "경기 중증병상 가동률 이틀째 80% 넘어…어제 기준 81.5%",
+		"link": "www.yna.co.kr/view/AKR20211122037800061?section=safe/news",
+		"date": "11-22 10:00"
+	},
+	"7c47896fd63dc2797e94126934fbbbae5e740361acfd593d1a08ba57e4187f2e": {
+		"title": "서울 1천278명 신규 확진…9일째 요일별 최다 기록",
+		"link": "www.yna.co.kr/view/AKR20211122042400004?section=safe/news",
+		"date": "11-22 09:51"
+	},
+	"d67bdd7ef8f41783ed236e7d693c30f7ad41ddac1e8ab2e18dc5be4c165ec2f0": {
+		"title": "신규확진 2천827명, 월요일 발표 기준 최다…위중증 515명(종합)",
+		"link": "www.yna.co.kr/view/AKR20211122031800530?section=safe/news",
+		"date": "11-22 09:45"
+	},
 	"2f5f8160e873348defdda6a13deda65b3cb64a4cf216520e44e4bba255e98bc7": {
 		"title": "미 백신 접종 완료 기준 부스터 샷 포함해 3회로 바뀔까",
 		"link": "www.yna.co.kr/view/AKR20211122034400075?section=safe/news",
@@ -433,70 +498,5 @@
 		"title": "브라질 코로나 백신접종 3억회분 넘어",
 		"link": "www.yna.co.kr/view/AKR20211120019800094?section=safe/news",
 		"date": "11-20 11:53"
-	},
-	"24137efad40894b3510f648854dec38cdf1b434bea140b18d7dca0fcbe1b9144": {
-		"title": "수도권에 병상 대기자 659명…중환자 병상은 79% 사용중",
-		"link": "www.yna.co.kr/view/AKR20211120028900530?section=safe/news",
-		"date": "11-20 11:53"
-	},
-	"2e787038674be7750ee8ee146d654995ff29aa0ba9f0f6c0dec07236482df8ac": {
-		"title": "부산 코로나19 신규 확진자 86명 발생",
-		"link": "www.yna.co.kr/view/AKR20211120028500051?section=safe/news",
-		"date": "11-20 11:42"
-	},
-	"81c46391ef8aa9c61cc456b3d115f8f7088616a32df8a5798d51e36d9eab6bac": {
-		"title": "캐나다, 5~11세 아동용 화이자 백신 사용 승인",
-		"link": "www.yna.co.kr/view/AKR20211120026500009?section=safe/news",
-		"date": "11-20 11:38"
-	},
-	"e6a29e6b8ab19546c23e28cdbe2d5802380ce2bcb58d3cf0b35b115d29323af7": {
-		"title": "서울 1천377명 신규 확진…사망자 15명 역대 최다(종합)",
-		"link": "www.yna.co.kr/view/AKR20211120022151004?section=safe/news",
-		"date": "11-20 11:18"
-	},
-	"5a793f980a2e2ab78a1b7ee094aebdbb134a32dab8c5dc547d077a813efb09c2": {
-		"title": "유엔인권사무소, 중국에 건강악화 '우한 시민기자' 석방 촉구",
-		"link": "www.yna.co.kr/view/AKR20211120026900083?section=safe/news",
-		"date": "11-20 11:03"
-	},
-	"f79a0d2e51ed23d67bb4ede7ae8ff3054ff68fa06dbd6b9e331b8249ef815bdb": {
-		"title": "전북 34명 확진…산발적 감염 지속",
-		"link": "www.yna.co.kr/view/AKR20211120026600055?section=safe/news",
-		"date": "11-20 10:52"
-	},
-	"c2a82a47abfade43b2c404b137e62a1ec33393b157a463b87d3fe79568114ddf": {
-		"title": "대구 61명·경북 35명 코로나19 추가 확진",
-		"link": "www.yna.co.kr/view/AKR20211120025800053?section=safe/news",
-		"date": "11-20 10:50"
-	},
-	"df65f941d495b9e0bb8a113f95af90ed10d26d1ef27df3846326f9d2e12d620b": {
-		"title": "울산서 6명 코로나19 신규 확진…누적 5천567명",
-		"link": "www.yna.co.kr/view/AKR20211120025500057?section=safe/news",
-		"date": "11-20 10:47"
-	},
-	"a4f6c434b5885cea7d20493479fb02fc519c1caa5fd15a3e115d8f9872b4ea2e": {
-		"title": "인천서 204명 코로나19 신규 확진…'역대 최다' 감염",
-		"link": "www.yna.co.kr/view/AKR20211120025300065?section=safe/news",
-		"date": "11-20 10:41"
-	},
-	"413b0afd2be87a970d7864cda1e6ef6e68f933309f6325b409ac25201e98741f": {
-		"title": "군 코로나19 7명 추가확진…전원 돌파감염",
-		"link": "www.yna.co.kr/view/AKR20211120024700504?section=safe/news",
-		"date": "11-20 10:23"
-	},
-	"062b8a6ca49042e6ec304fcb0b486bf39256815b15bf61280f428b144520bc36": {
-		"title": "대전서 가족 확산 중심으로 32명 확진…용산동 교회 관련 61명째",
-		"link": "www.yna.co.kr/view/AKR20211117045253063?section=safe/news",
-		"date": "11-20 10:00"
-	},
-	"636f5da9512c1b4891771315b46e680f50fe2d5e7e3e96b18f0d648980dd58d4": {
-		"title": "경기 중증병상 가동률 사흘째 75% 넘어…어제 기준 78.0%",
-		"link": "www.yna.co.kr/view/AKR20211120019500061?section=safe/news",
-		"date": "11-20 10:00"
-	},
-	"89c2e83b30ecd6447edfa1207e8577739aaf79cd1f670165925d2aefa9cea82e": {
-		"title": "접종완료자 7만5천여명 늘어 78.8%…18세 이상 완료율 90.8%",
-		"link": "www.yna.co.kr/view/AKR20211120012200530?section=safe/news",
-		"date": "11-20 09:57"
 	}
 }
