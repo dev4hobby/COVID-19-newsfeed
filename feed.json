@@ -1,4 +1,69 @@
 {
+	"e08a733c2c8ea88299170c6a10c9857f949daed9fdbeda40f9f99bb4e81cf4a0": {
+		"title": "병상대기 778명, 어제보다 58명↓…수도권중환자병상 가동률 84%",
+		"link": "www.yna.co.kr/view/AKR20211124063200530?section=safe/news",
+		"date": "11-24 10:49"
+	},
+	"96089f1bdd2bff449b73d74d4a91151b68170e8b7681a090f78ba5c98707480b": {
+		"title": "인도네시아 코로나 백신접종 속도…인구 절반 1회 이상",
+		"link": "www.yna.co.kr/view/AKR20211124056600104?section=safe/news",
+		"date": "11-24 10:40"
+	},
+	"33ded9960ea8ad91c70f1bea367f68d88758eddc66d6868af94a469703f060eb": {
+		"title": "전북, 종교활동·김장모임발 확산 지속…\"방역수칙 꼭 지켜달라\"",
+		"link": "www.yna.co.kr/view/AKR20211124058300055?section=safe/news",
+		"date": "11-24 10:35"
+	},
+	"61f00238a7f8da5e27be27832369964063792ed248b06b5835ccce7007ea6867": {
+		"title": "울산 8명 신규 확진…4명은 직장동료",
+		"link": "www.yna.co.kr/view/AKR20211124059000057?section=safe/news",
+		"date": "11-24 10:25"
+	},
+	"aa181671164122c835e9b41b859df145c8859308ebca606334693d0e97cea499": {
+		"title": "인천서 221명 확진…사흘만에 역대 최다 기록 또 경신",
+		"link": "www.yna.co.kr/view/AKR20211124052200065?section=safe/news",
+		"date": "11-24 10:13"
+	},
+	"7b6eda774f34ff8c5c6dc6c07689b732b1a3a483704f1bdc20892188062186ac": {
+		"title": "신규확진 4천116명, 첫 4천명대…위중증도 586명 최다치(종합)",
+		"link": "www.yna.co.kr/view/AKR20211124035551530?section=safe/news",
+		"date": "11-24 10:06"
+	},
+	"f15a44f8881dee40fe6e220860c4ebac62b52767331f63760e9be3de1369cece": {
+		"title": "경기 어제 1천184명 확진…역대 하루 '최다' 기록",
+		"link": "www.yna.co.kr/view/AKR20211124037600061?section=safe/news",
+		"date": "11-24 10:00"
+	},
+	"ad87b53e8d42e8c5c8a83f65ad484c34244790fe193cfe58a1147eede9f89491": {
+		"title": "대전 중구 종합병원 환자·보호자 5명 더 확진…누적 17명",
+		"link": "www.yna.co.kr/view/AKR20211122152652063?section=safe/news",
+		"date": "11-24 10:00"
+	},
+	"436056065e474eb53abfd4f948120e7431d708ad01340c75e43d302c10a91823": {
+		"title": "코로나19 델타변이 진단 정확도 높이는 유전자 표준물질 개발",
+		"link": "www.yna.co.kr/view/AKR20211124044600063?section=safe/news",
+		"date": "11-24 09:52"
+	},
+	"a67ce171b271ec0ad5879c7d1b2ad56eeaacdfbad452bfc545ac3606941b3fb1": {
+		"title": "충북 하루새 40명 추가…18일만에 다시 40명대 확진",
+		"link": "www.yna.co.kr/view/AKR20211124033700064?section=safe/news",
+		"date": "11-24 09:40"
+	},
+	"0bf04d63ff2495fe3c5c2a40e1e1d2748d33add58fdebe9351230aa42259ce43": {
+		"title": "[2보] 신규확진 4천116명, 첫 4천명대…위중증도 586명 최다치",
+		"link": "www.yna.co.kr/view/AKR20211124035500530?section=safe/news",
+		"date": "11-24 09:39"
+	},
+	"10d149fab8b42ac8da6a221e01ac774f3b590ac3242ce08a1fb2c5a1494cf9cc": {
+		"title": "서울 1천735명 신규 확진…일주일만에 또 최다 기록",
+		"link": "www.yna.co.kr/view/AKR20211124042900004?section=safe/news",
+		"date": "11-24 09:38"
+	},
+	"9e38e843375d0d33469c9eff1760add7fa3663d0556b3e7513cc03bea2cf5cb4": {
+		"title": "라이프치히 감독·골키퍼 코로나 확진…UCL 벨기에 원정 결장",
+		"link": "www.yna.co.kr/view/AKR20211124042000007?section=safe/news",
+		"date": "11-24 09:37"
+	},
 	"167390367a0b2609472241443305889b814cd6d12836871dcec3e9897f8c454b": {
 		"title": "[속보] 코로나19로 어제 35명 사망…누적 3천363명",
 		"link": "www.yna.co.kr/view/AKR20211124028500530?section=safe/news",
@@ -433,70 +498,5 @@
 		"title": "[속보] 코로나19로 어제 30명 사망…누적 3천328명",
 		"link": "www.yna.co.kr/view/AKR20211123029800530?section=safe/news",
 		"date": "11-23 09:30"
-	},
-	"321cf82f9846d3c73eccdb336ffc71dc56d59e49a4ff4d1b0f39d2bf0471fd41": {
-		"title": "[1보] 위중증 환자 549명 역대 최다…신규확진 2천699명",
-		"link": "www.yna.co.kr/view/AKR20211123029000530?section=safe/news",
-		"date": "11-23 09:30"
-	},
-	"690ad98f1506af4d4f00093d3baa65a939536327b78b403ec78b2acfc96ebc17": {
-		"title": "관광공사, '거리두기 완화' 대만서 방한관광 유치 활동",
-		"link": "www.yna.co.kr/view/AKR20211123040500003?section=safe/news",
-		"date": "11-23 09:27"
-	},
-	"3901f131503ac5f06b6f865dc74696da6ec40ecc0c58d0f85e48eeabc4723769": {
-		"title": "프랑스 총리 코로나19 확진…벨기에 총리는 자가격리",
-		"link": "www.yna.co.kr/view/AKR20211123036300096?section=safe/news",
-		"date": "11-23 09:27"
-	},
-	"332e2809121aee0fb2ac2e8ec537af9c2415d8b7b54e80aa070906551fc3d737": {
-		"title": "충북 어제 20명 추가…절반은 돌파감염, 학생 확진도 늘어",
-		"link": "www.yna.co.kr/view/AKR20211123033100064?section=safe/news",
-		"date": "11-23 09:10"
-	},
-	"7b5b096f519bf84461c1f6f410337f20abe0489d9ec6450f1195a631569baad3": {
-		"title": "학교 등 집단감염 지속…광주·전남 일주일째 하루 70명대 확진",
-		"link": "www.yna.co.kr/view/AKR20211123031600054?section=safe/news",
-		"date": "11-23 08:57"
-	},
-	"62a390cf869e17da57861de2b0ba9afbfe0b82b835cc3aef2d19cde17c509775": {
-		"title": "백신 거부로 해고된 MLB 워싱턴 마이너리그 코치 소송",
-		"link": "www.yna.co.kr/view/AKR20211123032000007?section=safe/news",
-		"date": "11-23 08:51"
-	},
-	"e233806ce4a3ecee6f5ccbbdfdbc21bd4dddaae91ec1d1222d6a43c0148f0dba": {
-		"title": "천안 광덕 한 마을 주민 코로나19 집단감염…누적 208명",
-		"link": "www.yna.co.kr/view/AKR20211123031200063?section=safe/news",
-		"date": "11-23 08:51"
-	},
-	"5bd6149338acaba1744f978e9d716e2c6ad01f5384572837eb8060139dcf28ab": {
-		"title": "화이자 \"코로나 백신 12~15세에 100% 예방효과\"",
-		"link": "www.yna.co.kr/view/AKR20211123027200009?section=safe/news",
-		"date": "11-23 08:50"
-	},
-	"89db4d6a26297f56154090d5ca0f3655a557f621a8999d2d4a8d41d389fe0bf2": {
-		"title": "경북 51명 신규 확진…학원 관련 등 산발적 확산세",
-		"link": "www.yna.co.kr/view/AKR20211123025800053?section=safe/news",
-		"date": "11-23 08:33"
-	},
-	"81fec3b6275efbb08085f2f0448c63af45cee20c4abd1daa1d411c90f9069ad2": {
-		"title": "대구시, 코로나19로 지출 못 해 이월된 예산 '눈덩이'",
-		"link": "www.yna.co.kr/view/AKR20211122091600053?section=safe/news",
-		"date": "11-23 08:00"
-	},
-	"4207f83d6012965b40db732a55c799d6633a1b44cea5675c0d479e7645ef7b24": {
-		"title": "코로나가 바꾼 의식주…홈웨어·홈쿡·편의점 대세",
-		"link": "www.yna.co.kr/view/AKR20211122138100002?section=safe/news",
-		"date": "11-23 06:07"
-	},
-	"62e8850bf8b3406916fe271e5dfed2f29be0943af29f1bc946704f30103409dd": {
-		"title": "코로나19 이후 대기업 고용 악화…정규직 1만8천명 줄었다",
-		"link": "www.yna.co.kr/view/AKR20211122142300003?section=safe/news",
-		"date": "11-23 05:50"
-	},
-	"29c0d0deeee20320ca7b18748df8456687ca55b1a461c7a36dce7c130ced5b6d": {
-		"title": "바이든 '접종 의무화'의 효과…미 연방공무원 90% 최소 1회 접종",
-		"link": "www.yna.co.kr/view/AKR20211123003400071?section=safe/news",
-		"date": "11-23 02:45"
 	}
 }
