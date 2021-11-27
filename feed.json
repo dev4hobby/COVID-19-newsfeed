@@ -1,4 +1,34 @@
 {
+	"9dc21abcf0c80706baafd255044f9ead45d2b772e4b8190e1c4817222f934959": {
+		"title": "울산서 3명 신규 확진…2명은 자가격리 중 양성",
+		"link": "www.yna.co.kr/view/AKR20211127022400057?section=safe/news",
+		"date": "11-27 10:17"
+	},
+	"e63e5c69fc0c8547f3d46b12489870025611e3b0f8d6beec5d60b13dab4dde83": {
+		"title": "신규확진 4천68명, 사흘만에 다시 4천명대…사망자 52명 최다(종합)",
+		"link": "www.yna.co.kr/view/AKR20211127019751530?section=safe/news",
+		"date": "11-27 10:12"
+	},
+	"419c7134aba14cfaf6300e970348418dc3352677d726b1b01960cef4009b5222": {
+		"title": "전북 50명 코로나19 신규 확진…대부분 지역 전파 감염",
+		"link": "www.yna.co.kr/view/AKR20211127021700055?section=safe/news",
+		"date": "11-27 10:11"
+	},
+	"6dcc76ec7e5f18b887cf4866a581b9d322f479e35bf61e7955d3fd371d9b4422": {
+		"title": "대전 유성구 건설현장 근로자 7명 연쇄 확진…가족 3명도",
+		"link": "www.yna.co.kr/view/AKR20211125044753063?section=safe/news",
+		"date": "11-27 10:00"
+	},
+	"081858fe639b8f1f7b185a517013f5ee5e770bccf203a477ad2ab06bda02f057": {
+		"title": "경기 1천109명 확진…나흘째 1천명대, 사망자 20명 하루 최다",
+		"link": "www.yna.co.kr/view/AKR20211127019900061?section=safe/news",
+		"date": "11-27 10:00"
+	},
+	"d235ec9870b4ded08329740090ccbf98a8e55fc3e45d8c91c26a3ad7dd1ee9ad": {
+		"title": "서울 1천888명 신규 확진…이번주 최다 기록 3번째 경신",
+		"link": "www.yna.co.kr/view/AKR20211127020300004?section=safe/news",
+		"date": "11-27 09:36"
+	},
 	"ae3386b64bfd8a8181c9efe99a9a0b586709d7930d15321cfd87d0146db755c9": {
 		"title": "[2보] 신규확진 4천68명, 사흘만에 다시 4천명대…사망자 52명 최다",
 		"link": "www.yna.co.kr/view/AKR20211127019700530?section=safe/news",
@@ -468,35 +498,5 @@
 		"title": "의료기관 집단감염 지속…부산 98명 신규 확진",
 		"link": "www.yna.co.kr/view/AKR20211126060700051?section=safe/news",
 		"date": "11-26 11:17"
-	},
-	"02fda658a465a1bbf1732941a79e3254a8b3cd3b6cbea29f56da4a8e33f048fd": {
-		"title": "[속보] 정부 \"방역패스 유효기간 접종후 6개월로 정하는 방안 논의중\"",
-		"link": "www.yna.co.kr/view/AKR20211126060100530?section=safe/news",
-		"date": "11-26 11:13"
-	},
-	"a858a1e50691a8077836d7eb076f94c0e047620440c8ba968f4d6a34ff21b2fd": {
-		"title": "검찰, '동부구치소 집단감염' 정세균·추미애 등 무혐의 처분",
-		"link": "www.yna.co.kr/view/AKR20211126057300004?section=safe/news",
-		"date": "11-26 11:10"
-	},
-	"668968760d49a5d5824ec0f16f8f0e71e2ac449da82a3378e90c8b5ae8d5f881": {
-		"title": "군 코로나19 확진 19명↑…1명 제외 모두 돌파감염",
-		"link": "www.yna.co.kr/view/AKR20211126058400504?section=safe/news",
-		"date": "11-26 11:09"
-	},
-	"c63ea4e27af3514044ac53f3704541c0d397a99d4461146e54bbfb0f5cf86bc5": {
-		"title": "[속보] 수도권 상급종합병원에 코로나19 진료지원 공중보건의 50명 파견",
-		"link": "www.yna.co.kr/view/AKR20211126057200530?section=safe/news",
-		"date": "11-26 11:02"
-	},
-	"98e86b04a8dfba733e7387e5fd9d9ca16f753f7859045b4ddf372da38cf14309": {
-		"title": "[속보] 요양병원·시설 신속한 추가접종 위해 군 의료인력 60명 투입",
-		"link": "www.yna.co.kr/view/AKR20211126056200530?section=safe/news",
-		"date": "11-26 11:00"
-	},
-	"1ed680d288da7375ea11cdb0c0befbfe86492cdd1666a851b91a93b2d408f868": {
-		"title": "대구 103명 확진…약 1개월 만에 다시 세 자릿수",
-		"link": "www.yna.co.kr/view/AKR20211126055300053?section=safe/news",
-		"date": "11-26 10:55"
 	}
 }
