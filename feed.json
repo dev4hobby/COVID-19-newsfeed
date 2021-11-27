@@ -1,4 +1,9 @@
 {
+	"0483b350fb0a597b56400a691f74f134dc8d32ef4fcd2b9c3707627ef0a4b4cc": {
+		"title": "UAE \"코로나19 1차 접종률 100％…90％ 2차까지 맞아\"",
+		"link": "www.yna.co.kr/view/AKR20211127047000111?section=safe/news",
+		"date": "11-27 21:00"
+	},
 	"dc5618c5410dd376b552cf7db39f06319c459378533be629d9cbee8adeaace80": {
 		"title": "\"독일·체코서도 새 변이 감염 의심 환자…당국, 확인중\"",
 		"link": "www.yna.co.kr/view/AKR20211127046800098?section=safe/news",
@@ -493,10 +498,5 @@
 		"title": "충북 오후 4시 35명 확진…20명은 돌파감염",
 		"link": "www.yna.co.kr/view/AKR20211126117000064?section=safe/news",
 		"date": "11-26 16:35"
-	},
-	"d46987716ed4a7b3208d4ee7bae6c49f5bb5652c8029d92d8cb842d0c8022ed7": {
-		"title": "[포켓사전] 코로나19 변이 바이러스 'B.1.1.529'",
-		"link": "www.yna.co.kr/view/AKR20211126051200797?section=safe/news",
-		"date": "11-26 16:30"
 	}
 }
