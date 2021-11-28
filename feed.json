@@ -1,4 +1,39 @@
 {
+	"746b019712daac58ba9fa483128393e2505f6a145d5feb386ccc27f30977d963": {
+		"title": "대구 106명·경북 103명 코로나19 신규 확진",
+		"link": "www.yna.co.kr/view/AKR20211128015700053?section=safe/news",
+		"date": "11-28 10:05"
+	},
+	"47462a9afac6b03ddc4ee4b46788a5f0858d2aa7e418bc756b4e01d1ad985366": {
+		"title": "오미크론 첫 경보울린 남아공 의사 \"증상 특이하지만 가벼워\"",
+		"link": "www.yna.co.kr/view/AKR20211128015200009?section=safe/news",
+		"date": "11-28 10:02"
+	},
+	"b06454b975436645ddbec075f684de24f314af03b93ddc041eecadfb413ed69d": {
+		"title": "신규확진 3천928명…위중증 환자 647명·사망자 56명 모두 최다(종합)",
+		"link": "www.yna.co.kr/view/AKR20211128013451530?section=safe/news",
+		"date": "11-28 10:02"
+	},
+	"c6780bf45f8f046e7c9e8163ddd729cdac0a2b8cfb84bd37a408b5dd147c01c3": {
+		"title": "대전 유성구 중학생 연쇄 확진 관련 가족 3명도 감염…누적 21명",
+		"link": "www.yna.co.kr/view/AKR20211125044754063?section=safe/news",
+		"date": "11-28 10:00"
+	},
+	"3b7155983d86fef393fa891505863b790d445415796cc88370222c3a4cb5d89d": {
+		"title": "경기 1천90명 확진…닷새째 1천명대, 토요일 집계 역대 최다",
+		"link": "www.yna.co.kr/view/AKR20211128014500061?section=safe/news",
+		"date": "11-28 10:00"
+	},
+	"9cdee7e19940693b17b914611307a7a92a42fd218d7f56375af6dfb939435a91": {
+		"title": "서울 1천676명 신규 확진…하루 사망자 26명 역대 최다",
+		"link": "www.yna.co.kr/view/AKR20211128014600004?section=safe/news",
+		"date": "11-28 09:49"
+	},
+	"38246a28b8a64328e4d15c444a5c789186d0ed9ebdda0c92187e3f0e15e0bf7e": {
+		"title": "싱가포르항공, 오미크론 공포에 남아공 여객기 '화물 전용' 변경",
+		"link": "www.yna.co.kr/view/AKR20211128014400076?section=safe/news",
+		"date": "11-28 09:45"
+	},
 	"25d9b481eacebab12955099939ee0514c84bd1e48040d11bc45fb8c7f605ad46": {
 		"title": "대만·마카오도 오미크론 변이 유입 저지 나서",
 		"link": "www.yna.co.kr/view/AKR20211128013600089?section=safe/news",
@@ -463,40 +498,5 @@
 		"title": "미국, 남아프리카 8개국 여행 제한…바이든, 백신회의 요청(종합)",
 		"link": "www.yna.co.kr/view/AKR20211127005200071?section=safe/news",
 		"date": "11-27 04:48"
-	},
-	"150479e2a39371352e1ac5d973ccebaec69b7ac20d6781d93d4a56a158e87c2b": {
-		"title": "[2보] 미국, 변이 발생 남아프리카 8개국 여행 제한",
-		"link": "www.yna.co.kr/view/AKR20211127004600071?section=safe/news",
-		"date": "11-27 04:24"
-	},
-	"be0fd5bce9ca5e8ddb03deb0dcf4ad42cac6f8712ceaf5a26221914c9595c343": {
-		"title": "WHO \"새 변이 이름 오미크론…재감염 위험 높아 우려변이\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20211127003252088?section=safe/news",
-		"date": "11-27 04:16"
-	},
-	"9fc11a99ea4e5adcccfb3828d0b5ead2cb8cfccea5e58bbba97f61fc88ffd96b": {
-		"title": "[뉴욕유가] 남아공 변이 공포에 10% 이상 추락…배럴당 70달러 하회",
-		"link": "www.yna.co.kr/view/AKR20211127004300009?section=safe/news",
-		"date": "11-27 04:08"
-	},
-	"e7800f0e7b9bea9510ef92e053383b65f1c71a1cf7eb63da9f49a80fb28d3b04": {
-		"title": "뉴욕증시, 남아공 변이 공포에 급락…다우 2.53%↓ 마감",
-		"link": "www.yna.co.kr/view/AKR20211127003900009?section=safe/news",
-		"date": "11-27 03:51"
-	},
-	"53a6d15f0faeb36b4fd2e765784fcd96f8955142ed0b76f3d15113683581ba2b": {
-		"title": "'새 변이' 남아공, 유럽 등 입국 금지에 강력 반발(종합)",
-		"link": "www.yna.co.kr/view/AKR20211126133751099?section=safe/news",
-		"date": "11-27 03:45"
-	},
-	"c2ed18d6b16211f70e9ff64e6ec0c6ada1a0b3e882a2619114eeed21271e589b": {
-		"title": "[2보] WHO \"새 변이 우려변이로 지정…이름은 오미크론\"",
-		"link": "www.yna.co.kr/view/AKR20211127003251088?section=safe/news",
-		"date": "11-27 03:21"
-	},
-	"4f34583b3fc45cc5f6a5214b6b58952e981189f01c26ceb0b238bb55ff565c47": {
-		"title": "러시아도 '뉴' 변이 차단위해 남아프리카·홍콩 거주자 입국금지",
-		"link": "www.yna.co.kr/view/AKR20211127003300080?section=safe/news",
-		"date": "11-27 03:15"
 	}
 }
