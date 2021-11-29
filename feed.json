@@ -1,4 +1,34 @@
 {
+	"76724d89e0f40fc3ab44965f4fcb89e5cb1b6f978c9972328a4700c67ba09d40": {
+		"title": "코로나 위험도 '매우높음' 상향…\"일상화 단계 추가이행 불가능\"",
+		"link": "www.yna.co.kr/view/AKR20211129102000530?section=safe/news",
+		"date": "11-29 14:26"
+	},
+	"fb2a13c5d9a5278fcaf564f3684ffe41edca80ee775cc3a593712a9156a0dcd0": {
+		"title": "[속보] 당국 \"오미크론 변이 PCR 검사법 한달 이내 개발 예상\"",
+		"link": "www.yna.co.kr/view/AKR20211129101900530?section=safe/news",
+		"date": "11-29 14:20"
+	},
+	"42961cdd8ba509032b401fb9ed6e2aabd79a3790ff5a490847502120fdc070ed": {
+		"title": "[속보] 주간 감염재생산지수 1.10→1.19 증가…\"확산세 지속\"",
+		"link": "www.yna.co.kr/view/AKR20211129100900530?section=safe/news",
+		"date": "11-29 14:18"
+	},
+	"2b546ad04f048ddbeda24562f4e521798da1acfc6069a39c716c30ee3008ab12": {
+		"title": "일본, 한국 등 모든 외국인 입국 원칙 금지…오미크론 대응(종합)",
+		"link": "www.yna.co.kr/view/AKR20211129089751073?section=safe/news",
+		"date": "11-29 14:16"
+	},
+	"c04fa9db7048776643939a05cb388c9e6ee076c78b4e674aabaec65c85950130": {
+		"title": "[속보] 코로나19 전국 위험도 1주만에 '높음'→'매우높음'으로 상향",
+		"link": "www.yna.co.kr/view/AKR20211129099600530?section=safe/news",
+		"date": "11-29 14:13"
+	},
+	"3ba979bda3306c7b2fc63251ee5cba32214664fa8c49dbe1e4c2accc206a3408": {
+		"title": "호주서 코로나 격리 중 호텔 방화…유럽서는 시설 무단 이탈도",
+		"link": "www.yna.co.kr/view/AKR20211129093200009?section=safe/news",
+		"date": "11-29 14:07"
+	},
 	"cf2a3484a24b4467945563fdbb63a64df360caadff556bdd2cb95bd3afff39ce": {
 		"title": "[영상] 남아공 의사 \"오미크론 특이하지만 경미…후각·미각 손실 없어\"",
 		"link": "www.yna.co.kr/view/AKR20211129096900534?section=safe/news",
@@ -468,35 +498,5 @@
 		"title": "세계 12개국 '오미크론' 확진…파우치 \"확산은 기정사실\"(종합3보)",
 		"link": "www.yna.co.kr/view/AKR20211128007853009?section=safe/news",
 		"date": "11-28 23:46"
-	},
-	"ead9b875396eab2d30b0e33e66eccb5db8bb81b190e853c0f59445d087b68732": {
-		"title": "\"빙산의 일각\" 네덜란드 13건 등 유럽서 오미크론 속속 확인(종합)",
-		"link": "www.yna.co.kr/view/AKR20211128055151085?section=safe/news",
-		"date": "11-28 23:32"
-	},
-	"7fcff2d912e46d908e378b2744b2c1ba54c9ab4bbb6ba7c6b43472475c7ffc0f": {
-		"title": "네덜란드서 남아공발 확진자 중 최소 13명 오미크론 판정",
-		"link": "www.yna.co.kr/view/AKR20211128056700085?section=safe/news",
-		"date": "11-28 21:57"
-	},
-	"224283c00c9b87c49024f8b654caafc4f60f9a0dda39a715714889f37f2b2828": {
-		"title": "OPEC+, 오미크론발 수요충격 속 증산계획에 신중론",
-		"link": "www.yna.co.kr/view/AKR20211128056500009?section=safe/news",
-		"date": "11-28 21:38"
-	},
-	"53c8a11bee2331bbc62d6f80b677c07064d0fe3123339cae0f72693ed7a7a0af": {
-		"title": "OPEC+, 오미크론 충격 속 증산계획에 신중론",
-		"link": "www.yna.co.kr/view/AKR20211128056500009?section=safe/news",
-		"date": "11-28 21:38"
-	},
-	"2730f62ffdde633203658b381921acd763b8d33cacda67628118623d8ae736c0": {
-		"title": "오후 9시까지 2천776명 확진…어제보다 408명 적어(종합)",
-		"link": "www.yna.co.kr/view/AKR20211128050351530?section=safe/news",
-		"date": "11-28 21:38"
-	},
-	"611f17ca267250fcedb6d3c2898b7a7b5c489dcb194bd240403e7b08f7699a64": {
-		"title": "'오미크론 유입 막아라' 정부 \"입국제한 국가 확대 검토\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20211128030851530?section=safe/news",
-		"date": "11-28 21:24"
 	}
 }
