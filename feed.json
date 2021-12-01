@@ -1,4 +1,139 @@
 {
+	"acbcd3db2dc2fe79c8527fe86946ee7ff60150426a7011ef544e21dd26dd69c9": {
+		"title": "아이진 \"오미크론 대응 mRNA 기반 백신 개발 착수\"",
+		"link": "www.yna.co.kr/view/AKR20211201072700017?section=safe/news",
+		"date": "12-01 10:54"
+	},
+	"9126769ab091532f1b7ee44a8a07769d51b9abb1f2adcd767da22a7c06a91ee2": {
+		"title": "신규확진 5천123명, 첫 5천명대…위중증도 723명 연일 최다(종합2보)",
+		"link": "www.yna.co.kr/view/AKR20211201063251530?section=safe/news",
+		"date": "12-01 10:54"
+	},
+	"b898d8d03480313eb9f065898095f6958e11ad35cb37143e33b0690418de3943": {
+		"title": "[대구소식] 독감·코로나 동시 확산 대비 방역 예산 등 지원",
+		"link": "www.yna.co.kr/view/AKR20211201072800053?section=safe/news",
+		"date": "12-01 10:54"
+	},
+	"11a96ef85137a982aabbd6c1b43a13d48edfd35b072637619ea1853b3ca87361": {
+		"title": "대구 86명 신규 확진…제주 연수 다녀온 교사 3명도 감염",
+		"link": "www.yna.co.kr/view/AKR20211201071400053?section=safe/news",
+		"date": "12-01 10:50"
+	},
+	"1a636ac8e2689da1db69b3f3ce5a9fb8d8d4e04e648fbb3a58e1341421aa00bf": {
+		"title": "오미크론 벌써 지역사회 전파됐나…당국 \"의심자 접촉자 조사중\"",
+		"link": "www.yna.co.kr/view/AKR20211201067900530?section=safe/news",
+		"date": "12-01 10:47"
+	},
+	"120e0077f3f1e8c66ab255e825c44bd9f34ef2f64fab75c07ddbb12f5ba9a68e": {
+		"title": "캐나다, 오미크론 감염자 2명 추가 확인…확진자 4개주서 총 7명",
+		"link": "www.yna.co.kr/view/AKR20211201066700009?section=safe/news",
+		"date": "12-01 10:45"
+	},
+	"a62916e848ac95083b45aa31a742ce3215cdcdb888a66ca02a2b8e0578d747d0": {
+		"title": "오미크론 때문에…태국 무격리 입국시 PCR검사·호텔 1박 그대로",
+		"link": "www.yna.co.kr/view/AKR20211201067000076?section=safe/news",
+		"date": "12-01 10:41"
+	},
+	"c3e197eac68f67480963e95b438927de40e964ccda8fc8cb232ed24155167176": {
+		"title": "전북 병상 가동률 70% 도달…\"의료진도 이제 한계\"",
+		"link": "www.yna.co.kr/view/AKR20211201064700055?section=safe/news",
+		"date": "12-01 10:41"
+	},
+	"df7af623496f0dddd4995ca3c84f7011adb43935bd987c4a36b2e0309bbcd6d1": {
+		"title": "청와대 \"오미크론 확진자 늘면 대대적 방역조치 조정 있을수도\"",
+		"link": "www.yna.co.kr/view/AKR20211201065600001?section=safe/news",
+		"date": "12-01 10:29"
+	},
+	"6ef09c760e5c6e66703c96b6e967e28b136d0804fb54051de4f02db1039a1c14": {
+		"title": "[르포] 오미크론 소식에 잔뜩 움츠린 런던…마스크 의무화 첫날",
+		"link": "www.yna.co.kr/view/AKR20211201023100085?section=safe/news",
+		"date": "12-01 10:29"
+	},
+	"5245cb26c3cbee9b58718703937809247e67342de5090c2ee1b623449b1167cb": {
+		"title": "오미크론에 놀란 유럽, 백신 접종 의무화 카드 꺼내들어",
+		"link": "www.yna.co.kr/view/AKR20211201051100009?section=safe/news",
+		"date": "12-01 10:28"
+	},
+	"ffd7ad255a6bae2df9533cb0088a8d694de549b2ea2a154708403b16cdb192be": {
+		"title": "한국보석협회, 평창군 의료·방역진에 '덕분에 반지' 전달",
+		"link": "www.yna.co.kr/view/AKR20211201059800062?section=safe/news",
+		"date": "12-01 10:28"
+	},
+	"8edee03fbed43f1e206f73874df49e866dedcdc1f6d931753201ecfa12c16f9a": {
+		"title": "신규확진 5천123명, 첫 5천명대…위중증도 723명 연일 최다(종합)",
+		"link": "www.yna.co.kr/view/AKR20211201063200530?section=safe/news",
+		"date": "12-01 10:27"
+	},
+	"adf99aa6586f07f56fb12341f8ac6d89e780a6cac465fda162f7967c1e63cad8": {
+		"title": "군 코로나19 확진 38명 추가…돌파감염 급증 '비상'",
+		"link": "www.yna.co.kr/view/AKR20211201064300504?section=safe/news",
+		"date": "12-01 10:26"
+	},
+	"8ba2a430b39b6c239ff2a6538901916506cd19def2989488b4e364929316325f": {
+		"title": "세계 경제, 오미크론 불확실성에 재차 '위축'",
+		"link": "www.yna.co.kr/view/AKR20211201053000009?section=safe/news",
+		"date": "12-01 10:26"
+	},
+	"3b9952f9a5f75579913fc3830fc13070ba0df9ad0711ca1b3df765268dd94071": {
+		"title": "일본, 부스터샷 시작…'2차 접종 후 8개월' 원칙 유지",
+		"link": "www.yna.co.kr/view/AKR20211201058200073?section=safe/news",
+		"date": "12-01 10:24"
+	},
+	"0e14e26244f866515de76a132cea0fe7eaf0d9e197deb190f95bf7453535fae3": {
+		"title": "울산서 밤사이 초등학생 포함 12명 신규 확진",
+		"link": "www.yna.co.kr/view/AKR20211201060000057?section=safe/news",
+		"date": "12-01 10:22"
+	},
+	"7b53ef1cf055359e9bc5a063f9bd934764dce3721e4a476fe630426d65eee55a": {
+		"title": "인천서 326명 확진…나흘 만에 역대 최다 경신",
+		"link": "www.yna.co.kr/view/AKR20211201059700065?section=safe/news",
+		"date": "12-01 10:19"
+	},
+	"9973750487d46e6197e75cfeed4b016881cba55f2b9b5b7326fb497650303e59": {
+		"title": "유은혜·정은경, 학생 접종 당부…\"등교 안정에 국민협조 필요\"",
+		"link": "www.yna.co.kr/view/AKR20211201053700530?section=safe/news",
+		"date": "12-01 10:11"
+	},
+	"59b30af35241a69e63fe8b5b983e28fc682f304ed70c65b3428a61c303b0620e": {
+		"title": "신규확진 첫 5천명대 일상회복 비상…오미크론 확인 여부 촉각",
+		"link": "www.yna.co.kr/view/AKR20211201048900530?section=safe/news",
+		"date": "12-01 10:10"
+	},
+	"f5e3f626a1b7c3a7e3823f0453bbfe141a4996c11a967d33dd35caa57266a53e": {
+		"title": "경기 코로나19 신규 확진 1천582명…역대 하루 최다",
+		"link": "www.yna.co.kr/view/AKR20211201046700061?section=safe/news",
+		"date": "12-01 10:00"
+	},
+	"73a5bc494d4019da3e83950c7a0c057c42b1b21c77f8cd2f200af0961491b8d6": {
+		"title": "대전 요양시설들 선제검사했더니 4곳서 39명 확진…코호트 격리",
+		"link": "www.yna.co.kr/view/AKR20211201042800063?section=safe/news",
+		"date": "12-01 10:00"
+	},
+	"e64002851d6eb36c86dafd7116b905b4f6be810c21cfe662d508d68beb0db856": {
+		"title": "조코비치 부친 \"백신 맞아야 한다면 아들은 호주오픈 불참할 것\"",
+		"link": "www.yna.co.kr/view/AKR20211201051700007?section=safe/news",
+		"date": "12-01 09:54"
+	},
+	"8d5afe2254940eb41de92ec8f5089edb9cface804616faed3f7bb524ab312210": {
+		"title": "'경제냐 방역이냐' 영국서 오미크론 대응에 총리·보건청장 이견",
+		"link": "www.yna.co.kr/view/AKR20211201047200009?section=safe/news",
+		"date": "12-01 09:52"
+	},
+	"55c3200f51c6ac732cd8e981839aa21557ea80a73104e17c0ad7c3569d31add4": {
+		"title": "베트남, '화이자 접종 사망' 청소년 3명으로 늘어",
+		"link": "www.yna.co.kr/view/AKR20211201049300084?section=safe/news",
+		"date": "12-01 09:47"
+	},
+	"6b666f09e049f9279470e38c9a0528a237ad006bb824bc1455dd95e9e09d0c1b": {
+		"title": "[2보] 신규확진 5천123명, 첫 5천명대 비상…위중증도 723명 연일최다",
+		"link": "www.yna.co.kr/view/AKR20211201042000530?section=safe/news",
+		"date": "12-01 09:46"
+	},
+	"b5c683c2dda6d676b89b1ba0fd89fc247b38546f4bda13cfe6e57bc1397b9b6b": {
+		"title": "서울 하루 확진자 첫 2천명대…2천222명으로 역대 최다",
+		"link": "www.yna.co.kr/view/AKR20211130180300004?section=safe/news",
+		"date": "12-01 09:44"
+	},
 	"0f59b40512f36820d8a3903988825650c38b69edaef8e293521ac5449a21dc78": {
 		"title": "[속보] 코로나19로 어제 34명 사망…누적 3천658명",
 		"link": "www.yna.co.kr/view/AKR20211201032100530?section=safe/news",
@@ -363,140 +498,5 @@
 		"title": "[영상] 오미크론, 일본까지 왔다…나미비아서 입국한 30대 남성",
 		"link": "www.yna.co.kr/view/AKR20211130154500704?section=safe/news",
 		"date": "11-30 17:32"
-	},
-	"cf5add7501a6c8667cb5f38b85cd0e10946de08532a537ce8f47df46eb871b61": {
-		"title": "\"관광특수 기대했는데…\" 확진자 급증·추가 변이에 노심초사",
-		"link": "www.yna.co.kr/view/AKR20211130135900051?section=safe/news",
-		"date": "11-30 17:31"
-	},
-	"ea8d5160bf8329ec33a121b909fd021554fe162f41b466de1ce0bd940f7d8d92": {
-		"title": "경남 118명 확진…요양병원서 또 집단감염, 10여명은 추가접종자(종합)",
-		"link": "www.yna.co.kr/view/AKR20211130098301052?section=safe/news",
-		"date": "11-30 17:27"
-	},
-	"eec9925598d04a7ec259b9ad28428d7aa3782a31783d36c1c94f14a8d4637348": {
-		"title": "\"최근 1주간 울산 10만명 당 확진자 발생률 0.7명…전국 최저\"",
-		"link": "www.yna.co.kr/view/AKR20211130150800057?section=safe/news",
-		"date": "11-30 17:20"
-	},
-	"29d62481736507e78d949541e1f3d04d59a8898a0ac1ca3e8f8fc8a692714fda": {
-		"title": "제주 코로나19 확진자 27명 추가…최근 일주일 평균 30.86명",
-		"link": "www.yna.co.kr/view/AKR20211130153300056?section=safe/news",
-		"date": "11-30 17:13"
-	},
-	"edd450991fc3679e57ce9ff162b5e543d054371b6bca530ea6f4248d3b682473": {
-		"title": "LG전자, 배드민턴 인니오픈에 공기청정 '전자식 마스크' 지원",
-		"link": "www.yna.co.kr/view/AKR20211130147100104?section=safe/news",
-		"date": "11-30 16:58"
-	},
-	"1a29d50b897576205809e64eef4ccf8dfb05d3cdf16eecb83a6793ebd76526b2": {
-		"title": "확진자 재택치료 한다는데…아파트 등 공동주택 방역관리 우려(종합)",
-		"link": "www.yna.co.kr/view/AKR20211130071051530?section=safe/news",
-		"date": "11-30 16:56"
-	},
-	"f417fa823eb93f62e325bdb5520a327a7fad14502d201606196e2a5b0c9651d6": {
-		"title": "오미크론 감염 여러 대륙서 속출…일본서도 첫 확인(종합2보)",
-		"link": "www.yna.co.kr/view/AKR20211130006252082?section=safe/news",
-		"date": "11-30 16:52"
-	},
-	"e4831855b14c4d2b65e159421191bbbe726391942ae34966ba81daf8aa1f46b0": {
-		"title": "병상포화에 대기자 800명대…수도권 상급종합병원장 재소집(종합)",
-		"link": "www.yna.co.kr/view/AKR20211130092251530?section=safe/news",
-		"date": "11-30 16:31"
-	},
-	"5fd79aed823c4f2ab735ca385e32b893b4ba496853fb2d9685226ba10c4cbf63": {
-		"title": "대구 '위드 코로나' 한 달간 51명 사망…전월 대비 2.5배",
-		"link": "www.yna.co.kr/view/AKR20211130140400053?section=safe/news",
-		"date": "11-30 16:26"
-	},
-	"c2e04be2aa67e9ce4835755183f2a0a41719b67e49c5beff15f6b62fe5251e94": {
-		"title": "충북 16시 37명 추가 확진…청주 노인요양시설 집단감염",
-		"link": "www.yna.co.kr/view/AKR20211130107500064?section=safe/news",
-		"date": "11-30 16:21"
-	},
-	"e2cedd1e85514ab32a9ab276a5d113aadfe7c5125b88c79013a8bfed4f3ed629": {
-		"title": "일본 오미크론 감염자 첫 확인…입국 검역단계서 발견(종합)",
-		"link": "www.yna.co.kr/view/AKR20211130128752073?section=safe/news",
-		"date": "11-30 16:15"
-	},
-	"6a78cbcf86b86ec7e034f3ac7343adc580a510c16db9882ac3c9244edf955204": {
-		"title": "싱가포르 \"오미크론 발생은 시간 문제\"…입국 조치 강화",
-		"link": "www.yna.co.kr/view/AKR20211130135400076?section=safe/news",
-		"date": "11-30 16:08"
-	},
-	"e02a5436f4d977cdd8f06551648c7edba8355a7b0b356d55d45c4b0c08933053": {
-		"title": "행안부, 지자체 코로나19 방역에 특교세 150억원 지원",
-		"link": "www.yna.co.kr/view/AKR20211130133500530?section=safe/news",
-		"date": "11-30 16:02"
-	},
-	"e23bfcc8ecbcd4579dd00090433ac4d55942a9e644a2d424bf8dc8e5d0b3e068": {
-		"title": "정부 \"코로나19 확진 이력 있으면 백신 추가접종 권고 않는다\"",
-		"link": "www.yna.co.kr/view/AKR20211130131400530?section=safe/news",
-		"date": "11-30 15:59"
-	},
-	"4ad3bc5e020546441906cc177fd8041aec404428557a8aa46091b29285842177": {
-		"title": "오미크론 변이에 동명 가상화폐도 사흘새 10배 뛰었다가 급락",
-		"link": "www.yna.co.kr/view/AKR20211130123500009?section=safe/news",
-		"date": "11-30 15:51"
-	},
-	"8acf254272a98f5b5b127dbc26cdf8ce65af5c990dfba4086c5f339bc9ad87aa": {
-		"title": "네덜란드·독일서 입국한 2명 확진…\"오미크론 여부 분석 중\"",
-		"link": "www.yna.co.kr/view/AKR20211130129100530?section=safe/news",
-		"date": "11-30 15:48"
-	},
-	"720efd415b86cd12f15c66a92331347a893c0aa0b5703cb9539c951f962819b8": {
-		"title": "[2보] 일본서도 오미크론 감염자 첫 확인",
-		"link": "www.yna.co.kr/view/AKR20211130128751073?section=safe/news",
-		"date": "11-30 15:42"
-	},
-	"138b225b97d109d5a71e6a5cb919875e724252bf93096f163f4605d3a0d8faf0": {
-		"title": "[1보] 일본서도 '오미크론' 감염자 첫 확인",
-		"link": "www.yna.co.kr/view/AKR20211130128700073?section=safe/news",
-		"date": "11-30 15:37"
-	},
-	"8ac20439bff371f28efe6eea6fe2db06819d4bb6e7a8ee8e225c6dbcdd9dd899": {
-		"title": "이만희 '방역방해' 2심도 무죄…\"감염병법으로 처벌 못해\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20211130114852061?section=safe/news",
-		"date": "11-30 15:37"
-	},
-	"fe67ef77ec7db11d4d0887b09a159edbaa4bb3ccf416e4fabbeb579b7c12110c": {
-		"title": "모더나 CEO \"기존 백신, 오미크론에 효과 떨어질 듯\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20211130114351009?section=safe/news",
-		"date": "11-30 15:34"
-	},
-	"c84a3a6abd971ff1da7b6dc810db460296f36c153aced15d75e7fec7f3be846c": {
-		"title": "5일간 코로나19 학생 확진자 일평균 407명…역대 최다",
-		"link": "www.yna.co.kr/view/AKR20211130125700530?section=safe/news",
-		"date": "11-30 15:29"
-	},
-	"826232de1149526ec064447dcd62841a7f6d2ff9b467e51ba4a06670a833b5a5": {
-		"title": "부산 요양병원 집단감염 등 135명 신규 확진(종합)",
-		"link": "www.yna.co.kr/view/AKR20211130083151051?section=safe/news",
-		"date": "11-30 15:28"
-	},
-	"68cdc05352d634859ccbd78a83fbc01cd9f8667cf90bbe6105cf6c2992db19c5": {
-		"title": "부천 오정동 행정복지센터 직원 1명 확진",
-		"link": "www.yna.co.kr/view/AKR20211130125600065?section=safe/news",
-		"date": "11-30 15:24"
-	},
-	"e48ba10143e0e10026d8d1f1b47a1c12df36e8a99d14c6a52195e0081e33adc1": {
-		"title": "오미크론 첫 보고 의사 \"증세 가벼워…델타와는 달랐다\"",
-		"link": "www.yna.co.kr/view/AKR20211130120800009?section=safe/news",
-		"date": "11-30 15:24"
-	},
-	"714e0640b67ca563ca902aacb9de6bba3b30d91276c38c93d1ab4499c4c5602c": {
-		"title": "세종서 중학생·교사 등 11명 연쇄 확진…교사는 돌파감염",
-		"link": "www.yna.co.kr/view/AKR20211130122900063?section=safe/news",
-		"date": "11-30 15:12"
-	},
-	"4f13df9fe66df504b07b713a659fd3009bb0c60d9bdcf90795d98acea72a96d7": {
-		"title": "10세 미만 소아 확진자 첫 사망…\"기저질환 보유, 사후 확진\"",
-		"link": "www.yna.co.kr/view/AKR20211130117700530?section=safe/news",
-		"date": "11-30 15:07"
-	},
-	"ee602e635c7516d45a96dd98be64ce4a33e3c7b3040103f4c16b11e648c82701": {
-		"title": "\"오미크론, 이미 널리 퍼졌을 수도\"…국경통제 실효 논란",
-		"link": "www.yna.co.kr/view/AKR20211130105300009?section=safe/news",
-		"date": "11-30 15:04"
 	}
 }
