@@ -1,4 +1,34 @@
 {
+	"6ea61d2f7448e24f0c9936e5391ae46c5aa14e2bd8de996dc1571313fa3167c7": {
+		"title": "'돌연변이 32개' 오미크론, 현재 우세종 델타 이길 수 있을까",
+		"link": "www.yna.co.kr/view/AKR20211201086900009?section=safe/news",
+		"date": "12-01 12:20"
+	},
+	"c26bd19efc80cf42d4ac65174cef894ef80b6804a6b359a0202c7b2ec5f6ff8a": {
+		"title": "국내 코로나 진단키트 업계 \"오미크론 감염, 진단 문제없다\"",
+		"link": "www.yna.co.kr/view/AKR20211201091100017?section=safe/news",
+		"date": "12-01 12:18"
+	},
+	"1c88081650394ea6bf7841cada5f756e316fbd679cef5aedcee50efb828ae73e": {
+		"title": "[영상] 국내서도 오미크론 첫 의심사례…검사 결과 오늘 발표",
+		"link": "www.yna.co.kr/view/AKR20211201091800534?section=safe/news",
+		"date": "12-01 12:14"
+	},
+	"adaa08dfa392fd2f933aa58e9ec37a24ae13852efa07f4a76b619d6755ace41b": {
+		"title": "일본, 오미크론 확진자 나오자 입국규제 추가 강화",
+		"link": "www.yna.co.kr/view/AKR20211201091300073?section=safe/news",
+		"date": "12-01 12:12"
+	},
+	"1a6e77a285479e65f98c46504f3339a9f6760be3918641f003ab35b4b937c4cf": {
+		"title": "코로나 백신 접종완료율 80% 돌파…279일째 총 4천108만명 완료",
+		"link": "www.yna.co.kr/view/AKR20211201091000530?section=safe/news",
+		"date": "12-01 12:11"
+	},
+	"82710de8e831bb6312ca85199fb66befcb47b3022eb089c1cf1427f110ab7687": {
+		"title": "라오스, 내년부터 6∼11세 어린이 코로나 백신 접종",
+		"link": "www.yna.co.kr/view/AKR20211201091700084?section=safe/news",
+		"date": "12-01 12:10"
+	},
 	"b2b4e9576c62ac29d5b0851029a6b32202aaa0f09b50d3a5357faeece027b604": {
 		"title": "달랑 1개 남은 위중증 병상…가팔라진 확산에 충북도 '비상'",
 		"link": "www.yna.co.kr/view/AKR20211201084900064?section=safe/news",
@@ -468,35 +498,5 @@
 		"title": "영국 오미크론 확진자 14명으로 늘어…마스크 다시 썼다",
 		"link": "www.yna.co.kr/view/AKR20211130177500085?section=safe/news",
 		"date": "11-30 20:32"
-	},
-	"e0e40a6bea9ff3822fa237af4d40a7607688a668347b3f274a36e7c510b575aa": {
-		"title": "[영상] 정우성·고경표 줄줄이…코로나 연예계도 '돌파'",
-		"link": "www.yna.co.kr/view/AKR20211130177600534?section=safe/news",
-		"date": "11-30 20:32"
-	},
-	"b5473596f48235cfae5f1b83e1682e4ca149b9dc5f9eeb75a45bd7f1c241681b": {
-		"title": "광주 시내버스기사 확진…전수조사위해 1일 버스운행 중단·축소",
-		"link": "www.yna.co.kr/view/AKR20211130177300054?section=safe/news",
-		"date": "11-30 20:30"
-	},
-	"9f51f7f2e09dbd0b67ae712145ab5200aa3315b5c8eb7f262c4d4d3e1d38dc38": {
-		"title": "나이지리아 방문 부부 등 4명 오미크론 의심…검사결과 내일확인(종합)",
-		"link": "www.yna.co.kr/view/AKR20211130174951530?section=safe/news",
-		"date": "11-30 20:22"
-	},
-	"66327112e3ace845ca79b2938bb911ac18721b2ce9f5cd9a635c6a9671a28b50": {
-		"title": "[속보] 3명 대상 오미크론 변이 검사…결과는 내일 저녁 늦게 확인",
-		"link": "www.yna.co.kr/view/AKR20211130176400530?section=safe/news",
-		"date": "11-30 20:05"
-	},
-	"1ecc1b923cfaddbf90e6a710795e9d430e51d5c10bbf86aeef5f63a42a9b4d91": {
-		"title": "[속보] 나이지리아 방문 부부→지인 1명·동거가족 1명 추가 확진",
-		"link": "www.yna.co.kr/view/AKR20211130176100530?section=safe/news",
-		"date": "11-30 20:03"
-	},
-	"111a1c29f6190a2082ee78c117551675eefb060c9c29f5f542322d70c042baf2": {
-		"title": "[속보] '오미크론 의심' 나이지리아 방문자와 같은 항공기 탑승자 추적",
-		"link": "www.yna.co.kr/view/AKR20211130176200530?section=safe/news",
-		"date": "11-30 20:02"
 	}
 }
