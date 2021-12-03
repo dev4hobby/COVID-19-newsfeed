@@ -1,4 +1,69 @@
 {
+	"9a286941cf188c091abfff2f5cc18501eb5216d9407ef7e0214e29a8f646c8a3": {
+		"title": "[속보] 정부 \"방역 강화 조치 효과, 1∼2주 이후 나타날 것으로 예상\"",
+		"link": "www.yna.co.kr/view/AKR20211203064900530?section=safe/news",
+		"date": "12-03 11:19"
+	},
+	"78f0d0c51a20c1e05ab74717b0cbea316ea1ca21ebde6842c4936d1277f5aa06": {
+		"title": "전북, 의료기관·종교모임 확진 여파에 병상 가동률 75%",
+		"link": "www.yna.co.kr/view/AKR20211203063900055?section=safe/news",
+		"date": "12-03 11:18"
+	},
+	"73c92e054509059aaceb05197e6564458e413f58fdced57ab42916b0719209b7": {
+		"title": "베트남서 화이자 백신 맞은 청소년 120명 '무더기' 입원",
+		"link": "www.yna.co.kr/view/AKR20211203059500084?section=safe/news",
+		"date": "12-03 11:17"
+	},
+	"79a954171de3b6ab2be55bda8f8bbc88e5c385d90e867f68af009ef6add65cdf": {
+		"title": "인천서 307명 확진…지역 오미크론 감염자 4명으로 늘어",
+		"link": "www.yna.co.kr/view/AKR20211203058500065?section=safe/news",
+		"date": "12-03 11:13"
+	},
+	"dabea600f9a798ece7957f0d2f9786150fb7167f3fcc02e65be85d1af2d1cc4c": {
+		"title": "무료급식소 또 문 닫을까…오미크론에 더 추워진 소외계층",
+		"link": "www.yna.co.kr/view/AKR20211203054800004?section=safe/news",
+		"date": "12-03 11:12"
+	},
+	"dc3da60574657892897908d23b1bced56a07a607bc9de089c156addb69173503": {
+		"title": "[속보] 식당·카페 사적모임서 미접종자 1명까지는 방역패스 예외",
+		"link": "www.yna.co.kr/view/AKR20211203062000530?section=safe/news",
+		"date": "12-03 11:09"
+	},
+	"92bdb270c09785c885ec12b2827e123914f70a52dbd0b836b1b83901d1105ebd": {
+		"title": "서대문구 한방병원·강북구 노인돌봄시설 45명 집단감염",
+		"link": "www.yna.co.kr/view/AKR20211203061700004?section=safe/news",
+		"date": "12-03 11:08"
+	},
+	"ee8c57665edb5a81b14f59e7d9c309a6bb08135f4a0f4ed06c10189f52484960": {
+		"title": "[속보] 식당·카페-학원-영화관·공연장-독서실-PC방-박물관에 방역패스",
+		"link": "www.yna.co.kr/view/AKR20211203061300530?section=safe/news",
+		"date": "12-03 11:05"
+	},
+	"8f0f832517eff7e60b33186845b285e966bca4f796bffb3786e14dc6175f3d93": {
+		"title": "서울 2천99명 신규 확진…사흘 연속 2천명대(종합)",
+		"link": "www.yna.co.kr/view/AKR20211203042951004?section=safe/news",
+		"date": "12-03 11:03"
+	},
+	"3c2f1530fd996d4882b625c87ff3594b989a7671c45174d8ea4f90bc11a5e557": {
+		"title": "부산 141명 신규 확진…중환자 병상 가동률 58.7%",
+		"link": "www.yna.co.kr/view/AKR20211203058600051?section=safe/news",
+		"date": "12-03 11:00"
+	},
+	"8c87cc1e2945d1655c8e9142f1a495a17b46f7edd3ddb0e5513da23c81e9f988": {
+		"title": "[속보] 결혼·장례식장-마트-백화점-실외체육시설 등엔 방역패스 미적용",
+		"link": "www.yna.co.kr/view/AKR20211203057700530?section=safe/news",
+		"date": "12-03 11:00"
+	},
+	"45682d7ac22d97d0c0258d166aaed46a8ca437eadc664c692e31764a3b570aed": {
+		"title": "서울시병원회, 오세훈 만나 '코로나 외래병원' 운영 건의",
+		"link": "www.yna.co.kr/view/AKR20211203056800004?section=safe/news",
+		"date": "12-03 10:56"
+	},
+	"68af9af2ecbbf952b56dd7b1dce16a05cc51fc8fd723f92dfd29f7bd275f3137": {
+		"title": "美 본토·하와이서 오미크론 확진 속출…\"지역사회 전염 단계\"",
+		"link": "www.yna.co.kr/view/AKR20211203049900091?section=safe/news",
+		"date": "12-03 10:54"
+	},
 	"1a2a81a2f6742ef7eba21f3983a5fb0739abd2f7b949511dcf638b0a78dcb538": {
 		"title": "경북대병원서 환자 등 14명 감염…대구 99명 확진",
 		"link": "www.yna.co.kr/view/AKR20211203055200053?section=safe/news",
@@ -433,70 +498,5 @@
 		"title": "충북 16시 75명 확진, 50일만에 '최다'…8개 시·군서 확산",
 		"link": "www.yna.co.kr/view/AKR20211202154400064?section=safe/news",
 		"date": "12-02 17:41"
-	},
-	"d7c6e2b6122bd19ef3ecef2a141b7b59791d7d70c56bf498b81eafa5834945ed": {
-		"title": "오미크론 부부 거짓말로 놓친 5일…교회·외국인마을도 뚫리나",
-		"link": "www.yna.co.kr/view/AKR20211202143400065?section=safe/news",
-		"date": "12-02 17:35"
-	},
-	"03412fd3447360f3fd535ecf5ff52af7277d5ce5daf93a10e13dac04a3c6bc29": {
-		"title": "'일상회복 후퇴?' 강원 코로나19 비상…병상확보·재택치료 확대",
-		"link": "www.yna.co.kr/view/AKR20211202165700062?section=safe/news",
-		"date": "12-02 17:32"
-	},
-	"782bc699831d2c0b67850bbc123d91aa50d6feeb923561645d480e8707b96a45": {
-		"title": "법원행정처 직원 2명 확진…사무실 등 방역조치",
-		"link": "www.yna.co.kr/view/AKR20211202166000004?section=safe/news",
-		"date": "12-02 17:31"
-	},
-	"63f15d60232b7228628ad92a68ab68e828f65b1e2a35011e0e3f6a56ab6187f3": {
-		"title": "당국 \"오미크론 확진자 5명 중 4명은 현재 무증상, 1명은 미열\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20211202117851530?section=safe/news",
-		"date": "12-02 17:30"
-	},
-	"e4965a8f5a39346cf284c7654256594e7e92686e24406075d78d4a796c4481de": {
-		"title": "\"미접종자 모임 참석 불허도 검토\"…정부, 고강도 대책도 논의중",
-		"link": "www.yna.co.kr/view/AKR20211202161800530?section=safe/news",
-		"date": "12-02 17:29"
-	},
-	"1efa7a1e001900bf54e78458d508623661f193b4ca26c55303aeedef5bd2f9ee": {
-		"title": "오미크론 변이 확진자 접촉자 1명 제주 체류…\"3차 검사 중\"",
-		"link": "www.yna.co.kr/view/AKR20211202161400056?section=safe/news",
-		"date": "12-02 17:18"
-	},
-	"aea2c3f86d41991c6122d6a7d05b469a695d20b7b67ce21a6cc6522419909313": {
-		"title": "[게시판] 복지부, 코로나19 시대 자살예방 공개토론회 개최",
-		"link": "www.yna.co.kr/view/AKR20211202158000530?section=safe/news",
-		"date": "12-02 17:14"
-	},
-	"9785ed232c59885c583a06e25fe31dce9971f60eb667ea6cc5b87d85b6b6b565": {
-		"title": "오미크론 등장에 반대 의견 뒤집는 전문가들 \"결국 부스터샷\"",
-		"link": "www.yna.co.kr/view/AKR20211202160100009?section=safe/news",
-		"date": "12-02 17:13"
-	},
-	"4b60d9b7e65838681b603fcf85fb4f03faf5e04c1cd9832cef043bc49ee25e55": {
-		"title": "경남 93명 확진, 1명 사망…확진자 접촉·감염경로 불명 다수(종합)",
-		"link": "www.yna.co.kr/view/AKR20211202103351052?section=safe/news",
-		"date": "12-02 17:10"
-	},
-	"a32f2114805e50e9776d0b28e67cc788545018356cfc42545bf48a8ec7208a44": {
-		"title": "60세 이상 위중증 57%는 돌파감염…의협 \"추가접종 참여해달라\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20211202129851530?section=safe/news",
-		"date": "12-02 17:01"
-	},
-	"40ccf5330b1d70c01710ae02c9584bf757a237d6cd2f647082765ca6704dbe3b": {
-		"title": "[영상] 확진전 6일간 활보…오미크론 첫 확진 부부 거짓말 일파만파",
-		"link": "www.yna.co.kr/view/AKR20211202149300534?section=safe/news",
-		"date": "12-02 17:01"
-	},
-	"ccea9a8e5f43750a37dc798aef20223714fae4b9cb1789c2d08e13de56ff2622": {
-		"title": "내일부터 모든 입국자 열흘 격리…기업임원·대표선수단 등 제외(종합)",
-		"link": "www.yna.co.kr/view/AKR20211202075151530?section=safe/news",
-		"date": "12-02 16:57"
-	},
-	"6c127e4f308da0876feb457efb4c63d07a27d01ce8211393c215c983b46424d3": {
-		"title": "유은혜, 내일 학교 방역 점검…\"학생 백신접종 관심 부탁\"",
-		"link": "www.yna.co.kr/view/AKR20211202153800530?section=safe/news",
-		"date": "12-02 16:43"
 	}
 }
