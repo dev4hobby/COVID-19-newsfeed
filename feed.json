@@ -1,4 +1,69 @@
 {
+	"b34897ec2ba64c6ea87f1aa65a9e3528359494d486f4c0fb20c2016e10eebea3": {
+		"title": "방역패스 확대 첫날 학원·도서관 혼선…자영업자도 불만",
+		"link": "www.yna.co.kr/view/AKR20211206065200004?section=safe/news",
+		"date": "12-06 11:30"
+	},
+	"9a79428a210ebb8af1df4cf321747e120a753b010b66b9d21cdc770e10382b08": {
+		"title": "괌 여행 다녀온 2명, 전남 무안서 확진",
+		"link": "www.yna.co.kr/view/AKR20211206064900054?section=safe/news",
+		"date": "12-06 11:26"
+	},
+	"39f295a8323d043d8ac45292a016003b7b9ad0d7d85ce0eb31d865c8c65c3851": {
+		"title": "천안·아산 시장 \"방역지침 준수·백신접종 적극 참여\" 당부",
+		"link": "www.yna.co.kr/view/AKR20211206064300063?section=safe/news",
+		"date": "12-06 11:25"
+	},
+	"4f19967d64841f44d3a88fefc2b1132408929d28d2b228ab6aeda37273228294": {
+		"title": "[르포] 미리 가본 베이징 동계올림픽 '폐쇄루프'…1일1회 코로나 검사",
+		"link": "www.yna.co.kr/view/AKR20211206063500083?section=safe/news",
+		"date": "12-06 11:23"
+	},
+	"19b1fe6510d51c756bcd5b092ac2743fb06c87a47065fe8b06034505571dd887": {
+		"title": "말레이 일일 확진자 5천명 안팎에도 '풀 파티' 299명 체포",
+		"link": "www.yna.co.kr/view/AKR20211206061200104?section=safe/news",
+		"date": "12-06 11:18"
+	},
+	"f3150dc598c9a24fdb083c5ff03704d7e2ae61e2e19c04442f7f240ab61e8f84": {
+		"title": "서울 지난주 하루 평균 1천925명 확진…1주 전보다 319명↑(종합)",
+		"link": "www.yna.co.kr/view/AKR20211206039251004?section=safe/news",
+		"date": "12-06 11:09"
+	},
+	"8360eb9617446d6d3a96cdbee26e8e3fd3bb6b3284735344a8a4330c79059308": {
+		"title": "경기 '일요일 최다' 1천314명 확진…안산서 오미크론 감염자도(종합)",
+		"link": "www.yna.co.kr/view/AKR20211206044051061?section=safe/news",
+		"date": "12-06 11:09"
+	},
+	"346c6f786d62c6a3bd7b1c97e166786964581f6ab5a46b44249f5c47935e9332": {
+		"title": "신규확진 4천325명…오미크론 확진자 12명 늘어 총 24명(종합2보)",
+		"link": "www.yna.co.kr/view/AKR20211206019751530?section=safe/news",
+		"date": "12-06 11:03"
+	},
+	"bb9a39de5690e49b565e0ccc7aa79da054e4c3f3c2d22e11ce97cc8d7c41836f": {
+		"title": "부산 193명 신규 확진…중환자 병상 가동률 69.8%",
+		"link": "www.yna.co.kr/view/AKR20211206058700051?section=safe/news",
+		"date": "12-06 11:01"
+	},
+	"992273c34d511d75daf6e4e9dead709ea331c1d24fb4385b5ceaf790ab681fcb": {
+		"title": "오미크론, 45개국서 확인…파우치 \"델타보다는 덜 위험\"",
+		"link": "www.yna.co.kr/view/AKR20211206050400009?section=safe/news",
+		"date": "12-06 10:59"
+	},
+	"a0c2e54464425c59f199b7b5ffb0c3df31d652a972bc9242a1073fff6b464cd5": {
+		"title": "포르투갈·아이슬란드·UAE…접종 모범국도 오미크론 속속 침투",
+		"link": "www.yna.co.kr/view/AKR20211206051700009?section=safe/news",
+		"date": "12-06 10:57"
+	},
+	"8ea05fffa47ea7252a2f4c91a371f29afce005e92bd9486881c9c221cf7d2fdf": {
+		"title": "싱가포르서 오미크론 양성 1명 추가…기존 확진자와 같은 항공편",
+		"link": "www.yna.co.kr/view/AKR20211206056500076?section=safe/news",
+		"date": "12-06 10:55"
+	},
+	"5f04585234161f2421a9e40626497941899d3152e9b1628877e8fdd63d8e41e9": {
+		"title": "인천서 오미크론 확진자 계속 증가…9명 늘어 19명으로",
+		"link": "www.yna.co.kr/view/AKR20211206056700065?section=safe/news",
+		"date": "12-06 10:54"
+	},
 	"581efb67af2a19efce044040a70a8cedf116cffc736b0e252120ee9c313d644a": {
 		"title": "중국 중난산 \"코로나 치사율 0.1%로 떨어져야 일상회복 가능\"",
 		"link": "www.yna.co.kr/view/AKR20211206055800083?section=safe/news",
@@ -433,70 +498,5 @@
 		"title": "영국, 먹는 코로나 치료제 사용 앞당긴다…\"성탄 전 보급\"",
 		"link": "www.yna.co.kr/view/AKR20211205025600009?section=safe/news",
 		"date": "12-05 12:21"
-	},
-	"91afabdafc75cdd12f617cf7580fc84a9d4e425bbcfedc71616dddcb90a701a5": {
-		"title": "서울·인천 증증병상 가동률 91%…비수도권 병상대기 본격화",
-		"link": "www.yna.co.kr/view/AKR20211205026100530?section=safe/news",
-		"date": "12-05 12:21"
-	},
-	"ca3302a3714634e2d7612ee847973ee42bbda0a61172443ce095b19a3351b34d": {
-		"title": "일본, 코로나19 확진자 전원 오미크론 여부 확인 방침",
-		"link": "www.yna.co.kr/view/AKR20211205023700073?section=safe/news",
-		"date": "12-05 12:08"
-	},
-	"dcbe94edf10109423bede2ef7cb88289e3bd8be7d71ca06691dd8c2dc63d0e54": {
-		"title": "\"오미크론에도 방역은 점차 완화…내년 글로벌 경기회복세 지속\"",
-		"link": "www.yna.co.kr/view/AKR20211203144200002?section=safe/news",
-		"date": "12-05 12:00"
-	},
-	"71c2fc6319a6c4b981e0990748907dc664f7cba3a458bdf7390110388dd87660": {
-		"title": "\"오미크론 확산으로 소비심리 악화땐 내년 1분기 또 경제 충격\"",
-		"link": "www.yna.co.kr/view/AKR20211204049400002?section=safe/news",
-		"date": "12-05 11:00"
-	},
-	"69536586f849bff01460bdb902cad90b3d9af5fce82ae5533d44e2bfcb05b4eb": {
-		"title": "인도 오미크론 변이 2명 추가 확진…확산 우려 고조",
-		"link": "www.yna.co.kr/view/AKR20211205021800077?section=safe/news",
-		"date": "12-05 11:29"
-	},
-	"51838a6a390f540a4c51ceecf616d1907db51c3f1c0ae849486976e19345cd88": {
-		"title": "부산 이틀째 200명대 신규 확진…연일 하루 최다 기록",
-		"link": "www.yna.co.kr/view/AKR20211205021600051?section=safe/news",
-		"date": "12-05 11:10"
-	},
-	"d36304d82542a4d897f2c38aee6c5568ac6ff6eaa01e8409a191b9afa0028875": {
-		"title": "오미크론 확진자 3명 늘어 총 12명…모두 인천교회발 추정",
-		"link": "www.yna.co.kr/view/AKR20211205020900530?section=safe/news",
-		"date": "12-05 11:09"
-	},
-	"af9752f6ea2b2ca2b584e29f4e311dff4e0356d66a3588da997fc821eb37e4a5": {
-		"title": "포항 한 병원서 이틀새 신규 확진자 66명 발생",
-		"link": "www.yna.co.kr/view/AKR20211205021400053?section=safe/news",
-		"date": "12-05 11:06"
-	},
-	"f970b988b1c9469cb04b34932b8526693e93d0acb9ffa2fc1aa325cb4ffc8652": {
-		"title": "\"오미크론 확산으로 소비심리 악화하면 내년 경제 충격 우려\"",
-		"link": "www.yna.co.kr/view/AKR20211204049400002?section=safe/news",
-		"date": "12-05 11:00"
-	},
-	"cdbe522efa8b5ffb807b1b3f431efbf91e21f232f2eb5a3396e5ec016f9abf93": {
-		"title": "삼성전자, 코로나19로 피해 본 베트남 진출 협력사에 자금 지원",
-		"link": "www.yna.co.kr/view/AKR20211205010000003?section=safe/news",
-		"date": "12-05 11:00"
-	},
-	"02d359f906bb4f5f2fa77b2c093be95aab128de68aa9dc1a8157fe5f943ba947": {
-		"title": "서울 2천32명 신규 확진…닷새째 2천명대(종합)",
-		"link": "www.yna.co.kr/view/AKR20211205013951004?section=safe/news",
-		"date": "12-05 11:00"
-	},
-	"a1b43ad1e7f5ec90a46fe0196a4537ce7a62f9a08f50149f38a7299f3edbcc34": {
-		"title": "전북 초교·종교모임 관련 확산세 지속…병상 가동률 72%",
-		"link": "www.yna.co.kr/view/AKR20211205019800055?section=safe/news",
-		"date": "12-05 10:52"
-	},
-	"3fa7403d4f4c245a75b120fe9b461beeff1c4cd8b6b8cc25942f13dbb1c3a819": {
-		"title": "인천 교회 '오미크론 의심' 감염 잇따라…3명 추가",
-		"link": "www.yna.co.kr/view/AKR20211205019500065?section=safe/news",
-		"date": "12-05 10:49"
 	}
 }
