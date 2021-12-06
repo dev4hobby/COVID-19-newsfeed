@@ -1,4 +1,24 @@
 {
+	"58d39642ba0d0527d2ead656cf5ec7b65393939f0abdc928e97b6bc6135b4c3d": {
+		"title": "오후 6시까지 서울 850명 확진…어제보다 248명 급증",
+		"link": "www.yna.co.kr/view/AKR20211206139200004?section=safe/news",
+		"date": "12-06 18:23"
+	},
+	"841bce67bc8f35dc52ea092b1c8973f7358d2dd0f0916a3d6a879e86529a92bf": {
+		"title": "포항 병원발 코로나19 확진자 21명 추가…누적 89명(종합)",
+		"link": "www.yna.co.kr/view/AKR20211206035251053?section=safe/news",
+		"date": "12-06 18:10"
+	},
+	"2660bba997d87bc7106f35a6531f9616bdd11bd2a8f099931d47791354b60185": {
+		"title": "서울 대학가 오미크론 의심 사례 잇따라…학생 불안 고조(종합)",
+		"link": "www.yna.co.kr/view/AKR20211206072351004?section=safe/news",
+		"date": "12-06 18:08"
+	},
+	"e68ea0c00316a7fdb4f74d7b4b22e1d1c2567d6418408f8df9003ca1dbf55210": {
+		"title": "울산서 11명 신규 확진…누적 5천743명(종합)",
+		"link": "www.yna.co.kr/view/AKR20211206051151057?section=safe/news",
+		"date": "12-06 18:07"
+	},
 	"d398d38fa3a8569f53c180226c74c17394fc367cfae45a93240f60a966383c4b": {
 		"title": "네팔서도 오미크론 확진자 2명 발생…\"1명은 최근 입국 외국인\"",
 		"link": "www.yna.co.kr/view/AKR20211206135400077?section=safe/news",
@@ -478,25 +498,5 @@
 		"title": "포항 병원발 코로나19 확진자 17명 추가…누적 85명",
 		"link": "www.yna.co.kr/view/AKR20211206035200053?section=safe/news",
 		"date": "12-06 09:33"
-	},
-	"2362fa47ea01bad9546e748118e06c5444c63d60d8566ff3f6a1701fa707f2ae": {
-		"title": "[속보] 국내 오미크론 확진자 12명 늘어…누적 24명",
-		"link": "www.yna.co.kr/view/AKR20211206037100530?section=safe/news",
-		"date": "12-06 09:32"
-	},
-	"08fff487b84a87b244959e161f26e0eee625d3f654df84dcee3c23d371d7430f": {
-		"title": "[속보] 코로나19 사망자 41명, 누적 3천893명…위중증 어제보다 17명↓",
-		"link": "www.yna.co.kr/view/AKR20211206018500530?section=safe/news",
-		"date": "12-06 09:31"
-	},
-	"830a5612845f15bc5f3bb3ee1a0bf27e57ea7fc73ff62696a1fa838eb63e3a3d": {
-		"title": "[1보] 신규확진 4천325명, 휴일에도 4천명대…위중증 727명",
-		"link": "www.yna.co.kr/view/AKR20211206018300530?section=safe/news",
-		"date": "12-06 09:30"
-	},
-	"efaafe60dfe8ae41eb56b99941f7ca0115b2ee8685ae381bc3552960de5f8649": {
-		"title": "충북 어제 59명 확진…어린이집 3곳 관련 감염 지속",
-		"link": "www.yna.co.kr/view/AKR20211206033700064?section=safe/news",
-		"date": "12-06 09:25"
 	}
 }
