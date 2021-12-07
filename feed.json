@@ -1,4 +1,109 @@
 {
+	"1ad77c686a269ca9f7e07cade61c0d75f346c3864d3ff95f53ea7c3a98e888cb": {
+		"title": "[속보] \"거점병원 추가 지정으로 중증·준중증병상 600여개 확보 예정\"",
+		"link": "www.yna.co.kr/view/AKR20211207067000530?section=safe/news",
+		"date": "12-07 11:00"
+	},
+	"62a88169e7104679694f1a652900bc8e0949792d8641788a9a2a85ac69197db6": {
+		"title": "전북 확진자 이틀새 108명…\"모임 피해야 확산세 꺾을 수 있어\"",
+		"link": "www.yna.co.kr/view/AKR20211207066300055?section=safe/news",
+		"date": "12-07 10:56"
+	},
+	"70aba67b5b3c751a4591f7bdd028f99bb1c391070bdbf88360938db7bb12be0e": {
+		"title": "대구 129명 확진…중증병상 가동률 70% 턱 밑까지 치솟아",
+		"link": "www.yna.co.kr/view/AKR20211207066500053?section=safe/news",
+		"date": "12-07 10:55"
+	},
+	"fe92cbc378948c80b30ae8c09cecaef736916270e440beb2364e62a5640322fb": {
+		"title": "남아공 현지 의사 \"오미크론 가벼운 감기로 조심스레 낙관\"",
+		"link": "www.yna.co.kr/view/AKR20211205046500099?section=safe/news",
+		"date": "12-07 10:51"
+	},
+	"2cd387e2a80053fd1e94d798db680289ad632f3e525e6719ccbdf9b52c8a3a83": {
+		"title": "\"코로나19 완치자, 오미크론 변이 재감염 위험 높은 듯\"",
+		"link": "www.yna.co.kr/view/AKR20211207055600009?section=safe/news",
+		"date": "12-07 10:46"
+	},
+	"5cb4c58a7ee3596db4659eff75bc851b689aa0510ade04d259188e720794c3ae": {
+		"title": "중국 집단면역 '마지막 퍼즐'은…'1억6천만 꼬마 백신 전사'",
+		"link": "www.yna.co.kr/view/AKR20211207054700009?section=safe/news",
+		"date": "12-07 10:37"
+	},
+	"46c82bba948600e5427c274d89da2c08bd7a1a7a50e9f1bbd8934643280cce61": {
+		"title": "군 코로나19 확진자 21명 늘어…19명은 돌파감염",
+		"link": "www.yna.co.kr/view/AKR20211207062100504?section=safe/news",
+		"date": "12-07 10:32"
+	},
+	"70deb09c7f21553ced7fae454926bfb93c5c0c92e5677b2e8e18fae20e60e9e3": {
+		"title": "경기도 1천321명 확진…사망자 25명으로 '하루 최다'",
+		"link": "www.yna.co.kr/view/AKR20211207056800061?section=safe/news",
+		"date": "12-07 10:32"
+	},
+	"48c6efa84f3efa9a607ad10718afad931fe8c9458522c4416e2466ed1218d8b8": {
+		"title": "'코로나 재확산' 美 신규확진 22%가 어린이…석달간 200만명",
+		"link": "www.yna.co.kr/view/AKR20211207047600091?section=safe/news",
+		"date": "12-07 10:21"
+	},
+	"56acf914e0765bd23e47299a6d7d3e41d4f82359f8a922e5548a80644ef15079": {
+		"title": "오미크론 확진 12명 늘어 총 36명…서울서 첫 확진자 3명(종합)",
+		"link": "www.yna.co.kr/view/AKR20211207046251530?section=safe/news",
+		"date": "12-07 10:19"
+	},
+	"05a670ab4075602611f3fa46c5589b6abdb1cc10a516eed301594f89feb6f824": {
+		"title": "울산서 밤사이 16명 확진…해외입국자 1명",
+		"link": "www.yna.co.kr/view/AKR20211207056300057?section=safe/news",
+		"date": "12-07 10:18"
+	},
+	"ded535ea01398718367501f87fd4d73d45adc8d58f7cc30ed7ab761cc4733c18": {
+		"title": "수도권 중증병상 가동률 84%, 인천은 94%…병상 대기자 919명",
+		"link": "www.yna.co.kr/view/AKR20211207055200530?section=safe/news",
+		"date": "12-07 10:18"
+	},
+	"24eca1a8720afa991c8e50f31b319a5baa3f5742af6ee34a9f5977e1796b8cff": {
+		"title": "\"코로나19로 취식 금지인데…KTX 특실 음료 제공 예산 37억\"",
+		"link": "www.yna.co.kr/view/AKR20211207050400054?section=safe/news",
+		"date": "12-07 10:12"
+	},
+	"7a360f3dcc6382348cc0667ebb366a2c17f8df14ad72edd305f577397b2643be": {
+		"title": "위중증 774명, 또 최다 기록…신규확진 역대 월요일중 가장 많아(종합)",
+		"link": "www.yna.co.kr/view/AKR20211207019551530?section=safe/news",
+		"date": "12-07 10:03"
+	},
+	"b07d0e76d7aecc73b687fe1ebf6fab1204a5d8a5f4a0b22c78da0a0d57802c15": {
+		"title": "집단감염 대전 요양시설 1곳 더…7곳 누적 확진 262명",
+		"link": "www.yna.co.kr/view/AKR20211205015152063?section=safe/news",
+		"date": "12-07 10:00"
+	},
+	"97460626e8086cfd9269c105b940a10cc2c2a2cb5a563442839eb5b6c7d7f73c": {
+		"title": "경남 밤새 54명 확진…확진자 접촉·집단감염 여파 산발 확산",
+		"link": "www.yna.co.kr/view/AKR20211207049400052?section=safe/news",
+		"date": "12-07 09:54"
+	},
+	"8d8547deaa0e548fc6cf82a2138a8fa8c7ff1dcbc2a1eee38c14d24f9d0afdd6": {
+		"title": "경희대·외대·서울대 유학생 3명 오미크론 확진…서울도 전파",
+		"link": "www.yna.co.kr/view/AKR20211207048500004?section=safe/news",
+		"date": "12-07 09:51"
+	},
+	"8c940fbe1b760d172bdc0fa9bd1325de1e597f64bb1f2012f456652c8c79bd3d": {
+		"title": "오미크론 확진 12명 늘어 총 36명…남아공발 해외유입 3명 포함",
+		"link": "www.yna.co.kr/view/AKR20211207046200530?section=safe/news",
+		"date": "12-07 09:48"
+	},
+	"b2fb3974d1b68c0b215b95ad8ea938168834ce2db864ebd916bbf52b3c7ca22c": {
+		"title": "[2보] 위중증 774명, 또 최다 기록…신규확진 4천954명",
+		"link": "www.yna.co.kr/view/AKR20211207019500530?section=safe/news",
+		"date": "12-07 09:46"
+	},
+	"5a82790f14dc7416ee4bc5ed902273d4ab73d172bd6ed2d77c3df92eda2cec47": {
+		"title": "필리핀 마닐라, 신규 확진 줄자 21개월만에 등교 일부 재개",
+		"link": "www.yna.co.kr/view/AKR20211207045900084?section=safe/news",
+		"date": "12-07 09:46"
+	},
+	"5ed4451420500d090df531b03bdfe32ffa62488436b4669771e30a411d5cfae3": {
+		"title": "서울 2천120명 신규 확진…전날보다 712명 급증",
+		"link": "www.yna.co.kr/view/AKR20211207046900004?section=safe/news",
+		"date": "12-07 09:44"
+	},
 	"9475e0ffe7051b9608e0db45e8441ed9085aa83a4217830061cb849386526767": {
 		"title": "중국 \"오미크론 즉시 식별 검사능력 확보\"",
 		"link": "www.yna.co.kr/view/AKR20211207043900083?section=safe/news",
@@ -393,110 +498,5 @@
 		"title": "[속보] 당국 \"국내 오미크론 감염자들 증상 경미하고 건강상태 안정적\"",
 		"link": "www.yna.co.kr/view/AKR20211206097700530?section=safe/news",
 		"date": "12-06 14:42"
-	},
-	"0d81a110c314267b616f1e627280921ee0715ee4e66e9c54bb6072105db74631": {
-		"title": "코로나19 확진 산모, 호흡곤란 상태서 출산 성공…3주만에 퇴원",
-		"link": "www.yna.co.kr/view/AKR20211206066200017?section=safe/news",
-		"date": "12-06 14:36"
-	},
-	"319f01134327ce9affefab2e301136b38ee47be78eccec76e6890d7a8a1c8370": {
-		"title": "부산 학생 42명 확진 '역대 최다'…교육청 \"전면수업 유지\"",
-		"link": "www.yna.co.kr/view/AKR20211206092600051?section=safe/news",
-		"date": "12-06 14:32"
-	},
-	"adf1f4df448547cefbbe1c7e4a313aeeb70c9d3730c07fbe1bcfc64fc986d29d": {
-		"title": "[포켓이슈] 청소년 방역패스 왜 반발하지?",
-		"link": "www.yna.co.kr/view/AKR20211206071300797?section=safe/news",
-		"date": "12-06 14:30"
-	},
-	"168cebc2f092e960c3d4ccc726c5846c3c1cf20ea7383333dbffd50377c8c280": {
-		"title": "[속보] 검역서 오미크론 2명 확진…12월1일 입국한 60대·50대 동료",
-		"link": "www.yna.co.kr/view/AKR20211206094400530?section=safe/news",
-		"date": "12-06 14:29"
-	},
-	"ada23ef5f61ef82860a7d49d5e1f559d0ac2dc49d3f34d3b188d879f564ade9d": {
-		"title": "[속보] 오미크론 역학적관련 8명 늘어 총 34명…24명 확진·10명 분석중",
-		"link": "www.yna.co.kr/view/AKR20211206094100530?section=safe/news",
-		"date": "12-06 14:27"
-	},
-	"b47db3878e49fa35eba70acbc740c4baaada056bfdd5edda58321647f648a273": {
-		"title": "[속보] 당국 \"오미크론 변이 우리나라에서도 우세종 될 가능성 있어\"",
-		"link": "www.yna.co.kr/view/AKR20211206091800530?section=safe/news",
-		"date": "12-06 14:27"
-	},
-	"b1c7ffea0fbe8850bad8aeefe35c72bbd2690355a682c465530922a66e1ecc1a": {
-		"title": "코로나19 전국 위험도 2주째 '매우높음'…의료역량 한계 초과",
-		"link": "www.yna.co.kr/view/AKR20211206078500530?section=safe/news",
-		"date": "12-06 14:23"
-	},
-	"9b850790098250ce517acb9f568e480fe9d15d7351c4fdbd154297c50fd03e36": {
-		"title": "[속보] 오늘부터 사흘간 소아·청소년 접종 수요조사…앱으로 시행",
-		"link": "www.yna.co.kr/view/AKR20211206092800530?section=safe/news",
-		"date": "12-06 14:22"
-	},
-	"815ae36fb72024d6223604489cca6906152566446184554e4a90ebe5bbe48e3f": {
-		"title": "광주 요양병원·모임·학교 등 산발감염…중증 병상 부족",
-		"link": "www.yna.co.kr/view/AKR20211206091300054?section=safe/news",
-		"date": "12-06 14:18"
-	},
-	"58936adfa8d9413e8df60fca83e62381a75c8f10660f6798e754e82c07fe8030": {
-		"title": "[속보] 전국 코로나19 감염재생산지수 1.16 …6주째 확산세 지속",
-		"link": "www.yna.co.kr/view/AKR20211206091100530?section=safe/news",
-		"date": "12-06 14:15"
-	},
-	"585da61c5aea6b0effd87646e41c487fd2cdd1ecd5868f27642b193b9de24eca": {
-		"title": "[속보] 코로나19 전국 위험도 2주째 '매우높음'…의료역량 한계 초과",
-		"link": "www.yna.co.kr/view/AKR20211206090700530?section=safe/news",
-		"date": "12-06 14:13"
-	},
-	"128356eac0a5db682a7593eea71bc61f9f98a267cfeeaee0b215c9cb75f8cd46": {
-		"title": "경남 51명 확진, 1명 사망…확진자 접촉·감염경로 불명 다수",
-		"link": "www.yna.co.kr/view/AKR20211206084300052?section=safe/news",
-		"date": "12-06 13:50"
-	},
-	"541147c61cf2b350d8be255e5e7f68b9a5b6667c388a3bb97b0e6e0707f58c0e": {
-		"title": "공항서 340㎞ 호텔에 한국인 격리한 일본…\"시설 부족 때문\"",
-		"link": "www.yna.co.kr/view/AKR20211204037651073?section=safe/news",
-		"date": "12-06 13:36"
-	},
-	"584bcb2e2426b29272fd3b6fa733672010efb75febb40aebfe4674a024e8b5e5": {
-		"title": "정부, 청소년 방역패스 연기 안해…\"학습권보다 감염보호 가치 커\"",
-		"link": "www.yna.co.kr/view/AKR20211206073700530?section=safe/news",
-		"date": "12-06 12:17"
-	},
-	"afb1dd2d4ab38a302ebee6e25d9e1211973611daae063f01d92565df00dee555": {
-		"title": "정부 \"지역 고령층 추가 접종률 20%…3차 접종 늘어야 방역안정\"",
-		"link": "www.yna.co.kr/view/AKR20211206072800530?section=safe/news",
-		"date": "12-06 12:05"
-	},
-	"ea63ffa2f8f314a7c7e931df67e824bb60ee0809d9485e5a98dabbb6726733f5": {
-		"title": "서울 대학가 오미크론 의심 사례 잇따라…학생 불안 고조",
-		"link": "www.yna.co.kr/view/AKR20211206072300004?section=safe/news",
-		"date": "12-06 11:57"
-	},
-	"5b64c4a388fe4a2562accff48a5607fd35196d175a3487e3491078dda3f7839b": {
-		"title": "호주 싱크탱크 \"코로나19 탓 인도태평양 내 중국 세력 약화\"",
-		"link": "www.yna.co.kr/view/AKR20211206069200009?section=safe/news",
-		"date": "12-06 11:47"
-	},
-	"cda7a247096653c40f4df96c227dedf15817336256b5269b393634c1694345ae": {
-		"title": "청주 어린이집 고리 감염 비상…\"사흘간 신규 확진자의 64%\"",
-		"link": "www.yna.co.kr/view/AKR20211206070200064?section=safe/news",
-		"date": "12-06 11:45"
-	},
-	"350c8bc30a7e0fc2cfd06c55cb8e1d1a480f0b03eea271d8b0bb94d3860874ee": {
-		"title": "베트남, 코로나19 확산에 \"올해 경제 성장 2.5% 전망\"",
-		"link": "www.yna.co.kr/view/AKR20211206069600084?section=safe/news",
-		"date": "12-06 11:43"
-	},
-	"8ad0f9628dc62e967a925d1f2db5e2744b85fba22183a38e4963796ceaed7697": {
-		"title": "[영상] 화이자 백신, 원가 1천 원인데 3만 원에?",
-		"link": "www.yna.co.kr/view/AKR20211206068800534?section=safe/news",
-		"date": "12-06 11:39"
-	},
-	"860b1aed190b467ec9b5804f0c7d7d2db289996bb4804593f40aa66831f1139a": {
-		"title": "영월, 이달에 17명 추가 확진…\"경로당발 지속…특별방역 시행\"",
-		"link": "www.yna.co.kr/view/AKR20211206067800062?section=safe/news",
-		"date": "12-06 11:34"
 	}
 }
