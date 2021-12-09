@@ -1,4 +1,34 @@
 {
+	"be8aa0ecaeec2a12709d6308aaa48710b34f0a1647d7b4138edf5af606f2446d": {
+		"title": "[통영소식] 2022년 통영 해맞이 행사 코로나19 여파 취소",
+		"link": "www.yna.co.kr/view/AKR20211209103600052?section=safe/news",
+		"date": "12-09 13:59"
+	},
+	"be36cec694c447b8b10869f8e3b2e5221103fe23712cec57c71caf1dc3215bfc": {
+		"title": "[속보] 청소년 접종 위중증 예방 100%…이상반응 신고율 성인보다 낮아",
+		"link": "www.yna.co.kr/view/AKR20211209103200530?section=safe/news",
+		"date": "12-09 13:53"
+	},
+	"d77a7214e2758a220bb3c8f890d9f7ef97e2e5018ada5c34c4048df2b8d8ec40": {
+		"title": "경남 85명 확진, 12개 시군 광범위 확산…8일 하루 193명 최다",
+		"link": "www.yna.co.kr/view/AKR20211209100000052?section=safe/news",
+		"date": "12-09 13:52"
+	},
+	"21b3cd86764402b8e509ef28aa92dd4823d4026ffa613b248d850e86d2f00055": {
+		"title": "해외서 접종마친 외국인도 국내서 3차접종…'국외 접종력 등록'",
+		"link": "www.yna.co.kr/view/AKR20211209102400530?section=safe/news",
+		"date": "12-09 13:50"
+	},
+	"d91a3b7a84b68f976debee7bbb3b0b6c404d9d1ad3a9d9e17cc9175a146a75e9": {
+		"title": "[속보] 정은경 \"최근 청소년 접종이득 명확해져, 접종 강력하게 권고\"",
+		"link": "www.yna.co.kr/view/AKR20211209102300530?section=safe/news",
+		"date": "12-09 13:46"
+	},
+	"fdab475059fc5f398547c5a9ef57a6f938975711d7d487239911c5d9da13e95d": {
+		"title": "[속보] 최근 2주 12∼17세 확진자 중 99.8%가 백신 미접종·불완전접종",
+		"link": "www.yna.co.kr/view/AKR20211209101900530?section=safe/news",
+		"date": "12-09 13:45"
+	},
 	"6d04a51769d6aca7f715250505714af125b172689422f0ccfb3b92f21e1bff3a": {
 		"title": "[속보] 오미크론 신규 확진자 22명 중 16명은 교회 관련",
 		"link": "www.yna.co.kr/view/AKR20211209098300530?section=safe/news",
@@ -468,35 +498,5 @@
 		"title": "분당 산후조리원서 이틀새 산모 1명·신생아 4명 확진",
 		"link": "www.yna.co.kr/view/AKR20211208154800061?section=safe/news",
 		"date": "12-08 18:31"
-	},
-	"18b4c0c14008fcbcca539396eb71d36b82c2e4b9628a62cd45bfdfcbc40bf06a": {
-		"title": "스웨덴·노르웨이, 코로나19 제한조치 강화",
-		"link": "www.yna.co.kr/view/AKR20211208154700098?section=safe/news",
-		"date": "12-08 18:29"
-	},
-	"b15887ed33a7c45b8d8bfda1042314ced2e27370b282a9364aded942e9b4d99c": {
-		"title": "울산서 하루 44명 확진…경로당 관련 집단감염 11명 포함(종합)",
-		"link": "www.yna.co.kr/view/AKR20211208063751057?section=safe/news",
-		"date": "12-08 18:12"
-	},
-	"1cc3743dd8858f63a2137e36876202632e0806117207b750548bc1d5bc1a85d0": {
-		"title": "서울 동부구치소 확진자 발생…직원·수용자 등 4명(종합)",
-		"link": "www.yna.co.kr/view/AKR20211208075251004?section=safe/news",
-		"date": "12-08 17:59"
-	},
-	"71eb0657283d7a10bd8d82e36234dd0d791334630966974915c22f38c02cb827": {
-		"title": "서울시청 확진자 누적 21명…시의회 예산안 심사 차질(종합2보)",
-		"link": "www.yna.co.kr/view/AKR20211208057152004?section=safe/news",
-		"date": "12-08 17:47"
-	},
-	"dc40dba7aa8787a7c23df6b42a6b979941fef952bfcd630d7ea5e750dc223843": {
-		"title": "검사소마다 늘어선 대기 행렬…확진자 급증에 커지는 '불안감'(종합)",
-		"link": "www.yna.co.kr/view/AKR20211208127200061?section=safe/news",
-		"date": "12-08 16:39"
-	},
-	"a20471bc5d9d6daedb6f5529cdf6f61ba19dd668552b9ce427a2c09ab5971360": {
-		"title": "민주, 하루 확진자 7천명 넘자 '코로나 상황실' 설치",
-		"link": "www.yna.co.kr/view/AKR20211208146400001?section=safe/news",
-		"date": "12-08 17:40"
 	}
 }
