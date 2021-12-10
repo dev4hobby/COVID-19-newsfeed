@@ -1,4 +1,89 @@
 {
+	"c229bdad0c4538d649a06e9b346e064902dad3c9f4deef3450e25255be5466f5": {
+		"title": "대구 163명 확진·4명 사망…지난해 3월 9일 이후 최다",
+		"link": "www.yna.co.kr/view/AKR20211210055000053?section=safe/news",
+		"date": "12-10 10:49"
+	},
+	"7e108e9309356d00b7c4956436481488b98378cf4ba069982a77a1fc63b642ef": {
+		"title": "삼척지역 경로당 내년 1월 2일까지 휴관…코로나19 예방 총력",
+		"link": "www.yna.co.kr/view/AKR20211210060300062?section=safe/news",
+		"date": "12-10 10:46"
+	},
+	"21095b8a2387cd7b2d58ef477414720d87d6e418d830fe3a8e8cce351f242e5b": {
+		"title": "군 코로나19 확진자 30명 늘어…29명은 돌파감염",
+		"link": "www.yna.co.kr/view/AKR20211210059400504?section=safe/news",
+		"date": "12-10 10:43"
+	},
+	"0ae93e651e92ad1e2a2f523fe4e354b554db00b3ac08827510967bd5ec3a8913": {
+		"title": "청주 모 병원 환자·직원 25명 집단감염…부분 코호트 격리",
+		"link": "www.yna.co.kr/view/AKR20211210038000064?section=safe/news",
+		"date": "12-10 10:41"
+	},
+	"3b5fb849b60782fc579bb3c28d693fb4cd9ce4ee4a3a29d2a61d74dcbfa45d16": {
+		"title": "중국산 코로나 치료제 개발자 \"입원률 80% 감소\"",
+		"link": "www.yna.co.kr/view/AKR20211210055700083?section=safe/news",
+		"date": "12-10 10:38"
+	},
+	"0180e22f4bdd80b2405f20d31b5b0fe9df5849ef0b04975abb7cae20358675c9": {
+		"title": "울산서 밤사이 19명 확진…경로당·친척 모임 관련 감염 지속",
+		"link": "www.yna.co.kr/view/AKR20211210051400057?section=safe/news",
+		"date": "12-10 10:15"
+	},
+	"66f2f73735e30b07d0dc7f88486ad08860c964f4c7d494c84c75d6e37ca71bec": {
+		"title": "호주 5~11세 코로나19 백신 접종 승인…내년 1월부터 시행",
+		"link": "www.yna.co.kr/view/AKR20211210009200093?section=safe/news",
+		"date": "12-10 10:08"
+	},
+	"9820d03288125efd496f412977cf1f25948d7b03b5953ab64c929492a807a747": {
+		"title": "경기 확진자 사흘 연속 2천명대…어제 2천30명 확진",
+		"link": "www.yna.co.kr/view/AKR20211210048200061?section=safe/news",
+		"date": "12-10 10:08"
+	},
+	"c73974e11994872f5d58f87527e8d7bd523528cd40407c405f18062df19b81c3": {
+		"title": "신규확진 7천22명, 사흘째 7천명대…급증세에 누적 50만명 넘어(종합)",
+		"link": "www.yna.co.kr/view/AKR20211210046900530?section=safe/news",
+		"date": "12-10 10:07"
+	},
+	"5e3b6134a1f5c5ca88b5cd7a7b9f7d65c97da1c4a3559a818328c743705b69e8": {
+		"title": "대전 요양시설 집단감염 누적 415명…시설도 1곳 늘어",
+		"link": "www.yna.co.kr/view/AKR20211209054351063?section=safe/news",
+		"date": "12-10 10:03"
+	},
+	"3433656b25869901bf48a77b837dde616d4987fc943997d380a79a627d445a53": {
+		"title": "포항공대 연구팀, 20분 만에 오미크론 판별 진단기술 개발",
+		"link": "www.yna.co.kr/view/AKR20211210043400053?section=safe/news",
+		"date": "12-10 10:00"
+	},
+	"cbeb7732b405eee19bc02eb2f2a6fff2322f2f649b3a7ba80a8aba0630625932": {
+		"title": "경남 9일 하루 206명 확진, 연일 최다…병상가동률 95% 육박",
+		"link": "www.yna.co.kr/view/AKR20211210046000052?section=safe/news",
+		"date": "12-10 09:59"
+	},
+	"369092ea9e1f05c92fee201f0e26e5f1d420e69fc19b725da2cb2784e81e8f31": {
+		"title": "미, 16∼17세로 부스터샷 확대…\"2회론 오미크론 못막아\"(종합2보)",
+		"link": "www.yna.co.kr/view/AKR20211210002952091?section=safe/news",
+		"date": "12-10 09:56"
+	},
+	"40e4cca1b5840f713efc458912283c480149586a39309b6813c9370f04bdd2ac": {
+		"title": "서울시 집단감염 여파로 시의회 예산안 심사 무기한 연기",
+		"link": "www.yna.co.kr/view/AKR20211210045800004?section=safe/news",
+		"date": "12-10 09:54"
+	},
+	"10223822232b5e2234031dc148cbcdc3c7e9f8266685a09498b232f83b6cf21f": {
+		"title": "병상없어 대기중인 환자 수도권 1천258명…재택치료 2만명 넘어",
+		"link": "www.yna.co.kr/view/AKR20211210044900530?section=safe/news",
+		"date": "12-10 09:54"
+	},
+	"a0e28b929a869aee4280e1db2e6f109f2fc21ca5419652e72cc8d290a4cbe3af": {
+		"title": "서울 2천800명 신규 확진…사흘째 2천명대 후반",
+		"link": "www.yna.co.kr/view/AKR20211210042700004?section=safe/news",
+		"date": "12-10 09:43"
+	},
+	"50a3cd9609971a14f8dfe6207aac45e77653b9d6fde6a446ea1bd25de4591f26": {
+		"title": "충북 하루새 94명 추가, 올해 2번째로 많아…이틀째 90명대 확진",
+		"link": "www.yna.co.kr/view/AKR20211210037800064?section=safe/news",
+		"date": "12-10 09:39"
+	},
 	"fbb78ca432a40f1230faeceaa552af6400cbc5940842f22e56d20debb955aa1a": {
 		"title": "오미크론 국내감염 확진자 3명 추가…총 63명",
 		"link": "www.yna.co.kr/view/AKR20211210028900530?section=safe/news",
@@ -413,90 +498,5 @@
 		"title": "이재정 경기교육감 \"12세 이상 학생들 백신 접종 받아달라\"",
 		"link": "www.yna.co.kr/view/AKR20211209132400061?section=safe/news",
 		"date": "12-09 15:58"
-	},
-	"28df0ba53967e0e1e5842bec0a02fd2de1802d04db057778d2cf6e62e518b663": {
-		"title": "남아공 방역전문가 \"오미크론, 우세종되겠지만 치명도 낮을 듯\"",
-		"link": "www.yna.co.kr/view/AKR20211209017000099?section=safe/news",
-		"date": "12-09 15:48"
-	},
-	"cbf2da3638d3bf967024d3d73af6137273afb0b0a4c15f8db5ed783789724916": {
-		"title": "총리 주재 코로나 방역 긴급 관계장관회의…\"매우 엄중한 위기\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20211209108151001?section=safe/news",
-		"date": "12-09 15:47"
-	},
-	"a694e4c1bb62a4f121903ddd939304aee50c56159d4746f2607590bceb58fac8": {
-		"title": "\"방역패스, 소상공인 범법자 양산…위반 당사자에 책임 물어야\"",
-		"link": "www.yna.co.kr/view/AKR20211209126600003?section=safe/news",
-		"date": "12-09 15:46"
-	},
-	"4845440298aa0b31061d899c3c141d946d86cca63302184a35ce533a9320e64b": {
-		"title": "10세 미만 코로나19 사망자 1명 늘어 총 3명…\"응급실에서 사망\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20211209065451530?section=safe/news",
-		"date": "12-09 15:45"
-	},
-	"07f26fdfe1545b2ccaff4da6866a9b92df529447b922a7b35b4eb5f9bf23f195": {
-		"title": "[영상] 확진자 밀접접촉→클럽서 새벽 4시까지…핀란드 총리 사과",
-		"link": "www.yna.co.kr/view/AKR20211209129700534?section=safe/news",
-		"date": "12-09 15:45"
-	},
-	"b3328671afc9cc2a2719dd355b99544b5defccb134453f84d5edcc59e8559c18": {
-		"title": "청소년 방역패스 조정되나…정은경 \"개선안으로 불편 줄이겠다\"",
-		"link": "www.yna.co.kr/view/AKR20211209121300530?section=safe/news",
-		"date": "12-09 15:39"
-	},
-	"e4dab50adb1e1982648ac0a900489cd28876a1198b50e6cff958146d0a6c78f3": {
-		"title": "정부, 총리 주재 코로나 방역 긴급 관계장관회의",
-		"link": "www.yna.co.kr/view/AKR20211209108100001?section=safe/news",
-		"date": "12-09 15:30"
-	},
-	"2e8183fa6e298ecc4f9b5eed65f4639b3f176fb37d3802930ea90a23ce73fe6e": {
-		"title": "확진돼도 거리에 방치되는 노숙인…방역마저 사각지대(종합)",
-		"link": "www.yna.co.kr/view/AKR20211209073751004?section=safe/news",
-		"date": "12-09 15:25"
-	},
-	"bab2ad135fef7d3194e3625c02a4cbb568b850dfaf54e501995d88fa47be7303": {
-		"title": "부산 283명 신규 확진…역대 최다 기록 또 경신(종합)",
-		"link": "www.yna.co.kr/view/AKR20211209071451051?section=safe/news",
-		"date": "12-09 15:12"
-	},
-	"74d22e31c061f7c2cad417952f4c230bd5727a23599d912f0276d0b7f8712fdb": {
-		"title": "대전시 간부들 확진에 내년 예산 다룰 시의회 개최 불투명",
-		"link": "www.yna.co.kr/view/AKR20211209120900063?section=safe/news",
-		"date": "12-09 15:11"
-	},
-	"2154b27307680307e2efce746f9b6217759e7ba43b79dd64296d5f98df10be16": {
-		"title": "질병청, 중·일과 코로나19 백신 효과·이상반응 정보 교류",
-		"link": "www.yna.co.kr/view/AKR20211209032400530?section=safe/news",
-		"date": "12-09 15:00"
-	},
-	"5948cc180872a85f012f8ccd6d2e28e8ae05b9dbcbff0b12b9462a7cec316d47": {
-		"title": "[동정] 김강립 식약처장, 주류 제조업체 위생·방역 실태 점검",
-		"link": "www.yna.co.kr/view/AKR20211209033800530?section=safe/news",
-		"date": "12-09 15:00"
-	},
-	"c29549a5965e81c19b4850027cd33acf3e0ce46eb34e88b1fda705ad1bf184ea": {
-		"title": "코로나19 영향 작년 자살·교통사고·범죄 사망자 모두 줄었다",
-		"link": "www.yna.co.kr/view/AKR20211209067000530?section=safe/news",
-		"date": "12-09 15:00"
-	},
-	"bcd676ce597e623744316f57ae3311380a990cdda9a7179c00799ae75d473b5f": {
-		"title": "충남 코로나19 확진자 이틀째 200명 넘어…도시지역 중심 확산",
-		"link": "www.yna.co.kr/view/AKR20211209116600063?section=safe/news",
-		"date": "12-09 14:57"
-	},
-	"96e3a2c139662b4052be5e1af0fa081901e0666e9ba3a742c999257c9c35c85b": {
-		"title": "국내 첫 오미크론 확진 목사 부부 퇴원…'거짓말' 고발 예정",
-		"link": "www.yna.co.kr/view/AKR20211209115600065?section=safe/news",
-		"date": "12-09 14:49"
-	},
-	"f7f136fc0acee8ec57ca8cf166e5ca0af0146ea5eada85cf37aa2f3b06dc9304": {
-		"title": "한범덕 청주시장 \"청소년층 백신 접종 참여해달라\"",
-		"link": "www.yna.co.kr/view/AKR20211209115500064?section=safe/news",
-		"date": "12-09 14:46"
-	},
-	"89954deecba316d5ba794ae08af2d352cca83ee248ec893f68694d4ca3c122c6": {
-		"title": "익산 자활기업, 자가격리자 등에 코로나 관련 물품 배송",
-		"link": "www.yna.co.kr/view/AKR20211209112900055?section=safe/news",
-		"date": "12-09 14:41"
 	}
 }
