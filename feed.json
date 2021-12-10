@@ -1,4 +1,29 @@
 {
+	"57e39fba9e211c5cc0458d44cf047b7e6ec013d91d68cd9ad921eaa8cac54a83": {
+		"title": "뉴질랜드, 코로나로 외국인 관광지출 10분의 1로 급감",
+		"link": "www.yna.co.kr/view/AKR20211210079000009?section=safe/news",
+		"date": "12-10 12:39"
+	},
+	"0c9006e6d0b371b8bde4d88cd0c6fff92717072a3487dd7c8e337e0515fbf1a5": {
+		"title": "홍콩 연구진 코로나바이러스 죽이는 스테인리스스틸 개발",
+		"link": "www.yna.co.kr/view/AKR20211210079400074?section=safe/news",
+		"date": "12-10 12:38"
+	},
+	"ddf6f5f5fa1a0f452afe76413b310089fa870ed29991a3d07ab9f1f95567f0a6": {
+		"title": "대만, 35일만에 되살아난 코로나 공포…실험실 연구원 확진",
+		"link": "www.yna.co.kr/view/AKR20211210072800009?section=safe/news",
+		"date": "12-10 12:38"
+	},
+	"12bfa474804c8174f05b31160c4c47b8efb8e13b0e4e6a7c593693d9b493dea6": {
+		"title": "유행 확산세에 3차접종 간격 6개월→4∼5개월→3개월로 또 단축",
+		"link": "www.yna.co.kr/view/AKR20211210074500530?section=safe/news",
+		"date": "12-10 12:30"
+	},
+	"79d40494a9e04adb6dfc1b816eef093f7f4decfb89fea78af85cd29bbb60bb2a": {
+		"title": "추가접종 간격 3개월로 줄어도 방역패스 유효기간은 6개월 유지",
+		"link": "www.yna.co.kr/view/AKR20211210078800530?section=safe/news",
+		"date": "12-10 12:25"
+	},
 	"7389ac2d6b1a57ed0635eff6cfe37f6da6a691ff6203f72477458a48c58dba2e": {
 		"title": "[영상] 코로나19 집단감염 토트넘 경기 올스톱…손흥민은 훈련 빠져",
 		"link": "www.yna.co.kr/view/AKR20211210076400534?section=safe/news",
@@ -473,30 +498,5 @@
 		"title": "류훈 서울시 행정2부시장 확진…\"오세훈은 접촉자 아냐\"(종합)",
 		"link": "www.yna.co.kr/view/AKR20211209155451004?section=safe/news",
 		"date": "12-09 18:10"
-	},
-	"88fbbbc166cb9175c20d02558e42146f007948af028a588ef85de6b36613a2d7": {
-		"title": "오스트리아, 선별적 봉쇄 해제…\"백신 접종·회복자만\"",
-		"link": "www.yna.co.kr/view/AKR20211209163500088?section=safe/news",
-		"date": "12-09 18:05"
-	},
-	"dfca2c264350f9ed296cdee39856597e1f4612b4bab25984b8f2f1f923d62327": {
-		"title": "인도네시아, 불활성화 백신 이어 mRNA 백신도 직접 생산 원해",
-		"link": "www.yna.co.kr/view/AKR20211209158800104?section=safe/news",
-		"date": "12-09 17:48"
-	},
-	"d277642c05c6e98dc0fc62ba44623eac761fe0557c51ba5f972ff541a8c03b81": {
-		"title": "국내 첫 오미크론 확진 목사 부부 퇴원…'거짓말' 아내 고발(종합)",
-		"link": "www.yna.co.kr/view/AKR20211209115651065?section=safe/news",
-		"date": "12-09 17:37"
-	},
-	"97610ae2dc631e2248d447ca9df6e0a4f28efa3f800e67ad3f8062226b337c18": {
-		"title": "광주·전남 군부대서 잇따라 확진…\"추가 확산 가능성 작아\"",
-		"link": "www.yna.co.kr/view/AKR20211209157700054?section=safe/news",
-		"date": "12-09 17:35"
-	},
-	"00aec03d4f8fa4645bb8442e0d7197d67eb8989d20a7fc5d6d1eb6e918a0a205": {
-		"title": "외교부, 오미크론 변이 확산 속 여권 민원창구 긴급 현장점검",
-		"link": "www.yna.co.kr/view/AKR20211209156000504?section=safe/news",
-		"date": "12-09 17:35"
 	}
 }
