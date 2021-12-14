@@ -1,4 +1,94 @@
 {
+	"a5d222d16e2d9822112ed4afebcc1ea7335cf62c744cab08cdf41ca1b7ff6d59": {
+		"title": "[속보] 질병청 \"쿠브 서버 긴급증설, 방역패스 오늘 원활한 사용 기대\"",
+		"link": "www.yna.co.kr/view/AKR20211214068700530?section=safe/news",
+		"date": "12-14 10:58"
+	},
+	"486ff1fba880812858f2a8e5e12d7221cc1a8dadb72aa444331bf1c6de5df952": {
+		"title": "사망·위중증 최다치에 방역패스까지 먹통…'특단조치' 발표하나",
+		"link": "www.yna.co.kr/view/AKR20211214057900530?section=safe/news",
+		"date": "12-14 10:57"
+	},
+	"cc6114b01e4a47103cd7e1fabc0d106aced3fa9b0927ba5b41e5c1f7bad262b4": {
+		"title": "대구 130명 확진, 열흘째 세 자릿수…63.8%가 돌파감염",
+		"link": "www.yna.co.kr/view/AKR20211214064900053?section=safe/news",
+		"date": "12-14 10:55"
+	},
+	"14652b0cb25efed16c4a336deb8bbb784f0e78652aee31e908d9ae81881bb709": {
+		"title": "부천 대안학교서 학생·교사 41명 코로나 집단감염",
+		"link": "www.yna.co.kr/view/AKR20211214064400065?section=safe/news",
+		"date": "12-14 10:47"
+	},
+	"405b35a7ffbbd778b1b195bb091ee28670295464a77a468ee31bd906e5e1f7dd": {
+		"title": "'백신 접종률 4%' 나이지리아 백신 100만개 폐기",
+		"link": "www.yna.co.kr/view/AKR20211214057700009?section=safe/news",
+		"date": "12-14 10:35"
+	},
+	"535c9fe1addefffc4a7dced4e3a2d835b83766f43526a0b2c938aa5c1ec687a3": {
+		"title": "울산서 밤사이 31명 확진…교회 관련 확진 지속",
+		"link": "www.yna.co.kr/view/AKR20211214058900057?section=safe/news",
+		"date": "12-14 10:27"
+	},
+	"73069f304a06542f8f4c4ea7467b3b8691f876a6fdf3b8513206eb6ddc945dfd": {
+		"title": "NHN에듀 설문조사서 학부모 72% '청소년 방역패스' 반대",
+		"link": "www.yna.co.kr/view/AKR20211214054800017?section=safe/news",
+		"date": "12-14 10:18"
+	},
+	"e0a9d5fb99508d4ce79c8a43477e94845a0906a2a8f65ebcb387c0377f472192": {
+		"title": "군 코로나19 확진자 40명 추가…돌파감염 누적 1천16명",
+		"link": "www.yna.co.kr/view/AKR20211214053800504?section=safe/news",
+		"date": "12-14 10:11"
+	},
+	"9d4a8855044da6a1cd2532a6ad1dce98ba94d4cf8e5a100ec09c0ac619b5a91a": {
+		"title": "서울동부구치소 전수검사서 수용자 1명 확진…추가 PCR검사",
+		"link": "www.yna.co.kr/view/AKR20211214052300004?section=safe/news",
+		"date": "12-14 10:11"
+	},
+	"052711ba2bc43d901318309bdfa63e66415bbe6830e25a44ddd0b8658475434d": {
+		"title": "지난주 EPL에서 코로나19 확진자 42명 발생 '역대 최다'(종합)",
+		"link": "www.yna.co.kr/view/AKR20211214022751007?section=safe/news",
+		"date": "12-14 10:07"
+	},
+	"e1ad2b8b33ff915a9ea2e8416739530ab014a0e7cf6191650593c5c69bb3ebe4": {
+		"title": "위중증 906명·사망자 94명 모두 역대 최다…신규확진 5천567명(종합)",
+		"link": "www.yna.co.kr/view/AKR20211214036100530?section=safe/news",
+		"date": "12-14 10:00"
+	},
+	"2e96859945ebe06350750ae3655ad2061ad96a03c1f36b6890584eb313be151a": {
+		"title": "대전 주간보호센터 11명 연쇄 확진…노인시설 누적 10곳 466명",
+		"link": "www.yna.co.kr/view/AKR20211212019152063?section=safe/news",
+		"date": "12-14 10:00"
+	},
+	"6ca43ff0d981bf02c79e5f9aa798d3db0937ae29771d91b1a394d2997ad577da": {
+		"title": "경기 1천497명 확진, 월요일 기준 최다…14일 연속 네자릿수",
+		"link": "www.yna.co.kr/view/AKR20211214044500061?section=safe/news",
+		"date": "12-14 10:00"
+	},
+	"336b301952b184aa87bc8c281d0320364cc932854f44cf65fcda562545048e84": {
+		"title": "전국 중증병상 가동률 82%, 서울 90%…병상 대기자 총 1천481명",
+		"link": "www.yna.co.kr/view/AKR20211214049500530?section=safe/news",
+		"date": "12-14 09:59"
+	},
+	"7d9be6a548d3ee06395a224ed47b056ca0d8fed05612bda5a90ba3e5f4e6f80b": {
+		"title": "서울 2천62명 신규 확진…사망자 39명 역대 최다",
+		"link": "www.yna.co.kr/view/AKR20211214046500004?section=safe/news",
+		"date": "12-14 09:48"
+	},
+	"0f4cf385c55f4c3f123a033a70fbc9ac1896096efa3f120f563e48db0ffee903": {
+		"title": "태국 오미크론 확진자 8명으로 늘어…한국발 입국객도 포함",
+		"link": "www.yna.co.kr/view/AKR20211214044300076?section=safe/news",
+		"date": "12-14 09:39"
+	},
+	"cf69bcd3e317c12bf2f0c21f99cfecdcda04d6560ddfa391a398012a759a998c": {
+		"title": "국내 오미크론 확진자 국내감염 3명 등 5명 늘어…누적 119명",
+		"link": "www.yna.co.kr/view/AKR20211214026700530?section=safe/news",
+		"date": "12-14 09:36"
+	},
+	"b409efed83668a0291e85e6d30eaba8352300d86fab8f0f681e29c3374b75ee4": {
+		"title": "아산시 코로나19 선별검사소 추가 설치…\"늘어나는 검사 대응\"",
+		"link": "www.yna.co.kr/view/AKR20211214043000063?section=safe/news",
+		"date": "12-14 09:36"
+	},
 	"ed7a3fd8fcd7e5fda9158506051773fb010d7f254236a40424ad67f940eb3fc2": {
 		"title": "[2보] 코로나19 하루 사망자 100명 육박…위중증 900명 처음 넘어",
 		"link": "www.yna.co.kr/view/AKR20211214040700530?section=safe/news",
@@ -408,95 +498,5 @@
 		"title": "與 \"위중증 누적에 병상대기자 쌓였다\"…방역강화 대책 요구",
 		"link": "www.yna.co.kr/view/AKR20211213111200001?section=safe/news",
 		"date": "12-13 16:02"
-	},
-	"cfebcca2a09fa23c3c417bd48fbb0b1778dcf553c6b06292beb3c699c781c882": {
-		"title": "전북 오미크론 확산세 무섭다…24명 확진자까지 불과 사흘",
-		"link": "www.yna.co.kr/view/AKR20211213118400055?section=safe/news",
-		"date": "12-13 15:57"
-	},
-	"fed28b7dedd7870f783cdb16d37a8868902e490c9c4e69c6dd7ddb712ae1826b": {
-		"title": "방역패스 과태료 첫날 식당마다 긴 줄…\"불편해도 잘 따라야\"",
-		"link": "www.yna.co.kr/view/AKR20211213117500051?section=safe/news",
-		"date": "12-13 15:53"
-	},
-	"cb70fe4c438c0d5ca8fd3f6e5d0e41a604d029e53fae0109e28aa6b9db094d0d": {
-		"title": "[합천소식] '코로나19 여파' 제야 군민대종 타종행사 취소",
-		"link": "www.yna.co.kr/view/AKR20211213118200052?section=safe/news",
-		"date": "12-13 15:51"
-	},
-	"f5e88a872f77688b5a2192287bb4d23720e7f6121909668f541960ec85edcaeb": {
-		"title": "\"안심콜 혼용에 계도기간 착각까지\"…방역패스 첫날 '혼선'",
-		"link": "www.yna.co.kr/view/AKR20211213106500064?section=safe/news",
-		"date": "12-13 15:51"
-	},
-	"2a8d3102a8f5c3e7d777fa10f69291229c51c1f2407afb32ace7ba60a34b3179": {
-		"title": "[인천소식] 미추홀구, 방역 현장에 구청 인력 동원",
-		"link": "www.yna.co.kr/view/AKR20211213119100065?section=safe/news",
-		"date": "12-13 15:49"
-	},
-	"6c317c5d5af8d20121ad7f32f02f6160f6b2ca2a1af338d8bc5d0295478806b5": {
-		"title": "\"집권 10년 김정은, 코로나로 가중된 경제난에 중대 기로\"",
-		"link": "www.yna.co.kr/view/AKR20211213104900009?section=safe/news",
-		"date": "12-13 15:46"
-	},
-	"dcf8b5dcaec89e80506bfe54dc46ee4143effb8267bd4d6e89fde7d91fdb0cac": {
-		"title": "경기도 기업, 코로나19에도 작년 경영 선방…매출·자산↑",
-		"link": "www.yna.co.kr/view/AKR20211213114700061?section=safe/news",
-		"date": "12-13 15:43"
-	},
-	"d62bb96b3ec7bcbf2d86da3dc36895897ae958d8c7a915a2cf523b42c5236d33": {
-		"title": "오미크론 급속 확산 전북, 방역 초비상…완주 체육시설 등 폐쇄",
-		"link": "www.yna.co.kr/view/AKR20211213114800055?section=safe/news",
-		"date": "12-13 15:41"
-	},
-	"fe5e9e812e1aafedd649b11f36d42834a16bfcace928ea3b9ac054c2d4b90607": {
-		"title": "질병청 \"방역패스 과부하로 쿠브앱 장애…KT DS 클라우드 문제\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20211213084551530?section=safe/news",
-		"date": "12-13 15:20"
-	},
-	"365d47c301a2d02dd928d99a7e71273230005439a06d15994e4f28da35fac334": {
-		"title": "전북서 오미크론 확진자 19명 추가…전북거주 누적 24명(종합)",
-		"link": "www.yna.co.kr/view/AKR20211213099452055?section=safe/news",
-		"date": "12-13 15:20"
-	},
-	"8e701b539f21630572d54cf9a8454b1ee78bccc791d438e56897418354c67a1d": {
-		"title": "국내 오미크론 확진·의심자 4명중 1명은 진단시 '무증상'",
-		"link": "www.yna.co.kr/view/AKR20211213111900530?section=safe/news",
-		"date": "12-13 15:11"
-	},
-	"20c653b94984e0021ab840009a56ce010e633ceb62534ccc4d3f7c487f11a692": {
-		"title": "뉴질랜드, 30일 자정부터 북섬 일부 빼고 '코로나 규제' 완화",
-		"link": "www.yna.co.kr/view/AKR20211213107500009?section=safe/news",
-		"date": "12-13 15:05"
-	},
-	"d4c7360f4f0a1ac527b91788e7e8eac9c960a9edee7b671d72cc66034f92683a": {
-		"title": "부산 휴일에도 241명 확진…13일도 195명 추가 확진(종합)",
-		"link": "www.yna.co.kr/view/AKR20211213067751051?section=safe/news",
-		"date": "12-13 15:05"
-	},
-	"96ea9e6d2fe8010e5b73c861bda75807ef5e8811e50ebc0eb126dcc299904bd2": {
-		"title": "국내 오미크론 확진자 24명 늘어…전북 유학생 관련이 20명(종합)",
-		"link": "www.yna.co.kr/view/AKR20211213041351530?section=safe/news",
-		"date": "12-13 14:59"
-	},
-	"16a8e1fb8bee3cc9bcdf86d918e62ead756a0119dc9928bab5805be89a337a07": {
-		"title": "'잠복기도 없다'…오미크론 접촉-감염-전파 하루도 안 걸려(종합)",
-		"link": "www.yna.co.kr/view/AKR20211213106600054?section=safe/news",
-		"date": "12-13 14:55"
-	},
-	"fa8bd73ed8659aecb5c794d3bb951f0cd0a9f031331416cc1ba6f4f9c68d6fad": {
-		"title": "코로나 확산에 거창군, 감악산 해맞이 축제 2년 연속 취소",
-		"link": "www.yna.co.kr/view/AKR20211213104500052?section=safe/news",
-		"date": "12-13 14:47"
-	},
-	"d621ec06fb3e08cb2fb8ea981cb2fc1df7bcec87dc176518d612abe116fc3871": {
-		"title": "황희찬, 삼육대에 코로나19 극복 장학금 1천만원 기부",
-		"link": "www.yna.co.kr/view/AKR20211213106300007?section=safe/news",
-		"date": "12-13 14:45"
-	},
-	"ac3caf1fcc63cb15916a7916d4a1f43d230e8d58dea24621afc78af7d781a3ca": {
-		"title": "중국, 코로나 자발적 핵산검사자 양성땐 370만원 장려금",
-		"link": "www.yna.co.kr/view/AKR20211213083200097?section=safe/news",
-		"date": "12-13 14:38"
 	}
 }
