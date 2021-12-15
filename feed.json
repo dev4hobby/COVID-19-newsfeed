@@ -1,4 +1,74 @@
 {
+	"d901c593729445223912e28c76f9eb40fe41f084e6dd9563a2f8a63d9406d01c": {
+		"title": "[2보] 신규확진 7천850명·위중증 964명 모두 역대 최다…사망 70명",
+		"link": "www.yna.co.kr/view/AKR20211215032100530?section=safe/news",
+		"date": "12-15 09:35"
+	},
+	"881b79ff2f3363317dd45de45fb820e15dc87458cabae29f190abe5a5245651f": {
+		"title": "[속보] 국내 오미크론 확진자 국내감염 4명 등 9명 늘어…누적 128명",
+		"link": "www.yna.co.kr/view/AKR20211215042500530?section=safe/news",
+		"date": "12-15 09:31"
+	},
+	"f6850c0ca144e2aca23b8bac10093eb2993588000fe1a1baf0dfb6de00e355b3": {
+		"title": "[1보] 신규확진 7천850명·위중증 964명 모두 역대 최다…사망 70명",
+		"link": "www.yna.co.kr/view/AKR20211215026300530?section=safe/news",
+		"date": "12-15 09:30"
+	},
+	"f7e6f9b6e5b0c7a27167c1df393ed06145141241ab9f7683e8af5f7c1fc35b5e": {
+		"title": "코로나19 이후 인플레까지…브라질 정부 지지율 10%대",
+		"link": "www.yna.co.kr/view/AKR20211215036100094?section=safe/news",
+		"date": "12-15 09:29"
+	},
+	"ee1834a3fddce5bcf5eb4835dc19b4e54d8d84dea24b6a90f878c3c9aa991c99": {
+		"title": "[함양소식] 코로나19로 제야의 종 타종·해맞이 행사 취소",
+		"link": "www.yna.co.kr/view/AKR20211215036500052?section=safe/news",
+		"date": "12-15 09:26"
+	},
+	"0d05e08389527c72a134ab127822b9779c1e3af356bd546715d7f016e1bb042d": {
+		"title": "고양시 '안심 방역패스' 개발…전화 한 통화로 식당 출입",
+		"link": "www.yna.co.kr/view/AKR20211215039900060?section=safe/news",
+		"date": "12-15 09:26"
+	},
+	"4b5e2d4cf9a7e119ba6012b3543699452b4f8404256226021da069480f03512a": {
+		"title": "충북 어제 105명 확진 '역대 최다'…누적 1만명도 넘어",
+		"link": "www.yna.co.kr/view/AKR20211215038300064?section=safe/news",
+		"date": "12-15 09:23"
+	},
+	"3f8d7f7b3354c17d6e002a2a8cab79c03321fc5ebf7879b23fe532324dee414a": {
+		"title": "인천 옹진군청 공무원 3명 확진…사무실 폐쇄",
+		"link": "www.yna.co.kr/view/AKR20211215038400065?section=safe/news",
+		"date": "12-15 09:14"
+	},
+	"49348f087cd6ce223a2b7f3f531867e3c5fdce9a5ea7e1425f911bc4e385b974": {
+		"title": "오미크론 확산에 전 세계 호텔 예약 취소 늘어",
+		"link": "www.yna.co.kr/view/AKR20211215023800009?section=safe/news",
+		"date": "12-15 09:11"
+	},
+	"a3c7d24d4c2dce76e3a53de2ec06033a21cf5b278fd4a9350e1f81c2dd0e58b7": {
+		"title": "파우치 \"오미크론, 전파 속도 볼 때 미국서도 지배종 될 것\"",
+		"link": "www.yna.co.kr/view/AKR20211215030900091?section=safe/news",
+		"date": "12-15 09:08"
+	},
+	"2f8c1842d0e9682f0ad25959cba21224f1e05142ebfca8d0acae37522c47d34c": {
+		"title": "광주·전남서 119명 신규 확진…산발적 확산 지속",
+		"link": "www.yna.co.kr/view/AKR20211215031900054?section=safe/news",
+		"date": "12-15 08:57"
+	},
+	"0b85135bc753209c07d8b966220e8a5e446a8e8ea3ec9149def5e2faff557ab4": {
+		"title": "핸드볼 코리아리그, 코로나19로 3주차 일정도 취소",
+		"link": "www.yna.co.kr/view/AKR20211215032200007?section=safe/news",
+		"date": "12-15 08:55"
+	},
+	"a499803b2d297b790776a6cf8955e11ee74891c3b80b1d64710fe72701fc6653": {
+		"title": "가파른 확산세에 놀란 전북…보름만에 월별 최다 확진수 넘어",
+		"link": "www.yna.co.kr/view/AKR20211215027500055?section=safe/news",
+		"date": "12-15 08:53"
+	},
+	"ef45bc218f5cd69c9f8ec1baff7d84488dd2a4a95481d2cdc96bdc8983836274": {
+		"title": "경북 193명, 또 최다…학교·목욕탕 집단감염 등 확산세 지속",
+		"link": "www.yna.co.kr/view/AKR20211215025200053?section=safe/news",
+		"date": "12-15 08:36"
+	},
 	"7df73ce82faf0c94b2e25f0f23c7230e0a7a66a83e9433fa78bf3fbd9c613901": {
 		"title": "인천시, 코로나 확산에 숨통…생치센터 2곳 운영 연장",
 		"link": "www.yna.co.kr/view/AKR20211214096000065?section=safe/news",
@@ -428,75 +498,5 @@
 		"title": "[영상] 오미크론이 가볍다고?…영국선 사망자 나왔다",
 		"link": "www.yna.co.kr/view/AKR20211214076700534?section=safe/news",
 		"date": "12-14 11:42"
-	},
-	"d01e36783e8a46fee6f3ef911d0d6efa4296480c8851ed9fafaa1e5104541615": {
-		"title": "[속보] \"오늘도 접속문제로 생긴 방역패스 미확인에는 벌칙 부과 안해\"",
-		"link": "www.yna.co.kr/view/AKR20211214080700530?section=safe/news",
-		"date": "12-14 11:40"
-	},
-	"6056d9817ba0a141b0711e5ffe1127bec83959a41c012b31bfde792ac0273a7d": {
-		"title": "서울시 직원 추가 확진에 시의회 예산안 심사 '빨간불'(종합)",
-		"link": "www.yna.co.kr/view/AKR20211214039051004?section=safe/news",
-		"date": "12-14 11:38"
-	},
-	"2cba54828dc0987832bca5300771d35e89219ff83d98949d5bbe5898598cc070": {
-		"title": "코로나19 확산에 대전 '해맞이 행사' 잇따라 취소",
-		"link": "www.yna.co.kr/view/AKR20211214079500063?section=safe/news",
-		"date": "12-14 11:34"
-	},
-	"304e9e32d7e6eae266687909e0ec491f39a984314ae5fc872ec8ef91aa1465ca": {
-		"title": "인천 347명 신규 감염…확진자 6명 입원 중 사망",
-		"link": "www.yna.co.kr/view/AKR20211214075300065?section=safe/news",
-		"date": "12-14 11:30"
-	},
-	"49c4a06b2e7fa5b6a9c9134a30c27bdb2e7fbccd2bde3db98ac5793303c125f9": {
-		"title": "제주 최근 발생 확진자 37％ 이상 19세 이하…\"점차 증가 추세\"",
-		"link": "www.yna.co.kr/view/AKR20211214076900056?section=safe/news",
-		"date": "12-14 11:26"
-	},
-	"c8e81a53275f9a0865060d15005f587d622633ba61f43adc7d31203289799c77": {
-		"title": "'오미크론 영향?'…함평 성인 확진자 모두 돌파감염",
-		"link": "www.yna.co.kr/view/AKR20211214075500054?section=safe/news",
-		"date": "12-14 11:22"
-	},
-	"cdaf96a119479649d42185719c17a898fe98b6ddbbc2cf146f0e3f2a7dc75f93": {
-		"title": "서울 학교방문 접종은 다음주부터…1주간 학생 2천124명 확진(종합)",
-		"link": "www.yna.co.kr/view/AKR20211214038151530?section=safe/news",
-		"date": "12-14 11:21"
-	},
-	"0c2f023e03321870df531ba7b9676aae1e4b5d4b638aa559b12b6cde7c0fec01": {
-		"title": "[속보] \"QR코드 미리 발급시 점심시간 방역패스 원활한 이용 가능\"",
-		"link": "www.yna.co.kr/view/AKR20211214075200530?section=safe/news",
-		"date": "12-14 11:17"
-	},
-	"a7ad8d8b41ab835a144cb8ca022d9e33c969613c1fd5858cbca92bc61b1021a3": {
-		"title": "캐나다 보건국 \"오미크론 급속 확산…연내 지역별 우세종 예상\"",
-		"link": "www.yna.co.kr/view/AKR20211214071200009?section=safe/news",
-		"date": "12-14 11:16"
-	},
-	"70dfe8fbdf47c37a29420c7ca1cbe0e34f282f2783f3f9e6207266d45a7f6f10": {
-		"title": "영국서 \"오미크론 사망자 정보 숨기지 말아야\" 비판",
-		"link": "www.yna.co.kr/view/AKR20211214060100009?section=safe/news",
-		"date": "12-14 11:12"
-	},
-	"de7c2342b28691e9e234b0485136877dd3b484912cf68bc89f5298d85f17f27f": {
-		"title": "질병청 \"쿠브 서버 긴급증설…방역패스 발급 오늘은 원활할 것\"",
-		"link": "www.yna.co.kr/view/AKR20211214072700530?section=safe/news",
-		"date": "12-14 11:11"
-	},
-	"c46364527ecc35f3a1701be1ca74105e5536c039b317d99c1cc4dc11ffc23e4d": {
-		"title": "서울 2천62명 신규 확진…사망자 39명 역대 최다(종합)",
-		"link": "www.yna.co.kr/view/AKR20211214046551004?section=safe/news",
-		"date": "12-14 11:10"
-	},
-	"fbc1d87365fa5756df882e114909c61d2c5459960f479147c6a21acb57af4c68": {
-		"title": "중국, 오미크론 첫 확진·저장성 집단감염 등 방역 '비상'",
-		"link": "www.yna.co.kr/view/AKR20211214064100097?section=safe/news",
-		"date": "12-14 11:07"
-	},
-	"d4a5436a03544ce136843fec90ad0e90d6763d4396d35e6660ffb519cae2904e": {
-		"title": "부산 학교·학원 집단감염 속출…206명 신규 확진",
-		"link": "www.yna.co.kr/view/AKR20211214071000051?section=safe/news",
-		"date": "12-14 11:05"
 	}
 }
