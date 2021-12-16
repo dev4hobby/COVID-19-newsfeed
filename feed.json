@@ -1,4 +1,94 @@
 {
+	"5b93e3916f8e49a85affcfb4afe3b9c8eee7dfa19944c52c43641464c3d84b91": {
+		"title": "방역패스 유효기간 6개월 적용 2주 연기…내년 1월 3일부터",
+		"link": "www.yna.co.kr/view/AKR20211216084400530?section=safe/news",
+		"date": "12-16 11:29"
+	},
+	"be661902ba235c2a042d3ebc2ccc4bf8443f5403d0301db2fb1c61ece39ba3f1": {
+		"title": "애플, 오미크론 우려에 사무실 복귀 무기한 연기…매장 3곳 폐쇄",
+		"link": "www.yna.co.kr/view/AKR20211216083000075?section=safe/news",
+		"date": "12-16 11:27"
+	},
+	"0aa066506b321eaecd86d0712248d371aa972ba5b46802fb4cf5814c5b59099d": {
+		"title": "함평 오미크론 변이 감염 13명 추가…전남 누적 16명",
+		"link": "www.yna.co.kr/view/AKR20211216086700054?section=safe/news",
+		"date": "12-16 11:25"
+	},
+	"23168976f40c0b2341db13a70d9923924751887712905120a8c436ec09de39de": {
+		"title": "'오미크론 여파' 유키 구라모토 크리스마스 콘서트도 취소",
+		"link": "www.yna.co.kr/view/AKR20211216084200005?section=safe/news",
+		"date": "12-16 11:22"
+	},
+	"ef94c25dbd67c44b3b4b032dfc0275cfff02952d2fcb9452b75059fca41309ca": {
+		"title": "인천 하루 최다 511명 확진…\"시민 100명당 1명 이상\"",
+		"link": "www.yna.co.kr/view/AKR20211216086200065?section=safe/news",
+		"date": "12-16 11:22"
+	},
+	"34a0da4d5a95227763b6a4ca60ed13db9dc89e98258e217d22d1f03b88feafbe": {
+		"title": "광주 일선 중학교들, 방문 접종 시작…24일까지",
+		"link": "www.yna.co.kr/view/AKR20211216084800054?section=safe/news",
+		"date": "12-16 11:19"
+	},
+	"5a98960bbead8dff8c2d576e47d1db9b597ba30ffdf8573a9c054548ab60818c": {
+		"title": "부산 하루 최다 346명 확진…누적 인원도 2만명 넘어",
+		"link": "www.yna.co.kr/view/AKR20211216085100051?section=safe/news",
+		"date": "12-16 11:19"
+	},
+	"dfd20b7fdad86d6a477a1fcfd7ba9dc3d88f5894070c304311dd362b8eacbc36": {
+		"title": "[속보] \"3차접종은 접종 후 14일 아닌 당일부터 방역패스 효력 발생\"",
+		"link": "www.yna.co.kr/view/AKR20211216085500530?section=safe/news",
+		"date": "12-16 11:17"
+	},
+	"5b88e2010bbfa4f9a21de9f1ac1d609dde3467a859f383f72536729c05de62e7": {
+		"title": "정은경 \"유행악화시 확진자 이달 1만명, 중환자 최대 1천900명\"",
+		"link": "www.yna.co.kr/view/AKR20211216083800530?section=safe/news",
+		"date": "12-16 11:14"
+	},
+	"9c024eae70538b6e4edc3740aba1bf4c40911416be65048fba5ba8babcf59f98": {
+		"title": "꼬리 무는 충북 학생 감염…일주일 연속 두자릿수 확진",
+		"link": "www.yna.co.kr/view/AKR20211216078100064?section=safe/news",
+		"date": "12-16 11:09"
+	},
+	"ec6dd154389069a77ace1759da742a82e4eba69af8f49f9a59513aab2d6d48d0": {
+		"title": "헬스장 다시 밤 9시까지…미접종자 포함 행사는 49명까지만",
+		"link": "www.yna.co.kr/view/AKR20211216080500530?section=safe/news",
+		"date": "12-16 11:08"
+	},
+	"f0db05f3051e518e5c0754f79000965e8c03a7a72155fc471724bc60eff92a83": {
+		"title": "[속보] 정은경 \"이달 중 확진자 1만명, 1월 최대 2만명 가능성\"",
+		"link": "www.yna.co.kr/view/AKR20211216082300530?section=safe/news",
+		"date": "12-16 11:06"
+	},
+	"09990f5fd1012c6f7dd4105ef0ab396057737a8134421a44c993b88be4daf0e4": {
+		"title": "중국 시노백 \"시노백 부스터샷, 오미크론에 94% 효과\"",
+		"link": "www.yna.co.kr/view/AKR20211216074800083?section=safe/news",
+		"date": "12-16 11:06"
+	},
+	"bfa8ca4f08ea4d1115234fa84d8956801c10feb067d63fd162e0d3a4cf6c1e31": {
+		"title": "대구 158명 확진…학교·목욕탕·병원서 잇따라 감염",
+		"link": "www.yna.co.kr/view/AKR20211216079500053?section=safe/news",
+		"date": "12-16 11:01"
+	},
+	"2efa7ba8f2263972d2008095590e2dc8cd4be3481e9d68448a6e5c2842eb4867": {
+		"title": "[속보] \"12∼15일 코로나19 위험도 '매우 높음'…비상대책 시행 필요\"",
+		"link": "www.yna.co.kr/view/AKR20211216080400530?section=safe/news",
+		"date": "12-16 11:01"
+	},
+	"3edfb3a45726b973c703f43d1d1056374a9f4644e5427f58f57428c59d9e8d8b": {
+		"title": "[속보] 행사 원칙적으로 299명까지만 개최…50명 넘어가면 방역패스",
+		"link": "www.yna.co.kr/view/AKR20211216077300530?section=safe/news",
+		"date": "12-16 11:00"
+	},
+	"20914b86e9f4401205f33a6738b396a1529b5ebb945fd59abcefbde08e598234": {
+		"title": "[속보] 방역패스 유효기간 6개월 적용시점 내년 1월3일로 2주 연기",
+		"link": "www.yna.co.kr/view/AKR20211216079900530?section=safe/news",
+		"date": "12-16 11:00"
+	},
+	"a8a69d1d03b0eb0e2f3e533d86be1bffc97654493226d58c06fea55b2c845cd9": {
+		"title": "\"아·태, 코로나로 기아 5천만명↑…북, 영양부족 40% 넘어\"",
+		"link": "www.yna.co.kr/view/AKR20211216053300076?section=safe/news",
+		"date": "12-16 10:58"
+	},
 	"3c990a1f6ae1d078ce28fd65e02d8123ddcf094137c1a38fcc37a9f249099f99": {
 		"title": "울산 밤사이 28명 확진…산발적 연쇄감염 지속",
 		"link": "www.yna.co.kr/view/AKR20211216077100057?section=safe/news",
@@ -408,95 +498,5 @@
 		"title": "호주 시드니, 마스크 벗은 날 코로나19 신규확진 급증",
 		"link": "www.yna.co.kr/view/AKR20211215126600093?section=safe/news",
 		"date": "12-15 16:05"
-	},
-	"02c67a8266580268408eca4abce3c39c9f57b7273c589a9b982eed18b7eaaca4": {
-		"title": "전남지역 60세 이상 고령층 3차 접종률 52%",
-		"link": "www.yna.co.kr/view/AKR20211215128600054?section=safe/news",
-		"date": "12-15 16:03"
-	},
-	"fc05e962264579c8245feb57e36af7618585bbf10d0300258ff2b0c000fe0c53": {
-		"title": "미국, 코로나 중증을 법적 장애로 인정…\"직장 해고사유 안돼\"",
-		"link": "www.yna.co.kr/view/AKR20211215123400009?section=safe/news",
-		"date": "12-15 16:02"
-	},
-	"48e127a8cd30f43e825c60ef2dd5e110f7d78a187600ee807fc63fbc6aaf4ab4": {
-		"title": "어제 하루만 78만7천명 3차접종 '최다'…사전예약도 161만명",
-		"link": "www.yna.co.kr/view/AKR20211215125600530?section=safe/news",
-		"date": "12-15 16:02"
-	},
-	"44ebc23cf39755e9c2c0ff7b8e530950e8b16ebbc5264956db7079e6e73a4283": {
-		"title": "'아세안 순방' 美국무 동행기자 코로나 확진…블링컨은 '음성'",
-		"link": "www.yna.co.kr/view/AKR20211215101500009?section=safe/news",
-		"date": "12-15 14:23"
-	},
-	"b90a12264608317547643da8e120774152cd95b15152c719918b53cdbd3bd5cb": {
-		"title": "전공의협의회 \"코로나19 대응 한계…일반 환자 진료도 어렵다\"",
-		"link": "www.yna.co.kr/view/AKR20211215125400017?section=safe/news",
-		"date": "12-15 15:48"
-	},
-	"f8cbe9186b4b35563f3d845ac76544aed74cfd58b9f0bc7abd57a08db1902c14": {
-		"title": "경주 확진자 17명→45명→63명 급증…학생 확산세",
-		"link": "www.yna.co.kr/view/AKR20211215126000053?section=safe/news",
-		"date": "12-15 15:48"
-	},
-	"a86177fb715d7686aab9da7ef28e315ab21da23e1476244e223d70017222e86d": {
-		"title": "\"코로나19에도 치안은 멈출 수 없다\" 광주북부서, 특별방역 점검",
-		"link": "www.yna.co.kr/view/AKR20211215124700054?section=safe/news",
-		"date": "12-15 15:43"
-	},
-	"0b815239da34a1c38948a7c7ed74370d61344449133502b8ea50098f080add27": {
-		"title": "부산 일일 최다 343명 확진…15일에도 323명 추가 확진(종합)",
-		"link": "www.yna.co.kr/view/AKR20211215071151051?section=safe/news",
-		"date": "12-15 15:38"
-	},
-	"15f7e4e1810e5e2e1599fd1a7f696d9ed8d13913ad1124525d802f5611018d6e": {
-		"title": "일평균 확진자 30명 양산시, 우선 멈춤 호소",
-		"link": "www.yna.co.kr/view/AKR20211215116700052?section=safe/news",
-		"date": "12-15 15:36"
-	},
-	"eacecbb03bf372f1bb58439f33aaff0625be562eeadf3a817bd53f4acc0e0634": {
-		"title": "천안 한 대형병원서 코로나19 확진 잇따라…누적 35명",
-		"link": "www.yna.co.kr/view/AKR20211215120500063?section=safe/news",
-		"date": "12-15 15:29"
-	},
-	"107e26e440179523efe42395d3dfcb7d6bb7167adc5ab1427fc0407d4a3baebb": {
-		"title": "국내 오미크론 확진 총 128명…미추홀구 교회 관련 4명 등 9명↑(종합)",
-		"link": "www.yna.co.kr/view/AKR20211215046051530?section=safe/news",
-		"date": "12-15 15:05"
-	},
-	"4fe80ce6d3a88a9dc9a1ddffafdcb0d2d0054647bbf68497e11fda643335a227": {
-		"title": "음성군 육가공업체서 66명 무더기 확진…30명은 외국인(종합)",
-		"link": "www.yna.co.kr/view/AKR20211215077051064?section=safe/news",
-		"date": "12-15 14:58"
-	},
-	"825bce48946bc396bfde82d6df7c3f0d12b7b4643b71844ea2e95ddcc94c0b5a": {
-		"title": "충북 누적 확진자 1만명 넘어…12일 만에 1천명 증가",
-		"link": "www.yna.co.kr/view/AKR20211215105700064?section=safe/news",
-		"date": "12-15 14:51"
-	},
-	"98adec4cf8b7024988855607f38d0c3acf58a98db945df76c63c132ea915af4b": {
-		"title": "광주 4개 초·중·고교서 확진자 발생…2천800여명 검사",
-		"link": "www.yna.co.kr/view/AKR20211215107600054?section=safe/news",
-		"date": "12-15 14:49"
-	},
-	"5d191cd970f43b573765b582c224f65127efbdb596735a082a9deb63a4ac9ec7": {
-		"title": "구미시, 새해맞이 행사 취소…코로나 방역에 집중키로",
-		"link": "www.yna.co.kr/view/AKR20211215109900053?section=safe/news",
-		"date": "12-15 14:39"
-	},
-	"3629a851b39e8af173e3ce3daafc43da21a7dd8bde5d60d352ceceb7ddabe0ce": {
-		"title": "청주의 병원서 호스피스병동 환자 등 12명 확진…1명 사망",
-		"link": "www.yna.co.kr/view/AKR20211215092300064?section=safe/news",
-		"date": "12-15 14:33"
-	},
-	"b00fa92cfe224f16866fcdba7013bb6541443097a0069796f0a897ac844344ef": {
-		"title": "전담병상 부족에 분만실 찾아 10시간 헤맨 '확진' 산모",
-		"link": "www.yna.co.kr/view/AKR20211215095100061?section=safe/news",
-		"date": "12-15 14:29"
-	},
-	"1747f82bdb6a1258329e312c1127ae2dd639c2446ffece7826be1dfe33566ecf": {
-		"title": "'아세안 순방' 美국무 풀기자 코로나 확진…블링컨은 '음성'",
-		"link": "www.yna.co.kr/view/AKR20211215101500009?section=safe/news",
-		"date": "12-15 14:23"
 	}
 }
