@@ -1,4 +1,9 @@
 {
+	"0da83237717d59d7ce474fc621cf06a444d9b1056ca26d9d8951e21fb96bc4a8": {
+		"title": "보잉, 직원 코로나 백신 의무화 중단",
+		"link": "www.yna.co.kr/view/AKR20211218014000009?section=safe/news",
+		"date": "12-18 07:36"
+	},
 	"d5cf3555adeafe9efe49e5acd011e76b6296419b1185af75e1b2e8d6973dfc30": {
 		"title": "[유럽증시] 오미크론·긴축 우려에 대부분 하락",
 		"link": "www.yna.co.kr/view/AKR20211218013200088?section=safe/news",
@@ -493,10 +498,5 @@
 		"title": "[Q&A] 영업제한 방역지원금 연내지급…매출감소 일반피해 업종 1월부터",
 		"link": "www.yna.co.kr/view/AKR20211217065600003?section=safe/news",
 		"date": "12-17 11:00"
-	},
-	"46e3a62c2931987c81c7a7d8cc9a9c7d061ab3ddd8d2ae816251b703cf5aa0bf": {
-		"title": "제주 단체관광 다녀온 대구 2개 모임서 집단감염",
-		"link": "www.yna.co.kr/view/AKR20211217065900053?section=safe/news",
-		"date": "12-17 10:55"
 	}
 }
