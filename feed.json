@@ -1,4 +1,24 @@
 {
+	"5b07ca19c7bc64fc65c7ee29ffff17b072cd579a3efef25163fd7acc2eb4dba6": {
+		"title": "서울 2천320명 신규 확진…어제보다 474명 줄어(종합)",
+		"link": "www.yna.co.kr/view/AKR20211219014251004?section=safe/news",
+		"date": "12-19 11:27"
+	},
+	"d689ff5e1f3dd260aec73821c18e953fba1a78851b11bbf6adff4eef166afb92": {
+		"title": "오미크론 확산에…미국 CNN도 '비필수 인력' 재택근무",
+		"link": "www.yna.co.kr/view/AKR20211219022700009?section=safe/news",
+		"date": "12-19 11:25"
+	},
+	"09336a3f844b86d4eda317b50d84c5e7d10169e441bc52ca5ef5de32b003c6e7": {
+		"title": "부산 363명 신규 확진…닷새째 300명 이상 발생",
+		"link": "www.yna.co.kr/view/AKR20211219024200051?section=safe/news",
+		"date": "12-19 11:17"
+	},
+	"090273c0170f97e84438b3857ba2fd376ca44ab5d0c2a41286c2a527eba43b43": {
+		"title": "인천서 493명 확진…해외 입국자 2명 오미크론 감염",
+		"link": "www.yna.co.kr/view/AKR20211219022100065?section=safe/news",
+		"date": "12-19 11:01"
+	},
 	"993ad60aae5377834729dbe619a93a2a1fb5ef1e006c476dc70aa2400c966fd3": {
 		"title": "코로나19 신규 확진자 대구 153명·경북 137명",
 		"link": "www.yna.co.kr/view/AKR20211219021700053?section=safe/news",
@@ -478,25 +498,5 @@
 		"title": "경북 139명 확진…병원·유치원·목욕탕 등 감염 발생",
 		"link": "www.yna.co.kr/view/AKR20211218019000053?section=safe/news",
 		"date": "12-18 08:38"
-	},
-	"7d663edd5659d63f1fc32c2e8f6521138fa4f3b3e356866ebc1da79485da34e6": {
-		"title": "뉴욕주 신규확진 2만명 돌파해 최다 기록…\"팬데믹 안끝났다\"",
-		"link": "www.yna.co.kr/view/AKR20211218015600072?section=safe/news",
-		"date": "12-18 08:00"
-	},
-	"c1c11b8e39b8a693f96f5e2b66c5ff878e2a750105d58a383a2ce076e0d0d8c9": {
-		"title": "코로나 재확산 美…병원은 또 위기모드·기업들 사무실근무 연기",
-		"link": "www.yna.co.kr/view/AKR20211218014700091?section=safe/news",
-		"date": "12-18 07:54"
-	},
-	"88d25c1d587f0d480aa1f1309defc0a21b1ec3e4149a406c63a0c43f23b9aa56": {
-		"title": "프랑스 부스터샷 접종 간격 단축…백신패스 도입",
-		"link": "www.yna.co.kr/view/AKR20211218015100009?section=safe/news",
-		"date": "12-18 07:53"
-	},
-	"0da83237717d59d7ce474fc621cf06a444d9b1056ca26d9d8951e21fb96bc4a8": {
-		"title": "보잉, 직원 코로나 백신 의무화 중단",
-		"link": "www.yna.co.kr/view/AKR20211218014000009?section=safe/news",
-		"date": "12-18 07:36"
 	}
 }
