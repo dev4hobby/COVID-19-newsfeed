@@ -1,4 +1,54 @@
 {
+	"993ad60aae5377834729dbe619a93a2a1fb5ef1e006c476dc70aa2400c966fd3": {
+		"title": "코로나19 신규 확진자 대구 153명·경북 137명",
+		"link": "www.yna.co.kr/view/AKR20211219021700053?section=safe/news",
+		"date": "12-19 10:48"
+	},
+	"722abfd420404354fe1cd94252c4ea4bd0389f5b557ca073345314fe78364df6": {
+		"title": "울산서 15명 코로나19 신규 확진…누적 6천363명",
+		"link": "www.yna.co.kr/view/AKR20211219019900057?section=safe/news",
+		"date": "12-19 10:33"
+	},
+	"41e326800ad60e2ffcba9cbd10b434ec7d44d52ffd08ccef6c19acc216a7d0e0": {
+		"title": "코로나19 위중증 환자 연일 최다…남은 중환자 병상 279개",
+		"link": "www.yna.co.kr/view/AKR20211219008000530?section=safe/news",
+		"date": "12-19 10:22"
+	},
+	"349519dae6967d83e5bc2d3eabb50a2e71b84772932f61365fe6f6c2276bee3c": {
+		"title": "NBA 브루클린 듀랜트·어빙 등 10명, 코로나19 관련 격리 조치",
+		"link": "www.yna.co.kr/view/AKR20211219018000007?section=safe/news",
+		"date": "12-19 10:13"
+	},
+	"624cbe47c745afb9d0d63c238d0cbc5cd411e59d2839ac6bb77c8cafe539fce3": {
+		"title": "대전 장애인복지관서 14명 연쇄 확진…어린이집서도 8명",
+		"link": "www.yna.co.kr/view/AKR20211219017100063?section=safe/news",
+		"date": "12-19 10:06"
+	},
+	"ee6f54c87dcd31037cafe44aa1461c53a1e4f8241dae56ff37f974e77fbc30b5": {
+		"title": "서울 2천320명 신규 확진…어제보다 474명 줄어",
+		"link": "www.yna.co.kr/view/AKR20211219014200004?section=safe/news",
+		"date": "12-19 10:05"
+	},
+	"9e7428e0ff4ec20239772f13daa7fb48b7ccc8c5472aa767bb35cfea54163d5d": {
+		"title": "위중증 1천25명, 또 최다 경신…신규확진 6천236명(종합)",
+		"link": "www.yna.co.kr/view/AKR20211219007351530?section=safe/news",
+		"date": "12-19 10:02"
+	},
+	"3a934b0f635cdad468ed048f777dcc0f8e80948d4e98fbba675a866daca960fe": {
+		"title": "경기 1천753명 신규 확진…19일 연속 네자릿수",
+		"link": "www.yna.co.kr/view/AKR20211219014100061?section=safe/news",
+		"date": "12-19 10:00"
+	},
+	"303338ee1bf58e5c46f1a92bb2212be15c3f23c6f6965c81dd9274fd13261c6a": {
+		"title": "백화점 직원·유치장 입감자 등 광주전남 72명 추가 확진",
+		"link": "www.yna.co.kr/view/AKR20211219014300054?section=safe/news",
+		"date": "12-19 09:50"
+	},
+	"48157ab83a9a17825bdda065b26e0c805b3dcb60e4e2bf3cda089dfaebba1a84": {
+		"title": "오미크론 확진자 해외유입 12명 늘어…누적 178명",
+		"link": "www.yna.co.kr/view/AKR20211219007900530?section=safe/news",
+		"date": "12-19 09:42"
+	},
 	"a45635fd8936749b6b03988189808a5250a434ee322c3496caea7bb0c88c0f19": {
 		"title": "[2보] 위중증 1천25명, 또 최다 경신…신규확진 6천236명",
 		"link": "www.yna.co.kr/view/AKR20211219007300530?section=safe/news",
@@ -448,55 +498,5 @@
 		"title": "보잉, 직원 코로나 백신 의무화 중단",
 		"link": "www.yna.co.kr/view/AKR20211218014000009?section=safe/news",
 		"date": "12-18 07:36"
-	},
-	"d5cf3555adeafe9efe49e5acd011e76b6296419b1185af75e1b2e8d6973dfc30": {
-		"title": "[유럽증시] 오미크론·긴축 우려에 대부분 하락",
-		"link": "www.yna.co.kr/view/AKR20211218013200088?section=safe/news",
-		"date": "12-18 07:14"
-	},
-	"86c3287c728f3246e92dea53c580a3fb9b7aac07ddd7f19bc15f02301c964129": {
-		"title": "코로나19 방역 강화로 부산불꽃축제 취소…새해맞이만 조촐하게",
-		"link": "www.yna.co.kr/view/AKR20211217129500051?section=safe/news",
-		"date": "12-18 07:00"
-	},
-	"7ee9d5c6816521242e1fac00f7fa01bb515626cab9ae400628fc78648e13f0be": {
-		"title": "뉴욕증시, 긴축·오미크론 우려로 하락…다우 1.48%↓마감",
-		"link": "www.yna.co.kr/view/AKR20211218011351009?section=safe/news",
-		"date": "12-18 06:47"
-	},
-	"34207ec2fd4d858bb0776e36bb12004694b25097b909ebd56c4a465bbf29b666": {
-		"title": "화이자 \"5세 미만 어린이 임상시험서 충분한 면역반응 안 나와\"",
-		"link": "www.yna.co.kr/view/AKR20211218008200091?section=safe/news",
-		"date": "12-18 05:53"
-	},
-	"ee9d21ac2f1f1cef6fa4846168b99459e5c61bf5a9d6d14179bef6e64c62d12c": {
-		"title": "[뉴욕유가] 주요국 긴축·오미크론 확산 우려에 하락",
-		"link": "www.yna.co.kr/view/AKR20211218007700009?section=safe/news",
-		"date": "12-18 05:31"
-	},
-	"21e9e6c3a3254fe23278c6a7762acdb9fc5a7ebdf330a9ff2587a10549a66f10": {
-		"title": "결국 멈춘 위드 코로나…불안한 경기, 더 속 타는 자영업자",
-		"link": "www.yna.co.kr/view/AKR20211217128600501?section=safe/news",
-		"date": "12-18 05:30"
-	},
-	"70e8354f9fa2240dd2982a0d109bce9362416fc5a313a9269d89419187dc87c6": {
-		"title": "화이자 \"코로나19 사태, 2024년까지 연장될 수도\"",
-		"link": "www.yna.co.kr/view/AKR20211218006900091?section=safe/news",
-		"date": "12-18 05:13"
-	},
-	"ef45dd17a2cfd5cb851cd65555999454723f331c0cb7e74dfe2a049749c79b46": {
-		"title": "[르포] 오미크론에 뉴욕 검사소마다 긴 줄…\"작년으로 돌아간듯\"",
-		"link": "www.yna.co.kr/view/AKR20211218004400072?section=safe/news",
-		"date": "12-18 04:33"
-	},
-	"8b297f40a753e1263d47f97b38c9c664c4914eed493e8d82a44654945b9afef2": {
-		"title": "오미크론 우려에도 미 연말 연휴 시즌 1억명 이상 여행 예상",
-		"link": "www.yna.co.kr/view/AKR20211218004900075?section=safe/news",
-		"date": "12-18 03:45"
-	},
-	"770926ff0712289c7338b6fd625828eadabe785bfb1ba8837b932456bf0aeb55": {
-		"title": "남아공 17일 확진 2만713명…전날보다 4천명 감소",
-		"link": "www.yna.co.kr/view/AKR20211218004800099?section=safe/news",
-		"date": "12-18 03:37"
 	}
 }
