@@ -1,4 +1,84 @@
 {
+	"06973aa57f2877ec19f316ef6469c8c92ce8ab2c9a9045c59de3c5bdd1816a45": {
+		"title": "중국 시안 코로나·출혈열 확산 비상…등교 중단·주민 전수검사",
+		"link": "www.yna.co.kr/view/AKR20211221075000097?section=safe/news",
+		"date": "12-21 11:39"
+	},
+	"4c39d119e17faafa753254f85cad0c85d0c3c7e53908dff7b9a7911256f29173": {
+		"title": "美서 오미크론 3주만에 지배종…워싱턴DC '비상사태' 선포(종합2보)",
+		"link": "www.yna.co.kr/view/AKR20211221022551009?section=safe/news",
+		"date": "12-21 11:35"
+	},
+	"6154d09252775b26d4686664a658b5eb2c168d15c497ebca432c6c82e0f76edc": {
+		"title": "'집단감염' 홍성교도소 수용자 7명 추가 확진…총 64명",
+		"link": "www.yna.co.kr/view/AKR20211221073900004?section=safe/news",
+		"date": "12-21 11:33"
+	},
+	"aeb33695fb95bafb49b341d903e4f273a1f9845a19d8ff0740fad350d43cc076": {
+		"title": "방역지침 보이콧에 집단시위까지…자영업자들 반발 확산",
+		"link": "www.yna.co.kr/view/AKR20211221071600004?section=safe/news",
+		"date": "12-21 11:31"
+	},
+	"c978051d404f450013b46c4ca8369db5e839786d4348fd69f47ac12cf1bb3c83": {
+		"title": "정부, 코로나19 확진 임산부 전담병상 마련…\"응급 분만 대처\"",
+		"link": "www.yna.co.kr/view/AKR20211221072200530?section=safe/news",
+		"date": "12-21 11:31"
+	},
+	"c6662f01a1ec8e33bc338e3fa26edae28e1a5cc7bfbd28bcf74fc18172907de1": {
+		"title": "경찰서·도축장·유치원 등 전남 곳곳 코로나19 확산",
+		"link": "www.yna.co.kr/view/AKR20211221074200054?section=safe/news",
+		"date": "12-21 11:26"
+	},
+	"49c70c69e547ef854747be667c8952c434a26add50fff87f80b2a06e3a283038": {
+		"title": "'집단감염' 인천 선교시설 신도들, 가족 단위로 공동생활",
+		"link": "www.yna.co.kr/view/AKR20211221064500065?section=safe/news",
+		"date": "12-21 11:21"
+	},
+	"0e72d83dc768ea70e362b9b269cbc50b55c6fe5d8e8fd47ffac0c1ca762eef34": {
+		"title": "[속보] \"유행속도 둔화는 3차접종·방역패스 확대로 나타난 변화\"",
+		"link": "www.yna.co.kr/view/AKR20211221073300530?section=safe/news",
+		"date": "12-21 11:19"
+	},
+	"c0ac0fb9767f34e91f3512f2419fbc4c1e928f4969535c8b1f9b96102853c9c6": {
+		"title": "부산 234명 신규 확진…집단감염 3곳 추가 발생",
+		"link": "www.yna.co.kr/view/AKR20211221069400051?section=safe/news",
+		"date": "12-21 11:17"
+	},
+	"e3c0686c34c1c708aaf63f64a4cb7999a98b2190fc90bf2d0841d3506b46c704": {
+		"title": "'집단감염' 인천 선교시설 확진자 중 접종 완료자는 2명",
+		"link": "www.yna.co.kr/view/AKR20211221066800065?section=safe/news",
+		"date": "12-21 11:17"
+	},
+	"1cefc6f27a79ac9ad26400a8aa59e9752ef3551a4ea5611a2e8a73f3f40ff682": {
+		"title": "[속보] 정부 \"확진자 증가세 둔화 시작, 감소 전환인지는 더 지켜봐야\"",
+		"link": "www.yna.co.kr/view/AKR20211221072700530?section=safe/news",
+		"date": "12-21 11:16"
+	},
+	"1d6ef27d4b3d284bae4f0862c80cf043d0d7c5d052b6ddd4b22b05f1bee4dea7": {
+		"title": "동작구 어린이집·관악구 학원 집단감염…총 59명 확진",
+		"link": "www.yna.co.kr/view/AKR20211221070600004?section=safe/news",
+		"date": "12-21 11:14"
+	},
+	"a28ceeae7da7352f32feb6e6b03ff8fc5df6eb03049b8342095f4ace47369012": {
+		"title": "美 2개주 제외 전역에 오미크론…\"향후 3~5주 최악 환자 급증\"(종합)",
+		"link": "www.yna.co.kr/view/AKR20211221054900075?section=safe/news",
+		"date": "12-21 11:10"
+	},
+	"05222b902c4f79232ec7ea7e379bdbe32a2e069b85b28484cbc637aea0397db4": {
+		"title": "[영상] 미국 신규확진 10명중 7명이 오미크론…3주일만에 지배종",
+		"link": "www.yna.co.kr/view/AKR20211221064800534?section=safe/news",
+		"date": "12-21 11:01"
+	},
+	"681322615d1b05d32fc13aad9caed57c8d1261b88c9b96d0467c060be96f4635": {
+		"title": "[속보] 정부 \"코로나19 확진 임산부의 응급분만 병상 별도 지정해 관리\"",
+		"link": "www.yna.co.kr/view/AKR20211221065800530?section=safe/news",
+		"date": "12-21 11:00"
+	},
+	"ab17b9f59fb046a97c5f93d4d384fedecbae351d7914c7c6d44c7454d574b60a": {
+		"title": "중국, 오미크론 확산에 춘제 귀향길 비상…방역 규정 강화",
+		"link": "www.yna.co.kr/view/AKR20211221066700083?section=safe/news",
+		"date": "12-21 10:59"
+	},
 	"6275c28dd2292d123f9580427b485863c1a4e5b801bb418c74031eb6a1456633": {
 		"title": "윤석열, 코로나 비대위 첫 주재…\"문대통령 오판이 부른 참사\"",
 		"link": "www.yna.co.kr/view/AKR20211221057800001?section=safe/news",
@@ -418,85 +498,5 @@
 		"title": "지구촌 오미크론 살얼음판…봉쇄·통제 속 혹독한 겨울나기 돌입(종합)",
 		"link": "www.yna.co.kr/view/AKR20211220044951009?section=safe/news",
 		"date": "12-20 16:26"
-	},
-	"c78ae734c7217ac1ee17dc4966dc0a52d6bfa4da980f08fffd21e45f696f3ada": {
-		"title": "코로나19 위험도 4주째 '매우높음'…\"4차유행의 연장선\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20211220106051530?section=safe/news",
-		"date": "12-20 16:12"
-	},
-	"39aacc4702913ef4318d6a3028de724269cfae72fc517d8f52cf38d523d102c4": {
-		"title": "이시종 충북지사 \"방역패스 관련 현장 목소리 청취 필요\"",
-		"link": "www.yna.co.kr/view/AKR20211220124900064?section=safe/news",
-		"date": "12-20 16:10"
-	},
-	"dbf502aa57f8013c7f4b4802d945522351295793518fb3f6c52460dc882163a3": {
-		"title": "당국 \"국내서도 한두달 내 오미크론이 우세종 될 가능성\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20211220106951530?section=safe/news",
-		"date": "12-20 16:09"
-	},
-	"6de4310f54eed0fd5932dbea11e3ad6bd25ab21344bdce20f25b4a29edfaf5b3": {
-		"title": "문대통령 \"방역강화 굵고 짧게…일상회복·부동산안정 전력\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20211220119651001?section=safe/news",
-		"date": "12-20 16:08"
-	},
-	"bddf8014a9763cac28ca6d84e711c669f6ea32f5d843daa5a6e67fb52ec9e5b7": {
-		"title": "내년 1월 3일부터 방역패스 유효기간 6개월…일주일간 계도기간",
-		"link": "www.yna.co.kr/view/AKR20211220110000530?section=safe/news",
-		"date": "12-20 15:46"
-	},
-	"33d84e18ea90a67e2602ab380f15403e1947b4d832fe26a975db64fa6b23481c": {
-		"title": "문대통령 \"방역강화 굵고 짧게…일상회복·부동산안정 전력\"",
-		"link": "www.yna.co.kr/view/AKR20211220119600001?section=safe/news",
-		"date": "12-20 15:34"
-	},
-	"f84e9e72cc4d2ee5fdb035127858ee79eb6a0e508fd6dcd54e293fb7ca30ed13": {
-		"title": "부산 일요일에도 365명 확진…20일 227명 추가 확진(종합)",
-		"link": "www.yna.co.kr/view/AKR20211220072551051?section=safe/news",
-		"date": "12-20 15:02"
-	},
-	"71c7756e29ddc97a6465ca0868533e183be1f881d1b6fd96abb9b328c5255a10": {
-		"title": "문대통령 \"병상확충 특단 조치…국립대병원 역량 중증환자 집중\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20211220102852001?section=safe/news",
-		"date": "12-20 14:53"
-	},
-	"10219cd418f9dae4fe9db8ae0970f66f667213db0ff0c338300b9d6f75835034": {
-		"title": "코로나19 위험도 4주째 '매우높음'…\"비수도권도 한계 임박\"",
-		"link": "www.yna.co.kr/view/AKR20211220106000530?section=safe/news",
-		"date": "12-20 14:52"
-	},
-	"32ca491ea4f282b5e2cf181e84ccbe2dfd8ddc2e7b6b6e4e54ae33d7b55ec2a2": {
-		"title": "의료계 '코로나 중환자 전담병상 최대 20일 제한'에 반대",
-		"link": "www.yna.co.kr/view/AKR20211220105100017?section=safe/news",
-		"date": "12-20 14:28"
-	},
-	"912e59af796f885b8643c791e17144318775e92d47b72f3373ec0e8e640c3827": {
-		"title": "당국 \"국내서도 한두달 내 오미크론이 우세종 될 가능성 있어\"",
-		"link": "www.yna.co.kr/view/AKR20211220106900530?section=safe/news",
-		"date": "12-20 14:39"
-	},
-	"95abf3560ab68ea35cfc3a5850f7531e14402defeb6da9e28482c6ecefbd10f9": {
-		"title": "'코로나 중환자 20일 격리해제'에 대한중환자의학회 반대",
-		"link": "www.yna.co.kr/view/AKR20211220105100017?section=safe/news",
-		"date": "12-20 14:28"
-	},
-	"a31db2203af553be995356d8552ab02fece08d09a0a50a8aebe8b1afdd179d05": {
-		"title": "광주서 학교·카페 등 코로나 산발 감염…35번째 사망자 발생",
-		"link": "www.yna.co.kr/view/AKR20211220103400054?section=safe/news",
-		"date": "12-20 14:24"
-	},
-	"8ff1b7d2c54c47657c59dc980ee0afa2d5f9f4fc8eee729556f131e3d2460d5a": {
-		"title": "[속보] 당국 \"국내에서도 한두달 내로 오미크론이 우세종 될 가능성\"",
-		"link": "www.yna.co.kr/view/AKR20211220103700530?section=safe/news",
-		"date": "12-20 14:23"
-	},
-	"eee762a6b19780c63337de4629c8f4bc672bb0751426b53aac47865103046565": {
-		"title": "[속보] \"국내 오미크론 감염자 20%는 무증상, 유증상은 전원 경증\"",
-		"link": "www.yna.co.kr/view/AKR20211220103600530?section=safe/news",
-		"date": "12-20 14:21"
-	},
-	"98231a0141b580840fde1c5e978f6b555358dbdb3589913363a7a218f455391c": {
-		"title": "[속보] \"오미크론 확진자의 가족 감염률 45%, 델타보다 2배 이상 높아\"",
-		"link": "www.yna.co.kr/view/AKR20211220103100530?section=safe/news",
-		"date": "12-20 14:19"
 	}
 }
