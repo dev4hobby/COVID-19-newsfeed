@@ -1,4 +1,69 @@
 {
+	"1b776d513688ca6890db4a54c5cc428d4c7d085537947f71c7f5f67648975cd1": {
+		"title": "중증병상 가동률 이틀째 80%대…전국에 258개만 남아",
+		"link": "www.yna.co.kr/view/AKR20211221024700530?section=safe/news",
+		"date": "12-21 09:39"
+	},
+	"cfb5d4d22f1aa16d429b3d6f13a87e08a41dfa2a6eef2bc5c0d42b4f46770c2f": {
+		"title": "바이든, 코로나19 확진자 접촉…음성 판정",
+		"link": "www.yna.co.kr/view/AKR20211221041500009?section=safe/news",
+		"date": "12-21 09:37"
+	},
+	"5759a6f39ff6dce01ff8d35c74bcb2d934fa992d3578ce0e268d4cba24d79f83": {
+		"title": "\"초등생 코로나 확진자 급증…'백신접종' 중·고생은 감염률↓\"",
+		"link": "www.yna.co.kr/view/AKR20211221037500530?section=safe/news",
+		"date": "12-21 09:33"
+	},
+	"49ad9a98b53bb2bffc147d9bdecfd62e36e5c4a3d7c7fe4565b79191f75bd62a": {
+		"title": "[속보] 코로나19로 어제 52명 사망, 누적 4천828명",
+		"link": "www.yna.co.kr/view/AKR20211221027600530?section=safe/news",
+		"date": "12-21 09:32"
+	},
+	"2a06c799ce7b1bc94111699ebedee5bca073f224a0fcc73a39c0f825aff19788": {
+		"title": "[1보] 위중증 1천22명, 하루만에 다시 1천명대…신규확진 5천202명",
+		"link": "www.yna.co.kr/view/AKR20211221026700530?section=safe/news",
+		"date": "12-21 09:31"
+	},
+	"9096e16f7a8d26efa37862c2a9fc43de1de01989a34d7ce71cfeec287136a281": {
+		"title": "충북 어제 89명 확진, 54명은 '돌파감염'…병상 가동률 86.2%",
+		"link": "www.yna.co.kr/view/AKR20211221034800064?section=safe/news",
+		"date": "12-21 09:27"
+	},
+	"543b9fc76fbe356066ca6d8f22fc3804bb29dcbb423e1393db4254fd86229bd3": {
+		"title": "어린이 백신접종 승인 브라질 보건당국 협박 시달려…경찰 조사",
+		"link": "www.yna.co.kr/view/AKR20211221036900094?section=safe/news",
+		"date": "12-21 09:25"
+	},
+	"cde03e33d207dec89fb0218217890af45d711e8b6dcbbd7b3b43f57a6967fa9d": {
+		"title": "\"국내 오미크론 감염자 하루만에 49명 늘어…확산 속도 빨라져\"",
+		"link": "www.yna.co.kr/view/AKR20211221034300530?section=safe/news",
+		"date": "12-21 09:10"
+	},
+	"be477d250e0d142cb09682678b86362547cb7bd2e3c90cbee27c9a3c619dc8f4": {
+		"title": "[속보] \"국내 오미크론 누적 감염자 227명으로 늘어…확산 속도 빨라져\"",
+		"link": "www.yna.co.kr/view/AKR20211221033200530?section=safe/news",
+		"date": "12-21 09:02"
+	},
+	"1ac12682428614b20efd56d7489ae9d0e59e01c5268b46ebf8536871d1e3856b": {
+		"title": "전면등교 중단 후 서울 등교율 69%…1주간 학생 2천109명 확진",
+		"link": "www.yna.co.kr/view/AKR20211221027700530?section=safe/news",
+		"date": "12-21 09:00"
+	},
+	"6f3a76ef6c71d9b901c76d0a9b288a42f98a316f87019a91d86e89c24f9434d5": {
+		"title": "지구촌 새해맞이 행사 실종…오미크론 탓 올해도 썰렁",
+		"link": "www.yna.co.kr/view/AKR20211221027400009?section=safe/news",
+		"date": "12-21 08:51"
+	},
+	"7a874d2891ed1c8bf7c560a40cc72c2e8298ee969da337eed34a8fc23838c58b": {
+		"title": "광주·전남 117명 신규 확진…학교·직장 등 곳곳서 집단감염",
+		"link": "www.yna.co.kr/view/AKR20211221027300054?section=safe/news",
+		"date": "12-21 08:43"
+	},
+	"00aa1807c3e8895790fc31ba8e7d027522cbf6409d637b6d6979d2cf69a02a9d": {
+		"title": "CDC \"美서 오미크론이 지배종\"…3주만에 신규확진의 73%(종합)",
+		"link": "www.yna.co.kr/view/AKR20211221022500009?section=safe/news",
+		"date": "12-21 08:23"
+	},
 	"d865630bd33f6751687f1a80765ae491d1090b4e5a5d18e1c4ce43ad827d744b": {
 		"title": "경북 107명 확진…전담병원 병상 가동률 69.8%",
 		"link": "www.yna.co.kr/view/AKR20211221025600053?section=safe/news",
@@ -433,70 +498,5 @@
 		"title": "곡성군, 고령자 백신접종 위해 마을별 전세버스 운영",
 		"link": "www.yna.co.kr/view/AKR20211220079200054?section=safe/news",
 		"date": "12-20 11:51"
-	},
-	"1decee95059ae57b82595c031bc27aa9b37022901a59ffc0280501cd29e8da00": {
-		"title": "인천서 375명 확진…선교시설·군부대서 집단감염(종합)",
-		"link": "www.yna.co.kr/view/AKR20211220064251065?section=safe/news",
-		"date": "12-20 11:51"
-	},
-	"7e8bcf6602a4aea8d7f4708b433d969c9be971a4a14eb22b385b78b475033129": {
-		"title": "\"거리두기 강화 찬성 71.3%, 정부 대응 긍정 49.6%\"",
-		"link": "www.yna.co.kr/view/AKR20211220070000004?section=safe/news",
-		"date": "12-20 11:49"
-	},
-	"19f5472e3c7d804cfb1d333be2cfd568368868c1effab4e345c3dc68bd3d5bd4": {
-		"title": "中 관영매체, 연일 '위드 코로나' 조롱하며 '제로 코로나' 극찬",
-		"link": "www.yna.co.kr/view/AKR20211220078200083?section=safe/news",
-		"date": "12-20 11:44"
-	},
-	"c333d4e0b43edc6a8b301390bd35fcf6b9098036281ef5f9f55bec731b1a242d": {
-		"title": "성남시, 코로나 피해사업장 등에 '5차 연대안전기금' 92억 지원",
-		"link": "www.yna.co.kr/view/AKR20211220079000061?section=safe/news",
-		"date": "12-20 11:42"
-	},
-	"65fa91cca7729c32b4e270662e335153421bba60867d36a4e7e843d0c4488d6d": {
-		"title": "방역패스 도용에 '차별 매장' 명단까지…사장도 손님도 골머리",
-		"link": "www.yna.co.kr/view/AKR20211220071700004?section=safe/news",
-		"date": "12-20 11:24"
-	},
-	"9eb335b4d596b6fc59f4fe2d0a4824e953247222466c7957593f0031cf1a4be5": {
-		"title": "서울 1천908명 신규 확진…전날보다 412명 줄어(종합)",
-		"link": "www.yna.co.kr/view/AKR20211220044451004?section=safe/news",
-		"date": "12-20 11:22"
-	},
-	"0003d80b93a08ce5f5813e014b5f782378f49570f6b77da5b041a27a4eb7ee8d": {
-		"title": "코로나19 대유행 재발에 지구촌 연말연시 축제 '올스톱'",
-		"link": "www.yna.co.kr/view/AKR20211220075000009?section=safe/news",
-		"date": "12-20 11:20"
-	},
-	"8d331e939ac65c19bb1378cfeceba02de74a7f812150681d74a5ef9fd41e4e44": {
-		"title": "항체치료제 너마저…오미크론에 효과 낮고 공급도 부족",
-		"link": "www.yna.co.kr/view/AKR20211220068800009?section=safe/news",
-		"date": "12-20 11:17"
-	},
-	"ae3cac48b5a46befe8a5ab3bc45fd39728e837b6dac3af090bbcbf8eeebd8cad": {
-		"title": "일본, '오류투성이' 스마트폰 백신 접종증명서 발급 시작",
-		"link": "www.yna.co.kr/view/AKR20211220072800073?section=safe/news",
-		"date": "12-20 11:12"
-	},
-	"fd2a108248b7c44873321cce7a4d08c83d972a7045d91fa7de3ad49d3d474f53": {
-		"title": "부산 일요일에도 365명 확진…집단감염 속출",
-		"link": "www.yna.co.kr/view/AKR20211220072500051?section=safe/news",
-		"date": "12-20 11:09"
-	},
-	"98fe7c61843df3183750def02ee845f793f6ede9f62f9a76d999063aa15d7485": {
-		"title": "NYT \"모더나·화이자 아니면 오미크론 감염 못 막는다\"",
-		"link": "www.yna.co.kr/view/AKR20211220067600009?section=safe/news",
-		"date": "12-20 11:06"
-	},
-	"52903523235ba652b0dde93ff39a8c7c0790893e31778afca0afa26b1704aa22": {
-		"title": "확진자 지속 발생 김해시, '한번 더 잠시 멈춤' 호소",
-		"link": "www.yna.co.kr/view/AKR20211220063800052?section=safe/news",
-		"date": "12-20 11:05"
-	},
-	"0a87e0309ba207a1321c866ce18f7830048b5beb8ac7e3578b04809ff68c9222": {
-		"title": "'식당 손님 줄고'…미국 실물경제, 오미크론 타격 본격화",
-		"link": "www.yna.co.kr/view/AKR20211220058400009?section=safe/news",
-		"date": "12-20 10:44"
 	}
 }
