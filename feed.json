@@ -1,4 +1,84 @@
 {
+	"6275c28dd2292d123f9580427b485863c1a4e5b801bb418c74031eb6a1456633": {
+		"title": "윤석열, 코로나 비대위 첫 주재…\"문대통령 오판이 부른 참사\"",
+		"link": "www.yna.co.kr/view/AKR20211221057800001?section=safe/news",
+		"date": "12-21 10:45"
+	},
+	"456bb2dda0cac5f76f52ee5ecef075a951a9b9cddf2eb5355797ff2fa8f8c419": {
+		"title": "\"유럽, '단백질 백신' 노바백스 승인으로 접종률 향상 기대\"",
+		"link": "www.yna.co.kr/view/AKR20211221062700009?section=safe/news",
+		"date": "12-21 10:44"
+	},
+	"5b76c65b703646491ef4c05f1fcae27a1f021b215c8d86e7bd778a9b93ad2d51": {
+		"title": "오미크론 출현 한달…\"남아공은 신규확진 감소 시작\"",
+		"link": "www.yna.co.kr/view/AKR20211221055500009?section=safe/news",
+		"date": "12-21 10:39"
+	},
+	"88b545a626ad18dc94ee94e6efb45dacf107620c2fa505c785ef9dde07e00cf8": {
+		"title": "대구, 안경 제조업체 등 곳곳에서 코로나 확산…138명 확진",
+		"link": "www.yna.co.kr/view/AKR20211221058200053?section=safe/news",
+		"date": "12-21 10:28"
+	},
+	"c0d590e62ae6522ade1b2de44c7f764eb41602182999fc32392b47e3453081bc": {
+		"title": "바이든, 기내서 확진자 근처 30분 머물러…음성 판정(종합)",
+		"link": "www.yna.co.kr/view/AKR20211221041551009?section=safe/news",
+		"date": "12-21 10:28"
+	},
+	"1ae5edb5704981321a5a5811d5cf4ce027b9434a48666a869bc049530b2972f4": {
+		"title": "\"2008년생 여자청소년, 연내 사람유두종바이러스 백신 맞으세요\"",
+		"link": "www.yna.co.kr/view/AKR20211221054500530?section=safe/news",
+		"date": "12-21 10:26"
+	},
+	"fb557fbef94b74d381d13c8b5ba2613ca426caac3cff9adfce2dc6c28e0b9145": {
+		"title": "경기 1천313명 확진…중증병상 가동률 86.4%",
+		"link": "www.yna.co.kr/view/AKR20211221051300061?section=safe/news",
+		"date": "12-21 10:18"
+	},
+	"b86a2646f31c9f14055c368fa1ff11dfa68a94d71d52dc0f73de3b21586aede1": {
+		"title": "울산서 밤사이 27명 확진…집단별 연쇄 감염 지속",
+		"link": "www.yna.co.kr/view/AKR20211221054200057?section=safe/news",
+		"date": "12-21 10:16"
+	},
+	"c3da388ced08fb972d2876df1ef34c39424fd37d024efad68337aa7baac0e1c0": {
+		"title": "국내 오미크론 감염자 하루새 49명 급증…국내서도 우세종 되나(종합)",
+		"link": "www.yna.co.kr/view/AKR20211221034351530?section=safe/news",
+		"date": "12-21 10:16"
+	},
+	"9c8fc5150a9e35793dd51568c0366190024cc82600f3d9d7de9f150b6d214e89": {
+		"title": "전면등교 중단 후 서울 등교율 69%…1주간 학생 2천109명 확진(종합)",
+		"link": "www.yna.co.kr/view/AKR20211221027751530?section=safe/news",
+		"date": "12-21 10:08"
+	},
+	"af52e88f2f9db09d9b4d33fbbff5a135465acb3798d585b43fbc9f7c3e62af0e": {
+		"title": "대전서 교육시설 관련 코로나19 확진 추가 발생…2곳서 총 28명",
+		"link": "www.yna.co.kr/view/AKR20211220054251063?section=safe/news",
+		"date": "12-21 10:00"
+	},
+	"ac6a03a7447b35a3cc574be8116e71789165efb758891bcfe29d471b324c80b1": {
+		"title": "국내 개발 코로나 백신 첫 효능평가…\"백신 개발 마지막 단계\"",
+		"link": "www.yna.co.kr/view/AKR20211221046800530?section=safe/news",
+		"date": "12-21 09:57"
+	},
+	"396eb4ba9f8fbe847891d4c390111248f03ff5b43cbf57887e93ab71e71b7b10": {
+		"title": "위중증 1천22명, 하루만에 다시 1천명대…신규확진 5천202명(종합)",
+		"link": "www.yna.co.kr/view/AKR20211221034400530?section=safe/news",
+		"date": "12-21 09:53"
+	},
+	"3c4c9167c1047bda8c174d47bd5184418848cc3654bc47ea5ed809039b4b3982": {
+		"title": "진천군 \"군민 1인당 10만원 방역지원금 지급\"",
+		"link": "www.yna.co.kr/view/AKR20211221044100064?section=safe/news",
+		"date": "12-21 09:50"
+	},
+	"6fe92a775e835012c64a489a325551ddb9ec283c529a4d7c50c02f269b0fd399": {
+		"title": "WHO \"백신접종자·감염 후 완치자도 오미크론 감염\" 확인",
+		"link": "www.yna.co.kr/view/AKR20211221038800009?section=safe/news",
+		"date": "12-21 09:48"
+	},
+	"05bdac7aeec24c26546f2600ddc28f8e629814064ea1aed27b4a76822c6657cb": {
+		"title": "\"미국서도 첫 오미크론 사망…50대 백신 미접종자\"",
+		"link": "www.yna.co.kr/view/AKR20211221043200009?section=safe/news",
+		"date": "12-21 09:48"
+	},
 	"1b776d513688ca6890db4a54c5cc428d4c7d085537947f71c7f5f67648975cd1": {
 		"title": "중증병상 가동률 이틀째 80%대…전국에 258개만 남아",
 		"link": "www.yna.co.kr/view/AKR20211221024700530?section=safe/news",
@@ -418,85 +498,5 @@
 		"title": "[속보] \"오미크론 확진자의 가족 감염률 45%, 델타보다 2배 이상 높아\"",
 		"link": "www.yna.co.kr/view/AKR20211220103100530?section=safe/news",
 		"date": "12-20 14:19"
-	},
-	"94cd423837fe2c36b9d89721bfc34409dc859c9c72ed8bcea1a8acb519b5f894": {
-		"title": "[1보] 문대통령 \"병상확충 특단 조치…국립대병원 역량 중증환자 집중\"",
-		"link": "www.yna.co.kr/view/AKR20211220102800001?section=safe/news",
-		"date": "12-20 14:18"
-	},
-	"7cf8d9202db8cf78d16afc0dbe376a4206d4e595c4c5a28379f89cf64ee80a07": {
-		"title": "[속보] \"확진자 증가에도 입원환자 소폭 감소…60세 이상 3차접종 효과\"",
-		"link": "www.yna.co.kr/view/AKR20211220101900530?section=safe/news",
-		"date": "12-20 14:14"
-	},
-	"c01cc8e56cb76869c08d80fb827f610093e15e189d40456ed73923ec4933cab8": {
-		"title": "[속보] 추가접종 뒤 오미크론 감염 1명 추가…총 5명으로 늘어",
-		"link": "www.yna.co.kr/view/AKR20211220101700530?section=safe/news",
-		"date": "12-20 14:13"
-	},
-	"e3d36e6e274cc78a1f5086459c009eee1cc6d8ce3ed853d04bb7656544ca4f38": {
-		"title": "[속보] 코로나19 위험도 4주째 '매우높음'…비수도권 의료도 한계 임박",
-		"link": "www.yna.co.kr/view/AKR20211220101200530?section=safe/news",
-		"date": "12-20 14:11"
-	},
-	"bad9bdbdf12c2f41ca76a018797c68c1997ab573c6c0c42b0155f78b0a42a9c7": {
-		"title": "[게시판] 과기정통부, 감염병 연구협력 생태계 강화 업무협약",
-		"link": "www.yna.co.kr/view/AKR20211220058900017?section=safe/news",
-		"date": "12-20 14:00"
-	},
-	"d84f688cde0797d4b3173e7687be24dccb03f687c9a5023b44b1de1e41d3a28d": {
-		"title": "[영상] \"백신 의무화 안돼\" 비판하던 美주의원 코로나19 사망",
-		"link": "www.yna.co.kr/view/AKR20211220091000534?section=safe/news",
-		"date": "12-20 13:46"
-	},
-	"e22b8f929507c0c38a82fa6795310ee593ddaeccf94c70685e837e31722b2bb8": {
-		"title": "'86명 감염' 인천 선교시설…\"집단생활에 마스크 안 썼다\"",
-		"link": "www.yna.co.kr/view/AKR20211220091200065?section=safe/news",
-		"date": "12-20 13:43"
-	},
-	"97e04f612c8c97ca43af1c7dd73f78d66c6c1019f7daf6b50789c8625d5a8343": {
-		"title": "전북 목욕탕·유치원서 집단감염 확산…이틀 새 144명 확진",
-		"link": "www.yna.co.kr/view/AKR20211220091900055?section=safe/news",
-		"date": "12-20 13:42"
-	},
-	"906c43d555cc5b94e6a5953bb9015390dfc328508b276bec23a7582ab6ace9df": {
-		"title": "경남 12개 시·군에서 60명 산발 확진…3차 접종률 22.6%",
-		"link": "www.yna.co.kr/view/AKR20211220091500052?section=safe/news",
-		"date": "12-20 13:32"
-	},
-	"165ac2f365bf68b1a20de6e6c98023bf85b6900e418d09d82439b6e568d528de": {
-		"title": "당국 \"중증병상 가동률 80%선…버겁지만 진료엔 문제없어\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20211220042851530?section=safe/news",
-		"date": "12-20 12:56"
-	},
-	"d9f104148affbb6a65c13caed4cad0532681c6211958af340f535456b3c6b6a0": {
-		"title": "서울대병원 비상체제 전환…코로나 병상 추가·비응급수술 연기(종합)",
-		"link": "www.yna.co.kr/view/AKR20211220038251017?section=safe/news",
-		"date": "12-20 12:44"
-	},
-	"c2f5b064c52564de811eaa001c8d09b6dd15fed92571bb8f95f4624a842efd52": {
-		"title": "베트남, 코로나 확산세 지속…수도 하노이 '핫스팟' 되나",
-		"link": "www.yna.co.kr/view/AKR20211220084800084?section=safe/news",
-		"date": "12-20 12:36"
-	},
-	"8bf8171a9c181722c6746d3d3415832107407323bf3ab420339c0c059b6cf4c1": {
-		"title": "복지부, 국산 코로나19 치료제 개발 지원사업 수행기관 5곳 선정",
-		"link": "www.yna.co.kr/view/AKR20211220030600530?section=safe/news",
-		"date": "12-20 12:00"
-	},
-	"08681df73188b51f4fb11b827fbe95c5088a34e6547a2c046364f42ac007d224": {
-		"title": "서울 65세 이상 확진자 비율 감소…\"3차 접종 효과\"",
-		"link": "www.yna.co.kr/view/AKR20211220080900004?section=safe/news",
-		"date": "12-20 11:56"
-	},
-	"8122337694cee3ca5065318d9307ac2a74add2eb044c70a91da0da12858b382c": {
-		"title": "국립대병원 노조 \"땜질식 코로나 대응 중단하고 인력 증원해야\"",
-		"link": "www.yna.co.kr/view/AKR20211220080200004?section=safe/news",
-		"date": "12-20 11:54"
-	},
-	"ca4c2bc55211eff46fcd66ae60222411df577d4f64a9a7fd41392ccce323f0dd": {
-		"title": "곡성군, 고령자 백신접종 위해 마을별 전세버스 운영",
-		"link": "www.yna.co.kr/view/AKR20211220079200054?section=safe/news",
-		"date": "12-20 11:51"
 	}
 }
