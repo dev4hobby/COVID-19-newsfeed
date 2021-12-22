@@ -1,4 +1,69 @@
 {
+	"c658dc317c004d4aa4e63ff967df26513f4bf96498e16bc4234358d16d5700e9": {
+		"title": "\"백신 맞아도 안심 금물\" 충북 이달 1천88명 돌파감염",
+		"link": "www.yna.co.kr/view/AKR20211222071200064?section=safe/news",
+		"date": "12-22 11:38"
+	},
+	"0c9cfa359993ccaeaa564e5c4fe04f9eaf3e42b631239d2b9d91afa82a98b0bb": {
+		"title": "미국 직장인 번아웃…코로나 이중고로 올들어 던진 사표 최다치",
+		"link": "www.yna.co.kr/view/AKR20211222056200009?section=safe/news",
+		"date": "12-22 11:38"
+	},
+	"a5c94e722b51d58db671c895f54c6d0d9e0c0849dfc44cad316032d3b6866ba3": {
+		"title": "\"백신 미접종자 커피 무료\" 캠페인 나선 카페 논란",
+		"link": "www.yna.co.kr/view/AKR20211222075600065?section=safe/news",
+		"date": "12-22 11:27"
+	},
+	"d9a0517484c94c74c9cdd655b9eaa596705b2fad64450ae700cd05ad10d95001": {
+		"title": "대구서 40대 남성 첫 오미크론 확진…아내·자녀도 양성(종합)",
+		"link": "www.yna.co.kr/view/AKR20211222069651053?section=safe/news",
+		"date": "12-22 11:24"
+	},
+	"bba701bfa8d0d531a215879033588bcd665f7290ea530172787593e4947a9ba9": {
+		"title": "부산, 일일 최다인 432명 확진…중환자병상 가동률 82.5%",
+		"link": "www.yna.co.kr/view/AKR20211222071700051?section=safe/news",
+		"date": "12-22 11:21"
+	},
+	"f2e03b8649e14a4a996fb340c88a9f5f0cbfec80d97c1c2f741fac5e78944a97": {
+		"title": "서울 2천805명 신규 확진…전날보다 811명 급증(종합)",
+		"link": "www.yna.co.kr/view/AKR20211222045651004?section=safe/news",
+		"date": "12-22 11:19"
+	},
+	"df23774ce0e3686d28bfe5b33ec9bd3c0b0bcdc6b1028ed6218db869510f2ac7": {
+		"title": "오미크론 등장, 크리스마스 퇴장…사라진 유럽 연말 특수",
+		"link": "www.yna.co.kr/view/AKR20211222069100009?section=safe/news",
+		"date": "12-22 11:08"
+	},
+	"760d0a559dfce1c0afb8da4a11fdab1db4bb13501977cbbff4eff3f531b3b336": {
+		"title": "내달까지 코로나19 병상 7천개 확충…\"확진자 1만5천명 대비\"",
+		"link": "www.yna.co.kr/view/AKR20211222059200530?section=safe/news",
+		"date": "12-22 11:03"
+	},
+	"c14e46514c77ad409b0fcb96f900baf8a7e9eb2613940d67f469dd890488931b": {
+		"title": "충북경찰, 방역수칙 어긴 스크린골프장 업주 등 11명 적발",
+		"link": "www.yna.co.kr/view/AKR20211222062300064?section=safe/news",
+		"date": "12-22 11:01"
+	},
+	"f68f4649438b614ea0e7d6ff80dbd706452821910115eeeb2cdfe2a9d770ccac": {
+		"title": "대구서 40대 남성 첫 오미크론 확진…아내와 10대 자녀도 양성",
+		"link": "www.yna.co.kr/view/AKR20211222069600053?section=safe/news",
+		"date": "12-22 11:00"
+	},
+	"9938b63765793a8109c83c99859db03536f5f6467862b8b179eadb04642d36c4": {
+		"title": "당국 \"거리두기 효과 감소땐 내년 1월 확진자 최대 8천400여명\"",
+		"link": "www.yna.co.kr/view/AKR20211222069400530?section=safe/news",
+		"date": "12-22 11:00"
+	},
+	"71e84fcecf907585905203be93650e7ad2e33773d3be76202b39915d0a2c2279": {
+		"title": "[속보] 국립대·공공병원 등 동원해 1월까지 코로나 병상 6천944개 확충",
+		"link": "www.yna.co.kr/view/AKR20211222068200530?section=safe/news",
+		"date": "12-22 11:00"
+	},
+	"d49dfcfb19e331bfc67649e25d5399988e1c30040562af037f1bc754062acb3d": {
+		"title": "[속보] 국립중앙·서울의료원·보훈병원·산재병원 코로나 환자만 치료",
+		"link": "www.yna.co.kr/view/AKR20211222068500530?section=safe/news",
+		"date": "12-22 11:00"
+	},
 	"b2babfc7ee5a67b3a4c7f3509e2a20117b008fbd77b9eba615c1402c8b5d3a54": {
 		"title": "필리핀, 오미크론 확산 우려에 부스터샷 간격 3개월로 줄여",
 		"link": "www.yna.co.kr/view/AKR20211222066800084?section=safe/news",
@@ -433,70 +498,5 @@
 		"title": "충북 16시 77명 확진, 2명 사망…충주 건설현장서 집단감염",
 		"link": "www.yna.co.kr/view/AKR20211221143700064?section=safe/news",
 		"date": "12-21 16:54"
-	},
-	"0790a300b6313b5f65bdcc6bcc90a74f8f7061ac46b09173df831a23069a017f": {
-		"title": "태국, 5∼11세 어린이 화이자 백신 접종 승인",
-		"link": "www.yna.co.kr/view/AKR20211221144300084?section=safe/news",
-		"date": "12-21 16:53"
-	},
-	"2298616d934b531dcbe7e9cf3f47d38266d4b5f0308d21fdd4574b0a2e0413f6": {
-		"title": "직계약 화이자 코로나19 백신 474만7천회분 내일 도착",
-		"link": "www.yna.co.kr/view/AKR20211221143500530?section=safe/news",
-		"date": "12-21 16:52"
-	},
-	"8d92d3a13779185f1ffd743e5ea673ce0a107e896a3d3432bf15724e2c072e24": {
-		"title": "당국 \"국산 오미크론 전용 진단키트 이달 말 배포 가능\"",
-		"link": "www.yna.co.kr/view/AKR20211221139300530?section=safe/news",
-		"date": "12-21 16:37"
-	},
-	"4d8c87d453b06ae3765981592c6caff43ab5a923c711f0f343fdabe12b9e3c2b": {
-		"title": "\"감사합니다\"…'오미크론 최전선' 완주보건소에 쏟아진 격려",
-		"link": "www.yna.co.kr/view/AKR20211221130700055?section=safe/news",
-		"date": "12-21 16:28"
-	},
-	"6102aa3e1c1cbbc3352b95d7ebd594255b8f70495d2718bd1313c35c70fe11dc": {
-		"title": "마산역 광장 코로나19 임시검사소 재운영…\"선제검사 확대\"",
-		"link": "www.yna.co.kr/view/AKR20211221136000052?section=safe/news",
-		"date": "12-21 16:26"
-	},
-	"9d294d95cdbaeeac9563ea535b013a42fd2ac3a0e3872f234ca8cc5320c5566a": {
-		"title": "\"코로나 시국서 미국 총기 신규 구입자 급증\"",
-		"link": "www.yna.co.kr/view/AKR20211221127600009?section=safe/news",
-		"date": "12-21 16:26"
-	},
-	"2df627ed42b495f793ce6b324ba759180ad748b81c9f6c32cab39c327dae43c8": {
-		"title": "당진 자매 살해범, 항소심 결심 전날 백신 맞고 \"후유증 있다\"",
-		"link": "www.yna.co.kr/view/AKR20211221133800063?section=safe/news",
-		"date": "12-21 16:23"
-	},
-	"28227adc44a6f577a016fba047e6e1189cc6d32d2a128bfe8892125788cc01ec": {
-		"title": "국내 개발 코로나 백신 첫 효능평가…\"백신 개발 마지막 단계\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20211221046851530?section=safe/news",
-		"date": "12-21 16:23"
-	},
-	"545444c4d77fc220da342646fe1f5b1011e74c55b9a7fe64750943db13354c78": {
-		"title": "대전서 전담병원도 못 간 채 숨진 확진자 최근 20일간 48명",
-		"link": "www.yna.co.kr/view/AKR20211221133900063?section=safe/news",
-		"date": "12-21 16:20"
-	},
-	"dcc81543be2da48365e50c00718b1959c3ad4790a4c7f427213a685d1cdbd579": {
-		"title": "오미크론 집단감염 2건 더 나왔다…익산 20명·광주 9명(종합)",
-		"link": "www.yna.co.kr/view/AKR20211221106451530?section=safe/news",
-		"date": "12-21 16:19"
-	},
-	"d4acbb30981d6b816b36e080b33201b0fe531481b9337606408dfac8f56baeca": {
-		"title": "무주군 반딧불청소년수련원, 코로나19 안심숙소로 운영",
-		"link": "www.yna.co.kr/view/AKR20211221129400055?section=safe/news",
-		"date": "12-21 16:14"
-	},
-	"d23e2cb5840c75b82a32e8cf2c467f02586ba2c2f0163ad2bede4a8f2032419b": {
-		"title": "트럼프, 코로나 중국책임 거론하며 '배상 위한 관세폭탄' 주장",
-		"link": "www.yna.co.kr/view/AKR20211221130900009?section=safe/news",
-		"date": "12-21 16:12"
-	},
-	"185fcaf383698b7778d9ee8298deb309e0f303aeb419db9d5f4d67ae58f19e12": {
-		"title": "확산세 가팔라진 청주 코로나19…이달 759명, 월간 최다 경신",
-		"link": "www.yna.co.kr/view/AKR20211221076800064?section=safe/news",
-		"date": "12-21 16:08"
 	}
 }
