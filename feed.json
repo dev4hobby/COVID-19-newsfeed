@@ -1,4 +1,49 @@
 {
+	"5650034e34bd83cb4ccfd01af78f4896728704b96c0a572086cec3e3e2a04bda": {
+		"title": "서울 2천720명 신규 확진…전날보다 85명 줄어",
+		"link": "www.yna.co.kr/view/AKR20211223040800004?section=safe/news",
+		"date": "12-23 09:39"
+	},
+	"21e4b412c081315eb3b93a8a612ef7b4f414178e7c8aa262bc5c913e8cae462b": {
+		"title": "[속보] 오미크론 확진자 국내감염 4명 등 12명 늘어…누적 246명",
+		"link": "www.yna.co.kr/view/AKR20211223039200530?section=safe/news",
+		"date": "12-23 09:31"
+	},
+	"bdc0255f4a364136581f811d07e13a30710962a52522c7c68848de923b0153fd": {
+		"title": "[속보] 코로나19로 어제 109명 사망, 첫 세자릿수…누적 5천15명",
+		"link": "www.yna.co.kr/view/AKR20211223026100530?section=safe/news",
+		"date": "12-23 09:31"
+	},
+	"ee5fd6593db8fb53ec9af51bdb4363d0d18a5c202ecd9531d125bf96a6d247e0": {
+		"title": "[1보] 위중증 1천83명·사망 109명 모두 역대 최다…신규확진 6천919명",
+		"link": "www.yna.co.kr/view/AKR20211223025500530?section=safe/news",
+		"date": "12-23 09:30"
+	},
+	"c187cd888e60a88ef6ed10ccb98a7cca1abd98faae31bccbf54abdded0360f29": {
+		"title": "충북 어제 85명 확진…제천 의료기관 집단감염, 사망자 1명 추가",
+		"link": "www.yna.co.kr/view/AKR20211223034700064?section=safe/news",
+		"date": "12-23 09:24"
+	},
+	"249799155decdf17cfcbe331c10c13372bc8e70f28a6b2f16ece154116f87cb3": {
+		"title": "오미크론, 3주 만에 美 50개주 전역 확산…동·서부 확진의 90%(종합)",
+		"link": "www.yna.co.kr/view/AKR20211223031800075?section=safe/news",
+		"date": "12-23 09:22"
+	},
+	"65704a3c84f50760c0b6a56c4eb3e7b4d0b15412498cd0c58dfc63e2453e2418": {
+		"title": "전북 어제 149명 확진…역대 두 번째 규모",
+		"link": "www.yna.co.kr/view/AKR20211223035500055?section=safe/news",
+		"date": "12-23 09:20"
+	},
+	"0be68e20f16a9eaf57f9673062a82d2fd9a830a2cef52085d805fc581861d553": {
+		"title": "광주·전남 135명 추가 확진…오미크론 변이 의심 환자도 늘어",
+		"link": "www.yna.co.kr/view/AKR20211223034400054?section=safe/news",
+		"date": "12-23 09:17"
+	},
+	"2db93c2267199ff4ca7c80bfbd03178000c5753f739218161a5b33846b52be86": {
+		"title": "백악관 엄습한 코로나19…부통령 밀접접촉 참모도 양성 판정",
+		"link": "www.yna.co.kr/view/AKR20211223027200071?section=safe/news",
+		"date": "12-23 09:12"
+	},
 	"22b24a8852ce4026692cf5559b3fb6be4f06bf7388744ae3bdcc8081bb2860a7": {
 		"title": "경북 135명 확진…병원, 학교, 학원서 집단감염 이어져",
 		"link": "www.yna.co.kr/view/AKR20211223023600053?section=safe/news",
@@ -453,50 +498,5 @@
 		"title": "일일 최다 확진·유치원생 집단감염…비상 걸린 양산시",
 		"link": "www.yna.co.kr/view/AKR20211222093300052?section=safe/news",
 		"date": "12-22 13:35"
-	},
-	"6ef1a979282044f41b2995c2ea32124d1a423d649deb6a5d04724ba44e0af595": {
-		"title": "동해안 지자체들, 코로나19 확산에 새해 일출 명소 폐쇄",
-		"link": "www.yna.co.kr/view/AKR20211222090900062?section=safe/news",
-		"date": "12-22 13:31"
-	},
-	"9a0d6b5509ac2b91b74a8d5b700fbe9211bfe93cd2d59e9263f94d07c9c5d39e": {
-		"title": "소방청, 서울 지역 코로나 환자 이송 지원 위해 구급대 동원령",
-		"link": "www.yna.co.kr/view/AKR20211222092400530?section=safe/news",
-		"date": "12-22 13:29"
-	},
-	"d52587c2bfc3fdd829ecd03ea3bbaaa8b5f830562e74ec4548c652deb6d44e31": {
-		"title": "상주 적십자병원서 확진자 23명 발생…역학조사 중",
-		"link": "www.yna.co.kr/view/AKR20211222093000053?section=safe/news",
-		"date": "12-22 13:29"
-	},
-	"908e889e0ce5cd4e37daddf33bd587f5a1c3a216b8cf9afa617c4262cd4aed8d": {
-		"title": "한의협, 비대면 코로나19 한의진료접수센터 운영",
-		"link": "www.yna.co.kr/view/AKR20211222090100017?section=safe/news",
-		"date": "12-22 13:18"
-	},
-	"f53369cff0ebaf9696019752c8904c2b8ee0fb0d89467ded4c226205f4fe081a": {
-		"title": "식약처, 화이자 먹는 코로나 치료제 긴급사용승인 검토 착수",
-		"link": "www.yna.co.kr/view/AKR20211222088900017?section=safe/news",
-		"date": "12-22 13:11"
-	},
-	"8b8ae3a1ba4ab4be636f0b81f77261e0b810acdee669f6c33e56a0ed546cc287": {
-		"title": "확충병상에 의료인력 1천200명 필요…특별수당 등 지원 강화",
-		"link": "www.yna.co.kr/view/AKR20211222086900530?section=safe/news",
-		"date": "12-22 12:53"
-	},
-	"0a254a54ef7dea9b1e0c7e6624d2dd3b146afd2b9516fbec763b79552544e551": {
-		"title": "인도도 오미크론 확산 조짐…야간 통금 등 비상 대응 착수",
-		"link": "www.yna.co.kr/view/AKR20211222087500077?section=safe/news",
-		"date": "12-22 12:52"
-	},
-	"9db0fa6d2f07e35ed6a82fa14630f834388ae9e524a57d9b93ad94bcdb8743e2": {
-		"title": "\"거리두기 효과지속시 내년 1월엔 하루 4천700명까지 감소\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20211222069451530?section=safe/news",
-		"date": "12-22 12:42"
-	},
-	"d05dd3f53405cd630fe83b035c22bceeb743468b57fdaf50b99d2c0f371db149": {
-		"title": "캐나다, 오미크론 차단 방역 강화…일부 주는 주점폐쇄",
-		"link": "www.yna.co.kr/view/AKR20211222073900009?section=safe/news",
-		"date": "12-22 12:35"
 	}
 }
