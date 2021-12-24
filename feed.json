@@ -1,4 +1,74 @@
 {
+	"0dbc72e380ed6e3ebfcbb23d68edcb7c4f102d04d9a531157c3d3b101e48618b": {
+		"title": "[속보] 오미크론 확인용 PCR 개발 완료…확진 후 3∼4시간 이내 판별",
+		"link": "www.yna.co.kr/view/AKR20211224059100530?section=safe/news",
+		"date": "12-24 10:51"
+	},
+	"7190a9c7fe8b7a8834a29e4c53f34735e3936834bc50fbe11f9afdcfec7d30d4": {
+		"title": "대구서 오미크론 확진자 1명 추가…2명으로 늘어",
+		"link": "www.yna.co.kr/view/AKR20211224057100053?section=safe/news",
+		"date": "12-24 10:46"
+	},
+	"33fa303fd06b78df1ed378910020f04c27966fd2244efd706b390b6b20876186": {
+		"title": "美 무증상 감염 의료진 격리 10일→7일 줄여 현장 투입",
+		"link": "www.yna.co.kr/view/AKR20211224049800075?section=safe/news",
+		"date": "12-24 10:42"
+	},
+	"a922592172dc986a55257ab6a7772ca38075ac6a1bf430925f2c2dcc7c3f5fa8": {
+		"title": "인천 438명 확진…감염자 4명, 병원 치료 중 사망",
+		"link": "www.yna.co.kr/view/AKR20211224055000065?section=safe/news",
+		"date": "12-24 10:37"
+	},
+	"cee5723fdcf8e8f971975cad1e41a89db2c07bae4ce40a142b2705d7484db66a": {
+		"title": "오미크론 확산에 미국 소비 증가세 주춤…성장률 전망치도 하향",
+		"link": "www.yna.co.kr/view/AKR20211224041600009?section=safe/news",
+		"date": "12-24 10:33"
+	},
+	"f71052335d69b487494718eebf9ca1777f3686c24ac0ee777bf9522570d2edf1": {
+		"title": "\"콧물·두통 등 감기 증상 환자 절반은 코로나19 가능성\"",
+		"link": "www.yna.co.kr/view/AKR20211224043100009?section=safe/news",
+		"date": "12-24 10:13"
+	},
+	"55856cc4fc4c9b6062396243ba9952a49e3ce38694232797c69f56feff891608": {
+		"title": "경기 신규 확진자 1천668명…증가세 다소 주춤",
+		"link": "www.yna.co.kr/view/AKR20211224044000061?section=safe/news",
+		"date": "12-24 10:10"
+	},
+	"2499064be66b32cf238f36bd1012f046a1f0882bf78d74a48a7c78397ba5fdb0": {
+		"title": "군 코로나19 확진자 37명 늘어…30명은 돌파감염",
+		"link": "www.yna.co.kr/view/AKR20211224049300504?section=safe/news",
+		"date": "12-24 10:09"
+	},
+	"7f3d4d95eb7bf586d53b4c1bbf50eb83bcb1f0b754ac9c13d341338201b16121": {
+		"title": "울산서 밤사이 22명 확진…산발적 감염 지속",
+		"link": "www.yna.co.kr/view/AKR20211224045600057?section=safe/news",
+		"date": "12-24 10:02"
+	},
+	"cd77e903b88af14c7156a16d3def6f739cbdebcaaa8a975d87116a5570bd6580": {
+		"title": "대전 11일만에 확진자 두자릿수로 감소…학교·병원 확산은 지속",
+		"link": "www.yna.co.kr/view/AKR20211224040100063?section=safe/news",
+		"date": "12-24 10:00"
+	},
+	"bd4f6076239f3f53a0b665585e23f14e8bdeda83047d648640d0cea65c0790e1": {
+		"title": "위중증 1천84명, 또 최다…신규확진 6천233명, 전날보다 685명↓(종합)",
+		"link": "www.yna.co.kr/view/AKR20211224036000530?section=safe/news",
+		"date": "12-24 09:51"
+	},
+	"dec59ed744fc654ab9f20566df0a328e06965e447ce685a47313b8943c3e9ce1": {
+		"title": "오미크론 확진자 해외유입 14명 등 16명 늘어…누적 262명",
+		"link": "www.yna.co.kr/view/AKR20211224042100530?section=safe/news",
+		"date": "12-24 09:49"
+	},
+	"c9bdc5b26bbd9024b88ffc202b25536c8cc8fafc824e7dc390ba47d77affb01f": {
+		"title": "서울 2천346명 신규 확진…전날보다 374명 줄어",
+		"link": "www.yna.co.kr/view/AKR20211224040900004?section=safe/news",
+		"date": "12-24 09:41"
+	},
+	"9c6557f61ddece2fd1c953595237dfdceface0d7f333ac504ad99afa1610b00f": {
+		"title": "수도권 중증병상 가동률 84.4%…병원 입원대기 25명 줄어 218명",
+		"link": "www.yna.co.kr/view/AKR20211224029500530?section=safe/news",
+		"date": "12-24 09:40"
+	},
 	"5581185b34fb19150e2e878a7ac18fa563c430a4b9457d9aba4c9bc4c7872b38": {
 		"title": "[속보] 코로나19로 어제 56명 사망…누적 5천71명",
 		"link": "www.yna.co.kr/view/AKR20211224026000530?section=safe/news",
@@ -428,75 +498,5 @@
 		"title": "정부 \"병원 온 격리해제자에 음성확인서 요구는 의료법 위반\"",
 		"link": "www.yna.co.kr/view/AKR20211223082600530?section=safe/news",
 		"date": "12-23 12:37"
-	},
-	"db1e4d9ea6c4965eb9e475da5bda9128a00d56029fa2b8c379fe27d1e29dadd6": {
-		"title": "\"요양원 집단감염 위기…서울시, 안전대책 세워야\"",
-		"link": "www.yna.co.kr/view/AKR20211223081300004?section=safe/news",
-		"date": "12-23 12:28"
-	},
-	"a3c7789b60b05c52e680db676078caaa5ca61a58ea4a415315ec7d8c74812745": {
-		"title": "하노이, 사흘 연속 코로나 감염 '전국 최다'…식당 영업 제한",
-		"link": "www.yna.co.kr/view/AKR20211223081400084?section=safe/news",
-		"date": "12-23 12:16"
-	},
-	"841ab72acacb92a04d58a4e2957b3e48cbd9733b9a334db0e9545cde0751b3a6": {
-		"title": "노바백스 백신도 오미크론 면역반응…\"부스터샷에 효능 향상\"",
-		"link": "www.yna.co.kr/view/AKR20211223055500075?section=safe/news",
-		"date": "12-23 12:06"
-	},
-	"264c8890b74eb3bf6a1ad4e3e0cf7101157384dfaed1c077b5792a6be3180429": {
-		"title": "정부 \"코로나 유행 증가세 확연히 둔화…위중증 내주 감소할 듯\"",
-		"link": "www.yna.co.kr/view/AKR20211223076900530?section=safe/news",
-		"date": "12-23 12:04"
-	},
-	"a993dbb3323ad23c119f94193fe20081d4d7b5395047220a8989849dd51bbec7": {
-		"title": "오미크론 우려에 '오징어 게임' 후보 오른 美시상식 연기",
-		"link": "www.yna.co.kr/view/AKR20211223080100075?section=safe/news",
-		"date": "12-23 12:03"
-	},
-	"2f9efecf0e46eaa6c52af99eb38bc6434f43b86c89089f5571abc1f5056379c3": {
-		"title": "이재명 \"윤석열·김종인, 코로나 100조원 지원 논의하자\" 거듭 촉구",
-		"link": "www.yna.co.kr/view/AKR20211223075400001?section=safe/news",
-		"date": "12-23 11:53"
-	},
-	"795df5943180f93dd6b1e110fb22bb41ce87f8e1d9e0b12c20949dab7bd22e40": {
-		"title": "전남 오미크론 의심 8명 추가…171명 자가격리",
-		"link": "www.yna.co.kr/view/AKR20211223077000054?section=safe/news",
-		"date": "12-23 11:48"
-	},
-	"90540b8ec97838bfe2e32bcfb4af4cc57e0d93fc43052bb8e3ba055a40bf212a": {
-		"title": "전북 어제 149명 확진…오미크론 감염자 누적 50명(종합)",
-		"link": "www.yna.co.kr/view/AKR20211223035551055?section=safe/news",
-		"date": "12-23 11:47"
-	},
-	"c1a6ba8f2b7afb251c5bc62504c103e3c6c76013147afb99f157033e7423a138": {
-		"title": "남아공 오미크론 급증후 급감…\"유럽·미국도 비슷할 것\"",
-		"link": "www.yna.co.kr/view/AKR20211223052700009?section=safe/news",
-		"date": "12-23 11:45"
-	},
-	"9f14319e233d1c6b500e2c62a2b85d5d37a20bb1836fc151e4ff0a30fa5c4c2a": {
-		"title": "서울 대형병원·어린이집서 집단감염 잇따라",
-		"link": "www.yna.co.kr/view/AKR20211223073500004?section=safe/news",
-		"date": "12-23 11:38"
-	},
-	"f939d2710003f40961fb2104151d404686b5b75a2617d27344d924c3c7840e30": {
-		"title": "부산 하루 최다 433명 확진…첫 오미크론 감염자도 1명 발생",
-		"link": "www.yna.co.kr/view/AKR20211223070500051?section=safe/news",
-		"date": "12-23 11:26"
-	},
-	"0dc65f5fb908a755052d6928bfaebb9c62599b579427122ade5319120ba31301": {
-		"title": "\"내년 세계 금융시장 최대 리스크는…인플레·코로나·전쟁\"",
-		"link": "www.yna.co.kr/view/AKR20211223059000009?section=safe/news",
-		"date": "12-23 11:26"
-	},
-	"ed45958f14d955d08d451560e1821a04b1af31f2051fee37aabcb6e36c9e75ac": {
-		"title": "서울 2천720명 신규 확진…10대 이하 20% 차지(종합)",
-		"link": "www.yna.co.kr/view/AKR20211223040851004?section=safe/news",
-		"date": "12-23 11:25"
-	},
-	"34689040964e3c76d01f6f2b26348de25282961c6b285cd6870c582a6b0af2a1": {
-		"title": "\"유통기한 다되면 기부\"…나이지리아, 백신 106만회분 버려(종합)",
-		"link": "www.yna.co.kr/view/AKR20211223004251111?section=safe/news",
-		"date": "12-23 11:24"
 	}
 }
