@@ -1,4 +1,64 @@
 {
+	"58b42425c8d7112da8180bdde4e1b2efa2b4bc519772a503aa6d3039b0e40ace": {
+		"title": "중증병상 가동률 78.9%…입원 대기자 18명 줄어 107명",
+		"link": "www.yna.co.kr/view/AKR20211227034300530?section=safe/news",
+		"date": "12-27 09:32"
+	},
+	"0981c7cdc77cb0fc6dee130c33f101fa408369c07a8c795cf42460d0f0020205": {
+		"title": "[속보] 오미크론 69명 늘어 누적 445명…국내감염 49명·해외유입 20명",
+		"link": "www.yna.co.kr/view/AKR20211227036100530?section=safe/news",
+		"date": "12-27 09:32"
+	},
+	"5a2290d20e7bb09e32ce6e9cb1aa48712edaa95a558c2ece22c9089908463c6f": {
+		"title": "[속보] 코로나19로 어제 55명 사망…누적 5천300명",
+		"link": "www.yna.co.kr/view/AKR20211227020700530?section=safe/news",
+		"date": "12-27 09:31"
+	},
+	"aafa2384212854a39a689f0ccbb894e622455297e75b3a48c3ba5423ff3154c1": {
+		"title": "[1보] 위중증 1천78명 일주일째 1천명대…신규확진자 4천207명",
+		"link": "www.yna.co.kr/view/AKR20211227020600530?section=safe/news",
+		"date": "12-27 09:31"
+	},
+	"afe1972b0823a7a13130a2c17710fa6ec0563b08afad619d8271419dca28f1c0": {
+		"title": "전북 어제 89명 신규 확진…오미크론 추가 감염자 나오지 않아",
+		"link": "www.yna.co.kr/view/AKR20211227032000055?section=safe/news",
+		"date": "12-27 09:28"
+	},
+	"1001675d29d79b4783eb793e917824463f795a2f5a541d3dfdcd88bf530c4a66": {
+		"title": "에스디바이오센서 생산 코로나19 자가검사키트 FDA 긴급사용승인",
+		"link": "www.yna.co.kr/view/AKR20211227034400017?section=safe/news",
+		"date": "12-27 09:26"
+	},
+	"50039a15c5b4459eb6d5a70d483c158768e37c11c5dbebefab51f0cecc7aae8e": {
+		"title": "황희찬 소속팀 울버햄프턴, 코로나19로 28일 아스널전도 연기",
+		"link": "www.yna.co.kr/view/AKR20211227031100007?section=safe/news",
+		"date": "12-27 09:15"
+	},
+	"9c18406f3d2d0be6e6754c6985fcc0945cdb0cb788cb00c6a0690668c82cb947": {
+		"title": "오미크론·물류대란에도 미국 연말 쇼핑 매출 급증",
+		"link": "www.yna.co.kr/view/AKR20211227024600009?section=safe/news",
+		"date": "12-27 09:04"
+	},
+	"621e6b3f4df0c81d66281a77a33cd2d807f54a3b5b6ec1380629935db4b1c52c": {
+		"title": "\"코로나바이러스, 장기 곳곳에 숨어 몇 달씩 체내 잔류\"",
+		"link": "www.yna.co.kr/view/AKR20211227009700009?section=safe/news",
+		"date": "12-27 09:00"
+	},
+	"6be3fbcc08309bec8ce89aba215b6c714af102147de3150c27fdb698b41fb663": {
+		"title": "충북 어제 63명 확진…교육·의료기관 관련 감염 지속",
+		"link": "www.yna.co.kr/view/AKR20211227025600064?section=safe/news",
+		"date": "12-27 08:59"
+	},
+	"3d6ab109394a20d89f8edceba2e4261f5cc22dae1a7b6b8590b804def642e684": {
+		"title": "셀트리온제약, 질병관리청과 코로나 항체치료제 추가 공급 계약",
+		"link": "www.yna.co.kr/view/AKR20211227025800017?section=safe/news",
+		"date": "12-27 08:57"
+	},
+	"557f3927f592f19d3b9be248faf25e8757f46ca5f0333200e6b82b7c52887c18": {
+		"title": "경북 신규 확진 22일 만에 두 자릿수로 줄어…71명 발생",
+		"link": "www.yna.co.kr/view/AKR20211227024800053?section=safe/news",
+		"date": "12-27 08:50"
+	},
 	"674ee7d09403c498e177fc6e0b9ddf333156b8f122fc24abe0f7a958a69c6a2a": {
 		"title": "강원 24일 연속 100명대 확진…오미크론 변이 감염 12명 추가",
 		"link": "www.yna.co.kr/view/AKR20211227022300062?section=safe/news",
@@ -438,65 +498,5 @@
 		"title": "경남 227명 확진…기저질환 80대 환자 2명 사망(종합)",
 		"link": "www.yna.co.kr/view/AKR20211225027001052?section=safe/news",
 		"date": "12-25 18:26"
-	},
-	"060290026fff49f4085047db59aa13d8978c0af498fa16b756a72f314d15c4fc": {
-		"title": "프랑스 코로나19 신규 확진 10만명 육박…이틀 연속 최다 기록",
-		"link": "www.yna.co.kr/view/AKR20211225038400081?section=safe/news",
-		"date": "12-25 18:04"
-	},
-	"3ba0fccf97a2a0bcc703725d60a878c9d51924837e7abc0147d0648cf053e4ed": {
-		"title": "울산서 62명 신규 확진…동구 어린이집 관련 집단감염 발생(종합)",
-		"link": "www.yna.co.kr/view/AKR20211225020751057?section=safe/news",
-		"date": "12-25 18:00"
-	},
-	"5f06fffd17322cba658c8e503be3f2d1d52dbfa521e99c0b391783cbc2cb30bd": {
-		"title": "부스터샷 확대한 덴마크에 오미크론 주춤…\"한줄기 희망\"",
-		"link": "www.yna.co.kr/view/AKR20211225037000009?section=safe/news",
-		"date": "12-25 17:59"
-	},
-	"dcc1a52674c380e4474f1388905c07ebde1ab1147cc4bb5406aab2af01711e96": {
-		"title": "중국 선전서 해외 입국 승객 3명 오미크론 확진",
-		"link": "www.yna.co.kr/view/AKR20211225037700097?section=safe/news",
-		"date": "12-25 17:51"
-	},
-	"37736f5bb7a474e0b8d487333477a5cab59445f226cc5e01bcbb71aa4b1aa5af": {
-		"title": "[월드&포토] 코로나 속에서도 온 세상에 퍼진 복음",
-		"link": "www.yna.co.kr/view/AKR20211225033200009?section=safe/news",
-		"date": "12-25 17:33"
-	},
-	"bdef0ec2373d5f6de254a700e2d7c47908d721bad214678da7d75da01dfd9d89": {
-		"title": "제주 첫 오미크론 변이 확진자 발생…\"밀접접촉 가족 검사 중\"",
-		"link": "www.yna.co.kr/view/AKR20211225036200056?section=safe/news",
-		"date": "12-25 17:21"
-	},
-	"c83a00476202584d2d1d9bfb5f8acf9113f027013897a47a10ec60533c85f771": {
-		"title": "오미크론 국내감염 하루새 40명 발생…해외유입까지 81명 '급증'",
-		"link": "www.yna.co.kr/view/AKR20211225018900530?section=safe/news",
-		"date": "12-25 10:18"
-	},
-	"0dd654be8aa565aee17fd5d1e7da72edac27438e4e5bf51acd414cb8ed616620": {
-		"title": "대전서 오미크론 감염 2명째…광주 확진자 접촉해 검사",
-		"link": "www.yna.co.kr/view/AKR20211225034900063?section=safe/news",
-		"date": "12-25 16:59"
-	},
-	"962209cf5e59a9db1217ada6bd71eaabee649714813fac760062f07b4a9c8678": {
-		"title": "부산서 오미크론 확진자 1명 추가 발생…총 2명(종합)",
-		"link": "www.yna.co.kr/view/AKR20211225032251051?section=safe/news",
-		"date": "12-25 16:53"
-	},
-	"8a615cfa351dd1a1237bfde41185f0a5a9c3a13670fbf1491c6b87e1e105ba15": {
-		"title": "충북 16시 66명 확진…어린이집·학교·종교시설 연쇄감염",
-		"link": "www.yna.co.kr/view/AKR20211224124752064?section=safe/news",
-		"date": "12-25 16:34"
-	},
-	"13ec6fee290004607851e801103e34bf358b87ba4863a2c3fe1316c900f0d192": {
-		"title": "이스라엘 백신 4차 접종에 '신중'…자문위 권고에도 승인 보류",
-		"link": "www.yna.co.kr/view/AKR20211225033600079?section=safe/news",
-		"date": "12-25 16:28"
-	},
-	"e105e8d6855873e74f706427765dd9e5fdda22b15923264a4386a2e8131ffc5a": {
-		"title": "거리두기와 한파에도 '중무장'하고 성탄 나들이",
-		"link": "www.yna.co.kr/view/AKR20211225031600004?section=safe/news",
-		"date": "12-25 15:56"
 	}
 }
