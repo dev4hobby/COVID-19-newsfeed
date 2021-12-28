@@ -1,4 +1,34 @@
 {
+	"763e53627f5c154cac63ff4b705a9df755df90f65cc39b745b3f7e9aabf4a4d8": {
+		"title": "[속보] 오미크론 4명 늘어 누적 449명…국내감염 2명·해외유입 2명",
+		"link": "www.yna.co.kr/view/AKR20211228038900530?section=safe/news",
+		"date": "12-28 09:31"
+	},
+	"8016b8f183ed5c9fc361a5dd671d810ab12db2391ab4d40b226b975870b4f428": {
+		"title": "[속보] 코로나19로 어제 46명 사망…누적 5천346명",
+		"link": "www.yna.co.kr/view/AKR20211228026800530?section=safe/news",
+		"date": "12-28 09:31"
+	},
+	"8a2d1edda50867e1f17e68606ea6c78adb09514484c640c6b9ba08c432741d4c": {
+		"title": "[1보] 신규확진 3천865명, 약 한달만에 3천명대로…위중증 1천102명",
+		"link": "www.yna.co.kr/view/AKR20211228026600530?section=safe/news",
+		"date": "12-28 09:30"
+	},
+	"22e0945ed0d648aa27405ec94b5db63b42c1a4a1ebf00372765686caddf652af": {
+		"title": "전북 코로나 어제 90명 확진…오미크론 감염 누적 108명",
+		"link": "www.yna.co.kr/view/AKR20211228031800055?section=safe/news",
+		"date": "12-28 09:17"
+	},
+	"5f1573532f39b77fd7b0e3623ba1d46ab1d652bf8a9649619e16406c8b27f57f": {
+		"title": "1주일간 서울 학생 1천879명 확진…방학 시작돼 등교율 46%로",
+		"link": "www.yna.co.kr/view/AKR20211228027300530?section=safe/news",
+		"date": "12-28 09:00"
+	},
+	"0665d57a8c696c79ebf2cf856b7a0b34eadf7bd59fc8f5e592b0ace558948b71": {
+		"title": "광주·전남 경로 미상·자가격리 등 확진 잇따라",
+		"link": "www.yna.co.kr/view/AKR20211228026200054?section=safe/news",
+		"date": "12-28 08:48"
+	},
 	"ef789554f0fc2d2318126be3a3565f282bdb37f9a20eb01d3c6884e64df9b250": {
 		"title": "경북 86명 신규 확진…이틀 연속 두 자릿수",
 		"link": "www.yna.co.kr/view/AKR20211228024400053?section=safe/news",
@@ -468,35 +498,5 @@
 		"title": "싱가포르, 아프리카발 입국금지 해제, 왜…\"오미크론 이미 확산\"",
 		"link": "www.yna.co.kr/view/AKR20211227041900076?section=safe/news",
 		"date": "12-27 10:06"
-	},
-	"cb880a230d72a25cdd78666aee3d47896ad5040acdc2d781b0d7196a49df1506": {
-		"title": "경남 62명 신규 확진…진주 소재 학교 집단감염",
-		"link": "www.yna.co.kr/view/AKR20211227043400052?section=safe/news",
-		"date": "12-27 10:04"
-	},
-	"859232d8277c284393be50d1f3937f08531507cbb6afd39d8bca382022a0e1cf": {
-		"title": "\"백신접종자에 방역조치 완화보다 경제적 인센티브 줘야\"",
-		"link": "www.yna.co.kr/view/AKR20211227043800002?section=safe/news",
-		"date": "12-27 10:02"
-	},
-	"073450aeb2f37b0cbfd526c2ce0fd4f726db5c9a8b7e864f802fa7638ef3eecb": {
-		"title": "대전서 40명 신규 확진…한 달 가까이 만에 최소",
-		"link": "www.yna.co.kr/view/AKR20211227031800063?section=safe/news",
-		"date": "12-27 10:00"
-	},
-	"1b360ab6bf95cdeb54a0ed917fa0b8b3cc58135c3ef86d30e32910340851c2e5": {
-		"title": "경기 1천173명 확진…닷새 연속 1천명대",
-		"link": "www.yna.co.kr/view/AKR20211227033300061?section=safe/news",
-		"date": "12-27 10:00"
-	},
-	"228ca83b819abdad308f9a22d91b445215138c4b3aaa4beaa9146384027eb255": {
-		"title": "오미크론 감염 하루새 69명 늘어…국내감염 49명 역대 최다",
-		"link": "www.yna.co.kr/view/AKR20211227042000530?section=safe/news",
-		"date": "12-27 09:55"
-	},
-	"bf4cad9c44c29132535961c8924bbe36dc3db86cc5b42280e6effb77706e2c82": {
-		"title": "위중증 1천78명 일주일째 1천명대…신규확진 20일만에 4천명대(종합)",
-		"link": "www.yna.co.kr/view/AKR20211227025900530?section=safe/news",
-		"date": "12-27 09:49"
 	}
 }
