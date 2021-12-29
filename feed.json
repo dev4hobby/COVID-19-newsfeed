@@ -1,4 +1,84 @@
 {
+	"c25d1872e22d946a7df2daa54fed990a394e7ca116559bdc41b592a4382d23f8": {
+		"title": "도시 봉쇄 중국 시안 확진자 연일 최고치 경신",
+		"link": "www.yna.co.kr/view/AKR20211229064000083?section=safe/news",
+		"date": "12-29 10:50"
+	},
+	"b39c71adb50fea7f6f2fdb3be5a09e77b3fb6ca066f3f271d46ef5226efe28c5": {
+		"title": "'코로나 대유행에…' 광주 제조업체 내년 1분기 체감경기 '흐림'",
+		"link": "www.yna.co.kr/view/AKR20211229061500054?section=safe/news",
+		"date": "12-29 10:46"
+	},
+	"f353ec2b7e69c3773f61f4059f72e497b89dbc8e83a9726a6b7e4b500d42fda7": {
+		"title": "[속보] 오미크론 변이 유입관리 강화조치 내년 2월 3일까지 4주 연장",
+		"link": "www.yna.co.kr/view/AKR20211229060400530?section=safe/news",
+		"date": "12-29 10:36"
+	},
+	"9e4918cb9475148562faf011fea92acab40efa84f072a39e3706a8d370ab09af": {
+		"title": "진주시, 코로나19 대응 '진주형 공공일자리' 1천명 모집",
+		"link": "www.yna.co.kr/view/AKR20211229058200052?section=safe/news",
+		"date": "12-29 10:34"
+	},
+	"447fccb5d6f86affefba0f83339a54e3a961ea083dafaabcf78d856e116628b2": {
+		"title": "울산서 밤사이 25명 확진…해외입국자 4명 포함",
+		"link": "www.yna.co.kr/view/AKR20211229059100057?section=safe/news",
+		"date": "12-29 10:32"
+	},
+	"aaef3f8028ae27d5aca16cbccfe281c322dfa7b03cfaf909fd0870b6233ded0f": {
+		"title": "군 코로나19 확진 27명 늘어…전원 돌파감염",
+		"link": "www.yna.co.kr/view/AKR20211229058400504?section=safe/news",
+		"date": "12-29 10:29"
+	},
+	"21a7e2822fe7f3921494201691860cc89b95dc298a5a44572a5ca04c12af50aa": {
+		"title": "삼성전자, 中시안 반도체 사업장 생산라인 축소…코로나 봉쇄 영향",
+		"link": "www.yna.co.kr/view/AKR20211229055400003?section=safe/news",
+		"date": "12-29 10:25"
+	},
+	"c9d14976d53083174fd01a5614ea4c15fcb3ad22f92f0f570db9f2470f5ab19d": {
+		"title": "씨젠, 170만명 분량 코로나19 진단시약 이스라엘 수출",
+		"link": "www.yna.co.kr/view/AKR20211229056900017?section=safe/news",
+		"date": "12-29 10:24"
+	},
+	"9137d5a55d7e6e2ce5544bf4af3cd82bd89ba01db04aa88bc7dcc1321a435980": {
+		"title": "인천 314명 확진…감염자 7명 치료 중 사망",
+		"link": "www.yna.co.kr/view/AKR20211229056400065?section=safe/news",
+		"date": "12-29 10:23"
+	},
+	"87054fd70bf6b2d1f640c379b1f65cd35c4ac4e442664386ff48eae5e2c6d2ab": {
+		"title": "코로나19·치매 등 환자 임상시험 참여 도울 '포털' 구축",
+		"link": "www.yna.co.kr/view/AKR20211229052100017?section=safe/news",
+		"date": "12-29 10:08"
+	},
+	"9d84ab13fff258b053d6159d69f68631ea5f400174f5630838dc9d5c09a5c05a": {
+		"title": "경기 1천633명 확진…7일 연속 1천명대로 다소 진정세",
+		"link": "www.yna.co.kr/view/AKR20211229047600061?section=safe/news",
+		"date": "12-29 10:03"
+	},
+	"6b7068e75fcaebaa29236f11245c0ab89783ffee039dda28100279b30f624bf7": {
+		"title": "입원대기자 56일만에 '0명'…위중증은 9일째 1천명 넘어",
+		"link": "www.yna.co.kr/view/AKR20211229015400530?section=safe/news",
+		"date": "12-29 10:03"
+	},
+	"b7f0e0636beef8d1e9d86e266ae2f985055afdb0c0f37c3a6cca1d75a4d1a0f9": {
+		"title": "오미크론 신규 확진 109명으로 최다…미국 등 해외서 대거 유입",
+		"link": "www.yna.co.kr/view/AKR20211229013900530?section=safe/news",
+		"date": "12-29 10:00"
+	},
+	"b83dc894d18b3b65ef1f5bf8897094fa72680a188742821e775797cb31253dfd": {
+		"title": "대전서 79명 신규 확진…사흘 연속 100명 미만",
+		"link": "www.yna.co.kr/view/AKR20211227031852063?section=safe/news",
+		"date": "12-29 10:00"
+	},
+	"cdc324c58b23783322a0564728bf6470c25e8c451a5b9d275df0fce6a8cbdb61": {
+		"title": "위중증 1천151명, 또 최다…신규확진 5천409명, 다시 5천명대로(종합)",
+		"link": "www.yna.co.kr/view/AKR20211229035600530?section=safe/news",
+		"date": "12-29 09:46"
+	},
+	"3d6e22fdb3692d5ed1e6d83d228f2c27d89cda59365eb37c32bc66ce6ab780bb": {
+		"title": "전북 청소년 백신 접종 순조…반발 여론에도 60% 돌파",
+		"link": "www.yna.co.kr/view/AKR20211229044200055?section=safe/news",
+		"date": "12-29 09:42"
+	},
 	"e65b06f08879402953155935f2d41bb4ee3e35e6ccbe1ae687289a46fe8d49c9": {
 		"title": "서울 1천915명 신규 확진…전날보다 625명 많아",
 		"link": "www.yna.co.kr/view/AKR20211229042400004?section=safe/news",
@@ -418,85 +498,5 @@
 		"title": "[영상] 오미크론 확산에 세계 주요 도시 '아듀 2021행사' 줄줄이 취소",
 		"link": "www.yna.co.kr/view/AKR20211228081200534?section=safe/news",
 		"date": "12-28 13:14"
-	},
-	"c153d6dbf68d616b5dbce702d3028a5bdbc9f60e39a0bcf16b2442789c6dd46c": {
-		"title": "\"트럼프 소유 스코틀랜드 리조트, 英서 코로나 지원금 받아\"",
-		"link": "www.yna.co.kr/view/AKR20211228080400009?section=safe/news",
-		"date": "12-28 12:55"
-	},
-	"125d371c829a4be274466c50f535a13ec34839f02c42c9cba7f7181afa429cd2": {
-		"title": "수도권 중증병상 가동률 81%…\"5∼10일 더 지나야 위중증 감소\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20211228047151530?section=safe/news",
-		"date": "12-28 12:48"
-	},
-	"4704a5b71fc8c57ffff47960429dcc6d135ffc9714c08005e08f8d697c021b64": {
-		"title": "정부 \"코로나19 유행 감소세 전환…위중증·사망도 감소할 것\"",
-		"link": "www.yna.co.kr/view/AKR20211228084100530?section=safe/news",
-		"date": "12-28 12:46"
-	},
-	"5829ac725c01dab56ee4209d77bf010008fa225a8bfcad1123aad08f50fb062d": {
-		"title": "요양시설 코호트 격리시 재택치료 지원·항체치료제 처방",
-		"link": "www.yna.co.kr/view/AKR20211228083600530?section=safe/news",
-		"date": "12-28 12:30"
-	},
-	"3c51d6163b8246f53e4ae17dc26a69f4a96c65481c0fc77689424dc6133d34c3": {
-		"title": "동남아 각국, 오미크론 확산 비상…격리·백신 미접종자 배제",
-		"link": "www.yna.co.kr/view/AKR20211228082000076?section=safe/news",
-		"date": "12-28 12:22"
-	},
-	"7830a7e39fc496a06dd23c1b603ea0cfcb19efd278746a5070b016118f25487d": {
-		"title": "\"필러냐, 백신이냐\" 연말연시 파티철에 고민하는 미국인들",
-		"link": "www.yna.co.kr/view/AKR20211228073800009?section=safe/news",
-		"date": "12-28 12:09"
-	},
-	"8accc3d9faf7ec0f3e11f106acb101052ef795732e69c91696990c38b6414cb8": {
-		"title": "코로나19로 손실 생긴 의료기관·사업장에 3천181억원 지급",
-		"link": "www.yna.co.kr/view/AKR20211228080000530?section=safe/news",
-		"date": "12-28 12:05"
-	},
-	"f14dd49729843907c9a3840f926294d1928d591cec5400737242b4b3978cc3aa": {
-		"title": "코로나19로 청소년 정신건강 심각…자해 등 상담건수 5년 새 4배",
-		"link": "www.yna.co.kr/view/AKR20211228057500530?section=safe/news",
-		"date": "12-28 12:00"
-	},
-	"3de5f853f1012d1c60b4d71146b57f940812063ac6987f3589226797f5cdb67f": {
-		"title": "코로나 한파에 소상공인 87만명 사라졌다…영업이익 반토막",
-		"link": "www.yna.co.kr/view/AKR20211228071900002?section=safe/news",
-		"date": "12-28 12:00"
-	},
-	"02ef82e87215c64b4971063a582f3a3f1760472ffa1529755e15023f962b1cd5": {
-		"title": "\"백신 미접종자, 중환자실 갈 가능성 최고 60배 높다\"",
-		"link": "www.yna.co.kr/view/AKR20211228069700009?section=safe/news",
-		"date": "12-28 11:57"
-	},
-	"8e3cd0b26fac9fc019ca3b9ade3c828ae81a9b28ba60e976cca921445d8c809d": {
-		"title": "[영상] 손흥민 뛰는 프리미어리그 '코로나 비상'…일주일 새 103명 확진",
-		"link": "www.yna.co.kr/view/AKR20211228075800534?section=safe/news",
-		"date": "12-28 11:42"
-	},
-	"bde3627580a18dba3715966ccef0df6694aecaa207d2b555bc2c6172369e75af": {
-		"title": "캠코, 코로나 피해채무 상환유예 6개월 연장…\"내년 6월 말까지\"",
-		"link": "www.yna.co.kr/view/AKR20211228073700002?section=safe/news",
-		"date": "12-28 11:33"
-	},
-	"db1f962f54696c82b027e889288e177451f26229a370da37256e0a126e720289": {
-		"title": "[영상] 스파이더맨 코로나 속 흥행대박…팬데믹 이후 첫 10억달러 수입",
-		"link": "www.yna.co.kr/view/AKR20211228066800534?section=safe/news",
-		"date": "12-28 11:31"
-	},
-	"ce307cdcb408e084a82b4931138eb33a6a689fa17d8c37e03108ca0c9d071869": {
-		"title": "뉴질랜드, 코로나 퇴치 성과…지역사회 신규 감염 18건으로 '뚝'",
-		"link": "www.yna.co.kr/view/AKR20211228070400009?section=safe/news",
-		"date": "12-28 11:23"
-	},
-	"725104b256c7659d5868154ebcdc45a38cb77514f28f3493a87b0b6b89db878a": {
-		"title": "[영상] 지구촌 덮친 오미크론 공포…세계 각국 신규확진 '사상최다'",
-		"link": "www.yna.co.kr/view/AKR20211228067400534?section=safe/news",
-		"date": "12-28 11:22"
-	},
-	"5b2f9702a9746a334906381987ff681e084d7d246339de30d2053c0b70f57d83": {
-		"title": "부산 237명 신규 확진…환자 7명 추가 사망",
-		"link": "www.yna.co.kr/view/AKR20211228070500051?section=safe/news",
-		"date": "12-28 11:21"
 	}
 }
