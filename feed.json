@@ -1,4 +1,34 @@
 {
+	"2f8371a3e9bede3dc2a809ca78880651fce6aebb96791851db7c04563025ed55": {
+		"title": "[속보] 2010년생은 내년 방역패스 면제…만 나이 확인 어려움 고려",
+		"link": "www.yna.co.kr/view/AKR20211230109100530?section=safe/news",
+		"date": "12-30 14:26"
+	},
+	"e9874bcf5e3baeca5c7f71e055db91e281db2092f0746bb4a4a8a80c71ab36a1": {
+		"title": "[속보] 군부대·모임·사업장·학교서 오미크론 새 집단감염 6건 추가",
+		"link": "www.yna.co.kr/view/AKR20211230107800530?section=safe/news",
+		"date": "12-30 14:20"
+	},
+	"95260f96321938655a1489edd46e2b20372d7d12354175537420a13e8dd5d8bd": {
+		"title": "[속보] 내년 1월부터 2010년생 1차접종 시작…생일 지나면 화이자로",
+		"link": "www.yna.co.kr/view/AKR20211230107400530?section=safe/news",
+		"date": "12-30 14:19"
+	},
+	"51146d5309eb9ec10cc9411857a3e0b573c20a88cce05be106663593eb3ee4f6": {
+		"title": "[속보] 당국 \"16세 중 코로나19 백신 접종 후 사망신고 사례 나와\"",
+		"link": "www.yna.co.kr/view/AKR20211230107000530?section=safe/news",
+		"date": "12-30 14:18"
+	},
+	"1eefc2c74df4b0fbad9e8deed9d2616fe4c328c891761d4fdab72c2e04582a9c": {
+		"title": "광주경찰청 소속 직원 5명 코로나19 확진…51명 격리조치(종합)",
+		"link": "www.yna.co.kr/view/AKR20211230061451054?section=safe/news",
+		"date": "12-30 14:11"
+	},
+	"ac1db62ac4da093c58b8e4eda553d5822cb34079d9d17f5168f4580a7ca6797e": {
+		"title": "통신3사 패스앱 QR출입증, 완치자·접종예외자 증명도 제공",
+		"link": "www.yna.co.kr/view/AKR20211230065500017?section=safe/news",
+		"date": "12-30 14:00"
+	},
 	"bed37f603199fbbf4de7b6d904341e84e090b9e2709053c9ab4b8b70022f734f": {
 		"title": "제주 코로나 백신 3차 접종률 30％ 넘겨 …2차까지 82％",
 		"link": "www.yna.co.kr/view/AKR20211230098100056?section=safe/news",
@@ -468,35 +498,5 @@
 		"title": "충북 민간단체 \"청소년 백신 접종 반대\" 항의 집회",
 		"link": "www.yna.co.kr/view/AKR20211229152800064?section=safe/news",
 		"date": "12-29 17:55"
-	},
-	"a615d27f234ca3ae000ce42bafd730a432a249d3022287d1d152550b13f403bf": {
-		"title": "대한항공, 인천~중국 선양 운항 2주간 중단…탑승객 코로나 확진",
-		"link": "www.yna.co.kr/view/AKR20211229149200003?section=safe/news",
-		"date": "12-29 17:47"
-	},
-	"cc1049d7d225546a09c03786ef9cc0b3ff1e6d2283ddf82b465b5429b15850fd": {
-		"title": "미 크루즈 업계, 코로나 재확산에도 \"셧다운 없다\"",
-		"link": "www.yna.co.kr/view/AKR20211229137200009?section=safe/news",
-		"date": "12-29 17:43"
-	},
-	"fe5119b0f93eb4981d4add525bfe41a62a1c6a535e1dd285fa820e2dfb32f985": {
-		"title": "제주 오미크론 변이 확진자 2명 추가 발생…누적 3명",
-		"link": "www.yna.co.kr/view/AKR20211229144900056?section=safe/news",
-		"date": "12-29 17:31"
-	},
-	"02d411dab2f3d0daaa2e9468fb99f230c65bed1ec84ff05fbde3559ca5cf300f": {
-		"title": "미 일일 신규 확진자 44만명 역대 최다…인도 넘어 세계신기록",
-		"link": "www.yna.co.kr/view/AKR20211229132200009?section=safe/news",
-		"date": "12-29 17:30"
-	},
-	"8a62d5f47dc2e90275bcc03017aa07f8fd43f885e774e8604afa2e9f810f25ef": {
-		"title": "경남 219명 확진…목욕탕·회사·학교 집단감염 지속(종합)",
-		"link": "www.yna.co.kr/view/AKR20211229092551052?section=safe/news",
-		"date": "12-29 17:22"
-	},
-	"54c082d3610b0faade2ee27bee30a4df3e9d317d39be124ec6c4c44deaa8ffb1": {
-		"title": "\"코로나19 번질라\" 충북 해넘이·해맞이 2년째 올스톱",
-		"link": "www.yna.co.kr/view/AKR20211229137700064?section=safe/news",
-		"date": "12-29 17:12"
 	}
 }
