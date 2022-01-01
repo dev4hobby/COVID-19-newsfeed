@@ -1,4 +1,39 @@
 {
+	"4925d3f80cd38b8c1c9d0ab8bfb2dc040acf980b00cbc97f2c9ea75024c8961a": {
+		"title": "전 세계 하루 확진자 189만명…사상 최다로 한해 마감",
+		"link": "www.yna.co.kr/view/AKR20220101025600009?section=safe/news",
+		"date": "01-01 10:24"
+	},
+	"cee54e0c5b1a309626d8dac535f89263f764c6bb146eadd9a941b9b8e4c606e9": {
+		"title": "오미크론 한달만에 누적 1천명 넘어…하루 새 220명 증가",
+		"link": "www.yna.co.kr/view/AKR20220101025100530?section=safe/news",
+		"date": "01-01 10:23"
+	},
+	"d9584c90c35199c9a89425d3849d0c891c3c1a9743675bcaaf023d04967a3972": {
+		"title": "위중증 12일째 1천명대-신규확진 4천416명…오미크론 누적 1천명(종합)",
+		"link": "www.yna.co.kr/view/AKR20220101020051530?section=safe/news",
+		"date": "01-01 10:04"
+	},
+	"3cbe56a821fdff073ba9b18b82ec2eb5427d6d8572a76feaf2d9b5fa5f3c1718": {
+		"title": "경기 1천391명 확진…중증병상 가동률 사흘째 60%대 유지",
+		"link": "www.yna.co.kr/view/AKR20220101020600061?section=safe/news",
+		"date": "01-01 10:00"
+	},
+	"6bffafc8fd6cc26e30452e529f9507fd0f180e1a82145ae8a21d7765d558a44b": {
+		"title": "대전 공사현장 근로자 11명 연쇄 확진…학교 확산도 지속",
+		"link": "www.yna.co.kr/view/AKR20220101022300063?section=safe/news",
+		"date": "01-01 10:00"
+	},
+	"ced8fa216c123ec23ea234d5e77b1cc1e6f106fa784cdf80476db0b5ee9440fa": {
+		"title": "[2보] 위중증 1천49명·신규확진 4천416명…오미크론 누적 1천명 넘어",
+		"link": "www.yna.co.kr/view/AKR20220101020000530?section=safe/news",
+		"date": "01-01 09:42"
+	},
+	"4418f3e02e501938fbc9028ee2b042405752b13318b1960bd1e713fd48fc0a6a": {
+		"title": "[속보] 오미크론 감염 220명 늘어 누적 1천114명…1천명 넘어",
+		"link": "www.yna.co.kr/view/AKR20220101022200530?section=safe/news",
+		"date": "01-01 09:34"
+	},
 	"f3759a7cfc3d24aa3b55b16b85a5f52f4ebcd0ef2a9e01644d1cbca9e0a8ce8f": {
 		"title": "[속보] 코로나19로 어제 62명 사망…누적 5천625명",
 		"link": "www.yna.co.kr/view/AKR20220101014400530?section=safe/news",
@@ -463,40 +498,5 @@
 		"title": "수도권 중증병상 가동률 68%로 떨어져…입원대기 사흘 연속 0명",
 		"link": "www.yna.co.kr/view/AKR20211231050300530?section=safe/news",
 		"date": "12-31 10:38"
-	},
-	"9077005800a32ba571c1c274a7b28c77c4f8b8da78ce3f107062bb700581a57e": {
-		"title": "하노이 '오미크론 발생국 발 입국객 시설 격리' 없던 일로",
-		"link": "www.yna.co.kr/view/AKR20211231049100076?section=safe/news",
-		"date": "12-31 10:26"
-	},
-	"15d18ec8e1efecfbc94f0045600156ed09870b162287af27e1da5a9b415ca591": {
-		"title": "인천 303명 확진…감염자 5명, 치료 중 사망",
-		"link": "www.yna.co.kr/view/AKR20211231047300065?section=safe/news",
-		"date": "12-31 10:16"
-	},
-	"5fd60af375f64f0bb518edab9c21cc2b90c0f73ca782e5ca53897c66c1446362": {
-		"title": "오미크론 하루 새 269명 급증…미국발 131명 등 해외유입 186명",
-		"link": "www.yna.co.kr/view/AKR20211231040900530?section=safe/news",
-		"date": "12-31 10:04"
-	},
-	"fd8e3afc35d105747bf0ea7da1f8f049bdbfa4c1ace25b14c161649b53bfbfb5": {
-		"title": "경기 1천476명 확진…9일 연속 1천명대로 진정세",
-		"link": "www.yna.co.kr/view/AKR20211231030500061?section=safe/news",
-		"date": "12-31 10:00"
-	},
-	"440eacc6767697b11760eb60e0ec3bc1048f6f014da176b109196866b44d4d6f": {
-		"title": "대전서 3명 더 오미크론 감염…초등학교·어린이집 매개 37명째",
-		"link": "www.yna.co.kr/view/AKR20211231039900063?section=safe/news",
-		"date": "12-31 10:00"
-	},
-	"e8fa218b7f18ade0867cebf78bc81c33936bf7116539f89ad90d92fad4cfff54": {
-		"title": "남아공 \"오미크론은 돌발적 홍수…사망 급증 없이 진정세\"",
-		"link": "www.yna.co.kr/view/AKR20211231038700009?section=safe/news",
-		"date": "12-31 09:57"
-	},
-	"d61b1329668a6c186ebb85304ee35fd97c0b40abc21597c56b1aa3de3e229b68": {
-		"title": "서울 1천670명 신규 확진…전날보다 52명 적어",
-		"link": "www.yna.co.kr/view/AKR20211231040200004?section=safe/news",
-		"date": "12-31 09:56"
 	}
 }
