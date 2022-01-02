@@ -1,4 +1,39 @@
 {
+	"5044cc07a84d52bf8d7c93e2464833fa3adc94ae0b377290c5fa8a8ee4e55752": {
+		"title": "부산 코로나19 확산세 여전…일주일째 200명대 확진자",
+		"link": "www.yna.co.kr/view/AKR20220102021000051?section=safe/news",
+		"date": "01-02 11:37"
+	},
+	"a98655308add638b52d7a0a7d233062a4713487e74f24c507fd0fcf943a8ebb8": {
+		"title": "확진자 갑작스러운 증가에 인도, 임시병동 구축 등 긴급 대응",
+		"link": "www.yna.co.kr/view/AKR20220102023500077?section=safe/news",
+		"date": "01-02 11:36"
+	},
+	"fadb608a6cbc7d81d7c317918aeeeb5d81fb446f250d7eabbece9eb32c7d5516": {
+		"title": "강원 44명 확진…엿새째 두 자릿수로 감소세",
+		"link": "www.yna.co.kr/view/AKR20220102022600062?section=safe/news",
+		"date": "01-02 11:35"
+	},
+	"5f05db8717b1f4122661ce7d951601c3689cf95e1054764782889b8bcb60ccae": {
+		"title": "경북 어제 94명 확진…19명 오미크론 감염",
+		"link": "www.yna.co.kr/view/AKR20220102022300053?section=safe/news",
+		"date": "01-02 11:29"
+	},
+	"dc5693083454a7f24fa38c2306cbd7c91676a418f3a41627f2d4708cb496598f": {
+		"title": "중국 시안 이어 허난·저장서도 집단감염…방역 비상",
+		"link": "www.yna.co.kr/view/AKR20220102022900083?section=safe/news",
+		"date": "01-02 11:28"
+	},
+	"9b43a245bfe6bffb58ecd126807b3f93353378d67298c6290f5754614f87dcc8": {
+		"title": "베트남 호찌민, 오미크론 확산 우려에 해외 입국자 신속 검사",
+		"link": "www.yna.co.kr/view/AKR20220102021300084?section=safe/news",
+		"date": "01-02 11:04"
+	},
+	"b1ab5e8fad46f33b8ad98293dc29dfd560c8b259e20e7180aea24bf8b5aa7258": {
+		"title": "서울 1천183명 신규 확진…어제보다 281명 적어(종합)",
+		"link": "www.yna.co.kr/view/AKR20220102013751004?section=safe/news",
+		"date": "01-02 11:03"
+	},
 	"13a5058f6b7d271acad2a55a015ee7a18e63aa275d7945201dde2b7b5c72594d": {
 		"title": "인천 어제 233명 확진…서구 어린이집 감염 44명으로 늘어",
 		"link": "www.yna.co.kr/view/AKR20220102016700065?section=safe/news",
@@ -463,40 +498,5 @@
 		"title": "영국 보건안전청 \"오미크론 입원 위험은 델타의 3분의 1\"",
 		"link": "www.yna.co.kr/view/AKR20220101000800085?section=safe/news",
 		"date": "01-01 00:37"
-	},
-	"dd30bed86cb78d0d841dda5844bc8ab5e8822dde089a36bddf3f0ec313afebbd": {
-		"title": "오후 9시까지 전국서 3천768명 확진…어제보다 581명 적어(종합)",
-		"link": "www.yna.co.kr/view/AKR20211231140051530?section=safe/news",
-		"date": "12-31 22:13"
-	},
-	"9b4eef1721403c912746436a27087c21afa36781d28aee143ed8a3cbd72d09aa": {
-		"title": "영국, 화이자 코로나19 먹는 치료제 승인",
-		"link": "www.yna.co.kr/view/AKR20211231148100085?section=safe/news",
-		"date": "12-31 21:39"
-	},
-	"8d0d5fa7d04721ab9093aee966d3ac31d6eafeed72c9febf9a69e96c3dfa3830": {
-		"title": "필리핀에서도 오미크론 변이 발견…3일부터 방역 강화",
-		"link": "www.yna.co.kr/view/AKR20211231147900009?section=safe/news",
-		"date": "12-31 21:36"
-	},
-	"87cc362736fe89e077ec32a7764f9b7bdcd4e5265dd654676e8e392fce63b78a": {
-		"title": "[월드&포토] 오미크론 공포속에 시작된 이스라엘의 백신 4차접종",
-		"link": "www.yna.co.kr/view/AKR20211231141500079?section=safe/news",
-		"date": "12-31 19:18"
-	},
-	"702ad326876dbcbca3b42cd7c66790151a6364c6f3939baa0ffdeb683d666d81": {
-		"title": "\"소득 적을수록 코로나19 사태 겪으며 가족관계 멀어졌다\"",
-		"link": "www.yna.co.kr/view/AKR20211231136400063?section=safe/news",
-		"date": "12-31 19:05"
-	},
-	"19f98322d4cfac102ef974d16670f332bb8d7cdb88a198ac326b7992d9848301": {
-		"title": "\"바이러스보다 더 빨라야\" 독일 총리 신년사서 백신 접종 촉구",
-		"link": "www.yna.co.kr/view/AKR20211231140500098?section=safe/news",
-		"date": "12-31 18:57"
-	},
-	"881f60ddc76b4c211b72ec9c9a95fe106676c79d42b394463664921118188887": {
-		"title": "오후 6시까지 전국서 2천988명 확진…어제보다 315명 적어",
-		"link": "www.yna.co.kr/view/AKR20211231140000530?section=safe/news",
-		"date": "12-31 18:42"
 	}
 }
