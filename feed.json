@@ -1,4 +1,44 @@
 {
+	"740f32e934600416bb9e7371e9b9f5715991a13d9e097518ccdc13d5f7ba8e65": {
+		"title": "[속보] 코로나19로 어제 36명 사망…누적 5천730명",
+		"link": "www.yna.co.kr/view/AKR20220103026300530?section=safe/news",
+		"date": "01-03 09:31"
+	},
+	"55b366dab4e48e10757c997a473c202afffd38cca8ed0c58005409d3d409b785": {
+		"title": "[1보] 신규확진 3천129명, 이틀 연속 3천명대…위중증 1천15명",
+		"link": "www.yna.co.kr/view/AKR20220103026200530?section=safe/news",
+		"date": "01-03 09:31"
+	},
+	"f75023ba060e5de2169b30da985a5f92e71d23cbe025ab32952d356feec11f68": {
+		"title": "[속보] 국내 오미크론 감염 111명 늘어 누적 1천318명",
+		"link": "www.yna.co.kr/view/AKR20220103039200530?section=safe/news",
+		"date": "01-03 09:30"
+	},
+	"c5a1504106c542dfdc163b7aa640d4e67bc01ce310f2f192563fa54c3ed633a9": {
+		"title": "전북 코로나 확산세 주춤…강력한 거리두기 효과 나오나",
+		"link": "www.yna.co.kr/view/AKR20220103032800055?section=safe/news",
+		"date": "01-03 09:25"
+	},
+	"f12f109150b6de6805b8efc0d1e3568a76cfa20a353e83240c7a1c97cf10234b": {
+		"title": "김총리 \"오미크론 속도 내며 달아나는 형국…K방역 2.0 필요\"",
+		"link": "www.yna.co.kr/view/AKR20220103028200001?section=safe/news",
+		"date": "01-03 09:11"
+	},
+	"cfcbf591c356e0da01c22caa096b2b35ba3869a6202d57f249caa335f287d342": {
+		"title": "충북 어제 47명 추가…교육시설 관련 연쇄감염 지속",
+		"link": "www.yna.co.kr/view/AKR20220103025000064?section=safe/news",
+		"date": "01-03 08:51"
+	},
+	"64d7cf2881c06c8615758c1fd57a3e0e14bc92016698242c67eaa2f9713b98cf": {
+		"title": "'공공부문 25% 결근 우려' 영국, 오미크론 비상대책 마련 지시",
+		"link": "www.yna.co.kr/view/AKR20220103023100009?section=safe/news",
+		"date": "01-03 08:43"
+	},
+	"694fc7385835963071a8b1cb54a6db6167343f0f7b12314b166d0dfa398342ec": {
+		"title": "경북 49명 신규 확진…이틀째 100명 아래로",
+		"link": "www.yna.co.kr/view/AKR20220103021200053?section=safe/news",
+		"date": "01-03 08:30"
+	},
 	"59878ac139a6e6a09b15aa8c333655c03b10a72465403b8fcdaed1954e309d55": {
 		"title": "'집단감염 지속' 코로나19 광주 75명·전남 35명 확진",
 		"link": "www.yna.co.kr/view/AKR20220103022400054?section=safe/news",
@@ -458,45 +498,5 @@
 		"title": "코로나로 2년간 540만명 죽었는데…기원 여전히 베일 속",
 		"link": "www.yna.co.kr/view/AKR20220101044000009?section=safe/news",
 		"date": "01-01 17:57"
-	},
-	"3b8529d5ff0cc1abbb34b3069212adb470de472820d2fbc99a562e5c2d7efe33": {
-		"title": "충북 41명 확진…제천 한 종합병원 코호트 격리",
-		"link": "www.yna.co.kr/view/AKR20220101041800064?section=safe/news",
-		"date": "01-01 16:38"
-	},
-	"2ccdee37c1a0ee2d393b2025fc41ccb0be120496449fb168e4c10826f726cfc2": {
-		"title": "과학자들 \"미국 오미크론, 이르면 이달 중순 정점 지날듯\"",
-		"link": "www.yna.co.kr/view/AKR20220101039200009?section=safe/news",
-		"date": "01-01 15:56"
-	},
-	"47748816a59288d1cbeeb9a086f63b8638965c751d4af94d491dfdd2295e49d0": {
-		"title": "부산 새해 첫날 코로나19 확진자 197명 추가(종합)",
-		"link": "www.yna.co.kr/view/AKR20220101029151051?section=safe/news",
-		"date": "01-01 15:36"
-	},
-	"c04ae6d89205fc99844bac1eedcfd31dafbda1b94f2ab3f5b61ef428d804c3c7": {
-		"title": "오미크론, 국내 급속 확산…델타의 2.5배 속도로 1천명 돌파(종합)",
-		"link": "www.yna.co.kr/view/AKR20220101031651530?section=safe/news",
-		"date": "01-01 15:36"
-	},
-	"8198d87198ef72e45d2a67b4d913f9b84362d94e9e3e5e984e2baf1e1c1fa764": {
-		"title": "돌파 감염까지…광주서 또다시 외국인 집단감염 기로",
-		"link": "www.yna.co.kr/view/AKR20220101036900054?section=safe/news",
-		"date": "01-01 15:05"
-	},
-	"3e8f79649c331bb8a3eca6c6994a670cccff8b031d4b8c00770b9a8ca8ccb085": {
-		"title": "코로나 극복 못한 지구촌…그래도 희망 품은 새해맞이(종합)",
-		"link": "www.yna.co.kr/view/AKR20220101035500072?section=safe/news",
-		"date": "01-01 14:55"
-	},
-	"2dedf555ae65b4158d39083b16d11f124c26abe43f72537715f786cbebcfa4ca": {
-		"title": "\"곧 희망의 날 오길\"…새해 첫날에도 방역 현장 지키는 의료진들",
-		"link": "www.yna.co.kr/view/AKR20220101036300061?section=safe/news",
-		"date": "01-01 14:57"
-	},
-	"32cc3de8f2e5671cb464516874e060ccf7fe9ebe85e5ece5ffa7fb23752a921a": {
-		"title": "중국 닝보 확진자 나오자 베이징행 항공편 운항 전면 중단",
-		"link": "www.yna.co.kr/view/AKR20220101036600097?section=safe/news",
-		"date": "01-01 14:57"
 	}
 }
