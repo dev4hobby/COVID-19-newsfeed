@@ -1,4 +1,74 @@
 {
+	"e3cb1ecb71b8d06e7324c1ef2173e2e610d79aa005a1ca0613418ac0e2366714": {
+		"title": "영국 전문가 \"코로나는 매우 차별적…전면봉쇄는 득보다 실 커\"",
+		"link": "www.yna.co.kr/view/AKR20220103078200009?section=safe/news",
+		"date": "01-03 11:33"
+	},
+	"48367d81d92a9d3210d80c677a6a20e2615a3585cc3f3b528cb4e1a59f3dd2e7": {
+		"title": "[속보] \"오미크론 대확산 대비 방역전략 변형 필요, 치명률 등 분석중\"",
+		"link": "www.yna.co.kr/view/AKR20220103080500530?section=safe/news",
+		"date": "01-03 11:33"
+	},
+	"3bc75d8c2ee80df53ec615f2e0d2076227acc65ebe532684c51cdf9fda317d39": {
+		"title": "코로나19 학생 확진 감소세…12∼17세 백신 접종률 50% 돌파",
+		"link": "www.yna.co.kr/view/AKR20220103077200530?section=safe/news",
+		"date": "01-03 11:26"
+	},
+	"e7fd59206a2ae0149df6a5ec724675a794f8b5a599f92bb8320a61c32f2cb98c": {
+		"title": "LCC, 오미크론에 괌·사이판 노선 축소…에어서울 운항재개 연기",
+		"link": "www.yna.co.kr/view/AKR20220103077700003?section=safe/news",
+		"date": "01-03 11:26"
+	},
+	"24b830bc296eb8add4f98db33784df12d1b5335e36cb86ee4686aaf7296df3dd": {
+		"title": "지난주 서울 확진자 32% 감소…치명률은 상승",
+		"link": "www.yna.co.kr/view/AKR20220103076300004?section=safe/news",
+		"date": "01-03 11:21"
+	},
+	"d35d3d0d5558e7064e61fa75c58feee3121085543adb843aa7577c4781c321ee": {
+		"title": "부산 173명 확진…중환자 병상 가동률 87.3%",
+		"link": "www.yna.co.kr/view/AKR20220103074900051?section=safe/news",
+		"date": "01-03 11:18"
+	},
+	"43e91a494b5922d733eea7de391162385d34edbbeac1fbe7575b6bc9f40a55b8": {
+		"title": "전남 오미크론 확인 누적 62명…대부분 돌파감염",
+		"link": "www.yna.co.kr/view/AKR20220103074100054?section=safe/news",
+		"date": "01-03 11:15"
+	},
+	"744d43e1c8d256fc585d8803e42d491adf27f584eaaab4980182a54b2511394c": {
+		"title": "서울 993명 신규 확진…48일 만에 1천명 아래로(종합)",
+		"link": "www.yna.co.kr/view/AKR20220103045051004?section=safe/news",
+		"date": "01-03 11:13"
+	},
+	"d7e4bb29a2cd21488f2e2c0a54cf44494e928cea6ec20e8b41d3ae1df75fce9f": {
+		"title": "[속보] 정부 \"미접종자, 성인 7% 불과하지만 위중증·사망의 53% 차지\"",
+		"link": "www.yna.co.kr/view/AKR20220103073700530?section=safe/news",
+		"date": "01-03 11:12"
+	},
+	"059443e0a04b119bdad9951f1ea927e0be8016ef54841726fbcfa46420b172d7": {
+		"title": "진원생명과학 \"개발 중인 코로나 백신, 미국서 부스터샷 연구\"",
+		"link": "www.yna.co.kr/view/AKR20220103072100017?section=safe/news",
+		"date": "01-03 11:08"
+	},
+	"0a09042044cf36f1170ea2e738add487269a4413436777f51b0c295c23c74322": {
+		"title": "[속보] 정부 \"위중증 환자 감소세도 뚜렷, 거리두기 효과 본격화\"",
+		"link": "www.yna.co.kr/view/AKR20220103072000530?section=safe/news",
+		"date": "01-03 11:05"
+	},
+	"5205163a3eb6143ccbf62ad30d8ae340acef7ca0e2cf68526b89396c176c5ddb": {
+		"title": "광주서 오미크론 감염 90대 2명 사망…역학 연관성 조사",
+		"link": "www.yna.co.kr/view/AKR20220103070500054?section=safe/news",
+		"date": "01-03 11:03"
+	},
+	"2f687c2b7659da7f41902f53515e1f11cc95910721871f73713ffb6c33115bf2": {
+		"title": "확진자 수직상승으로 새해 시작…미국·유럽, 오미크론발 대유행",
+		"link": "www.yna.co.kr/view/AKR20220103062600009?section=safe/news",
+		"date": "01-03 10:58"
+	},
+	"bc67187aa4b30cb0998ab1e1c3232ae16f063823cb073ccd024a9b0f14830e4e": {
+		"title": "대구 98명 신규 확진…어린이집·유치원 '오미크론' 확산",
+		"link": "www.yna.co.kr/view/AKR20220103067300053?section=safe/news",
+		"date": "01-03 10:55"
+	},
 	"a3d5bfa53992aecb9ad58272f381a2dd84cf3c646f5330369edcb6c1a3da5ed8": {
 		"title": "미 국방장관 코로나 감염…\"백신 덕분에 증상 가벼워\"",
 		"link": "www.yna.co.kr/view/AKR20220103056500009?section=safe/news",
@@ -428,75 +498,5 @@
 		"title": "울산 오전 10시 21명 확진…어린이집 등 집단감염 이어져",
 		"link": "www.yna.co.kr/view/AKR20220102014000057?section=safe/news",
 		"date": "01-02 09:52"
-	},
-	"c90fab587a69840036c89c22da9a2012d6667095554b722fa65ebd12407d9796": {
-		"title": "서울 1천183명 신규 확진…어제보다 281명 적어",
-		"link": "www.yna.co.kr/view/AKR20220102013700004?section=safe/news",
-		"date": "01-02 09:51"
-	},
-	"b1957f673f0d58ecda217ded323df17a18a552a125ae450a153aada778fa60e0": {
-		"title": "\"코로나 최일선에서 고생 많아요\"…옥천보건소에 온 감사편지",
-		"link": "www.yna.co.kr/view/AKR20211231117900064?section=safe/news",
-		"date": "01-02 09:36"
-	},
-	"dbba4b25a1bd9df921d7d8ba5a68c26984530aeaf8718164c3f039f6f81b1ac8": {
-		"title": "[속보] 국내 오미크론 감염 93명 늘어 누적 1천207명",
-		"link": "www.yna.co.kr/view/AKR20220102012100530?section=safe/news",
-		"date": "01-02 09:32"
-	},
-	"019b6bf52400276873023be95b5345304c6341c8ea92d4e2a345a837295ad972": {
-		"title": "[속보] 코로나19로 어제 69명 사망…누적 5천694명",
-		"link": "www.yna.co.kr/view/AKR20220102008900530?section=safe/news",
-		"date": "01-02 09:32"
-	},
-	"147a40f91d288f23f2ac1c6e15a501ab52f86f5d4ac136823f97573d3082baca": {
-		"title": "[1보] 신규확진 3천833명, 주말기준 5주만에 3천명대…위중증 1천24명",
-		"link": "www.yna.co.kr/view/AKR20220102008800530?section=safe/news",
-		"date": "01-02 09:31"
-	},
-	"576a2575fd892d150eb91167a82e955479749fb4d09743bf7fa5e251e1b0ec86": {
-		"title": "\"유럽 누적 코로나19 감염 1억명 돌파\"",
-		"link": "www.yna.co.kr/view/AKR20220102008200009?section=safe/news",
-		"date": "01-02 09:12"
-	},
-	"954013f52c87bcce47e784f6a745a8e0b9112406020ad6ef84d4562d0d14d059": {
-		"title": "코로나19 속 위기·가능성 확인한 충북관광, 트랜드 전환 필요",
-		"link": "www.yna.co.kr/view/AKR20211229085700064?section=safe/news",
-		"date": "01-02 09:05"
-	},
-	"6b25edd4c9cd30e0e00c92a79598c9a24b897fcfab2ab6fb0bea9f6bbd1407d0": {
-		"title": "새해 첫날 광주 93명·전남 42명 확진…제조업체 등 집단감염",
-		"link": "www.yna.co.kr/view/AKR20220102008600054?section=safe/news",
-		"date": "01-02 09:00"
-	},
-	"c1010daf2d66ade8d23347e9772383aa08f75ba0259efdc7817fa21514b5d5e8": {
-		"title": "충북 어제 50명 확진…하루 만에 확산세 주춤",
-		"link": "www.yna.co.kr/view/AKR20220102005000064?section=safe/news",
-		"date": "01-02 08:51"
-	},
-	"0002b66f8e2843c5d3e2dc21775c6d00773ab4b7ac9b8d1eeb35e69c2b5d6231": {
-		"title": "코로나 확산에 인천항에 크루즈 입항 또 취소",
-		"link": "www.yna.co.kr/view/AKR20211231049700065?section=safe/news",
-		"date": "01-02 08:30"
-	},
-	"5b375bea030d9d64256f0b3e03a32d947b6a42cd02f24f3cf57e0a6bef0d514d": {
-		"title": "노이어 등 선수 4명 코로나19 감염…B.뮌헨 훈련 재개 차질",
-		"link": "www.yna.co.kr/view/AKR20220102006400007?section=safe/news",
-		"date": "01-02 08:24"
-	},
-	"cbe57115d6593df033d9f981ff0249746d571dcbec5146dd6779a09f15e85adb": {
-		"title": "독일 보건장관 사무소 피습…\"백신 반대론자 소행 추정\"",
-		"link": "www.yna.co.kr/view/AKR20220102003800009?section=safe/news",
-		"date": "01-02 07:18"
-	},
-	"7980863210196f453f1562d2ad712c79e35d323ef960856fa98796f04ce2ecc3": {
-		"title": "프랑스 코로나 누적 확진 1천만명 넘겨…세계 6번째",
-		"link": "www.yna.co.kr/view/AKR20220102003600009?section=safe/news",
-		"date": "01-02 07:04"
-	},
-	"99f6307e09f16f03bbe2d665c3812f9efd6300da82f27f5bc46149c7cc75211e": {
-		"title": "'시각장애인 패싱' 방역패스…\"눈 감고 QR인증 가능하겠나\"",
-		"link": "www.yna.co.kr/view/AKR20220101051000004?section=safe/news",
-		"date": "01-02 07:03"
 	}
 }
