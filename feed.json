@@ -1,4 +1,24 @@
 {
+	"866270dd589a112ce4564714cc641eb890d42e2b2e77ad1390b080c8bb89ca7b": {
+		"title": "[팩트체크] 백신 접종률 90% 넘은 상황에서 방역패스 실효성 없다?",
+		"link": "www.yna.co.kr/view/AKR20220104079900502?section=safe/news",
+		"date": "01-04 12:22"
+	},
+	"9f347760459e3eeb08706b3d13a6c02928955ce4ecf17f1d1e500b7df20bdb4c": {
+		"title": "프랑스 의원들 \"백신 패스 지지했다 살해 위협 받아\"",
+		"link": "www.yna.co.kr/view/AKR20220104071000009?section=safe/news",
+		"date": "01-04 12:13"
+	},
+	"b255b12a192be178c7eb05c8f0b9bb77650b887f99d452671a695cb83e60fc74": {
+		"title": "\"일상회복 재개하려면 감소세 더 확실해져야…백신 효과는 분명\"",
+		"link": "www.yna.co.kr/view/AKR20220104080300530?section=safe/news",
+		"date": "01-04 12:11"
+	},
+	"791172265a30a2f790da2da7f707266f798d9f3d905f0ba0ae676fe583f4a28d": {
+		"title": "수도권 중증병상 가동률 6일연속 60%대…병상대기 일주일째 0명(종합)",
+		"link": "www.yna.co.kr/view/AKR20220104046451530?section=safe/news",
+		"date": "01-04 12:07"
+	},
 	"2391a0a77744d55824783657fe54ae932adb11bb462c7b25599b25ffafdfedbc": {
 		"title": "싱가포르, 오미크론 확산 심상치 않다…신규확진 200명 육박",
 		"link": "www.yna.co.kr/view/AKR20220104071200076?section=safe/news",
@@ -478,25 +498,5 @@
 		"title": "토스, QR 접종증명 개선…부스터샷 경과일·완치여부 확인 가능",
 		"link": "www.yna.co.kr/view/AKR20220103123100017?section=safe/news",
 		"date": "01-03 15:19"
-	},
-	"8f4d46af74c8b660d3ace7b41799d99cec3e24e63fa20511020a2a1ad6dbe42c": {
-		"title": "부산 중환자 병상 가동률 87.3%…이틀째 100명대 확진(종합)",
-		"link": "www.yna.co.kr/view/AKR20220103074951051?section=safe/news",
-		"date": "01-03 15:13"
-	},
-	"ba63392dd0e07eea45cb8ea3a54517c3099f5b8f58dcb2cb3c88b09bfed74800": {
-		"title": "코로나 재확산에 백악관 브리핑룸 수용인원 다시 축소",
-		"link": "www.yna.co.kr/view/AKR20220103120500009?section=safe/news",
-		"date": "01-03 15:04"
-	},
-	"2a79f954fa496cb23e8cadcb66cf910e766c719fcbf80765e023fa4b4aa15886": {
-		"title": "광주 지난해 12월 1천804명 확진…연말 열흘 하루 평균 80명",
-		"link": "www.yna.co.kr/view/AKR20220103113100054?section=safe/news",
-		"date": "01-03 14:41"
-	},
-	"d8d90bc54ecfb1f802cf84036f491903a0dd09c71eedb830959c115bf874e5c9": {
-		"title": "[속보] 3차접종 확진자는 미접종자에 비해 중증·사망 위험 93.6% 낮아",
-		"link": "www.yna.co.kr/view/AKR20220103111300530?section=safe/news",
-		"date": "01-03 14:19"
 	}
 }
