@@ -1,4 +1,39 @@
 {
+	"78638b569f3c3df83d9f72d6f9afa4fef9a53d7ad5b6b6544b58b2daf36f7a37": {
+		"title": "인도서도 오미크론이 우세종…\"뉴델리 샘플 81%서 검출\"(종합)",
+		"link": "www.yna.co.kr/view/AKR20220104083851077?section=safe/news",
+		"date": "01-04 17:27"
+	},
+	"0733a7a1dbf2d5ee6d8f109aad70854ce4ede48d95b23a8581e63a6457d973d2": {
+		"title": "올해 고3 되는 학생들, 3월부터 방역패스 6개월 유효기간 적용",
+		"link": "www.yna.co.kr/view/AKR20220104136400530?section=safe/news",
+		"date": "01-04 17:26"
+	},
+	"068e17eb55a5b99d3104d849edd1d0d1da122c32abe634afd10bafcbfb71fbfb": {
+		"title": "정부, 거리두기·백신 무용론 반박…\"백신은 확실한 면역수단\"",
+		"link": "www.yna.co.kr/view/AKR20220104134800530?section=safe/news",
+		"date": "01-04 17:24"
+	},
+	"6a05321ba6bbac02a50e08ecf4da88ca5c48c00cba9c2b09b4853fb5bae6b43a": {
+		"title": "제주 초등학교·종교시설서만 31명 집단감염, 총 42명 추가 발생",
+		"link": "www.yna.co.kr/view/AKR20220104135600056?section=safe/news",
+		"date": "01-04 17:23"
+	},
+	"94a8aa67e31e1b858bca32393efee4b2b94c2ebedb093e20ee884652dcbe876a": {
+		"title": "공주 종교시설서 40명 연쇄 확진…\"모두 백신 미접종\"",
+		"link": "www.yna.co.kr/view/AKR20220104136500063?section=safe/news",
+		"date": "01-04 17:22"
+	},
+	"b36c68e976ca626b3e3ac7258472504993470870f2e990d01b8dc980b89a6be5": {
+		"title": "충북 오후 4시 51명 확진…오미크론 감염 3명 늘어",
+		"link": "www.yna.co.kr/view/AKR20220104135400064?section=safe/news",
+		"date": "01-04 17:22"
+	},
+	"ee1f66f4767e83e7590a90162c01e81616f3f6ec69be37e3bd3a5ac96f3ada6e": {
+		"title": "정부 \"면역저하자 4차접종 검토 중, 일반국민 대상으로는 미정\"(종합)",
+		"link": "www.yna.co.kr/view/AKR20220104081851530?section=safe/news",
+		"date": "01-04 17:15"
+	},
 	"3a757be08d4ec968f2b982d6f80384040fdb5476bfc0ca4369aa87a128bb0ced": {
 		"title": "일본서도 오미크론 지역감염 확산…기시다 \"최악 사태 대비\"",
 		"link": "www.yna.co.kr/view/AKR20220104134300073?section=safe/news",
@@ -463,40 +498,5 @@
 		"title": "美 FDA, 12세 이상에 화이자 부스터샷 접종 허용(종합)",
 		"link": "www.yna.co.kr/view/AKR20220104001700072?section=safe/news",
 		"date": "01-04 00:42"
-	},
-	"4ab9bf52c589efeef7844583e985742c2e27c24eb87a6832d62e9cc787f9ffab": {
-		"title": "'오미크론 진원' 남아공, 봉쇄 강화 없이 한달만에 유행 하락세",
-		"link": "www.yna.co.kr/view/AKR20220104000300099?section=safe/news",
-		"date": "01-04 00:18"
-	},
-	"6e99ba907b4790d8140f5be422de9acb406beae708821933fa902572481fa135": {
-		"title": "[1보] 美 FDA, 부스터샷 접종 대상 12세 이상으로 확대",
-		"link": "www.yna.co.kr/view/AKR20220104000700072?section=safe/news",
-		"date": "01-04 00:13"
-	},
-	"514cf019c08d07f5ee6101f97ef4f59a65b56656d2a677d1c5aec9e00e3f4fdb": {
-		"title": "하원 의장도, 양성평등 장관도…프랑스 공직자 잇단 코로나 확진",
-		"link": "www.yna.co.kr/view/AKR20220103179400081?section=safe/news",
-		"date": "01-04 00:09"
-	},
-	"8692e850fb6a1551a01aafe39919ebee3ccfaed6827aa51794938ebab442e5e8": {
-		"title": "남아프리카 보츠와나 대통령도 코로나 양성",
-		"link": "www.yna.co.kr/view/AKR20220103175900099?section=safe/news",
-		"date": "01-03 22:21"
-	},
-	"5e2aab10df4ba11abd90e30ab402a254452e45f5bee8a4b8058244e3bbe54b6c": {
-		"title": "프랑스, 개학과 동시에 방역 수칙 강화…격리 기간은 단축",
-		"link": "www.yna.co.kr/view/AKR20220103173300081?section=safe/news",
-		"date": "01-03 21:46"
-	},
-	"75bd18ce2ffc1c215c0bfc58af835778df31ed75c23fbbbf7b3e5340f55dfe09": {
-		"title": "아일랜드 어린이 코로나19 백신 접종 시작…격리단축 검토",
-		"link": "www.yna.co.kr/view/AKR20220103174500085?section=safe/news",
-		"date": "01-03 21:43"
-	},
-	"57dd7658ec510c28a0cf5874f91a942a0205d170fb33c5081bc66ef17dd14796": {
-		"title": "오후 9시까지 전국서 2천759명 확진…4일 3천명 안팎 예상(종합)",
-		"link": "www.yna.co.kr/view/AKR20220103165151530?section=safe/news",
-		"date": "01-03 21:37"
 	}
 }
