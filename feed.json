@@ -1,4 +1,104 @@
 {
+	"4fce20c68d952b66fafb917eb2063ca206726504e6b89c3fa65aac70837a618b": {
+		"title": "홍콩도 코로나 재확산 위기…크루즈선 조기 귀환 명령",
+		"link": "www.yna.co.kr/view/AKR20220105086200074?section=safe/news",
+		"date": "01-05 11:39"
+	},
+	"32195a564c816f88d2d926bf1f664e93c794443c412f6cc566fe3f4a70359c43": {
+		"title": "정부, 오미크론 변이 방역의료 대응 관련 토론회 7일 개최",
+		"link": "www.yna.co.kr/view/AKR20220105085100530?section=safe/news",
+		"date": "01-05 11:36"
+	},
+	"e83cccc338ffa26737110c73cd03e60c40ad3f58dbb7f29ac431ca6d67533ad8": {
+		"title": "부산공동어시장서 작업자 5명 확진…위판 일부 지연",
+		"link": "www.yna.co.kr/view/AKR20220105084900051?section=safe/news",
+		"date": "01-05 11:35"
+	},
+	"8711a402d0172f8061dd943b296a15f4cd608f96b4557f59e9ec9c500b14d425": {
+		"title": "정부, '학원·독서실 방역패스 효력정지' 즉시항고장 제출",
+		"link": "www.yna.co.kr/view/AKR20220105084400004?section=safe/news",
+		"date": "01-05 11:33"
+	},
+	"5d95acc80dcaf83cc803b6aeeb9a8891805e5e4917310dd834f0ae6b6e3c74c3": {
+		"title": "돌파감염 왜 늘었나…오미크론 강한 전염력·연말연시 겹친 탓",
+		"link": "www.yna.co.kr/view/AKR20220105074200009?section=safe/news",
+		"date": "01-05 11:28"
+	},
+	"18efba3aceb2d138f214d4a7c330a7b66c8eda7ff3b9c8d8812f42e1feea4464": {
+		"title": "백신효과 두고 정부·법원 해석차…\"감염차단\" vs \"미미한 수준\"",
+		"link": "www.yna.co.kr/view/AKR20220105062400530?section=safe/news",
+		"date": "01-05 11:24"
+	},
+	"6473cdc1eff8c076886e5ff7d603d56de2994a4f43bf6d3b3c1969974c88e6b8": {
+		"title": "전남 오미크론 '비상'…목포 병원·유흥업소 집단감염 속출",
+		"link": "www.yna.co.kr/view/AKR20220105081100054?section=safe/news",
+		"date": "01-05 11:23"
+	},
+	"9f1a574376165553524d60aa7dec5ffb19ed39524c26da2163cea81718c89110": {
+		"title": "[속보] \"유행 안정되면 방역패스는 축소, 예외 대상 확대도 논의중\"",
+		"link": "www.yna.co.kr/view/AKR20220105081500530?section=safe/news",
+		"date": "01-05 11:20"
+	},
+	"c2e03b7e7ad0937df5676b3eb658a68628b5237156de163d7000442ab8fdfa69": {
+		"title": "서울 자치구 코로나 대응 전담 인력에 400만원 포상금",
+		"link": "www.yna.co.kr/view/AKR20220105019300004?section=safe/news",
+		"date": "01-05 11:15"
+	},
+	"505e9df35b4c08730820b328e1ca5169db12e20c07e99a3b095cba0b73688d31": {
+		"title": "코로나19 격리병실 장기입원자 291명에 '병원·병실이동' 권고",
+		"link": "www.yna.co.kr/view/AKR20220105076300530?section=safe/news",
+		"date": "01-05 11:13"
+	},
+	"96f619a80b0c4e53b5c63d6a58d6c3b08ee1732c55a62193eba1643b7ae04823": {
+		"title": "거침없는 오미크론…전세계 일일 확진자 250만명 육박",
+		"link": "www.yna.co.kr/view/AKR20220105069400009?section=safe/news",
+		"date": "01-05 11:13"
+	},
+	"a6bc81f0ce3bf1b981914096c518467f4a017d0b875b94a6ab8ab214061a04aa": {
+		"title": "부산 오미크론 지역감염 12명 확인…확산 우려",
+		"link": "www.yna.co.kr/view/AKR20220105077600051?section=safe/news",
+		"date": "01-05 11:13"
+	},
+	"365fab13bc2e9d32ac8a76d2a7330a3d7b171a4482e70d94bfaf791dea739b3f": {
+		"title": "[속보] 정부 \"코로나 위기상황서 미접종자 감염 최소화가 최우선 과제\"",
+		"link": "www.yna.co.kr/view/AKR20220105078200530?section=safe/news",
+		"date": "01-05 11:10"
+	},
+	"536d4778284b0a63420faf1c7ec1d4419472ec245a552837d1c7939ba427b3a5": {
+		"title": "양천구 어린이집·용산구 직장 집단감염…35명 확진",
+		"link": "www.yna.co.kr/view/AKR20220105076600004?section=safe/news",
+		"date": "01-05 11:10"
+	},
+	"83589d3ea0d37f0b15d20b9d12fb5fdccdb0a92d0f57d8e44d62e46dcb500b1a": {
+		"title": "서울 1천412명 신규 확진…전날보다 474명 많아(종합)",
+		"link": "www.yna.co.kr/view/AKR20220105045851004?section=safe/news",
+		"date": "01-05 11:06"
+	},
+	"dd4d353078e2fa57319bd398a60c2eeb534f5c91f5d9dbece2d27c31be1c511d": {
+		"title": "캐나다 전세기, 연말 멕시코 가며 '노마스크'에 술·춤 파티",
+		"link": "www.yna.co.kr/view/AKR20220105071700009?section=safe/news",
+		"date": "01-05 11:05"
+	},
+	"2ae84c366a25db5d80618840a116a0b26e2351b7fc32a4ea6526542eed9b1e68": {
+		"title": "[속보] 이월도입·신규구매로 올해 코로나19 백신 1억5천44만회분 확보",
+		"link": "www.yna.co.kr/view/AKR20220105074100530?section=safe/news",
+		"date": "01-05 11:00"
+	},
+	"1c8ecae37b41aa8b48e65ccabd6fb67e45b15af57af4aee0497ea4a6691fd791": {
+		"title": "[속보] 75개 병원 코로나 환자 291명에 격리해제 전원·전실 사전권고",
+		"link": "www.yna.co.kr/view/AKR20220105073600530?section=safe/news",
+		"date": "01-05 11:00"
+	},
+	"aeda895598c5fd39fefcb5a413c4affc100f4cac7c3859b0507fc4f84fe61abe": {
+		"title": "[속보] \"학원·독서실·스터디카페 미접종자 감염방지 대책 마련 예정\"",
+		"link": "www.yna.co.kr/view/AKR20220105072700530?section=safe/news",
+		"date": "01-05 11:00"
+	},
+	"e237e626fb8a7b51adac3f4fd1b7185d57b26eb3ac4d77daba00afb8d296a775": {
+		"title": "인천 271명 확진…남동구서 새 집단감염 발생",
+		"link": "www.yna.co.kr/view/AKR20220105072300065?section=safe/news",
+		"date": "01-05 10:59"
+	},
 	"9bff86e681069a9d8674003208a19dcf0fad6c02ed07e26ebe10c6d16b7f5578": {
 		"title": "유은혜 \"방역패스 집행정지 관계없이 청소년 접종 독려\"",
 		"link": "www.yna.co.kr/view/AKR20220105069100530?section=safe/news",
@@ -398,105 +498,5 @@
 		"title": "제주 초등학교·종교시설서만 31명 집단감염, 총 42명 추가 발생",
 		"link": "www.yna.co.kr/view/AKR20220104135600056?section=safe/news",
 		"date": "01-04 17:23"
-	},
-	"94a8aa67e31e1b858bca32393efee4b2b94c2ebedb093e20ee884652dcbe876a": {
-		"title": "공주 종교시설서 40명 연쇄 확진…\"모두 백신 미접종\"",
-		"link": "www.yna.co.kr/view/AKR20220104136500063?section=safe/news",
-		"date": "01-04 17:22"
-	},
-	"b36c68e976ca626b3e3ac7258472504993470870f2e990d01b8dc980b89a6be5": {
-		"title": "충북 오후 4시 51명 확진…오미크론 감염 3명 늘어",
-		"link": "www.yna.co.kr/view/AKR20220104135400064?section=safe/news",
-		"date": "01-04 17:22"
-	},
-	"ee1f66f4767e83e7590a90162c01e81616f3f6ec69be37e3bd3a5ac96f3ada6e": {
-		"title": "정부 \"면역저하자 4차접종 검토 중, 일반국민 대상으로는 미정\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20220104081851530?section=safe/news",
-		"date": "01-04 17:15"
-	},
-	"3a757be08d4ec968f2b982d6f80384040fdb5476bfc0ca4369aa87a128bb0ced": {
-		"title": "일본서도 오미크론 지역감염 확산…기시다 \"최악 사태 대비\"",
-		"link": "www.yna.co.kr/view/AKR20220104134300073?section=safe/news",
-		"date": "01-04 17:08"
-	},
-	"baa7d29a6fe6dfcc92ee2880548d9ac1b3330b57f5a6853839b65abe11c1d318": {
-		"title": "경남 114명 신규 확진…기저질환 80대 2명 숨져(종합)",
-		"link": "www.yna.co.kr/view/AKR20220104087751052?section=safe/news",
-		"date": "01-04 17:06"
-	},
-	"a029175b8c7766a32cff4aeccccf677ce4c417349022f3b0df2fd148ad5c7ff0": {
-		"title": "[영상] 코로나로 65일 혼수상태 미국 여성 \"백신 맞으세요\"",
-		"link": "www.yna.co.kr/view/AKR20220104130800534?section=safe/news",
-		"date": "01-04 17:06"
-	},
-	"81f53d0b9fb703b0272a7b68716b380b38c0fc1201a031fe737d6f7d531a21ff": {
-		"title": "\"한달간 코로나 혼수상태 영국 여성, 비아그라 투여 후 소생\"",
-		"link": "www.yna.co.kr/view/AKR20220104131200009?section=safe/news",
-		"date": "01-04 17:03"
-	},
-	"1e2617e4fcf6a88d224161f4ca8c7d9a3fb715be0a81acbd3ed719b8a08994ff": {
-		"title": "미국 법원, 백신 거부 미군에 대한 징계 '제동'",
-		"link": "www.yna.co.kr/view/AKR20220104110400009?section=safe/news",
-		"date": "01-04 16:57"
-	},
-	"aaf4625a171ba2ee1290d9ce939a61fe6cf53842b705ce248f4b13f9a06f9e8a": {
-		"title": "인구 통계기준 2020년→2021년 변경…접종률 일부 조정돼",
-		"link": "www.yna.co.kr/view/AKR20220104119900530?section=safe/news",
-		"date": "01-04 16:31"
-	},
-	"e24be79ce40fbf3bb0705e16d7a5bf02e330cee91b17071be59d9d371ce176f5": {
-		"title": "'팀 킴 출전' 컬링 그랜드슬램 오픈, 오미크론 여파로 취소",
-		"link": "www.yna.co.kr/view/AKR20220104123900007?section=safe/news",
-		"date": "01-04 16:16"
-	},
-	"193bfc57c403b68f73087d3eafeda87e5799476f1a7dbf531df5ed92a62c2d9e": {
-		"title": "경기도 코로나 전담병상 가동률 '60%대→40%대'…대응여력 개선",
-		"link": "www.yna.co.kr/view/AKR20220104114100061?section=safe/news",
-		"date": "01-04 16:15"
-	},
-	"dc1296a103b3f5377943b0348dbf7124115f1b24f7dd375c460d5078a9b57043": {
-		"title": "자영업 단체, 방역지침 반발 잇따라…\"6일부터 점등시위\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20220104086651003?section=safe/news",
-		"date": "01-04 16:04"
-	},
-	"3bc57c7d40766b4f46c80f85e5256fc9dbb6be7984f01c0e7c1c5e33c6ee51d6": {
-		"title": "'돌연변이 46개' 새 변이 출현…오미크론 밀어낼지는 미지수(종합)",
-		"link": "www.yna.co.kr/view/AKR20220104039651009?section=safe/news",
-		"date": "01-04 16:04"
-	},
-	"9ca09549d729093ae2db1819e16c55231ba27972ad6c18b85898cec6cc575ef0": {
-		"title": "\"오미크론에 올봄 다시 대규모 유행예상…대응체계 정비해야\"",
-		"link": "www.yna.co.kr/view/AKR20220104119300530?section=safe/news",
-		"date": "01-04 16:03"
-	},
-	"71e2436c544409bb2f10386594b73a009e797214848641290f89d22e8486f76a": {
-		"title": "\"프랑스서 발견된 코로나19 새 변이, 국내에선 아직 미검출\"",
-		"link": "www.yna.co.kr/view/AKR20220104116800530?section=safe/news",
-		"date": "01-04 15:47"
-	},
-	"0fe7057ff96d8650cef87a9061a10766a4fabd6610b629cd2c6db08c452810f1": {
-		"title": "러시아 국영 로스테흐 \"코로나·독감 동시 예방 백신 개발 중\"",
-		"link": "www.yna.co.kr/view/AKR20220104106700009?section=safe/news",
-		"date": "01-04 15:34"
-	},
-	"5cd13e56b726821604d0f726b7bc6a273367b2deebbd1a01c020b08e3c24b6d8": {
-		"title": "장성군, 코로나19 일상회복 지원금 20만원 지급",
-		"link": "www.yna.co.kr/view/AKR20220104110500054?section=safe/news",
-		"date": "01-04 15:20"
-	},
-	"34c1de66b20c7b1b5100564ed22265cee94589270e768c67e540ce5736ef347c": {
-		"title": "오미크론에 미국 소매업 타격…월마트, 50여개 매장 일시폐쇄",
-		"link": "www.yna.co.kr/view/AKR20220104106000009?section=safe/news",
-		"date": "01-04 15:10"
-	},
-	"0738dfe17aebd3234b4b8ea7491bc5bcce3c0c2824cd2166756d289f136e3fe2": {
-		"title": "전남지역 지난해 선제검사 300만건 \"방역 효과 컸다\"",
-		"link": "www.yna.co.kr/view/AKR20220104106900054?section=safe/news",
-		"date": "01-04 15:08"
-	},
-	"e6f7d7d9fc6c013a396c034806ea753d438929e0d59aeac19f934a94a10863ae": {
-		"title": "전북 오미크론 감염자 9명 추가…누적 186명, 의심자 159명",
-		"link": "www.yna.co.kr/view/AKR20220104108800055?section=safe/news",
-		"date": "01-04 15:06"
 	}
 }
