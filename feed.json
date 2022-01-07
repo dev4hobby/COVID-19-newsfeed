@@ -1,4 +1,104 @@
 {
+	"8cc5da73d80d5abf771b6d0faaaa3b0241e0cf9b0e18ea41e3ac9c4b81814887": {
+		"title": "서울 1천38명 신규 확진…전날보다 170명 적어(종합)",
+		"link": "www.yna.co.kr/view/AKR20220107043151004?section=safe/news",
+		"date": "01-07 11:07"
+	},
+	"753008f0aa1aa4fb18c062211481944f86af42de58a8d07462df1155adc61498": {
+		"title": "\"오미크론·델타 혼재\"…목포·무안 집단 연쇄감염 무차별 확산",
+		"link": "www.yna.co.kr/view/AKR20220107059400054?section=safe/news",
+		"date": "01-07 11:01"
+	},
+	"859a1c3a2775fab733797d2a3f6489ef03137856cf2eaba60084421e500e0066": {
+		"title": "[속보] 정부 \"방역강화 조치로 코로나19 유행·의료대응 역량 안정세\"",
+		"link": "www.yna.co.kr/view/AKR20220107059200530?section=safe/news",
+		"date": "01-07 11:00"
+	},
+	"5af7684438b7b94d98ffa5b7c8db82e3b4158e431da258c5c7f36bb879b36a48": {
+		"title": "[속보] \"60세 이상 확진자 비율 15.8%P↓…18세 이하 비율은 1.5%P↑\"",
+		"link": "www.yna.co.kr/view/AKR20220107059500530?section=safe/news",
+		"date": "01-07 11:00"
+	},
+	"be27a58b4867300f56bfc038ed2ed05f51aa9f7704c3382f357bc5ca1f943e04": {
+		"title": "미국 하루 평균 확진 60만명…1분당 400명 넘게 감염(종합)",
+		"link": "www.yna.co.kr/view/AKR20220107059100075?section=safe/news",
+		"date": "01-07 10:59"
+	},
+	"f9263e051c336baa98687bcd7b90319319202fdd7356cc66757d7d7a9f680425": {
+		"title": "기지 주변 오미크론 감염확산에 '미일지위협정' 개정론 급부상",
+		"link": "www.yna.co.kr/view/AKR20220107055900073?section=safe/news",
+		"date": "01-07 10:57"
+	},
+	"fff20f70311ea38b77ebea7134cc433a12447d5a46255d18cf61d6727321e5af": {
+		"title": "대구 99명 추가 확진…오미크론 확정 17명 추가",
+		"link": "www.yna.co.kr/view/AKR20220107057400053?section=safe/news",
+		"date": "01-07 10:45"
+	},
+	"b8ddce00615c69da02944c8135cec208a4e1d6a7ec93471103e959364cbd1b29": {
+		"title": "파키스탄 알비 대통령, 작년 3월 이어 또 코로나 감염",
+		"link": "www.yna.co.kr/view/AKR20220107057100077?section=safe/news",
+		"date": "01-07 10:43"
+	},
+	"b3cd9f282e174402783c93e1dd073375f765754e4f1d2999b2cf1bee7119ff68": {
+		"title": "조코비치 입국거부에 세르비아 반발…호주 \"1위도 백신 맞아야\"",
+		"link": "www.yna.co.kr/view/AKR20220107045000009?section=safe/news",
+		"date": "01-07 10:34"
+	},
+	"9588568be455d4b0c2fdef7e480b7ecd8e3f88069aad0cb2f35320b7313a8bc6": {
+		"title": "홍콩 오미크론 비상인데 고위직 대규모 '내로남불' 생일파티",
+		"link": "www.yna.co.kr/view/AKR20220107052300074?section=safe/news",
+		"date": "01-07 10:33"
+	},
+	"c8e2037b3c9afc2ac68c2a6e796015340dbb3a4dc8c70a5f2000687dbcdb3ae2": {
+		"title": "인니 하루 확진자 500명대로↑…'항체 보유율 85%' 주장도",
+		"link": "www.yna.co.kr/view/AKR20220107053200104?section=safe/news",
+		"date": "01-07 10:30"
+	},
+	"88651eb2a44931dcc79ec20a4af954e724be8c9395cecb46af24633ce2494d6f": {
+		"title": "전북 코로나재생산지수, 작년 연말 1에서 0.76으로 '뚝'",
+		"link": "www.yna.co.kr/view/AKR20220107049900055?section=safe/news",
+		"date": "01-07 10:25"
+	},
+	"f9bd60d6bfa4bdadfdf254cfadeeba0a2a771e7eb507b0070bb2e5d2681e8495": {
+		"title": "중국 감염병 권위자 \"저위험지역 주민 춘제 귀성 가능\"",
+		"link": "www.yna.co.kr/view/AKR20220107047100097?section=safe/news",
+		"date": "01-07 10:21"
+	},
+	"33f85ff25e3268c5dc00394fe06188922b17ed1a407d4f8898803e315064fd22": {
+		"title": "군 코로나19 확진자 27명 늘어…25명은 돌파감염",
+		"link": "www.yna.co.kr/view/AKR20220107053000504?section=safe/news",
+		"date": "01-07 10:19"
+	},
+	"0be4d988e1a54a9d69dd230386e4267f7406a480e08e41e0268ff875db0fbbea": {
+		"title": "인천 181명 확진…감염자 6명 치료 중 사망",
+		"link": "www.yna.co.kr/view/AKR20220107049300065?section=safe/news",
+		"date": "01-07 10:07"
+	},
+	"1d37561cd13f5132b1f7fcb26f17c04d0c2d09938c3fbfe36851bdaf08486cfb": {
+		"title": "경기 1천261명 확진…사흘째 1천200∼1천500명대로 주춤",
+		"link": "www.yna.co.kr/view/AKR20220107042400061?section=safe/news",
+		"date": "01-07 10:00"
+	},
+	"bfe88aa4cf972a6a7d66f5b68e6cdbf0a3880d5e37dccd3aee4be3b6c3ba50fd": {
+		"title": "대전서 29명 신규 확진…작년 11월 13일 18명 이후 최소",
+		"link": "www.yna.co.kr/view/AKR20220107037800063?section=safe/news",
+		"date": "01-07 10:00"
+	},
+	"6bdbf26c6546c0d0152485f15ffc7fd53ab0f96b2d1a5a14e3018cd7ed4391c0": {
+		"title": "울산서 밤사이 13명 확진…누적 7천182명",
+		"link": "www.yna.co.kr/view/AKR20220107047500057?section=safe/news",
+		"date": "01-07 10:00"
+	},
+	"e8434dca9207944e576d4de02ec1fac5045f447e536aca514e4b1136ff06ae74": {
+		"title": "두테르테, 코로나 재확산에 \"백신 미접종자 집에서 나오면 체포\"",
+		"link": "www.yna.co.kr/view/AKR20220107046200084?section=safe/news",
+		"date": "01-07 09:57"
+	},
+	"9e88706acd8b506d4e439d85f2403471effe0e8bd9f1831ae76adab326c3032c": {
+		"title": "위중증 환자 839명, 이틀 연속 800명대…신규확진 3천717명(종합)",
+		"link": "www.yna.co.kr/view/AKR20220107045600530?section=safe/news",
+		"date": "01-07 09:55"
+	},
 	"9b596116d0a20c9a5df459b1fd0d615932120297acf152017415a83dd7e92216": {
 		"title": "서울 1천38명 신규 확진…전날보다 170명 적어",
 		"link": "www.yna.co.kr/view/AKR20220107043100004?section=safe/news",
@@ -398,105 +498,5 @@
 		"title": "[영상] \"톱스타라도 안봐줘\"…백신 거부 조코비치 호주오픈 '물거품'",
 		"link": "www.yna.co.kr/view/AKR20220106088200534?section=safe/news",
 		"date": "01-06 12:08"
-	},
-	"a3a7a2861024e35ac29a80a57c64615e32945a3045a8ce94585ffb6d551b5e9e": {
-		"title": "이탈리아, 확진자 급증에 50세 이상 백신접종 의무화",
-		"link": "www.yna.co.kr/view/AKR20220106089700009?section=safe/news",
-		"date": "01-06 11:56"
-	},
-	"55847daa321d6532379834a960b8a7d00eedd8afce821ca99fc13bde9f15f4b4": {
-		"title": "서울 오미크론 누적 316명…해외유입 296명·국내감염 20명(종합)",
-		"link": "www.yna.co.kr/view/AKR20220106049851004?section=safe/news",
-		"date": "01-06 11:41"
-	},
-	"4ec528525e1f35e87d4896933fe94a22bb73a05c38b9067b2562a0d7f8715b73": {
-		"title": "2년여 만에 추진 한미일 국방장관 회담, 코로나 여파로 연기(종합)",
-		"link": "www.yna.co.kr/view/AKR20220106010851073?section=safe/news",
-		"date": "01-06 11:29"
-	},
-	"8b60a67114cf240693345fe9887e922f2a0ff58cc4557e369c3be84d79d2c39b": {
-		"title": "세종서 일가족 2명 오미크론 변이 감염…누적 9명",
-		"link": "www.yna.co.kr/view/AKR20220106083500063?section=safe/news",
-		"date": "01-06 11:28"
-	},
-	"956f0f17315ad71c59cc1caa124f7642d47e0a767b8fe46419631de90945a38e": {
-		"title": "전세계 하루 확진 261만명…각국 연일 최다치",
-		"link": "www.yna.co.kr/view/AKR20220106057700009?section=safe/news",
-		"date": "01-06 11:24"
-	},
-	"f5589c05968c832b0e4b1c4d8ed289b8330425a6c8464cb157e59b24dc44ca5b": {
-		"title": "캐나다 항공사들, '노마스크' 전세기 파티객들 잇단 탑승 거부",
-		"link": "www.yna.co.kr/view/AKR20220106080100009?section=safe/news",
-		"date": "01-06 11:23"
-	},
-	"5faf460f68bed913abd1f15f3e8a234a60011e8c465f0f3064ecb6fbd52b0c4c": {
-		"title": "빠르지만 덜 아픈 오미크론…각국 대응 수위조절 '우왕좌왕'",
-		"link": "www.yna.co.kr/view/AKR20220106068000009?section=safe/news",
-		"date": "01-06 11:17"
-	},
-	"8e7056bc6c2324d9d7a6b24f4a4f91e26ab0c633e5694f7bb9e52c6b36152f30": {
-		"title": "중랑구 학원·도봉구 어린이집 집단감염…29명 확진",
-		"link": "www.yna.co.kr/view/AKR20220106078300004?section=safe/news",
-		"date": "01-06 11:12"
-	},
-	"c99fe0ca67284b4b2d6a610f8810a1f4d12465e8f747f544f572f05e71bcd874": {
-		"title": "부산 오미크론 포함한 집단감염 등으로 228명 확진",
-		"link": "www.yna.co.kr/view/AKR20220106075000051?section=safe/news",
-		"date": "01-06 11:04"
-	},
-	"f69b454da2c97a53458ed104b3a6a13447350de4f328793f25f0a50ad764e8bb": {
-		"title": "부산공동어시장 코로나19 확진자 늘면서 이틀째 위판 차질",
-		"link": "www.yna.co.kr/view/AKR20220106070000051?section=safe/news",
-		"date": "01-06 11:01"
-	},
-	"16d07c867fda611bb42454b54c5e93c8cb9c9c4335319aac9260cf45a7a4a5e5": {
-		"title": "대구서 110명 추가 확진…오미크론도 15명 더 나와",
-		"link": "www.yna.co.kr/view/AKR20220106069800053?section=safe/news",
-		"date": "01-06 10:49"
-	},
-	"2ec4e1543209efd0172cf42458d6594728736998be836ef4e7973f0f940af681": {
-		"title": "[영상] 'BTS 기다렸는데'…오미크론 여파로 그래미 시상 연기",
-		"link": "www.yna.co.kr/view/AKR20220106061400534?section=safe/news",
-		"date": "01-06 10:46"
-	},
-	"2ed1702dc926d242a2a27ed3681cb09e686af7bcb69586404e11b47ccac60f1e": {
-		"title": "싱가포르, 오미크론 우려에 \"부스터샷 맞아야 접종완료 인정\"",
-		"link": "www.yna.co.kr/view/AKR20220106065200076?section=safe/news",
-		"date": "01-06 10:45"
-	},
-	"4d93f989bafdfc5f612b263b7389383f4eb05bc571d17142fae0f0111373578d": {
-		"title": "미국서도 '플루로나' 확인…LA 10대, 코로나·독감 동시 감염",
-		"link": "www.yna.co.kr/view/AKR20220106058200075?section=safe/news",
-		"date": "01-06 10:34"
-	},
-	"755677e0c5d5d457c8b126b89a8dc165a3b6a9f32d46f8c6bc84f124f424d28a": {
-		"title": "포항 전통시장서 집단 감염 발생…임시 선별진료소 운영",
-		"link": "www.yna.co.kr/view/AKR20220106064400053?section=safe/news",
-		"date": "01-06 10:33"
-	},
-	"8a024b23de88a0534e0d1c2b17044ded026dccfc9c1123e89491058b23fa92e1": {
-		"title": "아이진, mRNA 코로나백신 부스터샷 호주 임상 1·2a상 신청",
-		"link": "www.yna.co.kr/view/AKR20220106051300017?section=safe/news",
-		"date": "01-06 10:20"
-	},
-	"c06a5a55eee3931a3d8816b9c5c61be7743f3ed9b66434fc4da63a66968591a3": {
-		"title": "울산서 밤사이 30명 확진…해외입국자 6명 포함",
-		"link": "www.yna.co.kr/view/AKR20220106059500057?section=safe/news",
-		"date": "01-06 10:16"
-	},
-	"08291e64e57ca7d4180a2077cee159d374ae091044116ca4aef2cad4f315d680": {
-		"title": "군 코로나19 확진자 16명 늘어…14명은 돌파감염",
-		"link": "www.yna.co.kr/view/AKR20220106056200504?section=safe/news",
-		"date": "01-06 10:15"
-	},
-	"236c9b9d431273a5dad71b6bc8577be6df7c2da202278ec657359ad0455f438c": {
-		"title": "연말연시 거친 일본 확진자 2천638명으로 급증…\"6차 유행 초입\"",
-		"link": "www.yna.co.kr/view/AKR20220106053200073?section=safe/news",
-		"date": "01-06 10:13"
-	},
-	"f0cfa7a3e7f9314647e7ec1b0036ad41e807e7189578b09db6b988d32ffaaa5e": {
-		"title": "인천 283명 확진…감염자 6명 치료 중 사망",
-		"link": "www.yna.co.kr/view/AKR20220106057500065?section=safe/news",
-		"date": "01-06 10:09"
 	}
 }
