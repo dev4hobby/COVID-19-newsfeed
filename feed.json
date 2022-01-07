@@ -1,4 +1,69 @@
 {
+	"9b596116d0a20c9a5df459b1fd0d615932120297acf152017415a83dd7e92216": {
+		"title": "서울 1천38명 신규 확진…전날보다 170명 적어",
+		"link": "www.yna.co.kr/view/AKR20220107043100004?section=safe/news",
+		"date": "01-07 09:42"
+	},
+	"54464905a3969d2c41ee457b66bf5c390d888d594f0e4fba8689b118d41f2b1e": {
+		"title": "[속보] 코로나19로 어제 45명 사망…누적 5천932명",
+		"link": "www.yna.co.kr/view/AKR20220107027600530?section=safe/news",
+		"date": "01-07 09:31"
+	},
+	"f92843ec59e0ef13d7b6ecad4d3129aade71f22aa79288417847e96644d97a20": {
+		"title": "이탈리아→인도 여객기 승객 179명 중 125명 확진",
+		"link": "www.yna.co.kr/view/AKR20220107040400009?section=safe/news",
+		"date": "01-07 09:31"
+	},
+	"6b79dbcee406bf6839549f9de3d5f0cb9c926a857d9ab7c9d2290d517d12d0d5": {
+		"title": "[1보] 위중증 환자 839명, 이틀 연속 800명대…신규확진 3천717명",
+		"link": "www.yna.co.kr/view/AKR20220107027400530?section=safe/news",
+		"date": "01-07 09:30"
+	},
+	"01cf2512893ec513c657d95ada377d7866c7520e25abb758ef173594825c7bdb": {
+		"title": "'백신 거부' 조코비치 vs '입국 거부' 호주…쟁점과 전망은",
+		"link": "www.yna.co.kr/view/AKR20220107038600007?section=safe/news",
+		"date": "01-07 09:18"
+	},
+	"935672ae13ba128330b8fae5c84e6e08cb7e8df4017e04c15c6e098882c16766": {
+		"title": "충북 어제 90명 확진…충주 초등학교 등 교육기관 감염 지속",
+		"link": "www.yna.co.kr/view/AKR20220107032400064?section=safe/news",
+		"date": "01-07 09:12"
+	},
+	"ad296d8ee01f8a8f57d2ef6e15e901577d9afb34f795f2a678e693438cea98c4": {
+		"title": "경북 확진자 109명 발생…오미크론 변이 14명 추가",
+		"link": "www.yna.co.kr/view/AKR20220107033300053?section=safe/news",
+		"date": "01-07 09:05"
+	},
+	"0b19bb0e87ba7e6c584613f82aedd046f25acc196fdd7e05ff6900bc25c98b51": {
+		"title": "코로나19 '먹는 치료제' 다음주 국내 들어온다(종합)",
+		"link": "www.yna.co.kr/view/AKR20220107029251001?section=safe/news",
+		"date": "01-07 09:05"
+	},
+	"3c8f04c56547cc2e156f71e450aa0753b19d4b1e35b5483f63abea92ed4e21d4": {
+		"title": "[특파원시선] 오미크론 우세 직면 독일…봉쇄없이 극복할까",
+		"link": "www.yna.co.kr/view/AKR20220107004700082?section=safe/news",
+		"date": "01-07 09:01"
+	},
+	"fb9e7a1e87146dfcb1df4fa64ca505de2608d2bee4b50f76ec92f5222b01dbe3": {
+		"title": "아프리카네이션스컵축구 코로나19로 비상…오바메양 등 양성반응",
+		"link": "www.yna.co.kr/view/AKR20220107031400007?section=safe/news",
+		"date": "01-07 08:49"
+	},
+	"6d265e305e38203c294d61a1f73667a95e924da32bde3aa0def4f7ee44cfd837": {
+		"title": "고양시 '안심콜 방역패스' 20일 만에 1만6천 업소로 확산",
+		"link": "www.yna.co.kr/view/AKR20220107031100060?section=safe/news",
+		"date": "01-07 08:47"
+	},
+	"8251d335a9ce3812af5ce09d42d22e3bb09f9e41ad9ca4f2304b62634a3fddf7": {
+		"title": "멈추지 않는 코로나19 확산세…광주·전남 211명",
+		"link": "www.yna.co.kr/view/AKR20220107028300054?section=safe/news",
+		"date": "01-07 08:41"
+	},
+	"30271cac4ca1afbc73c43975059a43dc811e4389313bcde271ef74fc6d8d36a1": {
+		"title": "[2보] 코로나19 '먹는 치료제' 다음주 국내 들어온다",
+		"link": "www.yna.co.kr/view/AKR20220107029200001?section=safe/news",
+		"date": "01-07 08:41"
+	},
 	"48bfa1aac5e26764e81fda65c134799519f887604ed39ff61efab42a0a8c0e47": {
 		"title": "브라질 오미크론 확산에 코로나 확진자 급증세로 돌아서",
 		"link": "www.yna.co.kr/view/AKR20220107025500094?section=safe/news",
@@ -433,70 +498,5 @@
 		"title": "인천 283명 확진…감염자 6명 치료 중 사망",
 		"link": "www.yna.co.kr/view/AKR20220106057500065?section=safe/news",
 		"date": "01-06 10:09"
-	},
-	"dfeb03c793e53d5853c9608ebc3ce871bfbe2cf4d186a349b5e0fcaad42c42e7": {
-		"title": "전북, 전날 71명 확진…가족·지인 통한 감염 지속",
-		"link": "www.yna.co.kr/view/AKR20220106049700055?section=safe/news",
-		"date": "01-06 10:06"
-	},
-	"ca91d5e4450a7de4874f75b0c8f29ada6f7db723ece9911be52880159e9d1b3a": {
-		"title": "대전서 학교·요양병원 등 확산 지속에 41명 신규 확진",
-		"link": "www.yna.co.kr/view/AKR20220106034000063?section=safe/news",
-		"date": "01-06 10:00"
-	},
-	"41471cccbe0fd2e04ec806f40db9ec58505e50e1d04fa52b6053b033a2df8415": {
-		"title": "경기 확진자 이틀째 1천500명 안팎…어제 1천526명 확진",
-		"link": "www.yna.co.kr/view/AKR20220106048800061?section=safe/news",
-		"date": "01-06 10:00"
-	},
-	"78f1181578bea0da43e81abef7c6292e9096ae766c97344dd462773db21645f9": {
-		"title": "위중증 882명, 24일 만에 800명대…신규 확진 4천126명(종합)",
-		"link": "www.yna.co.kr/view/AKR20220106042700530?section=safe/news",
-		"date": "01-06 09:52"
-	},
-	"9b6bc1ccc35d46f5ef4e464226b6a086689d4d3bfcf7aca1287fdade31cfbdbd": {
-		"title": "경북 닷새째 두 자릿수…오미크론 변이 6명 추가",
-		"link": "www.yna.co.kr/view/AKR20220106044900053?section=safe/news",
-		"date": "01-06 09:52"
-	},
-	"73cd858534b3b70adce57ad543fe8fd01bd5cd7482ba37e6367aa5f8c77b0206": {
-		"title": "충북 어제 45명 확진…오미크론 감염 9명 추가",
-		"link": "www.yna.co.kr/view/AKR20220106047100064?section=safe/news",
-		"date": "01-06 09:49"
-	},
-	"237d1a011888fd89bf00585040a5c25e7933f6fd067edd1cb414f95a68bfb9e5": {
-		"title": "서울 1천208명 신규 확진…전날보다 204명 줄어",
-		"link": "www.yna.co.kr/view/AKR20220106049800004?section=safe/news",
-		"date": "01-06 09:47"
-	},
-	"5b8912e1a72e95b0780fec63d6bda05213a77a4ebdcda14d8b30cc9b458022ae": {
-		"title": "미 CDC 자문기구도 12세 이상 화이자 부스터 샷 권고",
-		"link": "www.yna.co.kr/view/AKR20220106034300075?section=safe/news",
-		"date": "01-06 09:32"
-	},
-	"e4ea5501c79727478910990c59455e157334354f0dcb785e1dead33ce581c167": {
-		"title": "[속보] 코로나19로 어제 49명 사망…누적 5천887명",
-		"link": "www.yna.co.kr/view/AKR20220106035100530?section=safe/news",
-		"date": "01-06 09:31"
-	},
-	"f04c7f3394b1cc5b3d07a40cbcaab49232686f633e9248debe5097e19ceff339": {
-		"title": "[1보] 위중증 882명, 24일 만에 800명대…신규 확진 4천126명",
-		"link": "www.yna.co.kr/view/AKR20220106034900530?section=safe/news",
-		"date": "01-06 09:30"
-	},
-	"d842a2c40c6c048dad4330530b22aef576c7ca663973b2f78e6da660097173ef": {
-		"title": "유은혜, 국립대병원 코로나19 중증환자 병상확보 상황 점검",
-		"link": "www.yna.co.kr/view/AKR20220106043400530?section=safe/news",
-		"date": "01-06 09:24"
-	},
-	"e7c927865532ec8961d4b1892012347e646b68d2881dbb0c7fae57c747e431ce": {
-		"title": "IOC, 오미크론 확산에도 \"베이징 동계올림픽 예정대로 개최\"",
-		"link": "www.yna.co.kr/view/AKR20220106035000007?section=safe/news",
-		"date": "01-06 08:55"
-	},
-	"8b0523767e6f5ddbb5a142c21a671a1adca52da79547309f2b8bd87e4d7fbffb": {
-		"title": "광주·전남서 150명 신규 확진…교육·보육시설 또 집단감염",
-		"link": "www.yna.co.kr/view/AKR20220106032800054?section=safe/news",
-		"date": "01-06 08:49"
 	}
 }
