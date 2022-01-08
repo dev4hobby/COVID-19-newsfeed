@@ -1,4 +1,69 @@
 {
+	"17c79a5f17ac9d8e1a3d0d2619efa72002f16381cb0c485972e68677eabf5bbc": {
+		"title": "전북 코로나 67명 확진…가족·지인 감염 지속",
+		"link": "www.yna.co.kr/view/AKR20220108026000055?section=safe/news",
+		"date": "01-08 10:42"
+	},
+	"b6a80001f51a6b8f4adc070783b1942cc498b87e113d5b88740b68e8c2bf457c": {
+		"title": "울산 18명 신규 확진…산발적 연쇄 감염 지속",
+		"link": "www.yna.co.kr/view/AKR20220108025500057?section=safe/news",
+		"date": "01-08 10:26"
+	},
+	"25ba26718c7d26e941b0e6ff6cfa684291667c0faaf73730afbc39ad6d0c387c": {
+		"title": "인천서 203명 확진…재택치료자 1명 숨진 채 발견",
+		"link": "www.yna.co.kr/view/AKR20220108024900065?section=safe/news",
+		"date": "01-08 10:16"
+	},
+	"96e53946a34c6411963c5c72187311ff565123622285095919f9ea4e4116ee20": {
+		"title": "군 코로나19 확진자 22명 늘어…21명은 돌파감염",
+		"link": "www.yna.co.kr/view/AKR20220108025100504?section=safe/news",
+		"date": "01-08 10:15"
+	},
+	"4919e89749ffd1395980f5b670562f47b5ef375190e94719cb0e024c486884f8": {
+		"title": "브라질 코로나 재확산세 뚜렷…확진자 1주일새 6배 증가",
+		"link": "www.yna.co.kr/view/AKR20220108023400094?section=safe/news",
+		"date": "01-08 10:09"
+	},
+	"4f72f60c7f87e4214afb8cf7f044d76d39edddf5d632f966bedab46ef5846901": {
+		"title": "'코로나 청정' 대만도 오미크론 경계경보…한주간 79명",
+		"link": "www.yna.co.kr/view/AKR20220108022800074?section=safe/news",
+		"date": "01-08 10:05"
+	},
+	"faf1a7b9c4ee313e871a9e8f23c91ba88fcf1484997b3d1ed03cd92a8301d089": {
+		"title": "위중증 838명, 사흘째 800명대…신규확진 3천510명(종합)",
+		"link": "www.yna.co.kr/view/AKR20220108012100530?section=safe/news",
+		"date": "01-08 10:00"
+	},
+	"f8bda3dd76febc8f005cf1c5498eb5b18d3d362bc14441e6bf7be17c86674458": {
+		"title": "대전서 47명 신규 확진…오미크론 감염 6명 늘어 44명째",
+		"link": "www.yna.co.kr/view/AKR20220108020700063?section=safe/news",
+		"date": "01-08 10:00"
+	},
+	"bfd946d6d7b247fb4a25ba5f6b3435af2e7fe9536f717c74130fa2dead6d297f": {
+		"title": "경기 1천208명 확진…이틀 연속 1천200명대로 확산세 주춤",
+		"link": "www.yna.co.kr/view/AKR20220108021400061?section=safe/news",
+		"date": "01-08 10:00"
+	},
+	"816d27c18821eeae249f4fbcaca9074ab9a84404e3a45030feda3687bf9c6cb1": {
+		"title": "서울 994명 신규 확진…전날보다 44명 적어",
+		"link": "www.yna.co.kr/view/AKR20220108022700004?section=safe/news",
+		"date": "01-08 09:58"
+	},
+	"ba13d20c5efa3b1df265b822a2dd01c72b5fa11fee82b04ebf4bed4bf4ad4278": {
+		"title": "이재명, 코로나 확진자 밀접접촉 가능성…오늘 일정 순연",
+		"link": "www.yna.co.kr/view/AKR20220108022200001?section=safe/news",
+		"date": "01-08 09:39"
+	},
+	"863a3b2f575128237ac4d3e667eec16bcdde046533e194a4dcdfc64247d844d5": {
+		"title": "[속보] 코로나19로 어제 54명 사망…누적 5천986명",
+		"link": "www.yna.co.kr/view/AKR20220108018300530?section=safe/news",
+		"date": "01-08 09:30"
+	},
+	"db3f21578165e8519f774b1395577ff5c6429f9cb8432174981bb933ceeeb68c": {
+		"title": "[1보] 위중증 838명, 사흘째 800명대…신규확진 3천510명",
+		"link": "www.yna.co.kr/view/AKR20220108018100530?section=safe/news",
+		"date": "01-08 09:30"
+	},
 	"0178003fb6697f9e443571e47a7088ee5f5f763988968b464d752429ab0d7018": {
 		"title": "경북 확진자 85명 추가…오미크론 변이 누적 66명",
 		"link": "www.yna.co.kr/view/AKR20220108021300053?section=safe/news",
@@ -433,70 +498,5 @@
 		"title": "부산 시내버스 차고지서 6명 추가 감염…승객 검사 권고",
 		"link": "www.yna.co.kr/view/AKR20220107061800051?section=safe/news",
 		"date": "01-07 11:11"
-	},
-	"8cc5da73d80d5abf771b6d0faaaa3b0241e0cf9b0e18ea41e3ac9c4b81814887": {
-		"title": "서울 1천38명 신규 확진…전날보다 170명 적어(종합)",
-		"link": "www.yna.co.kr/view/AKR20220107043151004?section=safe/news",
-		"date": "01-07 11:07"
-	},
-	"753008f0aa1aa4fb18c062211481944f86af42de58a8d07462df1155adc61498": {
-		"title": "\"오미크론·델타 혼재\"…목포·무안 집단 연쇄감염 무차별 확산",
-		"link": "www.yna.co.kr/view/AKR20220107059400054?section=safe/news",
-		"date": "01-07 11:01"
-	},
-	"859a1c3a2775fab733797d2a3f6489ef03137856cf2eaba60084421e500e0066": {
-		"title": "[속보] 정부 \"방역강화 조치로 코로나19 유행·의료대응 역량 안정세\"",
-		"link": "www.yna.co.kr/view/AKR20220107059200530?section=safe/news",
-		"date": "01-07 11:00"
-	},
-	"5af7684438b7b94d98ffa5b7c8db82e3b4158e431da258c5c7f36bb879b36a48": {
-		"title": "[속보] \"60세 이상 확진자 비율 15.8%P↓…18세 이하 비율은 1.5%P↑\"",
-		"link": "www.yna.co.kr/view/AKR20220107059500530?section=safe/news",
-		"date": "01-07 11:00"
-	},
-	"be27a58b4867300f56bfc038ed2ed05f51aa9f7704c3382f357bc5ca1f943e04": {
-		"title": "미국 하루 평균 확진 60만명…1분당 400명 넘게 감염(종합)",
-		"link": "www.yna.co.kr/view/AKR20220107059100075?section=safe/news",
-		"date": "01-07 10:59"
-	},
-	"f9263e051c336baa98687bcd7b90319319202fdd7356cc66757d7d7a9f680425": {
-		"title": "기지 주변 오미크론 감염확산에 '미일지위협정' 개정론 급부상",
-		"link": "www.yna.co.kr/view/AKR20220107055900073?section=safe/news",
-		"date": "01-07 10:57"
-	},
-	"fff20f70311ea38b77ebea7134cc433a12447d5a46255d18cf61d6727321e5af": {
-		"title": "대구 99명 추가 확진…오미크론 확정 17명 추가",
-		"link": "www.yna.co.kr/view/AKR20220107057400053?section=safe/news",
-		"date": "01-07 10:45"
-	},
-	"b8ddce00615c69da02944c8135cec208a4e1d6a7ec93471103e959364cbd1b29": {
-		"title": "파키스탄 알비 대통령, 작년 3월 이어 또 코로나 감염",
-		"link": "www.yna.co.kr/view/AKR20220107057100077?section=safe/news",
-		"date": "01-07 10:43"
-	},
-	"b3cd9f282e174402783c93e1dd073375f765754e4f1d2999b2cf1bee7119ff68": {
-		"title": "조코비치 입국거부에 세르비아 반발…호주 \"1위도 백신 맞아야\"",
-		"link": "www.yna.co.kr/view/AKR20220107045000009?section=safe/news",
-		"date": "01-07 10:34"
-	},
-	"9588568be455d4b0c2fdef7e480b7ecd8e3f88069aad0cb2f35320b7313a8bc6": {
-		"title": "홍콩 오미크론 비상인데 고위직 대규모 '내로남불' 생일파티",
-		"link": "www.yna.co.kr/view/AKR20220107052300074?section=safe/news",
-		"date": "01-07 10:33"
-	},
-	"c8e2037b3c9afc2ac68c2a6e796015340dbb3a4dc8c70a5f2000687dbcdb3ae2": {
-		"title": "인니 하루 확진자 500명대로↑…'항체 보유율 85%' 주장도",
-		"link": "www.yna.co.kr/view/AKR20220107053200104?section=safe/news",
-		"date": "01-07 10:30"
-	},
-	"88651eb2a44931dcc79ec20a4af954e724be8c9395cecb46af24633ce2494d6f": {
-		"title": "전북 코로나재생산지수, 작년 연말 1에서 0.76으로 '뚝'",
-		"link": "www.yna.co.kr/view/AKR20220107049900055?section=safe/news",
-		"date": "01-07 10:25"
-	},
-	"f9bd60d6bfa4bdadfdf254cfadeeba0a2a771e7eb507b0070bb2e5d2681e8495": {
-		"title": "중국 감염병 권위자 \"저위험지역 주민 춘제 귀성 가능\"",
-		"link": "www.yna.co.kr/view/AKR20220107047100097?section=safe/news",
-		"date": "01-07 10:21"
 	}
 }
