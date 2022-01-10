@@ -1,4 +1,9 @@
 {
+	"eb9116b223aacac38d1f97275cd51aca39f2396418440f262b034c91aa172345": {
+		"title": "EPL 코로나19 신규 확진자 72명…2주째 감소 추세",
+		"link": "www.yna.co.kr/view/AKR20220111030600007?section=safe/news",
+		"date": "01-11 08:38"
+	},
 	"38e1dfa1679627cdce7d93b01dafa1882dfed7e1beebcb6ed020d0bd2ddadb30": {
 		"title": "강원 코로나19 확진자 88명…보름째 두 자릿수 감염",
 		"link": "www.yna.co.kr/view/AKR20220111026500062?section=safe/news",
@@ -493,10 +498,5 @@
 		"title": "충북 어제 30명 확진…오미크론 감염 30명으로 늘어",
 		"link": "www.yna.co.kr/view/AKR20220110032100064?section=safe/news",
 		"date": "01-10 09:21"
-	},
-	"dac0e78d72f48d7b93178b1afd4ff0295adcaafaa55d7e63dc6f234aa581d93c": {
-		"title": "요양병원·학교 등 133명 확진…광주 하루 확진자 최고치(종합)",
-		"link": "www.yna.co.kr/view/AKR20220110019951054?section=safe/news",
-		"date": "01-10 09:11"
 	}
 }
