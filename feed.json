@@ -1,4 +1,44 @@
 {
+	"ebf23d2c04109cc162cc7328b22c78e9eaa29eef79b007de6b0a21e512fff33f": {
+		"title": "서울시 직영 코로나19 검사소 4→8곳 확대…오늘부터 운영",
+		"link": "www.yna.co.kr/view/AKR20220113083500004?section=safe/news",
+		"date": "01-13 11:28"
+	},
+	"62a1534e6300c6cd4d07d5f012f6a1a7cc17036c38b64580acfbe046c2b710bf": {
+		"title": "서울 신규확진 다시 900명대로 줄어…해외유입 120명",
+		"link": "www.yna.co.kr/view/AKR20220113081200004?section=safe/news",
+		"date": "01-13 11:22"
+	},
+	"ae3fc7f286a3c5b9e106cccea60de699e7a9af8eb9732825c258254e26998467": {
+		"title": "대구서 오미크론 변이 감염 확산…누적 369명",
+		"link": "www.yna.co.kr/view/AKR20220113079700053?section=safe/news",
+		"date": "01-13 11:17"
+	},
+	"3ea189bfc05e45c41451186f7fef7833e81c113efb32603537cf7214c95b0182": {
+		"title": "김천시, 근로자 코로나19 집단감염에 임시선별검사소 운영",
+		"link": "www.yna.co.kr/view/AKR20220113079500053?section=safe/news",
+		"date": "01-13 11:16"
+	},
+	"c4b2e39f6e4393e23e645009c73b2634e8da17d123c7052a8b120db5cf02e27a": {
+		"title": "부산 코로나19 중환자 과반이 미접종자…162명 신규 확진",
+		"link": "www.yna.co.kr/view/AKR20220113076200051?section=safe/news",
+		"date": "01-13 11:14"
+	},
+	"762ab1fe71982a98cc5ffd1a7f2ae79691732e8c79149e7a9d32dfcddb89bb15": {
+		"title": "확진 급증에도 방역푸는 유럽…\"이젠 독감처럼\" 주장 '솔솔'",
+		"link": "www.yna.co.kr/view/AKR20220113069100009?section=safe/news",
+		"date": "01-13 11:08"
+	},
+	"423de1e2fd29f04328412847aeb0e1913247fe50824379ca442f23dbf7c5d0b3": {
+		"title": "'코로나에 지친 마음 치유공간' 감정놀이터, 완주군에 들어선다",
+		"link": "www.yna.co.kr/view/AKR20220113074900055?section=safe/news",
+		"date": "01-13 11:06"
+	},
+	"0077ecacc4ac6931ca4f9dc74d3fd3d94c834e6785a8989d6747d6c3362cf457": {
+		"title": "[속보] \"오미크론 1∼2주 이내 우세종 될 듯, 확진자도 증가 전환 예상\"",
+		"link": "www.yna.co.kr/view/AKR20220113075600530?section=safe/news",
+		"date": "01-13 11:03"
+	},
 	"c8b9069217ebfb462830ee6d5375753d4404625562af7a522b76c40e543a6a7a": {
 		"title": "원주 시내 병원서 이틀 새 환자 등 50명 무더기 감염",
 		"link": "www.yna.co.kr/view/AKR20220113069500062?section=safe/news",
@@ -458,45 +498,5 @@
 		"title": "조코비치 \"유소년 행사 때는 코로나19 양성 사실 몰랐다\"",
 		"link": "www.yna.co.kr/view/AKR20220112089800007?section=safe/news",
 		"date": "01-12 13:08"
-	},
-	"dc80e7c783fd16c621d797b5a4906dc9796c0e2ad4f6700a95badf26aaedf890": {
-		"title": "'입국자 10일 격리' 연장될 듯…당국 \"CES 참석자 검사 받아야\"",
-		"link": "www.yna.co.kr/view/AKR20220112088800530?section=safe/news",
-		"date": "01-12 12:50"
-	},
-	"5cb903d1a5f402159c4129334db80de827f6230a26b3a61def87aa7f507b5add": {
-		"title": "코로나뚫고 인도찾은 통상본부장 \"협상 어려운 나라라 직접 와\"",
-		"link": "www.yna.co.kr/view/AKR20220112076700077?section=safe/news",
-		"date": "01-12 12:00"
-	},
-	"8348781162454365d4d9bcbeb3567e6224fd52387c7103d9b2b1736827339092": {
-		"title": "소상공인에 방역물품지원금 최대 10만원 지급…17일부터 접수",
-		"link": "www.yna.co.kr/view/AKR20220112033900003?section=safe/news",
-		"date": "01-12 12:00"
-	},
-	"d3e09610724ae9008d5313d76467b6e1a8f475889e541375d02167df37b90da6": {
-		"title": "중앙임상위 \"부스터샷, 오미크론 대응 중화항체 높여\"",
-		"link": "www.yna.co.kr/view/AKR20220112084300017?section=safe/news",
-		"date": "01-12 11:57"
-	},
-	"855d0ddaf69e11344b9d35e34717c86212875c54b32df69cbdf30a17efa6f8f8": {
-		"title": "중앙임상위원장 \"기존 엄격한 K-방역, 오미크론 대응에 부적절\"",
-		"link": "www.yna.co.kr/view/AKR20220112084500017?section=safe/news",
-		"date": "01-12 11:54"
-	},
-	"da54c1071b5703a7e0b7028538926baf8c123252cf3864353c92cbc510e58682": {
-		"title": "日 3차 접종률 0.7% 왜?…속도 낸다는데 백신 확보가 관건",
-		"link": "www.yna.co.kr/view/AKR20220112080700073?section=safe/news",
-		"date": "01-12 11:51"
-	},
-	"2eefc3d4c7bce0a7098e6045998c3234917cc918f69fb3f854461237f7ac1ae6": {
-		"title": "목포·무안 하루 확진자 110명…지역 내 무차별 확산 우려",
-		"link": "www.yna.co.kr/view/AKR20220112084000054?section=safe/news",
-		"date": "01-12 11:50"
-	},
-	"230b2c6a053e49d1ae4eb31f89c24a1f21656dd6df83c7100dc706653b347ee6": {
-		"title": "파우치, 백신 반대파 의원에 '버럭'…\"내 목숨 위협\"",
-		"link": "www.yna.co.kr/view/AKR20220112081900009?section=safe/news",
-		"date": "01-12 11:41"
 	}
 }
