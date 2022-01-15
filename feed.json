@@ -1,4 +1,54 @@
 {
+	"87d46bc9ed1e4bd76976b035c285df4d9a5df7a85b29e8bd490f3e18edb1aca6": {
+		"title": "전북 확진 123명 추가…대학운동부 관련 총 46명",
+		"link": "www.yna.co.kr/view/AKR20220115026400055?section=safe/news",
+		"date": "01-15 10:52"
+	},
+	"d7590792f4ca4d90af7717021df70b754c786bef78ef7a7026438cd88f44cfcb": {
+		"title": "대전 53명 확진…신규 집단감염 중 오미크론 비율 40% 넘어",
+		"link": "www.yna.co.kr/view/AKR20220115025900063?section=safe/news",
+		"date": "01-15 10:43"
+	},
+	"5552d4104458fc6206cabc17e2b797ce0ef53b6bc4c6bef637dde92efb47db11": {
+		"title": "인천 확진자 248명 추가…사망자도 5명",
+		"link": "www.yna.co.kr/view/AKR20220115024500065?section=safe/news",
+		"date": "01-15 10:20"
+	},
+	"686abbb1d6302c4147df33636e7988f54913e00d2e11dd3ff5654b0c15670192": {
+		"title": "'백신 거부' 조코비치 호주 재구금…법원 막판 심리(종합)",
+		"link": "www.yna.co.kr/view/AKR20220115022200009?section=safe/news",
+		"date": "01-15 10:13"
+	},
+	"166e08e83b562296f80ae7b51d8d0df2d026e896569e98215661f669677f69bc": {
+		"title": "울산 밤사이 9명 확진…해외입국자 4명 포함",
+		"link": "www.yna.co.kr/view/AKR20220115024300057?section=safe/news",
+		"date": "01-15 10:10"
+	},
+	"b7875ba58f23fa74a0c7a5c7a31e78da8cc45bd714380cef5e26086c29d8b71d": {
+		"title": "군 코로나19 23명 추가 확진…21명은 돌파감염",
+		"link": "www.yna.co.kr/view/AKR20220115024100504?section=safe/news",
+		"date": "01-15 10:08"
+	},
+	"9d34e0386bd9a350b9587b73420c37b8eea076629038f2f06db4d83b404f9bf9": {
+		"title": "경기 1천823명 확진…거센 확산세 평택시 683명",
+		"link": "www.yna.co.kr/view/AKR20220115022500061?section=safe/news",
+		"date": "01-15 10:00"
+	},
+	"7dc14220239a431a9759a10f7041d410463a045aa3c3429a3c63e1f7594840ac": {
+		"title": "위중증, 이틀째 600명대…신규확진, 나흘째 4천명대(종합)",
+		"link": "www.yna.co.kr/view/AKR20220115022600530?section=safe/news",
+		"date": "01-15 09:59"
+	},
+	"0c258b653456aed2e89e1c2fc05f2fbf8f2e0811db656dbea2d4a260290750a2": {
+		"title": "중국 광둥성 주하이도 오미크론 유입…이달 들어 5번째",
+		"link": "www.yna.co.kr/view/AKR20220115022000083?section=safe/news",
+		"date": "01-15 09:43"
+	},
+	"bd17516d5dc96a106b4f489b7002c05503bede00768924b6241da7f6fbc31ccf": {
+		"title": "美 CDC, 오미크론 확산에 의료진용 N95 마스크 착용 권고",
+		"link": "www.yna.co.kr/view/AKR20220115020900075?section=safe/news",
+		"date": "01-15 09:38"
+	},
 	"12833b3a01c975461f8bf0656f9d924b517beca7439211049e5af79d6e404e27": {
 		"title": "[속보] 코로나19로 어제 22명 사망…누적 6천281명",
 		"link": "www.yna.co.kr/view/AKR20220115020700530?section=safe/news",
@@ -448,55 +498,5 @@
 		"title": "[속보] \"이비인후과·내과·소아청소년과 의원 코로나 진료동참 협의중\"",
 		"link": "www.yna.co.kr/view/AKR20220114064700530?section=safe/news",
 		"date": "01-14 10:40"
-	},
-	"aa68bc59d420fa830bf2e31d4ddbb4850527c1a7a8f466c9081c74c222328c0b": {
-		"title": "오미크론 확산 중국 톈진 2차 전수검사서 44명 확진",
-		"link": "www.yna.co.kr/view/AKR20220114056200083?section=safe/news",
-		"date": "01-14 10:33"
-	},
-	"c1f2664a1a0979455e5eb6e8faf2a105cba96a0b57ed3ef3541f06c5a6b83a62": {
-		"title": "[속보] 정부 \"하루 확진자 7천명 되면 오미크론 대응전략 바로 실시\"",
-		"link": "www.yna.co.kr/view/AKR20220114062600530?section=safe/news",
-		"date": "01-14 10:32"
-	},
-	"c5cb32ffbdd8cb499bd6b97cc6a0f76d863f471fad1d14564ad48e1b5a48d217": {
-		"title": "울산 10명 신규 확진…해외입국자 3명 포함",
-		"link": "www.yna.co.kr/view/AKR20220114062000057?section=safe/news",
-		"date": "01-14 10:30"
-	},
-	"b70d81d117625eaf27f5d118190cd75bf7e0e9a0e2f9353fd641c940364d1189": {
-		"title": "군 코로나19 16명 추가확진…15명 돌파감염",
-		"link": "www.yna.co.kr/view/AKR20220114059000504?section=safe/news",
-		"date": "01-14 10:22"
-	},
-	"16a59a5e72f1811d931e07159dc95a5e610795611fddd8da4e1927bed6cd0e9c": {
-		"title": "충북 어제 71명 확진, 올해 2번째…다시 증가세",
-		"link": "www.yna.co.kr/view/AKR20220114052500064?section=safe/news",
-		"date": "01-14 10:15"
-	},
-	"08768741f2f055d98341e891a69e8641bdab3a82d4d6dcf1098c427fce419907": {
-		"title": "[속보] 정부 \"고령부모가 3차접종 받지 않았다면 귀향 최대한 자제해야\"",
-		"link": "www.yna.co.kr/view/AKR20220114054500530?section=safe/news",
-		"date": "01-14 10:12"
-	},
-	"5914478ef81463f97f7e15a29e702d700c91ad54910a32ac1e5599e2cd93417d": {
-		"title": "[속보] 정부 \"오미크론 관리 잘하면 방역규제 차근차근 해제 가능\"",
-		"link": "www.yna.co.kr/view/AKR20220114053100530?section=safe/news",
-		"date": "01-14 10:07"
-	},
-	"7dd327dbb3d722815b7b743d693449460858b5246bd30c78ff43aeb8c1d69753": {
-		"title": "오미크론 유행시 동네병원서 진료…방역·의료 어떻게 달라지나",
-		"link": "www.yna.co.kr/view/AKR20220113164300530?section=safe/news",
-		"date": "01-14 10:00"
-	},
-	"2c7a4b2782ecd4b369e749e8372fdfe5324dc0205187496782e5b40c8514a3c7": {
-		"title": "오미크론 우세종 되면 격리 10→7일로…PCR 대신 신속항원검사",
-		"link": "www.yna.co.kr/view/AKR20220114024600530?section=safe/news",
-		"date": "01-14 10:00"
-	},
-	"3575d7029bd16f9c64b81504123c4376b8095896245e4743a83fdb59ba892207": {
-		"title": "당국 \"오미크론 21일께 50%넘어 우세종…2월말 최대 3만명 확진\"",
-		"link": "www.yna.co.kr/view/AKR20220114022200530?section=safe/news",
-		"date": "01-14 10:00"
 	}
 }
