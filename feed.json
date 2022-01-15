@@ -1,4 +1,34 @@
 {
+	"12833b3a01c975461f8bf0656f9d924b517beca7439211049e5af79d6e404e27": {
+		"title": "[속보] 코로나19로 어제 22명 사망…누적 6천281명",
+		"link": "www.yna.co.kr/view/AKR20220115020700530?section=safe/news",
+		"date": "01-15 09:32"
+	},
+	"7f1026268b84cce5cc0c3d7bed669d981b0b4575d9c7918f50618a0b3a1a2f69": {
+		"title": "[1보] 위중증 626명, 이틀째 600명대…신규 확진 4천423명",
+		"link": "www.yna.co.kr/view/AKR20220115020600530?section=safe/news",
+		"date": "01-15 09:31"
+	},
+	"694940db9a8563360b0a1b8610b4753e5e1f5206c5b39508d9d49e2403e3071c": {
+		"title": "美 정부, 코로나 검사 키트 5억개 무상배포…가구당 4개로 제한",
+		"link": "www.yna.co.kr/view/AKR20220115018500091?section=safe/news",
+		"date": "01-15 09:10"
+	},
+	"197ce5c16d5596b9f73f8a967eb3e1006019b321a3cd3036903829dad33017f6": {
+		"title": "쓰레기 쌓여가는 미국 길거리…오미크론에 환경미화원도 부족",
+		"link": "www.yna.co.kr/view/AKR20220115017800009?section=safe/news",
+		"date": "01-15 09:06"
+	},
+	"b9e62096c48fdaafa8b2120baa8f44776ea3a9b8a8777b47264193268379982b": {
+		"title": "충북 어제 83명 확진…고교 사적모임 연쇄감염 지속",
+		"link": "www.yna.co.kr/view/AKR20220115017700064?section=safe/news",
+		"date": "01-15 08:54"
+	},
+	"f2ed928983b8b3010f6fd293c59c4e25627c7ce5c655285ea651fbc7efb98bb2": {
+		"title": "광주·전남 연일 300명대 확진…목포서만 86명 양성",
+		"link": "www.yna.co.kr/view/AKR20220115017500054?section=safe/news",
+		"date": "01-15 08:47"
+	},
 	"a1e1c41fac089b530af21eadc863925eda7d025e715f8fc00d36eebb5712ed83": {
 		"title": "'방역패스 원조' 유럽은…상업시설은 대체로 개방 추세",
 		"link": "www.yna.co.kr/view/AKR20220115003200109?section=safe/news",
@@ -468,35 +498,5 @@
 		"title": "당국 \"오미크론 21일께 50%넘어 우세종…2월말 최대 3만명 확진\"",
 		"link": "www.yna.co.kr/view/AKR20220114022200530?section=safe/news",
 		"date": "01-14 10:00"
-	},
-	"97258e514c9f07dc195a78af39483417be135d177d2a2de71381ccc97e7d9814": {
-		"title": "대전서 보령으로 MT 다녀온 대학생 30명 중 20명 확진",
-		"link": "www.yna.co.kr/view/AKR20220111138054063?section=safe/news",
-		"date": "01-14 10:00"
-	},
-	"9ec7bb74794b42408b712e86ded5afdc95152e8f8d13b4b6144afe33c6fdb151": {
-		"title": "경기 1천856명 확진…평택 17일째 세자릿수 확산세 지속",
-		"link": "www.yna.co.kr/view/AKR20220114042600061?section=safe/news",
-		"date": "01-14 10:00"
-	},
-	"fd6f458303a131166b3f51fa830ed1fdb947c7a2a7e195e91798d0aad35ade34": {
-		"title": "인천 266명 확진…주점·고교 관련 누적 28명 감염",
-		"link": "www.yna.co.kr/view/AKR20220114049100065?section=safe/news",
-		"date": "01-14 09:58"
-	},
-	"b05915733401616d2188f22a8a13f3a4a573c75ccdd0dc97d7b9f4a5a8630e7e": {
-		"title": "해외유입 확진 409명 최다치…신규확진 4천542명·위중증 659명(종합)",
-		"link": "www.yna.co.kr/view/AKR20220114046500530?section=safe/news",
-		"date": "01-14 09:56"
-	},
-	"4c70c8b4091bf1beda49121fe57f62877480a58df7c1c59e8051f7f3e358edfe": {
-		"title": "필리핀, 미접종자 대중교통 이용 제한에 '기본권 침해' 논란",
-		"link": "www.yna.co.kr/view/AKR20220114044200084?section=safe/news",
-		"date": "01-14 09:45"
-	},
-	"88da0ec0b2a5a5792fa15c12e518a641d97570b7920fb81763c061dc5ea076bd": {
-		"title": "빈국, 지난달 백신 1억회분 거절…\"기한 짧아 받아도 못쓴다\"",
-		"link": "www.yna.co.kr/view/AKR20220114034000009?section=safe/news",
-		"date": "01-14 09:43"
 	}
 }
