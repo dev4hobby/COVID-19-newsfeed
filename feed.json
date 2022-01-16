@@ -1,4 +1,49 @@
 {
+	"190d456928d048f4364722e09de30ceadf9e6b809dbf56b7f3864f14dcdd7711": {
+		"title": "부산 145명 확진…9일 내리 100명대 유지",
+		"link": "www.yna.co.kr/view/AKR20220116024600051?section=safe/news",
+		"date": "01-16 11:05"
+	},
+	"62304eede43e508cfaa387505441fa6b17a47dc1bce2930a2a47a99018f56749": {
+		"title": "서울 925명 코로나19 신규 확진…해외 유입 99명",
+		"link": "www.yna.co.kr/view/AKR20220116024300004?section=safe/news",
+		"date": "01-16 11:02"
+	},
+	"58c350ebe67bb5694a235bc8ebe6e5b4807be8af0ea955b7695492bba983a475": {
+		"title": "전경련 \"코로나19 만 2년…자영업자 10명 중 4명은 폐업 고려\"",
+		"link": "www.yna.co.kr/view/AKR20220116019100003?section=safe/news",
+		"date": "01-16 11:00"
+	},
+	"caf68f1fff761fb75874a9bc3d82286bd349709d3a35e73db69bc5c993ecd81e": {
+		"title": "대구 157명 신규 확진…오미크론 변이 감염 누적 464명",
+		"link": "www.yna.co.kr/view/AKR20220116021600053?section=safe/news",
+		"date": "01-16 10:30"
+	},
+	"2da81f011ef9af66e1bd0ad0c004934c6799eef0b62dd47118f5b7dfc942310b": {
+		"title": "최근 대전지역 코로나19 확진자 45%는 오미크론 감염",
+		"link": "www.yna.co.kr/view/AKR20220116021200063?section=safe/news",
+		"date": "01-16 10:28"
+	},
+	"e55ea2261bcc128ee02775a282fc42d0d266c407c84b1c30332680f1dd7937aa": {
+		"title": "인천 260명 코로나19 확진…중학교·고교 감염 확산",
+		"link": "www.yna.co.kr/view/AKR20220116020300065?section=safe/news",
+		"date": "01-16 10:15"
+	},
+	"3caf6a411cb4970bac2a39ee74035e4809712128f6416d403a889310de694a9a": {
+		"title": "위중증 612명, 사흘째 600명대…신규확진 닷새째 4천명대(종합)",
+		"link": "www.yna.co.kr/view/AKR20220116018500530?section=safe/news",
+		"date": "01-16 10:11"
+	},
+	"5470fe440dd244403a8a8bf7bd088eba1f14b1527f31b28f9fd4498f2a3fa4a5": {
+		"title": "경기 1천586명 확진…평택 확산세에 닷새째 1천명 중후반대",
+		"link": "www.yna.co.kr/view/AKR20220116016500061?section=safe/news",
+		"date": "01-16 10:00"
+	},
+	"29d25beffedc70eff6d58395431de749957469f54515dec37532b400060d88d3": {
+		"title": "울산 밤사이 6명 확진…누적 7천407명",
+		"link": "www.yna.co.kr/view/AKR20220116018000057?section=safe/news",
+		"date": "01-16 10:00"
+	},
 	"2523f28c02a0ee32a74148de866542fadf5783d1a35a0002f79b7e15edc18e5e": {
 		"title": "[속보] 코로나19로 어제 29명 사망…누적 6천310명",
 		"link": "www.yna.co.kr/view/AKR20220116015900530?section=safe/news",
@@ -453,50 +498,5 @@
 		"title": "확진자 급증에 방역정책 전환…각국, 격리 단축하고 신속검사(종합)",
 		"link": "www.yna.co.kr/view/AKR20220114022051530?section=safe/news",
 		"date": "01-14 16:41"
-	},
-	"b00117b8b139515691869f7b18ed1f0959027051c5ec74fbfb209857446e56fc": {
-		"title": "미국 오미크론 입원, 유럽·남아공보다 유독 많은 이유는",
-		"link": "www.yna.co.kr/view/AKR20220114089000009?section=safe/news",
-		"date": "01-14 16:34"
-	},
-	"c235181746aed79189bf5240fa95d2088d4ec816832bdea80e1432a6ceff3ec6": {
-		"title": "[3보] 서울 청소년 방역패스 효력정지…마트·백화점도 적용 중단",
-		"link": "www.yna.co.kr/view/AKR20220114129654004?section=safe/news",
-		"date": "01-14 16:32"
-	},
-	"c30d01a33b31a90218757811cc138a6a71b6a7c245b045a91f370e6aaab9aba5": {
-		"title": "[속보] 법원, 서울 전체 시설에서 12∼18세 방역패스 효력 정지",
-		"link": "www.yna.co.kr/view/AKR20220114129653004?section=safe/news",
-		"date": "01-14 16:22"
-	},
-	"afe162048bb67727eff97e8b2807e0d5bda09e5451471f5e9b735107ea210fee": {
-		"title": "스파이크 단백질에 목맨 코로나, 인체 세포에서 막는 길 찾았다",
-		"link": "www.yna.co.kr/view/AKR20220114131000009?section=safe/news",
-		"date": "01-14 16:25"
-	},
-	"c80e8c73666f152fe5de59720d619cb6a3d38cb398edf8ae57a4a7f37035b7da": {
-		"title": "[속보] 법원, 전체 시설에서 12∼18세 방역패스 효력 정지",
-		"link": "www.yna.co.kr/view/AKR20220114129653004?section=safe/news",
-		"date": "01-14 16:22"
-	},
-	"beb6797f57ae572b0f388b9c8106e648996f842893774e3bad11a85d2d788853": {
-		"title": "[속보] 법원, 서울 마트·백화점 방역패스 효력 정지",
-		"link": "www.yna.co.kr/view/AKR20220114129652004?section=safe/news",
-		"date": "01-14 16:20"
-	},
-	"7db3cf9eaa50e9af8cdb485b735485b78084eea1032575dc6a920af0d8e8e9ad": {
-		"title": "[2보] 호주 정부, '백신 미접종' 조코비치 비자 또 취소",
-		"link": "www.yna.co.kr/view/AKR20220114054151009?section=safe/news",
-		"date": "01-14 16:13"
-	},
-	"8d86c997cc8a320475133fb3de0f940515e1ad17fab87bb9c878479e17157b84": {
-		"title": "[2보] 법원, 코로나19 방역패스 효력 일부 정지",
-		"link": "www.yna.co.kr/view/AKR20220114129651004?section=safe/news",
-		"date": "01-14 16:09"
-	},
-	"b8b1d4dcfc3096f6259ac662ef930a6865ce18fb98dbde0a5ca9f50c7c2d84aa": {
-		"title": "[1보] 법원, 코로나19 방역패스 효력 일부 정지",
-		"link": "www.yna.co.kr/view/AKR20220114129600004?section=safe/news",
-		"date": "01-14 16:04"
 	}
 }
