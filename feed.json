@@ -1,4 +1,24 @@
 {
+	"2523f28c02a0ee32a74148de866542fadf5783d1a35a0002f79b7e15edc18e5e": {
+		"title": "[속보] 코로나19로 어제 29명 사망…누적 6천310명",
+		"link": "www.yna.co.kr/view/AKR20220116015900530?section=safe/news",
+		"date": "01-16 09:33"
+	},
+	"03bcf246dfa78f9829eab2e6f30e6cd4c3047b3f465954c81a3c83ca9f85cea9": {
+		"title": "[1보] 위중증 612명, 사흘째 600명대…신규확진 4천194명",
+		"link": "www.yna.co.kr/view/AKR20220116015800530?section=safe/news",
+		"date": "01-16 09:32"
+	},
+	"354bcdb4b58729a713cc90070ab07f24f063776866593113a9c7c49e1430618c": {
+		"title": "코백스, 코로나백신 10억회분 공급…\"원래 목표엔 한참 못 미쳐\"",
+		"link": "www.yna.co.kr/view/AKR20220116013000009?section=safe/news",
+		"date": "01-16 09:21"
+	},
+	"ee7f2c18245707e25269b7ec04618d6f8c1b239657a59281fd6ab51c73149221": {
+		"title": "광주·전남 연일 300명대 확진…지역감염 '확산'",
+		"link": "www.yna.co.kr/view/AKR20220116012600054?section=safe/news",
+		"date": "01-16 09:06"
+	},
 	"d65d17ced6f38674b3eb57b2e061aab8ab803b5c239c36d0d7fdc6be19a38a31": {
 		"title": "강원 신규 확진자 74명…다시 두 자릿수로 감소",
 		"link": "www.yna.co.kr/view/AKR20220116009900062?section=safe/news",
@@ -478,25 +498,5 @@
 		"title": "[1보] 법원, 코로나19 방역패스 효력 일부 정지",
 		"link": "www.yna.co.kr/view/AKR20220114129600004?section=safe/news",
 		"date": "01-14 16:04"
-	},
-	"2101e083b6a7ecb9beb8a5bc1a47d1e77c3baa0c7657100e495b36ebc378a2d8": {
-		"title": "靑 \"'방역 비과학적' 비판으로 국민 혼란\"…尹 발언 겨냥",
-		"link": "www.yna.co.kr/view/AKR20220114123200001?section=safe/news",
-		"date": "01-14 15:40"
-	},
-	"8f3285774c834319b24c1ce22df3c91cc36f87a1c439b1156649708854f2d47b": {
-		"title": "방역패스 효력 다툼 세번째 심문…법원 \"앞 사건 결과 보겠다\"",
-		"link": "www.yna.co.kr/view/AKR20220114119300004?section=safe/news",
-		"date": "01-14 15:33"
-	},
-	"075d8a93daccf290f8fd68c6a424f0dfbaa8149d96ee60ba85327c9092291ac2": {
-		"title": "대전 대학생 30명 MT 갔다 21명 확진…1명은 오미크론 감염(종합)",
-		"link": "www.yna.co.kr/view/AKR20220111138055063?section=safe/news",
-		"date": "01-14 15:06"
-	},
-	"3a12d12978fc10820b7a5a5fafc4bcc66dfd7dea33ba5185f4196532ab1a6d74": {
-		"title": "부산 오미크론 변이 31명 추가 확인…14일 142명 확진(종합)",
-		"link": "www.yna.co.kr/view/AKR20220114067351051?section=safe/news",
-		"date": "01-14 14:54"
 	}
 }
