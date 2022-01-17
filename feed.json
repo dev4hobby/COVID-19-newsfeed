@@ -1,4 +1,74 @@
 {
+	"bedaa5eb5cc92cbf0f4d786cd73feffb56f386bdf35ec2bed0b5692c45c387ff": {
+		"title": "베트남 경제수도 호찌민, 코로나 여파로 설맞이 불꽃놀이 취소",
+		"link": "www.yna.co.kr/view/AKR20220117075500084?section=safe/news",
+		"date": "01-17 11:44"
+	},
+	"c53df105ec72f270354b9b9a30dcbaf959e145899bd928197e4ed4513e16ac09": {
+		"title": "싱가포르 30대, 델타변이 감염 7개월에 또 오미크론 확진",
+		"link": "www.yna.co.kr/view/AKR20220117072600076?section=safe/news",
+		"date": "01-17 11:38"
+	},
+	"434d913c011e510f9c6377972d34c03bbfa7d884786e5d7d1a26a4d23d4ee7b2": {
+		"title": "충남도내 코로나19 확진자 2만명 넘어서…누적 사망 174명",
+		"link": "www.yna.co.kr/view/AKR20220117073600063?section=safe/news",
+		"date": "01-17 11:33"
+	},
+	"a744b8a7cc794e5b878eac712eb4705e953e3ef713fb6ee029172d2bd60c16f3": {
+		"title": "서울 오미크론 감염자 누적 934명…검출률 22%",
+		"link": "www.yna.co.kr/view/AKR20220117073800004?section=safe/news",
+		"date": "01-17 11:27"
+	},
+	"ddc1e7e7ad7e303e8aba6ce31a18444da2e5717f212a4190b0b46332d23e25c9": {
+		"title": "부산 열흘 연속 100명대 확진…오미크론 32명 추가",
+		"link": "www.yna.co.kr/view/AKR20220117071300051?section=safe/news",
+		"date": "01-17 11:22"
+	},
+	"ecbdf92fe4dcc32e79181e8847546d9e6d97a608deeb429d2dad7a0fa08b2f9f": {
+		"title": "김포 교회서 120명 확진…\"오미크론 감염 가능성\"",
+		"link": "www.yna.co.kr/view/AKR20220117071200065?section=safe/news",
+		"date": "01-17 11:20"
+	},
+	"e6ded0c25be7d9f76269eaf93672e9d8667d0ec4e1b118681f9f8621b29b2ec5": {
+		"title": "오미크론 1명 나온 베이징, 1.3만명 검사, 초중교 온라인 전환",
+		"link": "www.yna.co.kr/view/AKR20220117042500083?section=safe/news",
+		"date": "01-17 11:20"
+	},
+	"8dcd6d1df4594e47ec5ab794786c7bd7f62932a0a03f01538d10510d79df4577": {
+		"title": "포항 확진자 40명대로 늘어…체육시설 관련 17명",
+		"link": "www.yna.co.kr/view/AKR20220117069000053?section=safe/news",
+		"date": "01-17 11:16"
+	},
+	"b652f248a2abdc363d5ab009f41b663c50a0d766e0eb37413d8a6d82ac01d0c6": {
+		"title": "내일부터 학원·독서실·박물관·영화관·마트 등 방역패스 해제(종합)",
+		"link": "www.yna.co.kr/view/AKR20220117025451530?section=safe/news",
+		"date": "01-17 11:12"
+	},
+	"10a0ce7fc4f3f787c6466d114e56119419ad6f9bf35c5ddddb0ad0fbdf59d7d9": {
+		"title": "美의무총감 \"아직 오미크론 확산 정점 아냐…몇주 더 힘들 것\"",
+		"link": "www.yna.co.kr/view/AKR20220117061500091?section=safe/news",
+		"date": "01-17 11:04"
+	},
+	"721c7b4b501d5cf31d720e031d533a097330fa9ec0b8daafe7acbc5d56425729": {
+		"title": "[속보] 청소년 방역패스 3월시작 방침 유지…\"법원결정 달라질 것 기대\"",
+		"link": "www.yna.co.kr/view/AKR20220117060500530?section=safe/news",
+		"date": "01-17 11:00"
+	},
+	"6fdf147d06b28db5b27595d3eb38bbc894d7ed92365d9dd0cc955c26ae173597": {
+		"title": "[속보] 내일부터 전국적으로 학원·마트 등 6종시설 방역패스 적용 해제",
+		"link": "www.yna.co.kr/view/AKR20220117059400530?section=safe/news",
+		"date": "01-17 11:00"
+	},
+	"129ad477c6b6d1bee763dfcf12887ca8f02c9b33cba584b97500560d92761ddc": {
+		"title": "[속보] 식당·카페·유흥시설·노래방·목욕장·PC방 등 방역패스 유지",
+		"link": "www.yna.co.kr/view/AKR20220117062200530?section=safe/news",
+		"date": "01-17 11:00"
+	},
+	"0a47b11581e682773024e50e1f3e7070fc4cd6a2257a1486bebf48d124a5493d": {
+		"title": "[속보] 백화점, 도서·미술·박물·과학관, 공연장 방역패스 해제",
+		"link": "www.yna.co.kr/view/AKR20220117063400530?section=safe/news",
+		"date": "01-17 11:00"
+	},
 	"218e1540bb02e0c7a8c98d8945017277a34d5483bcfa5daf9d43d9a3f4d6edd8": {
 		"title": "대구 오미크론 확정 40명 추가…누적 504명",
 		"link": "www.yna.co.kr/view/AKR20220117061400053?section=safe/news",
@@ -428,75 +498,5 @@
 		"title": "WP \"美, 백신외교로 대북 돌파구 마련해야\"…비건, 北 접종 강조",
 		"link": "www.yna.co.kr/view/AKR20220116002000071?section=safe/news",
 		"date": "01-16 03:01"
-	},
-	"617223cf4d4199c936c8ab1cf347b0d68a763e2bf0c7be55d4bda048c542c28b": {
-		"title": "올림픽 개막 앞두고 베이징도 오미크론 유입…방역 '빨간불'",
-		"link": "www.yna.co.kr/view/AKR20220115053300083?section=safe/news",
-		"date": "01-15 22:52"
-	},
-	"da0914b2b8dc0d0b9e2c897aff51209274b207c100fd75776e145d93556a6c5c": {
-		"title": "오후 9시까지 전국서 3천552명 확진…16일 4천명 안팎 예상(종합)",
-		"link": "www.yna.co.kr/view/AKR20220115046951530?section=safe/news",
-		"date": "01-15 21:34"
-	},
-	"4b7c9ab00e45724c95174a3287ffa3b61aa93fb375668805f4fbfc55148c3bfc": {
-		"title": "일본 코로나 신규확진 2만5천명 돌파…최다 기록에 육박",
-		"link": "www.yna.co.kr/view/AKR20220115049700073?section=safe/news",
-		"date": "01-15 20:29"
-	},
-	"e09253dc2098a8915d9015c6f041db355479c70d2924fc1cbc494fbcf1492679": {
-		"title": "'백신 불평등 되풀이?'…부유국, 먹는 치료제 초기물량 '싹쓸이'",
-		"link": "www.yna.co.kr/view/AKR20220115047400009?section=safe/news",
-		"date": "01-15 19:36"
-	},
-	"4d932b85faec6e01f5435ca07727e2554cdc488d9b57e38ebb3d3f686f6675d0": {
-		"title": "오후 6시까지 전국서 3천213명 확진…어제보다 109명 많아",
-		"link": "www.yna.co.kr/view/AKR20220115046900530?section=safe/news",
-		"date": "01-15 19:00"
-	},
-	"e9d22f5449ad5dd096f4a9e9fb49492fc33a71252e5a7bcf3cc3df00dc6146e9": {
-		"title": "남아공 보건장관 \"오미크론 첫 진원지 하우텡, 4차 파동 벗어나\"",
-		"link": "www.yna.co.kr/view/AKR20220115045900099?section=safe/news",
-		"date": "01-15 18:43"
-	},
-	"cc542c8e8e4d61eb45f2b17c73fc1b6e27f4142eba51fb9c265edcfd272c5d42": {
-		"title": "울산 15명 신규 확진…오미크론 감염 5명 추가돼 61명(종합)",
-		"link": "www.yna.co.kr/view/AKR20220115024351057?section=safe/news",
-		"date": "01-15 18:22"
-	},
-	"08f7d7d67eccbc7c2dbe76f9db1c8e6a42a31efab3acca1abe5cc99c179d06d3": {
-		"title": "중국 광둥성 주하이도 오미크론 유입…이달 들어 5번째(종합)",
-		"link": "www.yna.co.kr/view/AKR20220115022051083?section=safe/news",
-		"date": "01-15 18:18"
-	},
-	"ea32e1eb2cf457ac4732338b6b61cfe139930b9238cba970be1733abc99dd95d": {
-		"title": "충북 16시 7개 시·군서 30명 확진…사망자 1명 추가",
-		"link": "www.yna.co.kr/view/AKR20220115042000064?section=safe/news",
-		"date": "01-15 16:35"
-	},
-	"24fa9c3f18f7149cff9ba3d60088fbc27fffee23e3d572c7db1566565f2f7292": {
-		"title": "\"백신 미접종 임산부 코로나 걸리면 신생아 사망 위험 증가\"",
-		"link": "www.yna.co.kr/view/AKR20220115038800009?section=safe/news",
-		"date": "01-15 15:47"
-	},
-	"1a0b452c16c9a647cce3921bae1d192dcb523e68a9f9542a6a5d361003865dc3": {
-		"title": "부산, 145명 추가 확진…9일 연속 100명대(종합)",
-		"link": "www.yna.co.kr/view/AKR20220115027051051?section=safe/news",
-		"date": "01-15 15:01"
-	},
-	"e38d9c8f65b5d5910957fcdd19052e613023f924f82afe803a251e1ba5680276": {
-		"title": "광주 171명·전남 40명 확진…집단·연쇄감염 곳곳 확산",
-		"link": "www.yna.co.kr/view/AKR20220115036100054?section=safe/news",
-		"date": "01-15 14:57"
-	},
-	"8a40fc5e71cb83d510ab8dea52567b30412361307716dff269d8d48f425b3bc8": {
-		"title": "\"오미크론 입안서 먼저 검출\" 콧속 면봉→침 검사로 전환 주장",
-		"link": "www.yna.co.kr/view/AKR20220115030500009?section=safe/news",
-		"date": "01-15 12:31"
-	},
-	"f0ba4babc712bc0b1d18bcd5b8dd750de1fcc98e6b660bb05b1c646988f85faf": {
-		"title": "캄보디아, 오미크론 지역 감염 확산에 4차백신 접종 시작",
-		"link": "www.yna.co.kr/view/AKR20220115031800076?section=safe/news",
-		"date": "01-15 12:28"
 	}
 }
