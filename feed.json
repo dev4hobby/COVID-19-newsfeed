@@ -1,4 +1,39 @@
 {
+	"c21705774f0eb481aa3556e467640271ac2eb05a00682c97a325e33c160e97d1": {
+		"title": "[속보] 코로나19 감염재생산지수 0.92…4주 연속 1 미만 유지",
+		"link": "www.yna.co.kr/view/AKR20220117101600530?section=safe/news",
+		"date": "01-17 14:13"
+	},
+	"b19b7394bcbf878f18acc678850f8bee26bb6fea0e93c88c3c7b6c6289b0cda8": {
+		"title": "[속보] 전국 코로나 위험도 2주째 '중간'…수도·비수도권 모두 '중간'",
+		"link": "www.yna.co.kr/view/AKR20220117100900530?section=safe/news",
+		"date": "01-17 14:12"
+	},
+	"2a6fa9b3bc8832d699c31070289ae0d9043a7307dbad4083293124094c232719": {
+		"title": "광주시장·5개 구청장, '붕괴 사고' 현장서 코로나 대책 회의",
+		"link": "www.yna.co.kr/view/AKR20220117099400054?section=safe/news",
+		"date": "01-17 14:10"
+	},
+	"86faca01300cd3d27ecd30bec440be9711cc646748584741d47bb9b31509c55a": {
+		"title": "김포시 공무원 1명 확진…시청사 일부 임시폐쇄",
+		"link": "www.yna.co.kr/view/AKR20220117098600065?section=safe/news",
+		"date": "01-17 14:04"
+	},
+	"f54a8f8c7922652fd60f803023048fd50ce54737360bf1a0090fe0b432d926da": {
+		"title": "제천시 설 특별방역대책 시행…이동자제 등 권고",
+		"link": "www.yna.co.kr/view/AKR20220117096800064?section=safe/news",
+		"date": "01-17 14:01"
+	},
+	"87094a768148e528793dc7cacdd9eadc1bba9d8ac2b4a61d5ec01947b050f0a7": {
+		"title": "부산 해운대구청 집단감염…직원 12명 등 13명 확진·58명 격리",
+		"link": "www.yna.co.kr/view/AKR20220117095100051?section=safe/news",
+		"date": "01-17 13:54"
+	},
+	"34e674f265f5a6e785ff49972afd4cca08911ab32973767952771ac31efcf2be": {
+		"title": "전북 닷새째 세자릿수 감염…\"오미크론 확산세 가팔라\"(종합)",
+		"link": "www.yna.co.kr/view/AKR20220117019751055?section=safe/news",
+		"date": "01-17 13:53"
+	},
 	"011623c4e3f84ed5ae5938b42708aec490f767d917457d499a7c2303e2b8aa2b": {
 		"title": "경남 7개 시·군서 53명 산발 확진…3차 접종률 45.3%",
 		"link": "www.yna.co.kr/view/AKR20220117089500052?section=safe/news",
@@ -463,40 +498,5 @@
 		"title": "인천 260명 코로나19 확진…중학교·고교 감염 확산",
 		"link": "www.yna.co.kr/view/AKR20220116020300065?section=safe/news",
 		"date": "01-16 10:15"
-	},
-	"3caf6a411cb4970bac2a39ee74035e4809712128f6416d403a889310de694a9a": {
-		"title": "위중증 612명, 사흘째 600명대…신규확진 닷새째 4천명대(종합)",
-		"link": "www.yna.co.kr/view/AKR20220116018500530?section=safe/news",
-		"date": "01-16 10:11"
-	},
-	"5470fe440dd244403a8a8bf7bd088eba1f14b1527f31b28f9fd4498f2a3fa4a5": {
-		"title": "경기 1천586명 확진…평택 확산세에 닷새째 1천명 중후반대",
-		"link": "www.yna.co.kr/view/AKR20220116016500061?section=safe/news",
-		"date": "01-16 10:00"
-	},
-	"29d25beffedc70eff6d58395431de749957469f54515dec37532b400060d88d3": {
-		"title": "울산 밤사이 6명 확진…누적 7천407명",
-		"link": "www.yna.co.kr/view/AKR20220116018000057?section=safe/news",
-		"date": "01-16 10:00"
-	},
-	"2523f28c02a0ee32a74148de866542fadf5783d1a35a0002f79b7e15edc18e5e": {
-		"title": "[속보] 코로나19로 어제 29명 사망…누적 6천310명",
-		"link": "www.yna.co.kr/view/AKR20220116015900530?section=safe/news",
-		"date": "01-16 09:33"
-	},
-	"03bcf246dfa78f9829eab2e6f30e6cd4c3047b3f465954c81a3c83ca9f85cea9": {
-		"title": "[1보] 위중증 612명, 사흘째 600명대…신규확진 4천194명",
-		"link": "www.yna.co.kr/view/AKR20220116015800530?section=safe/news",
-		"date": "01-16 09:32"
-	},
-	"354bcdb4b58729a713cc90070ab07f24f063776866593113a9c7c49e1430618c": {
-		"title": "코백스, 코로나백신 10억회분 공급…\"원래 목표엔 한참 못 미쳐\"",
-		"link": "www.yna.co.kr/view/AKR20220116013000009?section=safe/news",
-		"date": "01-16 09:21"
-	},
-	"ee7f2c18245707e25269b7ec04618d6f8c1b239657a59281fd6ab51c73149221": {
-		"title": "광주·전남 연일 300명대 확진…지역감염 '확산'",
-		"link": "www.yna.co.kr/view/AKR20220116012600054?section=safe/news",
-		"date": "01-16 09:06"
 	}
 }
