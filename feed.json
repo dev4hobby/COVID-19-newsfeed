@@ -1,4 +1,39 @@
 {
+	"7f0ccdfaf715effb9b475684f8a62efce2e65d24bf9b52cf1add4131c03324f6": {
+		"title": "[속보] 코로나19로 어제 74명 사망…누적 6천452명",
+		"link": "www.yna.co.kr/view/AKR20220119032800530?section=safe/news",
+		"date": "01-19 09:31"
+	},
+	"e0cfa6afee7e6a9bb8ea5764fc68d98da440e832c92430963a1b1842cff41e74": {
+		"title": "[1보] 신규확진 5천805명, 20일 만에 5천명대로 급증…위중증 532명",
+		"link": "www.yna.co.kr/view/AKR20220119032700530?section=safe/news",
+		"date": "01-19 09:30"
+	},
+	"7b7d6d01c13cec38611698dad8a925df0f9eab95bc5810b0c9deaa22a364e130": {
+		"title": "충북 어제 81명 확진…청주서 올해 가장 많은 52명 추가",
+		"link": "www.yna.co.kr/view/AKR20220119040100064?section=safe/news",
+		"date": "01-19 09:19"
+	},
+	"e9d6b08cc0ab27a373b614fc0659a99550ad8be0cab30557fba01cd9bda7cd91": {
+		"title": "오미크론 우세종 광주·전남 400명 육박…전남도 공무원 첫 확진",
+		"link": "www.yna.co.kr/view/AKR20220119038700054?section=safe/news",
+		"date": "01-19 09:15"
+	},
+	"f92cf6bdc3dfb200af8f98708bc810442eec7b315f111c98b03832c9872e9462": {
+		"title": "세종시 감염병 대응인력·시설직 23명 충원…내달 26일 시험",
+		"link": "www.yna.co.kr/view/AKR20220119035900063?section=safe/news",
+		"date": "01-19 09:07"
+	},
+	"c424ac0d852dc2ebb3e2402e675304165e64a2ea093d1e9c3a392444595252df": {
+		"title": "김총리 \"백신 이상반응 입원치료자, 방역패스 인정\"",
+		"link": "www.yna.co.kr/view/AKR20220119033500001?section=safe/news",
+		"date": "01-19 09:05"
+	},
+	"c9381f8b6b75947297569ff544b890e54d280fa8c9f0842d0f5205b95307c5c1": {
+		"title": "경북 170명 신규 확진, 포항만 60명…오미크론 감염 누적 194명",
+		"link": "www.yna.co.kr/view/AKR20220119031300053?section=safe/news",
+		"date": "01-19 08:43"
+	},
 	"486cf697bfc6258716ac00299e1ae6715f47882e21ec35259e542d321bf21cf1": {
 		"title": "영국 보건장관 \"다음 주 방역 규제 완화 낙관\"",
 		"link": "www.yna.co.kr/view/AKR20220119028000009?section=safe/news",
@@ -463,40 +498,5 @@
 		"title": "강남구 \"앱으로 코로나 검사결과 확인하세요\"",
 		"link": "www.yna.co.kr/view/AKR20220118042800004?section=safe/news",
 		"date": "01-18 09:47"
-	},
-	"505d239f865c7cda019003c5e92d3774c37ce07c65d07ef2d95bd7a0be9ed5cd": {
-		"title": "전북도 최근 확진자 절반이 오미크론…\"추가접종 서둘러 달라\"",
-		"link": "www.yna.co.kr/view/AKR20220118041400055?section=safe/news",
-		"date": "01-18 09:43"
-	},
-	"9c724c1a02f2770188e79cd5d36968facdd57add5bc28302e64e1e9a4ca742e2": {
-		"title": "[속보] 코로나19로 어제 45명 사망…누적 6천378명",
-		"link": "www.yna.co.kr/view/AKR20220118025200530?section=safe/news",
-		"date": "01-18 09:31"
-	},
-	"6c6b2cb7cb5b5affbc7525e4c862264d555d426535b2b6599b08ee3e7ec90ff2": {
-		"title": "[1보] 신규 확진 4천72명·위중증 543명…누적 확진 70만명 넘어",
-		"link": "www.yna.co.kr/view/AKR20220118025100530?section=safe/news",
-		"date": "01-18 09:30"
-	},
-	"238ce71c99994ad797beddbadbb691f371aa49f0843fec612a5c5b5549173989": {
-		"title": "정부 \"방역패스 예외 사유 확대 방안 이번 주 발표\"",
-		"link": "www.yna.co.kr/view/AKR20220118030100530?section=safe/news",
-		"date": "01-18 09:03"
-	},
-	"734b98dc39f92a6efb38ee4e0321fb283b84169dca9da08f489416253544ae16": {
-		"title": "방학 시작 후 서울 학생 확진자 감소세…교내감염 비율은 상승",
-		"link": "www.yna.co.kr/view/AKR20220118024000530?section=safe/news",
-		"date": "01-18 09:00"
-	},
-	"6c53457771f3f7afd81f2e091b697f6b98fefe73629d2c96ff1660408e61387b": {
-		"title": "\"바이든, 코로나 대처 잘했다\" 여론조사 응답률 절반 못 미쳐",
-		"link": "www.yna.co.kr/view/AKR20220118027200091?section=safe/news",
-		"date": "01-18 08:59"
-	},
-	"f2eae1b62d277e95f71933e025225c485c49aac656d9120c8c18e080260bb9ba": {
-		"title": "요양시설 등 집단감염·오미크론 전파…광주·전남 확산세 지속",
-		"link": "www.yna.co.kr/view/AKR20220118028700054?section=safe/news",
-		"date": "01-18 08:56"
 	}
 }
