@@ -1,4 +1,39 @@
 {
+	"38b5c1565a839e958553b030910f72444d01bd50dd9aea2eafacf08dec8b259b": {
+		"title": "오미크론 확산 美, 누적 확진자의 4분의1 최근 한 달 새 감염",
+		"link": "www.yna.co.kr/view/AKR20220121066100091?section=safe/news",
+		"date": "01-21 11:11"
+	},
+	"70401e2d7fd6becff7a5cb22c4b4cffbcbd571c7f03be3d5802ac7bbfe6a2e12": {
+		"title": "[속보] \"광주 등 오미크론 우세지역서 특별대책 추진 후 전국 확대추진\"",
+		"link": "www.yna.co.kr/view/AKR20220121070800530?section=safe/news",
+		"date": "01-21 11:09"
+	},
+	"0de79b679077457eaaf6cb1e9b7d59eb040cfe012c1bccefa3fec8fd70def5b3": {
+		"title": "서울 1천552명 신규 확진…3주 만에 최다 기록",
+		"link": "www.yna.co.kr/view/AKR20220121068800004?section=safe/news",
+		"date": "01-21 11:06"
+	},
+	"2f033ff436c62b41ebf819b8588f94dda7a0059d51818ebe3b0a288da31befe6": {
+		"title": "[속보] 광주 등 4곳에 호흡기클리닉 43개 설치해 코로나 진찰·검사",
+		"link": "www.yna.co.kr/view/AKR20220121069500530?section=safe/news",
+		"date": "01-21 11:05"
+	},
+	"5e3acaa19227fa37a0e80cca1534aa667e500c002eed795a10ee15365ead9f1f": {
+		"title": "부산, 216명 확진…오미크론 변이 17명 추가 확인",
+		"link": "www.yna.co.kr/view/AKR20220121068000051?section=safe/news",
+		"date": "01-21 11:04"
+	},
+	"5aa6adb2ba5ca6c8fc55342cd801b25c1e63d83eaaed4ae0a5c633442e2915ff": {
+		"title": "대구 388명 신규 확진…돌파감염 비율 57.7%",
+		"link": "www.yna.co.kr/view/AKR20220121065500053?section=safe/news",
+		"date": "01-21 11:01"
+	},
+	"0e486533b0e0f60abe345c8b3e8215c601a48d13de11b406430814ea003dd80f": {
+		"title": "인천보건환경硏 \"최근 인천 오미크론 확진율 90% 육박\"",
+		"link": "www.yna.co.kr/view/AKR20220121062300065?section=safe/news",
+		"date": "01-21 11:00"
+	},
 	"f52ea084ae075c97abe0db44f5aa5e1ecb63e91aac297c1af329d380fea3cdfd": {
 		"title": "인천지법 판사 1명 확진…접촉자들 모두 음성",
 		"link": "www.yna.co.kr/view/AKR20220121059500065?section=safe/news",
@@ -463,40 +498,5 @@
 		"title": "체코, \"사회 분열될라\" 전문직·고령층 백신의무화 철회",
 		"link": "www.yna.co.kr/view/AKR20220120078700009?section=safe/news",
 		"date": "01-20 11:38"
-	},
-	"2fa01cf1e76e207c196cbc7e974075b2cc081a112e01a548d0622493f6b42d66": {
-		"title": "[영상] 영국 다시 마스크 벗고 백신패스 없앤다…자가격리도 곧 폐지",
-		"link": "www.yna.co.kr/view/AKR20220120080700534?section=safe/news",
-		"date": "01-20 11:33"
-	},
-	"7861064a3d491f88ea10b1fbf1770b8814e19db583a712e17b4a6c4fb470aa8d": {
-		"title": "[경남소식] 설 연휴 교통대책 마련…방역·교통안전에 집중",
-		"link": "www.yna.co.kr/view/AKR20220120073100052?section=safe/news",
-		"date": "01-20 11:22"
-	},
-	"fc6f2899263590c23d3c673eda92034dd73c78bd85c7f71e21c01f98c60c478f": {
-		"title": "'확진자 중 오미크론 11%' 천안시, 중증 예방 중심 방역 추진",
-		"link": "www.yna.co.kr/view/AKR20220120072600063?section=safe/news",
-		"date": "01-20 11:16"
-	},
-	"bfd483a7d21a271350ddf1c55318f62451e991f96f5cafe7d06ca3a6bb743f56": {
-		"title": "백신패스 받으려 일부러 코로나 걸린 체코 가수, 결국 숨져",
-		"link": "www.yna.co.kr/view/AKR20220120053800009?section=safe/news",
-		"date": "01-20 11:16"
-	},
-	"31889084f5a0137f1fb48a8b7c18a16c1ea8e106debb9b7053864bccf922d28b": {
-		"title": "'백신 맞고 코끼리 보세요'…마닐라 동물원 접종소로 활용",
-		"link": "www.yna.co.kr/view/AKR20220120071000084?section=safe/news",
-		"date": "01-20 11:11"
-	},
-	"4147130cbe6d45b5031fa2d2f96418c82daa2263d99730a291d3a444ba8c4211": {
-		"title": "양주시, 설 맞아 장묘시설 코로나19 방역 대책 추진",
-		"link": "www.yna.co.kr/view/AKR20220120072400060?section=safe/news",
-		"date": "01-20 11:07"
-	},
-	"9112e6570b95efa6a92573aa5f857702a3847011fff88c36e1c441b82da84544": {
-		"title": "팔에 붙이는 코로나19 백신, 스위스서 임상시험",
-		"link": "www.yna.co.kr/view/AKR20220120051200009?section=safe/news",
-		"date": "01-20 11:05"
 	}
 }
