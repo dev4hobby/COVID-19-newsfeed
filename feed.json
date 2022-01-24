@@ -1,4 +1,39 @@
 {
+	"231dc1bffd7a06d57b21686ff821324ed38a7af04b548303fb7dce95051d03ac": {
+		"title": "KBO, 스프링캠프 방역지침 발표…전원 백신 접종해야",
+		"link": "www.yna.co.kr/view/AKR20220124108600007?section=safe/news",
+		"date": "01-24 14:37"
+	},
+	"75224fcaaa275b29f48662a7e8c884fed299f9e0af2a33b0cc8982575223bcfc": {
+		"title": "[속보] \"오미크론 중증도, 델타보다 낮고 인플루엔자보다 높아\"",
+		"link": "www.yna.co.kr/view/AKR20220124108400530?section=safe/news",
+		"date": "01-24 14:35"
+	},
+	"bac4be98afc74a4a232cbb9ff0437a304bceb368769a42e8ad62fc384d471ea3": {
+		"title": "[속보] 코로나위험도, 전국-수도권-비수도권 모두 '높음'…한단계 상향",
+		"link": "www.yna.co.kr/view/AKR20220124107800530?section=safe/news",
+		"date": "01-24 14:32"
+	},
+	"f493b0074ef1374024b86dc8a84c26f35d5ebcdd13e92a0e44e6fb69fc992a7d": {
+		"title": "[속보] 국내 오미크론 치명률 0.16%…델타의 5분의 1 수준",
+		"link": "www.yna.co.kr/view/AKR20220124107400530?section=safe/news",
+		"date": "01-24 14:32"
+	},
+	"57cf2a04be158d874f72c125f8dd9cfca980590d257500af9e946f3c09395c3a": {
+		"title": "[속보] 오미크론 검출률, 호남권 82.3%-경북권 69.6%-강원권 59.1%",
+		"link": "www.yna.co.kr/view/AKR20220124107000530?section=safe/news",
+		"date": "01-24 14:30"
+	},
+	"30f151c3cc6a83ac80637b1e6e8169530a10e221b89f4254ab8a567d7af6fac3": {
+		"title": "2020년 감염성 질환 43.7% 급감…\"코로나19 거리두기 등 영향\"",
+		"link": "www.yna.co.kr/view/AKR20220124104300530?section=safe/news",
+		"date": "01-24 14:27"
+	},
+	"02fbf101f92bc4b72c6c992a192ba62d0ed3654004928c652dc76096236df1ba": {
+		"title": "더보이즈 에릭, 코로나19 감염…\"다른 멤버들 결과 대기 중\"",
+		"link": "www.yna.co.kr/view/AKR20220124103800005?section=safe/news",
+		"date": "01-24 14:24"
+	},
 	"97983c51c2a797e6b9deb9ad71f977d90c46af06f2a042c9cff7763470dd8883": {
 		"title": "집단감염 시흥경찰서서 경찰관 3명 추가 확진…누적 30명",
 		"link": "www.yna.co.kr/view/AKR20220124098600061?section=safe/news",
@@ -463,40 +498,5 @@
 		"title": "제주 신규 확진자 27명 발생…\"집단감염 사례 없어\"",
 		"link": "www.yna.co.kr/view/AKR20220123026000056?section=safe/news",
 		"date": "01-23 11:40"
-	},
-	"6e34788948e2dbe938ec5f023bc7cbc536ff0bed9dc3c747c825bb637cad3115": {
-		"title": "부산 292명 코로나19 신규 확진…영유아·학생 확진자 증가세",
-		"link": "www.yna.co.kr/view/AKR20220123025300051?section=safe/news",
-		"date": "01-23 11:35"
-	},
-	"c3409f03f5355a9a9483eaa8e45e97f9d6febd8001a9db94b3627466e2f9a452": {
-		"title": "오미크론 확산에 신규확진 1주새 곱절로…방역체계 전환 초읽기",
-		"link": "www.yna.co.kr/view/AKR20220123006100530?section=safe/news",
-		"date": "01-23 11:21"
-	},
-	"70c5a108e39845dd97cb9731c4ae7589dfff28b3a4272edee01df0479605e047": {
-		"title": "서울 코로나19 신규 확진 1천694명…닷새째 증가",
-		"link": "www.yna.co.kr/view/AKR20220123022400004?section=safe/news",
-		"date": "01-23 11:14"
-	},
-	"c40305381b077642e2cb0d690f1109b7f174fbdfb2994c32d8bcc6d3c2e8ae34": {
-		"title": "울산 18명 신규 확진…대부분 기존 확진자 접촉",
-		"link": "www.yna.co.kr/view/AKR20220123021400057?section=safe/news",
-		"date": "01-23 10:55"
-	},
-	"3c0131c4342bd980fa0c551a90bccce756da966cc1171315a8d2fadcdb0bb959": {
-		"title": "중, 코로나 확산 방지 총력…둥관시 미귀향객에 940억 지급",
-		"link": "www.yna.co.kr/view/AKR20220123021100083?section=safe/news",
-		"date": "01-23 10:52"
-	},
-	"b276075a9978bbe26b6da4f2a9462fdbadc7685066e60a9618aa87e2a1d6ac1d": {
-		"title": "누적확진 3명이던 태평양 외딴섬 키리바시도 첫 봉쇄령",
-		"link": "www.yna.co.kr/view/AKR20220123020000009?section=safe/news",
-		"date": "01-23 10:47"
-	},
-	"45c024d9ba4c0ffdeed4e0dfad98a21bf3dfc04ee0d393548fb5de7d7930fafd": {
-		"title": "인천 609명 신규 확진…하루 최다 감염자 발생",
-		"link": "www.yna.co.kr/view/AKR20220123017700065?section=safe/news",
-		"date": "01-23 10:41"
 	}
 }
