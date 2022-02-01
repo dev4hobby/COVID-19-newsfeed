@@ -1,4 +1,24 @@
 {
+	"e32b6f079f111c9768299fadf535c2d8d2d6de801e54545c93cda786b7a1d34a": {
+		"title": "[속보] 코로나19 위중증 272명, 나흘째 200명대…어제 17명 사망",
+		"link": "www.yna.co.kr/view/AKR20220201015200530?section=safe/news",
+		"date": "02-01 09:31"
+	},
+	"a850b68b91b56401652787f0df3e7e009d761e0287c3d26b3d97b7501a34e7ae": {
+		"title": "[1보] 신규확진 1만8천343명, 다시 역대 최다…오미크론 급속 확산",
+		"link": "www.yna.co.kr/view/AKR20220201014900530?section=safe/news",
+		"date": "02-01 09:30"
+	},
+	"06f755e7df7d3fba100e7f229c085e47cefe3b3b49f0ebfff6a82c27e007f3a2": {
+		"title": "전북서 585명 신규 확진…\"국민 자발적 방역 역할 절실\"",
+		"link": "www.yna.co.kr/view/AKR20220201015000055?section=safe/news",
+		"date": "02-01 08:59"
+	},
+	"b41c4f86604c1db1cd9274ee35902b127fb5ade811e135d36a131d48acbfa95a": {
+		"title": "코로나19 광주·전남서 911명 확진…역대 최다",
+		"link": "www.yna.co.kr/view/AKR20220201014400054?section=safe/news",
+		"date": "02-01 08:49"
+	},
 	"863354d47bb1c32cf5b798d9631ea928f69af42df2248b13e56c5df11dd52799": {
 		"title": "강원 신규 확진자 254명…5일째 200명대 확진",
 		"link": "www.yna.co.kr/view/AKR20220201013700062?section=safe/news",
@@ -478,25 +498,5 @@
 		"title": "부산 역대 하루 최다 851명 확진…학교 등 집단감염 확산",
 		"link": "www.yna.co.kr/view/AKR20220130019500051?section=safe/news",
 		"date": "01-30 11:32"
-	},
-	"ff17f21f8894d0b12e58142a0c62bcdcd40971e097614f49b7c2dc7b09427ce9": {
-		"title": "[동정] 복지장관, 코로나19 검사체계 전환 준비상황 점검",
-		"link": "www.yna.co.kr/view/AKR20220130018800530?section=safe/news",
-		"date": "01-30 11:27"
-	},
-	"a648f8af1b53a1479a15f13e1e1b908c53859d17071c3738fddadfce11e72372": {
-		"title": "서울 4천185명 신규 확진…이틀 연속 4천명대",
-		"link": "www.yna.co.kr/view/AKR20220130019100004?section=safe/news",
-		"date": "01-30 11:24"
-	},
-	"3722bc81c10e31ff146cf4f7b8173c25328956376686f3b7c1215477c5a4b0c3": {
-		"title": "대구 908명·경북 597명 신규 확진…연일 하루 최다 경신",
-		"link": "www.yna.co.kr/view/AKR20220130014400053?section=safe/news",
-		"date": "01-30 10:46"
-	},
-	"1a4a55f21a57b042902cc63cd58be1167a7020df18131ab36111bbf5f52e831f": {
-		"title": "울산 212명 신규 확진…1∼2일 간격 연일 최다 감염 경신",
-		"link": "www.yna.co.kr/view/AKR20220130014800057?section=safe/news",
-		"date": "01-30 10:32"
 	}
 }
