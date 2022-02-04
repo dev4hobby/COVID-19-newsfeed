@@ -1,4 +1,34 @@
 {
+	"d7b35c96cddbea94967e9747d10a5ca01ffb6e0fe0832a60e0c3bec02da62e3e": {
+		"title": "서울 신규 확진 첫 6천명대…이틀 만에 2천명 폭증",
+		"link": "www.yna.co.kr/view/AKR20220204066600004?section=safe/news",
+		"date": "02-04 11:19"
+	},
+	"95601b1bd7be12810bb0c05106d70f5e147e0cae7fc703455332dcd90061f076": {
+		"title": "캐나다군, 백신 거부 58명 강제 전역…246명 경고",
+		"link": "www.yna.co.kr/view/AKR20220204062300009?section=safe/news",
+		"date": "02-04 11:14"
+	},
+	"63e528856f0e71881b0d7205f76b341a5661b15689943447e31a83a90c2d0c6b": {
+		"title": "부산, 역대 최다 1천725명 확진…요양원 집단감염 속출",
+		"link": "www.yna.co.kr/view/AKR20220204066500051?section=safe/news",
+		"date": "02-04 11:11"
+	},
+	"d8739b750afb22e8dbb8ffb8cd61f313d45dbfe46d9ff646c3a2be0bad4baa6d": {
+		"title": "대구서 1천713명 신규 확진…사흘 연속 네 자릿수",
+		"link": "www.yna.co.kr/view/AKR20220204063300053?section=safe/news",
+		"date": "02-04 11:05"
+	},
+	"7efd08eb4e4d22254d594f20765ce63251726aec18113b3b94ccc5a377e93e33": {
+		"title": "미국서 화이자 영유아용 코로나 백신 효능에 의구심",
+		"link": "www.yna.co.kr/view/AKR20220204061900091?section=safe/news",
+		"date": "02-04 11:04"
+	},
+	"56d73d07e2dc3016a936585843ecde0b8b52b9ee7fb15e85a10868e81c259998": {
+		"title": "[속보] 정부 \"향후 거리두기는 가급적 강화 않도록…위기땐 강화 검토\"",
+		"link": "www.yna.co.kr/view/AKR20220204064600530?section=safe/news",
+		"date": "02-04 11:01"
+	},
 	"91ecb1b2af65d04d0b9c4c5c7fa3ab61de65fed5547d137cec32cf7d7ecff23e": {
 		"title": "[속보] 정부 \"확진자 증가해도 의료체계 안정시 일상회복 재추진 검토\"",
 		"link": "www.yna.co.kr/view/AKR20220204063600530?section=safe/news",
@@ -468,35 +498,5 @@
 		"title": "서울시 \"코로나19 진료 가능 동네 병·의원 147곳\"",
 		"link": "www.yna.co.kr/view/AKR20220203082100004?section=safe/news",
 		"date": "02-03 12:01"
-	},
-	"68e86819b17980f1f205b9fd2c61e2041377a143d4fd3fa0ca3d74559f94b4da": {
-		"title": "서울 신규확진 첫 5천명대…하루 만에 1천명 폭증",
-		"link": "www.yna.co.kr/view/AKR20220203079400004?section=safe/news",
-		"date": "02-03 11:47"
-	},
-	"ae42d04a89818b72393e84555753e91a7cd0fd2dc88216775117b272ab8478f5": {
-		"title": "연일 2만명 확진…검사 줄 늘어지고 재택치료 우왕좌왕",
-		"link": "www.yna.co.kr/view/AKR20220203074700004?section=safe/news",
-		"date": "02-03 11:41"
-	},
-	"dd5bdcecbdffdf74d0863cc210dc2fd3a9c0b65a745c1a677fb7a5dc08fb6411": {
-		"title": "일본, 확진자 동거가족 자가격리 최장 17일→7일 단축",
-		"link": "www.yna.co.kr/view/AKR20220203075600073?section=safe/news",
-		"date": "02-03 11:31"
-	},
-	"2825758bd8489b908c54e80fd5249d8b72656c19ec544370aefebdaff18a6ad0": {
-		"title": "제주, 설 연휴 주간 확진자 2.7배 껑충…하루 최대 500명 전망",
-		"link": "www.yna.co.kr/view/AKR20220203070500056?section=safe/news",
-		"date": "02-03 11:29"
-	},
-	"b240dbfabf3a20f6729e661e4b90c7d779e11207119f61f2330f31d3a864f141": {
-		"title": "동네병원 코로나 검사, 첫날부터 혼선…병원명단도 공개 안돼",
-		"link": "www.yna.co.kr/view/AKR20220203068200530?section=safe/news",
-		"date": "02-03 11:20"
-	},
-	"3df42833e02f9ebbb5ef4d6c533cd4e5853d1840ad147585a04387d58073fb30": {
-		"title": "부산, 1천280명 확진…사흘 연속 최다 기록",
-		"link": "www.yna.co.kr/view/AKR20220203070800051?section=safe/news",
-		"date": "02-03 11:17"
 	}
 }
