@@ -1,4 +1,89 @@
 {
+	"bf16aa94c2dc004c787fef3d401084f4ebd5933aae0da65889c86c30cf9723dd": {
+		"title": "신규확진 4만9천567명…하루새 5만명 수준으로 폭증(종합2보)",
+		"link": "www.yna.co.kr/view/AKR20220209046051530?section=safe/news",
+		"date": "02-09 10:51"
+	},
+	"7bf9c0cca6afcf8a1db97576d0980c14686a4ce6ee12e1eec3fcc13d5b480dae": {
+		"title": "김경선 여가부 차관 코로나19 확진…비대면 업무 수행",
+		"link": "www.yna.co.kr/view/AKR20220209066100530?section=safe/news",
+		"date": "02-09 10:51"
+	},
+	"d13b1020383045e5fc372ea43f04c82153eb56b679058aa785a4811e12bb70f2": {
+		"title": "SK바사, 노바백스 백신 첫 출하…\"2·3차에 교차접종도 가능\"",
+		"link": "www.yna.co.kr/view/AKR20220209062500530?section=safe/news",
+		"date": "02-09 10:39"
+	},
+	"2e5d3b50a24dbc5dbfee3b7c0314c45a4ec29f7a2e4b9dab14e444f33b9e4db8": {
+		"title": "대구 신규 확진 2천415명…1주일 단위로 2배씩 증가",
+		"link": "www.yna.co.kr/view/AKR20220209062900053?section=safe/news",
+		"date": "02-09 10:38"
+	},
+	"a84a28f955f2b5740867527197a1868ef4c4069e24c752e8df5ebfa4c86b8024": {
+		"title": "[올림픽] 폐쇄루프 확진자 146명에도 중국 \"관람객 확대 고려중\"",
+		"link": "www.yna.co.kr/view/AKR20220209058300083?section=safe/news",
+		"date": "02-09 10:38"
+	},
+	"e60fb909bf4a7cd28096f12add50b52bfa03cb097f53ee0f8a922c0190068e42": {
+		"title": "군 코로나19 416명 추가확진…이틀 연속 400명대",
+		"link": "www.yna.co.kr/view/AKR20220209059200504?section=safe/news",
+		"date": "02-09 10:27"
+	},
+	"964e827fd803cc353790ba7678e454570e5b363859a90b19931795cbee77a8cc": {
+		"title": "울산 오전 10시까지 383명 확진…전날 791명 '하루 최다'",
+		"link": "www.yna.co.kr/view/AKR20220209059600057?section=safe/news",
+		"date": "02-09 10:26"
+	},
+	"d4e84e1f60af1b2efdea0e686a99ae46a02bf1c6ecf786be5f568937b07bb67d": {
+		"title": "[당진소식] 월·수·금요일은 외국인 코로나19 백신 접종날",
+		"link": "www.yna.co.kr/view/AKR20220209053400063?section=safe/news",
+		"date": "02-09 10:12"
+	},
+	"0b00bf9d87a0b126c91587bbfa12400951cda800f128774ad8a4e9d9e3e7f371": {
+		"title": "경남, 어제 1천947명 확진…연일 최다치·누적 4만명 돌파",
+		"link": "www.yna.co.kr/view/AKR20220209052900052?section=safe/news",
+		"date": "02-09 10:08"
+	},
+	"fe89292d06e0c4d4ef6bfb14d686f714090cdcb98acb8ab50f6a28ddc2373fdf": {
+		"title": "강남구 \"작년 코로나 피해 소상공인 등에 총 398억원 세제지원\"",
+		"link": "www.yna.co.kr/view/AKR20220209053800004?section=safe/news",
+		"date": "02-09 10:07"
+	},
+	"0657f771d11e722166b61134dc607440b994a165e44cc6702a3a069cc5f3e579": {
+		"title": "인천 하루 확진자 4천명 육박…하루만에 또 역대 최다",
+		"link": "www.yna.co.kr/view/AKR20220209052600065?section=safe/news",
+		"date": "02-09 10:02"
+	},
+	"64a65212832801b2f9cb62dedbca34e4dbae163c5c7b2e7075f8b3c1bac53c03": {
+		"title": "대전 확진자 사흘 만에 다시 1천명대…주간 하루 평균 900명대",
+		"link": "www.yna.co.kr/view/AKR20220206016053063?section=safe/news",
+		"date": "02-09 10:00"
+	},
+	"3b6b855323c1c42cf6b6dcae4a0b87b203827a387b753548375c0eacf3f731d5": {
+		"title": "경기 1만3천651명 확진, 이틀 연속 '최다'…재택치료 4만6천명",
+		"link": "www.yna.co.kr/view/AKR20220209041800061?section=safe/news",
+		"date": "02-09 10:00"
+	},
+	"c1dad1efc71fe28775280b1c65418c5cc29e25f11ae2b73f9724d9348961f840": {
+		"title": "이상천 제천시장 \"확진자 감염경로 확인 전화조사 유지\"",
+		"link": "www.yna.co.kr/view/AKR20220209050400064?section=safe/news",
+		"date": "02-09 09:59"
+	},
+	"54c0cb7c8819b6fef40d6226b8855910e2c8f7294e1205fdba98db0c5d2b2554": {
+		"title": "차백신연구소, 알지노믹스와 차세대 RNA 백신 공동 개발 나서",
+		"link": "www.yna.co.kr/view/AKR20220209047900017?section=safe/news",
+		"date": "02-09 09:48"
+	},
+	"1f86d8c0e00cb6fd6dc6d6c203963d744229623dbd5d3708d816e8bac4ced704": {
+		"title": "\"부스터샷 속도 내자\" 영동군 10개 면 순회 접종팀 운영",
+		"link": "www.yna.co.kr/view/AKR20220209048000064?section=safe/news",
+		"date": "02-09 09:48"
+	},
+	"c44c5254dbbf019c07eca4b37b23b346bcaca9b86df68e68a349e762a1681bce": {
+		"title": "확진 4만9천567명, 5만명 육박…하루새 1만3천명 가까이 폭증(종합)",
+		"link": "www.yna.co.kr/view/AKR20220209046000530?section=safe/news",
+		"date": "02-09 09:45"
+	},
 	"6f86ac7d9925c5e2de1d9bd1a9813f1f8e2d8267dde1fdaa801a3ddb9a5614fc": {
 		"title": "김정우 조달청장, 코로나19 자가검사 키트 생산 현장 점검",
 		"link": "www.yna.co.kr/view/AKR20220209044800063?section=safe/news",
@@ -413,90 +498,5 @@
 		"title": "전주교도소 교도관·재소자 23명 집단감염…재판 일부도 연기(종합)",
 		"link": "www.yna.co.kr/view/AKR20220208044851055?section=safe/news",
 		"date": "02-08 11:31"
-	},
-	"e9a121e48454a38b33b9400e656d475a5b717831393303a2942154d060d06574": {
-		"title": "안철수 \"정부, 여론 보면서 그때그때 주먹구구 정치방역\"",
-		"link": "www.yna.co.kr/view/AKR20220208074900001?section=safe/news",
-		"date": "02-08 11:17"
-	},
-	"786cdc16574174b73d66e5240467656bf4b215ee53d0aa302bd8cb5475fd8f8f": {
-		"title": "[사이테크+] 백신맞은 임신부 아기, 감염자 아기보다 코로나면역 더 강하다",
-		"link": "www.yna.co.kr/view/AKR20220208075300009?section=safe/news",
-		"date": "02-08 11:13"
-	},
-	"9d6305cd9098312c639b232b81fb2003b29205672c58d4067ee9e54d06a5eb1f": {
-		"title": "[올림픽] 美 피겨스케이팅 저우, 코로나19로 결국 출전 불발",
-		"link": "www.yna.co.kr/view/AKR20220208074700007?section=safe/news",
-		"date": "02-08 11:08"
-	},
-	"5404e598cdbef9744346dfb25ab2a124bf716f11e593c81dfea0c8ab530c542b": {
-		"title": "부산, 오미크론 검출률 95.8%…7일 하루 1천921명 확진",
-		"link": "www.yna.co.kr/view/AKR20220208071900051?section=safe/news",
-		"date": "02-08 11:04"
-	},
-	"3cb021ab805b3bb9ce65538ed5b27a602142a93e868cac9328a28120ca4f6c98": {
-		"title": "서울 5천910명 신규 확진…확진율 17.4%로 치솟아",
-		"link": "www.yna.co.kr/view/AKR20220208073400004?section=safe/news",
-		"date": "02-08 11:04"
-	},
-	"96710781b7223e170b3eb7ce8ca9ff24387b7a5eb5aca5e4656a9c1b3be27e29": {
-		"title": "김부겸, '방역제한 완화' 주장에 \"아직은 확산 일로\"",
-		"link": "www.yna.co.kr/view/AKR20220208071100001?section=safe/news",
-		"date": "02-08 11:02"
-	},
-	"27d0640a7ecaa6a5861bae49467b4cd3d0486a13f5ce5c15b7129095077d7824": {
-		"title": "대구 코로나19 1천789명 신규 발생…일주일째 네자릿수",
-		"link": "www.yna.co.kr/view/AKR20220208059600053?section=safe/news",
-		"date": "02-08 10:53"
-	},
-	"407d725bc629eea03c86b10839da77fe3afe62cfcbf980a2ca4d4555493855c8": {
-		"title": "'셀프 재택치료'…60세 미만 경증 확진자, 증상 심해지면 어떻게",
-		"link": "www.yna.co.kr/view/AKR20220208047600530?section=safe/news",
-		"date": "02-08 10:51"
-	},
-	"362ac94b46cfc28b735efe787ff4eb96bcacac31bc5e19f960eff44fec2002c3": {
-		"title": "전북 일주일간 하루 평균 1천 명대 확진…\"확산세 지속할 듯\"",
-		"link": "www.yna.co.kr/view/AKR20220208064200055?section=safe/news",
-		"date": "02-08 10:39"
-	},
-	"76c2cbc2723bcaafbb534c0f6fc60166b72638b01a9bc8d7ca6f21d2256808dd": {
-		"title": "태백시, 코로나19 연일 최다 확진…\"일상 잠시 멈추자\"",
-		"link": "www.yna.co.kr/view/AKR20220208063200062?section=safe/news",
-		"date": "02-08 10:35"
-	},
-	"92499b3730dded29ba8b7571b18cfed344cbc8f16fda6aa3fb11e56b5485e8a9": {
-		"title": "의원·직원 확진 광주시의회 임시회 차질…일부 화상 회의",
-		"link": "www.yna.co.kr/view/AKR20220208060000054?section=safe/news",
-		"date": "02-08 10:26"
-	},
-	"722aa33b1f61f575e6d000b115d9c741f97f2c20cab694dceaeb8ddcfd1a498e": {
-		"title": "군 코로나19 확진 하루새 466명 급증…일일 최다 또 경신",
-		"link": "www.yna.co.kr/view/AKR20220208058800504?section=safe/news",
-		"date": "02-08 10:22"
-	},
-	"b5c1ad0cdd666e73d1b71cdb5a4fc993394dae89f07dcc949c5e152432623079": {
-		"title": "신규확진 3만6천719명, 어제보다 1천433명 많아…나흘째 3만명대(종합)",
-		"link": "www.yna.co.kr/view/AKR20220208038351530?section=safe/news",
-		"date": "02-08 10:20"
-	},
-	"762f080dff9b8e1e5cbd1d1a36eb7c53eaac2a3ed32ae1cf34f1f1df5281474c": {
-		"title": "경남, 어제 1천902명 확진…역대 최다치 또 경신",
-		"link": "www.yna.co.kr/view/AKR20220208054300052?section=safe/news",
-		"date": "02-08 10:08"
-	},
-	"e3c022dd49f18c353cbc3b7ade3bcd188256662569b271d6c3df66ca7598280d": {
-		"title": "내일부터 방역지침 처음 위반한 업소 과태료 150만원→50만원",
-		"link": "www.yna.co.kr/view/AKR20220207139700530?section=safe/news",
-		"date": "02-08 10:00"
-	},
-	"1ad9c968864af772a5ec04bfcda61f91649ad3d77a7775d4661a8ee2c6b91b3d": {
-		"title": "대전 나흘 연속 1천명 안팎 확진…주간 하루 평균 840명대",
-		"link": "www.yna.co.kr/view/AKR20220206016052063?section=safe/news",
-		"date": "02-08 10:00"
-	},
-	"2d6c5338716e2da68fa030d5c4672019a3252ebf502513735dcc6885fdff7725": {
-		"title": "경기 1만2천138명 확진 '최다'…수원에서만 1천277명",
-		"link": "www.yna.co.kr/view/AKR20220208039800061?section=safe/news",
-		"date": "02-08 10:00"
 	}
 }
