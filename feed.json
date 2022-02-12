@@ -1,4 +1,44 @@
 {
+	"9dee5fc6f634250573baa3b9cafff38ef86fb0e7d09109248d1580188a72f9b4": {
+		"title": "T1419 건우 코로나19 확진…부스터샷 돌파 감염",
+		"link": "www.yna.co.kr/view/AKR20220212023000005?section=safe/news",
+		"date": "02-12 09:31"
+	},
+	"00857445923a8d6f53d911499958b04b5a1531a7e4004a706d9fbe4f0817172f": {
+		"title": "[속보] 코로나19 위중증 275명…어제 33명 사망, 치명률 0.54%",
+		"link": "www.yna.co.kr/view/AKR20220212022200530?section=safe/news",
+		"date": "02-12 09:31"
+	},
+	"a44b2ae72bc008aea5e01cd3f8e90ba570158a41205a5398aa756836cbd605b1": {
+		"title": "[1보] 신규확진 5만4천941명, 또 최다…대유행 속 사흘연속 5만명대",
+		"link": "www.yna.co.kr/view/AKR20220212022000530?section=safe/news",
+		"date": "02-12 09:31"
+	},
+	"d8daa2009078757cdea2fd16ba17a004758896d890471f81622a8c7fb459bece": {
+		"title": "강원 신규 확진자 960명…병상 가동률 44.8%",
+		"link": "www.yna.co.kr/view/AKR20220212021600062?section=safe/news",
+		"date": "02-12 09:00"
+	},
+	"21600177bcf1256b9259f07dc5e882447e562524fd9a42d2166123090c335b72": {
+		"title": "관절염약, 중증코로나 치료제로 WHO 품질인증 목록에",
+		"link": "www.yna.co.kr/view/AKR20220212015300009?section=safe/news",
+		"date": "02-12 08:56"
+	},
+	"311040bb9af9725307de9746d935ba22fbee3201b5e855a0b8678698603f3988": {
+		"title": "전북 어제 1천548명 확진…10일째 1천명대",
+		"link": "www.yna.co.kr/view/AKR20220212021100055?section=safe/news",
+		"date": "02-12 08:54"
+	},
+	"1deb38dcbad90d534855a64f2c43339738f64164de80290c6ee0c860a25ee8f6": {
+		"title": "경북서 1천831명 신규 확진…9일째 1천 명대",
+		"link": "www.yna.co.kr/view/AKR20220212019200053?section=safe/news",
+		"date": "02-12 08:40"
+	},
+	"5ffc7069fc93780817314e57d8d75071fab7591573e434a0de45c29708e3ede1": {
+		"title": "프랑스, 12일부터 백신접종 완료 여행객에 코로나 검사 안한다(종합)",
+		"link": "www.yna.co.kr/view/AKR20220211172751081?section=safe/news",
+		"date": "02-12 08:37"
+	},
 	"8688b7a2d96098a95fcc2387052ee19998fb5f73664fa159947ce86223b08f03": {
 		"title": "충북 어제 1천157명 확진, 나흘째 1천명대",
 		"link": "www.yna.co.kr/view/AKR20220210044952064?section=safe/news",
@@ -458,45 +498,5 @@
 		"title": "경북 1천926명 신규 확진…재택치료 1만1천명 넘어",
 		"link": "www.yna.co.kr/view/AKR20220211026000053?section=safe/news",
 		"date": "02-11 08:24"
-	},
-	"c9df054372d22f74316d83011210b609e90e374475b9bd9d25b75b81b81cb074": {
-		"title": "[특파원 시선] 자가격리 규정 없어지면 격리 안해도 될까",
-		"link": "www.yna.co.kr/view/AKR20220211004200085?section=safe/news",
-		"date": "02-11 07:07"
-	},
-	"c2715aa90d82cb235323ef5e9dffe2e79e581db4b29162ffc7672da4ac873874": {
-		"title": "코로나 검사 살살 하라며 의료진에 폭언…징역 10개월",
-		"link": "www.yna.co.kr/view/AKR20220210148500004?section=safe/news",
-		"date": "02-11 06:00"
-	},
-	"957967808c338819be1831acfef4267090dc6d535b1656b32a58036e954bffbb": {
-		"title": "브라질 상원 국조위, '방역 실패' 보우소나루 대통령 ICC에 고발",
-		"link": "www.yna.co.kr/view/AKR20220211007200094?section=safe/news",
-		"date": "02-11 05:34"
-	},
-	"ff7419d50dc5731a38bb702071918586420bc76bcc0da55330356141f410c5aa": {
-		"title": "라마포사 남아공 대통령, 코로나 복지기금 1년 연장",
-		"link": "www.yna.co.kr/view/AKR20220211006100099?section=safe/news",
-		"date": "02-11 04:59"
-	},
-	"c5ccbafec32c98086dcfae178e84e8f1f934e1675bfd3045d15b489bd0534047": {
-		"title": "美, '마스크벗기에 이르다' 우려 목소리도…엇갈린 지침에 혼란",
-		"link": "www.yna.co.kr/view/AKR20220211005900091?section=safe/news",
-		"date": "02-11 04:42"
-	},
-	"ac5b9a98d400d7f4ee4a6f2361f53750a48b4d4812d811dd8b519dd889f116e4": {
-		"title": "영국 찰스 왕세자 코로나19 재감염…\"이틀 전 여왕 만났다\"(종합2보)",
-		"link": "www.yna.co.kr/view/AKR20220210182352085?section=safe/news",
-		"date": "02-11 03:01"
-	},
-	"ffefc8acbe26e25cea0c0a65d41557097a026ea877f9c4b7c18cefc9eb9aba19": {
-		"title": "지재권 기구 \"코로나에도 작년 국제특허↑…중국 1위·한국 4위\"",
-		"link": "www.yna.co.kr/view/AKR20220211003400088?section=safe/news",
-		"date": "02-11 01:55"
-	},
-	"8f126048969839199cec7c55108aa2b6279d65465b318d2c4b41d4bf67d8561c": {
-		"title": "이탈리아의약품청 \"백신 4차 접종 없을 것…매년 맞아야할수도\"",
-		"link": "www.yna.co.kr/view/AKR20220211002600109?section=safe/news",
-		"date": "02-11 01:32"
 	}
 }
