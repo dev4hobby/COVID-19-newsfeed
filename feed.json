@@ -1,4 +1,74 @@
 {
+	"62bc4770e6e996e80fb78367b7d7b501f3b8abdfa847e70d99e8c96411e12959": {
+		"title": "[속보] 내일부터 모든 동네약국서 코로나19 먹는치료제 조제·전달",
+		"link": "www.yna.co.kr/view/AKR20220215069400530?section=safe/news",
+		"date": "02-15 11:01"
+	},
+	"db6b744e0b8aadfa73e987f7afd8934c727528762de0dccfcd344857f4f8fdd8": {
+		"title": "대구 2천362명 신규 확진…일주일째 하루 2천명대",
+		"link": "www.yna.co.kr/view/AKR20220215068700053?section=safe/news",
+		"date": "02-15 11:01"
+	},
+	"2c4f03f09628575419dd4b00d2ee72076626b972755b03208e42b83f7d97de7a": {
+		"title": "부산 닷새 내리 3천 명대 확진…고령·기저질환 7명 사망",
+		"link": "www.yna.co.kr/view/AKR20220215067200051?section=safe/news",
+		"date": "02-15 11:00"
+	},
+	"514c344ffe7644b83ce862010a00d21aa080ef95748c9bfb42a8f641022d0b02": {
+		"title": "1주일 맞는 재택치료 체계…\"확진돼도 문자·전화도 안와\"",
+		"link": "www.yna.co.kr/view/AKR20220215060100004?section=safe/news",
+		"date": "02-15 10:56"
+	},
+	"c9fc6fc746a3fac0dac6e6a2660d44074784a53bb26da55a8fc02d9ae3a20d45": {
+		"title": "인니, 오미크론 대응 자신감…부스터샷 접종 입국자 격리 3일",
+		"link": "www.yna.co.kr/view/AKR20220215056000104?section=safe/news",
+		"date": "02-15 10:38"
+	},
+	"b828550288f1b9642eb01763d6d2932bb83627d18cb37ec3efd3b24150b0abbe": {
+		"title": "울산 오전 10시까지 638명 확진…전날 하루 확진자 776명",
+		"link": "www.yna.co.kr/view/AKR20220215058700057?section=safe/news",
+		"date": "02-15 10:19"
+	},
+	"1566b822a3cf21edf5a7a2b58f73c71bb6ef8039697e72d60fdebbfd8dea7214": {
+		"title": "인천 4천906명 확진…남동구 요양원서 83명 집단감염",
+		"link": "www.yna.co.kr/view/AKR20220215057300065?section=safe/news",
+		"date": "02-15 10:17"
+	},
+	"b3f29eda98c66285d22eec2435a2e84b9b87999744931ff93e328f9be87e0d60": {
+		"title": "[Q&A] 학급서 15% 넘는 확진·격리자 나오면?…해당반만 원격수업 가능",
+		"link": "www.yna.co.kr/view/AKR20220215054800530?section=safe/news",
+		"date": "02-15 10:11"
+	},
+	"afedc0d2520e7b7c9a6ef0ced8e1a958362675d23087c48209424d8469fef438": {
+		"title": "경남 어제 2천771명 확진…사흘째 2천명대·재택치료 1만6천명",
+		"link": "www.yna.co.kr/view/AKR20220215054300052?section=safe/news",
+		"date": "02-15 10:10"
+	},
+	"2bcdd1defdbc22d5255a8d83b096e3d4c19e6d5d992ceb1f13bd45835b67cf85": {
+		"title": "\"코로나 민원, 음성로봇이 응답\"…구로구, 'AI 콜센터' 운영",
+		"link": "www.yna.co.kr/view/AKR20220215050600004?section=safe/news",
+		"date": "02-15 10:05"
+	},
+	"9c4b457bf5f7bb0a93c14f0411abc5ab43bc02d9a270c0368211329d49ecdb5f": {
+		"title": "경기 1만7천241명 확진…사망자 21명으로 올들어 '최다'",
+		"link": "www.yna.co.kr/view/AKR20220215037000061?section=safe/news",
+		"date": "02-15 10:00"
+	},
+	"72cc0787d1db206746caea5cf1690c6a98487a75760bc7b3e6e0e085132ecc78": {
+		"title": "대전서 이틀 연속 1천600명 안팎 확진…5천800여명 재택치료",
+		"link": "www.yna.co.kr/view/AKR20220213016552063?section=safe/news",
+		"date": "02-15 10:00"
+	},
+	"7ae130dc6aacbbf8166eb85df400a9b3761291dbad4e31a4e7f11e2c4a81fe70": {
+		"title": "\"시진핑 등 중국 지도부 안 보여…집단격리 중인듯\"",
+		"link": "www.yna.co.kr/view/AKR20220215049300074?section=safe/news",
+		"date": "02-15 09:56"
+	},
+	"a5e6ba010eebfe4fb04dab784d0831162e49427e4d875184345dca34fa46e272": {
+		"title": "신규확진 5만7천177명, 또 최다 기록…엿새째 5만명대(종합)",
+		"link": "www.yna.co.kr/view/AKR20220215031300530?section=safe/news",
+		"date": "02-15 09:45"
+	},
 	"ad94fbf44b957bd2292bc25a4f82e93e9b88a9d6c2d32455833ca89536019ea4": {
 		"title": "[1보] 신규확진 5만7천177명 최다…위중증 314명, 사망 61명으로 늘어",
 		"link": "www.yna.co.kr/view/AKR20220215027900530?section=safe/news",
@@ -428,75 +498,5 @@
 		"title": "유진기업, 오미크론 확산에 자체 방역기준 강화",
 		"link": "www.yna.co.kr/view/AKR20220214048500003?section=safe/news",
 		"date": "02-14 10:11"
-	},
-	"cc1e84fabe245440538e579731e314a1682f40576ed2570c0914b9d0d27e1016": {
-		"title": "신규확진 5만4천619명…위중증 306명, 17일만에 300명대(종합)",
-		"link": "www.yna.co.kr/view/AKR20220214031151530?section=safe/news",
-		"date": "02-14 10:06"
-	},
-	"30495b1eaf1d73fba068ad00407ab8ff684121a54f7a8dab704d6f76c3bfe44e": {
-		"title": "울산 오전 10시까지 180명 확진…104명은 감염경로 불명",
-		"link": "www.yna.co.kr/view/AKR20220214046800057?section=safe/news",
-		"date": "02-14 10:05"
-	},
-	"b031b9bbdd41448c616ce2f50e13d948d78bb6b11a94b74e81a44c0f6460c6cd": {
-		"title": "경기 1만5천875명 확진…재택치료 6만4천명으로 급증",
-		"link": "www.yna.co.kr/view/AKR20220214027300061?section=safe/news",
-		"date": "02-14 10:00"
-	},
-	"f038902b30faeb0c26d05b6a3d7d455986e326a7ec6db57936a92ab7f441b7a9": {
-		"title": "대전 신규 확진 1천600명 넘어…5천200여명 재택치료 중",
-		"link": "www.yna.co.kr/view/AKR20220213016551063?section=safe/news",
-		"date": "02-14 10:00"
-	},
-	"a3f9bebc292656c12eccca5d46dcb40423e9dff36d37d6cf99da991db0fbec73": {
-		"title": "인천 3천578명 확진…사흘만에 3천명대로 떨어져",
-		"link": "www.yna.co.kr/view/AKR20220214044700065?section=safe/news",
-		"date": "02-14 09:58"
-	},
-	"2fb27cd3f0b1a533515b1efc77cf209282e7f1080547a9bd34914bc3457658c1": {
-		"title": "삼척시, 코로나19 안정 때까지 직원 1/3 재택근무",
-		"link": "www.yna.co.kr/view/AKR20220214044000062?section=safe/news",
-		"date": "02-14 09:57"
-	},
-	"93448342f3ae5efbe6fd44f2c3728157942f5c180f5311b72259301f399a23eb": {
-		"title": "교육부, 유치원·초등생 주 2회 '등교 전 신속항원검사' 검토",
-		"link": "www.yna.co.kr/view/AKR20220214039800530?section=safe/news",
-		"date": "02-14 09:55"
-	},
-	"ac733429ba1eb66f59ff9c13713c7def86b0363b6af01efc4f43111640a7f2c3": {
-		"title": "진도군, 정월대보름 행사 취소…\"코로나 확산 방지\"",
-		"link": "www.yna.co.kr/view/AKR20220214042000054?section=safe/news",
-		"date": "02-14 09:51"
-	},
-	"6b86f78de0e0931b008fd1f9dff7e5b9435813a4b205f7ad3ce94b77cd7ea095": {
-		"title": "프리시젼바이오 \"코로나19 항원검사키트 일본 허가\"",
-		"link": "www.yna.co.kr/view/AKR20220214042600017?section=safe/news",
-		"date": "02-14 09:49"
-	},
-	"cb67c303e6dbe75709eddb951b9ae223ef0f863409abd17d5fa44568668b2fe2": {
-		"title": "전남도, 감염 취약시설 종사자 2만명 선제검사",
-		"link": "www.yna.co.kr/view/AKR20220214040600054?section=safe/news",
-		"date": "02-14 09:47"
-	},
-	"0f769752f9cd82e5c89ebb22c2b4c1a9b48c95286dadc8a3154fcd72e6e72114": {
-		"title": "대구시 '안심숙소' 운영…\"동거가족 2차 감염 예방\"",
-		"link": "www.yna.co.kr/view/AKR20220214040900053?section=safe/news",
-		"date": "02-14 09:46"
-	},
-	"58600f2e8b36916b2094c84d27ca1b5f1241478e7b8d1f77aa602c3a02db9cf1": {
-		"title": "코로나19에도 경남 농수산식품 수출 작년 13% 증가",
-		"link": "www.yna.co.kr/view/AKR20220214039100052?section=safe/news",
-		"date": "02-14 09:45"
-	},
-	"3b96a9940b155c1dbae0c10949bffe7fe1f96cf225673694085a130cda9c529a": {
-		"title": "충북 어제 1천542명 확진…재택치료 8천13명",
-		"link": "www.yna.co.kr/view/AKR20220214016800064?section=safe/news",
-		"date": "02-14 09:44"
-	},
-	"2c8342394ff33c07055302a116737fe0526c1eddaf4fdf4e4159c0d5e33cec7d": {
-		"title": "[2보] 신규확진 5만4천619명…위중증 306명, 17일만에 300명대",
-		"link": "www.yna.co.kr/view/AKR20220214031100530?section=safe/news",
-		"date": "02-14 09:43"
 	}
 }
