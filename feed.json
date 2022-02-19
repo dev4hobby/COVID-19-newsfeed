@@ -1,4 +1,39 @@
 {
+	"8c0558f9f374dcdb38234a5b98308ae3a3f746d3ea7ac7a46e719cfca3c57316": {
+		"title": "북한 \"남측 코로나 급격 전파…하루 확진자 10만명 처음 넘어\"",
+		"link": "www.yna.co.kr/view/AKR20220219021600504?section=safe/news",
+		"date": "02-19 09:40"
+	},
+	"8278e0c125e9d6959727d6f4542c5fddb018c2fb4ab46d649a629c33b9a0b59b": {
+		"title": "[속보] 어제 코로나19로 71명 사망, 누적 7354명…치명률 0.40%",
+		"link": "www.yna.co.kr/view/AKR20220219020200530?section=safe/news",
+		"date": "02-19 09:30"
+	},
+	"d196b49f59d3172628540c05d73de2fe9e4f07ea0ce683727676a5499e2965d3": {
+		"title": "[1보] 신규확진 10만2211명, 이틀째 10만명대…위중증 408명으로 증가",
+		"link": "www.yna.co.kr/view/AKR20220219020100530?section=safe/news",
+		"date": "02-19 09:30"
+	},
+	"3e7472c0149b881ed6743d54ddbc8fe3aa61c12f4cca901835045d5667c36059": {
+		"title": "광주 2741명·전남 1900명 확진…지역 감염 '확산'",
+		"link": "www.yna.co.kr/view/AKR20220219020400054?section=safe/news",
+		"date": "02-19 09:17"
+	},
+	"ca9b307e7423e4368dab6850b1a5ce75ad4341ef2a3a5ad450a4ae849da15629": {
+		"title": "수백명 숨진 2020년 중국 대홍수 촉발점은 코로나 봉쇄 조치",
+		"link": "www.yna.co.kr/view/AKR20220219018500009?section=safe/news",
+		"date": "02-19 09:05"
+	},
+	"7dee7403de56b73620c4116fe77c407ac856d40b188500be360ddb309b9ec4f5": {
+		"title": "\"병원서 신속항원검사? 집에서 자가검사키트? 뭐가 다른가요?\"",
+		"link": "www.yna.co.kr/view/AKR20220218109400017?section=safe/news",
+		"date": "02-19 09:00"
+	},
+	"fbe5a8498d1fcd1f25caabd4e8d5f8f48582bc52c0b370b0c1dfa64325c9c071": {
+		"title": "충북 어제 2천394명 확진…80∼90대 6명 사망",
+		"link": "www.yna.co.kr/view/AKR20220219018900064?section=safe/news",
+		"date": "02-19 08:53"
+	},
 	"ed973732356e5ed7206c1e932910f316cbafe890b1688e4ac44ae8b3d0aa3b36": {
 		"title": "강원 1799명 코로나19 신규 확진…병상 가동률 50%",
 		"link": "www.yna.co.kr/view/AKR20220219013200062?section=safe/news",
@@ -463,40 +498,5 @@
 		"title": "권영진시장 \"첫 확진자 나온 지 2년…시민께 미안하고 감사\"",
 		"link": "www.yna.co.kr/view/AKR20220218043800053?section=safe/news",
 		"date": "02-18 09:47"
-	},
-	"e368013981722dab9da105a9cf302d38faf6b5481c967192805d90b42a9959e5": {
-		"title": "[속보] 코로나19 위중증 385명…어제 45명 사망, 치명률 0.41%",
-		"link": "www.yna.co.kr/view/AKR20220218034600530?section=safe/news",
-		"date": "02-18 09:31"
-	},
-	"fcaae9830483c8d06999d1acfcee4b35c0533312b7813a196ad2cd625f3f1afe": {
-		"title": "[1보] 신규확진 10만9831명…1만6천여명 급증하며 11만명 육박",
-		"link": "www.yna.co.kr/view/AKR20220218034500530?section=safe/news",
-		"date": "02-18 09:30"
-	},
-	"81caa9af0b4fefa1a20777e79633d39675efa7f3c8edc19a2189c80a477917c3": {
-		"title": "캐나다 백신반대 시위대 강제해산 초읽기…트럭들 요지부동",
-		"link": "www.yna.co.kr/view/AKR20220218030600009?section=safe/news",
-		"date": "02-18 09:07"
-	},
-	"adb070a24de1e45f24b8d82289263fb19152306de3a36123c48e11703ff41359": {
-		"title": "광주 2천669명·전남 1천991명 코로나19 신규 확진",
-		"link": "www.yna.co.kr/view/AKR20220218030400054?section=safe/news",
-		"date": "02-18 08:56"
-	},
-	"be0147be5dfaec15f6e0de40e5735d251e937e4f49bbf4aea76e967d5b4689f8": {
-		"title": "전북 어제 2천510명 확진…최근 일주일간 하루 평균 2천명대",
-		"link": "www.yna.co.kr/view/AKR20220218026500055?section=safe/news",
-		"date": "02-18 08:38"
-	},
-	"e6ced944a1b9dea97e55e21591269b322505832252b85d547ca1a5df1fee3eea": {
-		"title": "경북서 확진자 첫 3천명 넘어서…재택치료 1만2천271명",
-		"link": "www.yna.co.kr/view/AKR20220218026100053?section=safe/news",
-		"date": "02-18 08:23"
-	},
-	"fafd01d14678a7fecb1afba26be082f289fc686b537ad237869479d0cabed8a8": {
-		"title": "강원 연일 최다 확진자 발생…2천명 턱밑까지 치솟아",
-		"link": "www.yna.co.kr/view/AKR20220218024900062?section=safe/news",
-		"date": "02-18 08:14"
 	}
 }
