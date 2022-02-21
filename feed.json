@@ -1,4 +1,69 @@
 {
+	"f8e6100dd88ddfcbba0e98eddbeb213b8bddcfa220c7e579180ee51940ab6b24": {
+		"title": "저스틴 비버, 코로나19 확진…라스베이거스 공연 취소",
+		"link": "www.yna.co.kr/view/AKR20220221059900009?section=safe/news",
+		"date": "02-21 10:48"
+	},
+	"91bc9ff8f604ec74f56873673eccda4ac40d4eb88b00209b43391edaacb5d07a": {
+		"title": "대구, 엿새 연속 4천 명 대 확진…병상 가동률 높아 '비상'",
+		"link": "www.yna.co.kr/view/AKR20220221062200053?section=safe/news",
+		"date": "02-21 10:43"
+	},
+	"63d4193a245dcb8ea9fb9e3cb1f58558843bc0d23db85944e6ee1c8362a9703f": {
+		"title": "서산시, 코로나19 확산 단계별 인력 조정 방안 시행",
+		"link": "www.yna.co.kr/view/AKR20220221059800063?section=safe/news",
+		"date": "02-21 10:34"
+	},
+	"f0cee57b6ceb9f0e3dc1358b3d3dfe320c0cc52293f6644bedfbe70bbfd6ef5e": {
+		"title": "경남 연이틀 5천명대 확진…재택치료 3만명 돌파",
+		"link": "www.yna.co.kr/view/AKR20220221049500052?section=safe/news",
+		"date": "02-21 10:10"
+	},
+	"6fad59a9caa23d9670f24bf14b26b8add0ee4850647c32b3257b8119293920a1": {
+		"title": "인천 7364명 확진…요양병원·요양원 집단감염 확산",
+		"link": "www.yna.co.kr/view/AKR20220221050100065?section=safe/news",
+		"date": "02-21 10:08"
+	},
+	"5a30c8e9f31370ac8ca2e861e7008f37f61409a6df161fae90bb61e90007ef96": {
+		"title": "\"코로나 영업제한 조치 완화…'긍정' 62.1%·'부정' 32.6%\"",
+		"link": "www.yna.co.kr/view/AKR20220221046600001?section=safe/news",
+		"date": "02-21 10:04"
+	},
+	"fb3efb49a44af7cd8e0bde9e8c1eacc34f880e765f2cafc4eb12fc4b4ae79d06": {
+		"title": "울산 오전 10시까지 518명 확진…누적 2만9059명",
+		"link": "www.yna.co.kr/view/AKR20220221047800057?section=safe/news",
+		"date": "02-21 10:04"
+	},
+	"2a6bc4033946805c0754c75360a6cf7e9cccefa6ecfbc907d5de5ee16c34efbc": {
+		"title": "대전서 2907명 신규 확진…누적 확진 5만명 돌파",
+		"link": "www.yna.co.kr/view/AKR20220221034700063?section=safe/news",
+		"date": "02-21 10:00"
+	},
+	"cd66f8f27402e1ab10b216b610fc8e03546c3a60ab1af2c4c429021febdf0c46": {
+		"title": "경기 2만6779명 확진…전담병상 가동률 50% 넘어",
+		"link": "www.yna.co.kr/view/AKR20220221041100061?section=safe/news",
+		"date": "02-21 10:00"
+	},
+	"006b23b286442b05bc70d274f94d739a9a074a13bec3d7b52544822b09759197": {
+		"title": "이재명 \"당선 1호 지시사항으로 코로나피해 긴급구제 특위 설치\"",
+		"link": "www.yna.co.kr/view/AKR20220221038300001?section=safe/news",
+		"date": "02-21 10:00"
+	},
+	"8031e0ddf7a0bd87a24a2b1a69cca07503bfd07723bfe2def3a49531f8605683": {
+		"title": "베트남 수도 하노이, 코로나 확산에 초등학교 등교 연기",
+		"link": "www.yna.co.kr/view/AKR20220221044400084?section=safe/news",
+		"date": "02-21 09:52"
+	},
+	"b3ca479125f7c9332b73dfc23a9c9f13c8e4780c51806bd8062e01a130a413d7": {
+		"title": "신규확진 9만5362명, 나흘만에 10만명 아래…위중증 480명(종합)",
+		"link": "www.yna.co.kr/view/AKR20220221024400530?section=safe/news",
+		"date": "02-21 09:49"
+	},
+	"803d3e98ff19ff27c2c8b7f2b6a396f96e84bde9ba9a1a2165465a70e12ce3da": {
+		"title": "\"관광하러 오세요\" 호주 2년만에 백신접종 여행자 입국 허용",
+		"link": "www.yna.co.kr/view/AKR20220221038200071?section=safe/news",
+		"date": "02-21 09:44"
+	},
 	"e5a22eafb613d1de087ae43f2ae64130c373c57d591678a3e741d16a8cf42954": {
 		"title": "[속보] 어제 코로나19로 45명 사망, 누적 7450명…치명률 0.36%",
 		"link": "www.yna.co.kr/view/AKR20220221020600530?section=safe/news",
@@ -433,70 +498,5 @@
 		"title": "두산 선수 1명 코로나19 확진…동계훈련은 정상 진행",
 		"link": "www.yna.co.kr/view/AKR20220219027600007?section=safe/news",
 		"date": "02-19 11:25"
-	},
-	"c21e1514b476e3da07f606d57fce45360d2fccc42ecfb2081a5b3221752602d0": {
-		"title": "시진핑 지시에 홍콩 '화들짝'…선거 연기·방역 한목소리",
-		"link": "www.yna.co.kr/view/AKR20220219026100074?section=safe/news",
-		"date": "02-19 11:06"
-	},
-	"0caa595aee919bf1dbc6a9b7a7704b1274ccb917f7290dae7f7da40112253fda": {
-		"title": "서울 신규확진 이틀째 2만명대…재택치료 8만명 넘어",
-		"link": "www.yna.co.kr/view/AKR20220219026500004?section=safe/news",
-		"date": "02-19 11:06"
-	},
-	"157a15c6360d09dd575bd6d3fac28c6cd32e4387a1ef0b80f6713a681c310a84": {
-		"title": "대전 하루 확진 3032명…2만9012명 격리 중",
-		"link": "www.yna.co.kr/view/AKR20220219022000063?section=safe/news",
-		"date": "02-19 11:05"
-	},
-	"165e7128439e9e388dd20424c41516a69c0b971b44b3e3683f4d77dec1bee134": {
-		"title": "부산 코로나19 6536명 확진…닷새째 6천명대",
-		"link": "www.yna.co.kr/view/AKR20220219026600051?section=safe/news",
-		"date": "02-19 11:04"
-	},
-	"79f3143219dcfba676d572aa1ecd874d131894fd185964601386d3371e8be25a": {
-		"title": "코로나19 신규 확진자 대구 4223명·경북 3186명 나와",
-		"link": "www.yna.co.kr/view/AKR20220219025700053?section=safe/news",
-		"date": "02-19 10:51"
-	},
-	"d311427ce8e6fa1ffbe191cf147257c4bf23b8ba9df9ef0c0eba737d7f83e805": {
-		"title": "경남 어제 4418명 확진…80대 확진자 1명 숨져",
-		"link": "www.yna.co.kr/view/AKR20220219024900052?section=safe/news",
-		"date": "02-19 10:51"
-	},
-	"138eecf24f427921e435d57c4e4c50cd1d69dd2ba6c8ded99b71b5da94ef0483": {
-		"title": "빌 게이츠 \"코로나 이어 또 다른 팬데믹 거의 확실\"",
-		"link": "www.yna.co.kr/view/AKR20220219025000091?section=safe/news",
-		"date": "02-19 10:35"
-	},
-	"2f1d2af7c1534786b7100e4becb3332bd70a1380ffe4926a005d70c95d2c6d6e": {
-		"title": "프로야구 LG 1군 선수 1명 코로나19 확진…나머지는 음성",
-		"link": "www.yna.co.kr/view/AKR20220219024800007?section=safe/news",
-		"date": "02-19 10:27"
-	},
-	"b7febf3c643df8d4123a796ebd890b87eebc56f2607831edb7f0b7554f71e289": {
-		"title": "인천 7816명 확진…하루 만에 또 최다 기록 경신",
-		"link": "www.yna.co.kr/view/AKR20220219023900065?section=safe/news",
-		"date": "02-19 10:17"
-	},
-	"e99a29978d9e9c1626c04d6da8da5fb9a437da4fe3598ff37b8f5656f65bac84": {
-		"title": "울산 오전 10시까지 599명 확진…백신 3차 접종률 57.1%",
-		"link": "www.yna.co.kr/view/AKR20220219024100057?section=safe/news",
-		"date": "02-19 10:13"
-	},
-	"a76edab9a324fbd24bfcb63ddbf227e51209efe45cad9da5e7e898602d9466f3": {
-		"title": "신규확진 10만2211명, 이틀째 10만명대…위중증 408명으로 증가(종합)",
-		"link": "www.yna.co.kr/view/AKR20220219022800530?section=safe/news",
-		"date": "02-19 10:12"
-	},
-	"ac2c40e93bfbe739fb50f20b1b62b846b9b5788123fa1e51660c7a6d91ff345a": {
-		"title": "전북 2492명 추가 확진…재택치료자 1만8천여명",
-		"link": "www.yna.co.kr/view/AKR20220219023400055?section=safe/news",
-		"date": "02-19 10:01"
-	},
-	"0fcdc35b8c3e1e84203aaad1642b884935032347a8e7adf1a99f0f07e1df80ab": {
-		"title": "경기 3만642명 확진, 이틀째 3만명대…재택치료 12만명",
-		"link": "www.yna.co.kr/view/AKR20220219022100061?section=safe/news",
-		"date": "02-19 10:00"
 	}
 }
