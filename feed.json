@@ -1,4 +1,69 @@
 {
+	"5f7c2b4b8f37fb9d0450df22fe9800b178a657b9e19a9d0b69bd73608cf11c51": {
+		"title": "WHO \"스텔스 오미크론, 원조 오미크론보다 더 위험한 건 아냐\"",
+		"link": "www.yna.co.kr/view/AKR20220223041700009?section=safe/news",
+		"date": "02-23 09:41"
+	},
+	"2b6139e26e93532ce60cd7c578339686e3c44a08f27a741889712d2616a00fbd": {
+		"title": "싱가포르, 신규확진 2만6천명 넘어 최다…\"병원은 위급상황만\"",
+		"link": "www.yna.co.kr/view/AKR20220223046400076?section=safe/news",
+		"date": "02-23 09:39"
+	},
+	"39699b1bb38d5165f49e6dd1220a86fa15048405931f2b7516114a3e18b018b7": {
+		"title": "유은혜, 자가검사키트 준비 현장 방문…현장 의견 청취",
+		"link": "www.yna.co.kr/view/AKR20220223049700530?section=safe/news",
+		"date": "02-23 09:36"
+	},
+	"723349f9347ae26f2f00d468c61f339ad450bfed4f7712c825d4e54717a4f90f": {
+		"title": "[속보] 위중증 32명 늘어 512명…누적 사망 7607명, 치명률 0.33%",
+		"link": "www.yna.co.kr/view/AKR20220223031400530?section=safe/news",
+		"date": "02-23 09:31"
+	},
+	"cabc44dd2a762cfa96b9dfed5e03d8177199c2ebe9899b5eecb5b49afcbbc36a": {
+		"title": "[1보] 확진 17만1452명, 하루새 7만여명 폭증…사망자 99명으로 증가",
+		"link": "www.yna.co.kr/view/AKR20220223031200530?section=safe/news",
+		"date": "02-23 09:30"
+	},
+	"c84cdcc4852daa46cc089b0b25408fc37852b55fb09f2851262ce2a7299e351c": {
+		"title": "1주간 서울 학생 확진자 5천37명…유치원 발생률 급증",
+		"link": "www.yna.co.kr/view/AKR20220223039900530?section=safe/news",
+		"date": "02-23 09:30"
+	},
+	"b98aca47320a8b0460f25a80c911852305586c6ad4407be12385945967b467a2": {
+		"title": "부산교육청, 코로나 수업대체 인력풀 235명 운영",
+		"link": "www.yna.co.kr/view/AKR20220223042600051?section=safe/news",
+		"date": "02-23 09:22"
+	},
+	"0b4f0632f65657aae4c674eb9e4824f1bb070e0f97775a6705641ba97a6f9047": {
+		"title": "코로나19 백신 원부자재 특허현황 한눈에…특허청, 보고서 발간",
+		"link": "www.yna.co.kr/view/AKR20220223041300063?section=safe/news",
+		"date": "02-23 09:19"
+	},
+	"37af053661460f534e0d34463926baedeb8f91f694db5e3b1b3c5934e1d3d59c": {
+		"title": "충북 어제 3475명 확진, 첫 3000명대…전날보다 1288명 폭증",
+		"link": "www.yna.co.kr/view/AKR20220223039700064?section=safe/news",
+		"date": "02-23 09:13"
+	},
+	"aa5dd08726069668eb0798e2af38fa4e813448ee68adfb01cff0b419867650a5": {
+		"title": "광주·전남 7308명 확진…20대 이하·지역 확산 '다수'",
+		"link": "www.yna.co.kr/view/AKR20220223037000054?section=safe/news",
+		"date": "02-23 08:58"
+	},
+	"51968942883711cc2bf173abc8fcd60480973c5c6796217e853fd454a2b2f444": {
+		"title": "[속보] 김총리 \"안정적 관리 가능해지면 거리두기 큰틀서 개편\"",
+		"link": "www.yna.co.kr/view/AKR20220223036500001?section=safe/news",
+		"date": "02-23 08:54"
+	},
+	"8dd3dee242b47029249853f17ff4d9636b183f9bfada22ae1d2d86d37be444df": {
+		"title": "브라질 12세 이상 백신 접종 완료율 90% 육박…\"부스터샷 주력\"",
+		"link": "www.yna.co.kr/view/AKR20220223035500094?section=safe/news",
+		"date": "02-23 08:53"
+	},
+	"fc205c7942bd8ea266fd2c9a08236cc90b82330c1d2bec5cd594718f6d516704": {
+		"title": "[1보] 김총리 \"위중증 안정적…확진자 수만으로 공포심 가질이유 없어\"",
+		"link": "www.yna.co.kr/view/AKR20220223036400001?section=safe/news",
+		"date": "02-23 08:52"
+	},
 	"24930c1170fc9ae95206a7627a4e8036f474626b987bd39c3f6c870c4f49062a": {
 		"title": "전북 어제 4024명 확진…일주일 누적 2만명 육박",
 		"link": "www.yna.co.kr/view/AKR20220223026900055?section=safe/news",
@@ -433,70 +498,5 @@
 		"title": "수원시 4개 보건소 일부 업무 중단…코로나 대응 집중",
 		"link": "www.yna.co.kr/view/AKR20220222033600061?section=safe/news",
 		"date": "02-22 09:03"
-	},
-	"c2ca52e65a70d3b18d89606d4066a2685a91ab795af9852db9a9ecff3efa9eba": {
-		"title": "고양시, 오미크론 대비 긴급 보육ㆍ돌봄 시설 마련",
-		"link": "www.yna.co.kr/view/AKR20220222034600060?section=safe/news",
-		"date": "02-22 08:59"
-	},
-	"18292acce24bac4851624f2ff558fccc0378c4fa97fe344af0675aea084944fd": {
-		"title": "충북 어제 2187명 확진…재택치료 1만6천6명",
-		"link": "www.yna.co.kr/view/AKR20220221031351064?section=safe/news",
-		"date": "02-22 08:58"
-	},
-	"c4a4862868711739981e78ec36dea2f55526ffb2e83d4f46900517cddc0195c1": {
-		"title": "광주 확진자 3000명대 진입…광주·전남 5356명 신규 확진",
-		"link": "www.yna.co.kr/view/AKR20220222028400054?section=safe/news",
-		"date": "02-22 08:35"
-	},
-	"1023cec63f6bed30cbc0a38ba30af1612fb1d932ded84c0ca460fd1ed875b113": {
-		"title": "경북 확진자 닷새째 3000명대…재택치료 1만5381명",
-		"link": "www.yna.co.kr/view/AKR20220222027800053?section=safe/news",
-		"date": "02-22 08:32"
-	},
-	"83202b21733c2cfb5dafd737f2f866ea0eada59db5b7923610ffd8426f34c351": {
-		"title": "전북 어제 2463명 확진…누적 감염자 5만명 넘어",
-		"link": "www.yna.co.kr/view/AKR20220222026500055?section=safe/news",
-		"date": "02-22 08:22"
-	},
-	"1c079654415a6e9851a279d4d945151b3150fff575d8ad2d429ed93c3f97a6d8": {
-		"title": "제주 코로나19 확산세 속 보건소 3곳 일반 진료 중단",
-		"link": "www.yna.co.kr/view/AKR20220222023900056?section=safe/news",
-		"date": "02-22 08:19"
-	},
-	"6e32946cfc414b14e39fba61b6dbe5a5175f7d10a7bbb11201be77fb2b228970": {
-		"title": "강원 신규 확진자 이틀째 2천 명대…누적 4만 명 넘어서",
-		"link": "www.yna.co.kr/view/AKR20220222022800062?section=safe/news",
-		"date": "02-22 08:06"
-	},
-	"cd7b54ccea542c43931af9bd196a7ad31c1217609f1736b2ab02fd6509105f4e": {
-		"title": "\"부스터샷 접종자, 오랫동안 추가접종 필요 없을 듯\"",
-		"link": "www.yna.co.kr/view/AKR20220222020700072?section=safe/news",
-		"date": "02-22 08:06"
-	},
-	"0a37f6957dd04f9f2b16aefcacb36a2bf09c14e6a15460c37e829b5584c53f87": {
-		"title": "질병청 추경 2조2천921억원…코로나격리자 지원·치료제 구입 등",
-		"link": "www.yna.co.kr/view/AKR20220222019200530?section=safe/news",
-		"date": "02-22 08:02"
-	},
-	"77c6c6fd7cda657cd7ab25ce32e43cc4b2441e802d12228cf5af0873fd60bfde": {
-		"title": "코백스, 北에 배정했던 미국산 백신 취소…수용의사 안 밝힌듯",
-		"link": "www.yna.co.kr/view/AKR20220222020300504?section=safe/news",
-		"date": "02-22 07:58"
-	},
-	"d20520736fda1ed6a2efd678a49681588028d549793dc10cf9502ae6d10a0c7b": {
-		"title": "올해도 코로나19 피해 울산시민 대상 지방세제 지원",
-		"link": "www.yna.co.kr/view/AKR20220222011900057?section=safe/news",
-		"date": "02-22 06:55"
-	},
-	"a7f82af685807bb6f9a0fac17e00fb435a234fa5e6d4b5c4820a7cb6d41e5724": {
-		"title": "영국 모든 법적 방역규정 폐지…확진자 자가격리ㆍ무료검사 중단(종합)",
-		"link": "www.yna.co.kr/view/AKR20220222003651085?section=safe/news",
-		"date": "02-22 06:21"
-	},
-	"fb39e39b776cbbb0bbea8d2fc01018db71bef932d10d7b4735d408b21b417674": {
-		"title": "\"3월 기업경기전망 석달 만에 '긍정적'…주요국 방역완화 영향\"",
-		"link": "www.yna.co.kr/view/AKR20220221105700003?section=safe/news",
-		"date": "02-22 06:00"
 	}
 }
