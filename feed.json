@@ -1,4 +1,44 @@
 {
+	"8d8dbfb17f589da73c2d3bb3897cb148f2826ce171c8ba6fc4340134fb375fd2": {
+		"title": "대구 6290명 신규 확진…사망자 4명 늘어",
+		"link": "www.yna.co.kr/view/AKR20220225068600053?section=safe/news",
+		"date": "02-25 10:55"
+	},
+	"ec2bf0aae0f32839d58ee44b2dab8184bdc828c049ca5204eb2b9e438748163f": {
+		"title": "2차 방역지원금 300만원 이틀간 258만명에 지급…지급률 84.8%",
+		"link": "www.yna.co.kr/view/AKR20220225062700003?section=safe/news",
+		"date": "02-25 10:52"
+	},
+	"dd9916b56be3776ceffe9fb03f90ffedea7e438981e8939dc8abe95451cc2e58": {
+		"title": "울산 오전 10시까지 568명 확진…전날 3447명 '하루 최다'",
+		"link": "www.yna.co.kr/view/AKR20220225062200057?section=safe/news",
+		"date": "02-25 10:32"
+	},
+	"67ec886a337584be96be30ba968398b5e8cbdf913fd261cbd9f44d7a73665297": {
+		"title": "내달부턴 미접종자라도 동거가족 확진시 자가격리 안해도 된다",
+		"link": "www.yna.co.kr/view/AKR20220225049100530?section=safe/news",
+		"date": "02-25 10:24"
+	},
+	"e30b45e11a80ad19190f876434a7e7ae030124d37a153d370f6e37a6167d61dc": {
+		"title": "인천 1만2847명 확진…요양병원서 102명 추가감염",
+		"link": "www.yna.co.kr/view/AKR20220225057200065?section=safe/news",
+		"date": "02-25 10:19"
+	},
+	"a4fd2686f3f924d7381238ef91c168715c37c223ce6dc17197d838d7eb45960a": {
+		"title": "경남 어제 8899명 확진, 기저질환 3명 사망…재택 4만5천명대",
+		"link": "www.yna.co.kr/view/AKR20220225054500052?section=safe/news",
+		"date": "02-25 10:10"
+	},
+	"fcf4a64b2f31b9318361ad3d0499f285f413a8073c2dae2e2f27fe8f2554d004": {
+		"title": "경기 4만8082명 확진…누적 80만명 넘어서",
+		"link": "www.yna.co.kr/view/AKR20220225041800061?section=safe/news",
+		"date": "02-25 10:00"
+	},
+	"e13c25298009241af8f59e187c4fa6850934b11e1d7804aa78a2ac6e7df87106": {
+		"title": "대전 4천406명 확진…노인시설 확산세에 중증병상 가동률 50%",
+		"link": "www.yna.co.kr/view/AKR20220225041700063?section=safe/news",
+		"date": "02-25 10:00"
+	},
 	"686ce03096d708059bacbe72d97389f81fb94f7c05a41ace08ce0ad8958cc1b9": {
 		"title": "신규확진 16만5890명…위중증 655명·사망 94명으로 증가 (종합)",
 		"link": "www.yna.co.kr/view/AKR20220225048600530?section=safe/news",
@@ -458,45 +498,5 @@
 		"title": "인천 하루 최다 1만3863명 확진…이틀 연속 1만명대",
 		"link": "www.yna.co.kr/view/AKR20220224063000065?section=safe/news",
 		"date": "02-24 10:12"
-	},
-	"548e82fd5b5205f6f8294e5cd63d5b92f32a7240472a8a325201540b129b641b": {
-		"title": "씨젠, '30분만에 코로나 현장 검사' PCR 진단시약 개발",
-		"link": "www.yna.co.kr/view/AKR20220224061400017?section=safe/news",
-		"date": "02-24 10:06"
-	},
-	"bba0365c835e6cddbbbdd3e446b10571f9cba26faaa9150784c1e59245c3e249": {
-		"title": "신규확진 17만16명, 이틀 연속 17만명대…위중증 581명(종합)",
-		"link": "www.yna.co.kr/view/AKR20220224056600530?section=safe/news",
-		"date": "02-24 10:03"
-	},
-	"3c313584afb80853a5bf3497f46434c8c97fabc5b81a8f140c10af92468d284d": {
-		"title": "경기 5만1320명 확진, 이틀 연속 5만명대…재택치료 16만명",
-		"link": "www.yna.co.kr/view/AKR20220224040100061?section=safe/news",
-		"date": "02-24 10:00"
-	},
-	"5f9fa17d6fbcf7202e7278fcb9913d33272c7f3626c19875eea680403c475094": {
-		"title": "대전서 4504명 신규 확진…누적 6만명 돌파",
-		"link": "www.yna.co.kr/view/AKR20220224051500063?section=safe/news",
-		"date": "02-24 10:00"
-	},
-	"b7b5f0682d29a6ea50faa3ef6f7837d4d6b46a4c30bcd9aa2390d50f198db804": {
-		"title": "베트남, 오미크론 확산에 검사 키트 품귀…가격 급등",
-		"link": "www.yna.co.kr/view/AKR20220224056400084?section=safe/news",
-		"date": "02-24 09:59"
-	},
-	"0a05b120a57e9671a1a3d9dc87c1e7fca91b60de7637823b42f3ff213fe9f9c0": {
-		"title": "원주시 보건소 일부 업무 잠정 중단…코로나19 대응 집중",
-		"link": "www.yna.co.kr/view/AKR20220224054700062?section=safe/news",
-		"date": "02-24 09:58"
-	},
-	"6964c19fc62bcf3bed90389e089461593ef3d9bfad6244cf0fba747c2f200e0c": {
-		"title": "건양대병원, 코로나19 확진 임신부 분만병상 운영…대전 첫 사례",
-		"link": "www.yna.co.kr/view/AKR20220224050000063?section=safe/news",
-		"date": "02-24 09:50"
-	},
-	"e043c3728984e6e9a54ec2ab187cdb808b10524bbefd8c600ad2ca63067c6fd7": {
-		"title": "아산시, 외국인 근로자 위해 토요일에도 코로나19 백신 접종",
-		"link": "www.yna.co.kr/view/AKR20220224044500063?section=safe/news",
-		"date": "02-24 09:42"
 	}
 }
