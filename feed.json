@@ -1,4 +1,39 @@
 {
+	"404fabce80bec189828c5a218d44572a795669bb952ec26474f2d5b5d8e2bc61": {
+		"title": "\"코로나의 기원은 중국 우한의 시장…야생동물서 전염\"",
+		"link": "www.yna.co.kr/view/AKR20220227022200091?section=safe/news",
+		"date": "02-27 10:47"
+	},
+	"2753fa2f00eaf520e8491b251ac82a1408ac75d739dbb92e494e1845bf9913d6": {
+		"title": "경남 9247명 신규 확진…18개 시군 전역서 발생",
+		"link": "www.yna.co.kr/view/AKR20220227022500052?section=safe/news",
+		"date": "02-27 10:16"
+	},
+	"731fd7091a9bce23bc77c0c123ef7dd14fd83bd4d02232023b0c8b5790ad7fc7": {
+		"title": "인천 1만1133명 확진…닷새 연속 1만명대",
+		"link": "www.yna.co.kr/view/AKR20220227022100065?section=safe/news",
+		"date": "02-27 10:12"
+	},
+	"48da6c6e889d56474cc6d39aab78a81f4e01c934a574a9d3cdbd1117483808d0": {
+		"title": "울산 오전 10시까지 271명 확진…전날 3315명",
+		"link": "www.yna.co.kr/view/AKR20220227020800057?section=safe/news",
+		"date": "02-27 10:00"
+	},
+	"28dcd50ad4411b99005470fbc35d2540b9bfc348f18a68e7bb1df9493ecf43e6": {
+		"title": "신규확진 16만3566명, 사흘째 16만명대…누적 300만명 육박(종합)",
+		"link": "www.yna.co.kr/view/AKR20220227020100530?section=safe/news",
+		"date": "02-27 10:00"
+	},
+	"f1ed3e1a24511c85af40b87b222d0a6fc2b53925ba947b0d88f05097ed92bd29": {
+		"title": "대전 신규 확진 닷새 연속 4000명대…재택치료 2만명 육박",
+		"link": "www.yna.co.kr/view/AKR20220226023851063?section=safe/news",
+		"date": "02-27 10:00"
+	},
+	"ecea8df7f12d4f7b4c1697953dcedb65020822cb4340955db272b6d0b1cef7c4": {
+		"title": "경기 4만6801명 확진…누적 90만명 넘어서",
+		"link": "www.yna.co.kr/view/AKR20220227016900061?section=safe/news",
+		"date": "02-27 10:00"
+	},
 	"338ac4a6051c62a1713d4c2c575e1713afb5d8b83b56b88ada442cbec679d118": {
 		"title": "전남도-교육청-보건소, 개학대비 방역대응 전담팀 가동",
 		"link": "www.yna.co.kr/view/AKR20220227017100054?section=safe/news",
@@ -463,40 +498,5 @@
 		"title": "'철통방역' 뉴질랜드도 지역감염 1만2천명으로 급증…사망 5명",
 		"link": "www.yna.co.kr/view/AKR20220225065100009?section=safe/news",
 		"date": "02-25 11:05"
-	},
-	"997204ceec78c11df87c899b55081c88942e54989b10fd391cd6055c4c13ec8b": {
-		"title": "[속보] 변경된 확진자 동거인 지침, 학교에는 내달 14일부터 적용",
-		"link": "www.yna.co.kr/view/AKR20220225069200530?section=safe/news",
-		"date": "02-25 11:00"
-	},
-	"fe8894e47c9a5eb7f00fb1a2a3e150acf73c4b65235687f17bc9ad2b232549f5": {
-		"title": "[속보] 확진자 동거인 수동감시…3일내 PCR·7일차에 신속항원검사 권고",
-		"link": "www.yna.co.kr/view/AKR20220225069000530?section=safe/news",
-		"date": "02-25 11:00"
-	},
-	"7b0979f362e41dc0ae8486c4c6970842c834f2cd951a54fb6640090e723ebe3a": {
-		"title": "[속보] 내달부터 격리해제 확인서 발급 중단…격리통지서는 문자로",
-		"link": "www.yna.co.kr/view/AKR20220225069500530?section=safe/news",
-		"date": "02-25 11:00"
-	},
-	"8d8dbfb17f589da73c2d3bb3897cb148f2826ce171c8ba6fc4340134fb375fd2": {
-		"title": "대구 6290명 신규 확진…사망자 4명 늘어",
-		"link": "www.yna.co.kr/view/AKR20220225068600053?section=safe/news",
-		"date": "02-25 10:55"
-	},
-	"ec2bf0aae0f32839d58ee44b2dab8184bdc828c049ca5204eb2b9e438748163f": {
-		"title": "2차 방역지원금 300만원 이틀간 258만명에 지급…지급률 84.8%",
-		"link": "www.yna.co.kr/view/AKR20220225062700003?section=safe/news",
-		"date": "02-25 10:52"
-	},
-	"dd9916b56be3776ceffe9fb03f90ffedea7e438981e8939dc8abe95451cc2e58": {
-		"title": "울산 오전 10시까지 568명 확진…전날 3447명 '하루 최다'",
-		"link": "www.yna.co.kr/view/AKR20220225062200057?section=safe/news",
-		"date": "02-25 10:32"
-	},
-	"67ec886a337584be96be30ba968398b5e8cbdf913fd261cbd9f44d7a73665297": {
-		"title": "내달부턴 미접종자라도 동거가족 확진시 자가격리 안해도 된다",
-		"link": "www.yna.co.kr/view/AKR20220225049100530?section=safe/news",
-		"date": "02-25 10:24"
 	}
 }
