@@ -1,4 +1,64 @@
 {
+	"032eb4668f961086fb5231f373a95c2945e1d55d22d40a731696ac2567b5a0c1": {
+		"title": "논란·갈등 시달린 방역패스, 4개월만에 중단…\"효용성 떨어져\"",
+		"link": "www.yna.co.kr/view/AKR20220228053500530?section=safe/news",
+		"date": "02-28 10:37"
+	},
+	"c3a62a847b55828fdb7025f71ef9011bf2351db8c22d4191fd0dbda77fabb698": {
+		"title": "태국 \"코로나119, 엔데믹으로 간다\"…6월 목표로 전환 관리 추진",
+		"link": "www.yna.co.kr/view/AKR20220228054700076?section=safe/news",
+		"date": "02-28 10:29"
+	},
+	"b3e58becacf8976d0882ee3c1ff00100e62190a549bec05a1009fc10f64b0a38": {
+		"title": "대구서 5825명 추가 확진…위중증 병상 가동률 76.9%",
+		"link": "www.yna.co.kr/view/AKR20220228057400053?section=safe/news",
+		"date": "02-28 10:28"
+	},
+	"7e7e0c13f5def6b36b0e92268a72d6eb56cbeae4a23b5bd0ee7bf3f392fc18bf": {
+		"title": "부산구치소 누적 확진자 200명 넘어…비접촉자 분산 이송",
+		"link": "www.yna.co.kr/view/AKR20220228056900051?section=safe/news",
+		"date": "02-28 10:26"
+	},
+	"6881c01088ea8075ce07f4353cad90a64b9b7967d09982bf08613e6a23e17ff8": {
+		"title": "인천 1만741명 확진…확진자 11명 치료 중 사망",
+		"link": "www.yna.co.kr/view/AKR20220228055200065?section=safe/news",
+		"date": "02-28 10:21"
+	},
+	"9a6d05c76a38afc6156c4a8fb8f0cff25c9a25fdbda586cfde047e5e800e94a6": {
+		"title": "[영상] 누적 확진자 300만명…오늘부터 면역저하자 4차접종 본격화",
+		"link": "www.yna.co.kr/view/AKR20220228054200704?section=safe/news",
+		"date": "02-28 10:17"
+	},
+	"45facd5d8c5bfde6e3a7e7be5ae65d9e7d48cf82911e98c226efefdace5d88cc": {
+		"title": "경남 8413명 신규 확진…60∼90대 환자 6명 숨져",
+		"link": "www.yna.co.kr/view/AKR20220228052200052?section=safe/news",
+		"date": "02-28 10:11"
+	},
+	"72194f72cf5f5bf7b91f3afdec36656d10944796b5aad4972bb653eb7ab37f38": {
+		"title": "SK바사 \"영유아 장티푸스 백신 임상서 부스터 샷 효과 확인\"",
+		"link": "www.yna.co.kr/view/AKR20220228050000017?section=safe/news",
+		"date": "02-28 10:03"
+	},
+	"f65303b51d4111e806b4253f7834d0e503a49cd3be0cb6f30002d96d737bcecd": {
+		"title": "대전서 3683명 신규 확진…중등증 이상 342명으로 늘어",
+		"link": "www.yna.co.kr/view/AKR20220228032600063?section=safe/news",
+		"date": "02-28 10:00"
+	},
+	"6cc9e9af376a698ad5b0685351f18321e25a1b808ac288538a27b78906646ec2": {
+		"title": "울산 오전 10시까지 600명 확진…누적 5만 명 돌파",
+		"link": "www.yna.co.kr/view/AKR20220228049300057?section=safe/news",
+		"date": "02-28 10:00"
+	},
+	"0159f584d9e8c929df0ed87045a49b7fe1cbb5fd64940c7e097f7670b295a35a": {
+		"title": "신규확진 13만9626명…사망 114명, 또 역대최다·위중증 715명(종합)",
+		"link": "www.yna.co.kr/view/AKR20220228047500530?section=safe/news",
+		"date": "02-28 09:59"
+	},
+	"41fe95fb1c461e3be53a1fe1485a34a104e0925dda28bf2d5aee29c53ac4b3a6": {
+		"title": "필리핀, 하루 확진자 1천명대로 줄어…대중교통 정상 운행",
+		"link": "www.yna.co.kr/view/AKR20220228047400084?section=safe/news",
+		"date": "02-28 09:55"
+	},
 	"988ab3b5866cbe638b7de98af210b315b79bbddfbea9fe2a83a5c415bfdd6d41": {
 		"title": "카카오·네이버, 코로나19 전화상담 병·의원 검색 서비스",
 		"link": "www.yna.co.kr/view/AKR20220228044000017?section=safe/news",
@@ -438,65 +498,5 @@
 		"title": "마스크 벗는 미국…CDC \"미국인 70%, 실내서 마스크 안 써도 돼\"",
 		"link": "www.yna.co.kr/view/AKR20220226019100091?section=safe/news",
 		"date": "02-26 08:23"
-	},
-	"035bb71eaaea800b63ff76af33467fb3ae67affac574367e34355cb44d17c14e": {
-		"title": "강원 신규확진자 3264명…나흘째 3천명대",
-		"link": "www.yna.co.kr/view/AKR20220226017500062?section=safe/news",
-		"date": "02-26 08:02"
-	},
-	"13bf7ba9a09e13e65516e3b498da720f2ed137a5952636f54c1a8657b70af758": {
-		"title": "오늘부터 학원·독서실 '한칸 띄어앉기' 등 방역위반시 과태료",
-		"link": "www.yna.co.kr/view/AKR20220225182100530?section=safe/news",
-		"date": "02-26 06:04"
-	},
-	"bc46f812652738a3a89f923abd66b4b8bde30d3608a1423269bf71e2c07a4b4a": {
-		"title": "美 백악관, 코로나19와의 공생을 위한 '뉴노멀 전략' 수립 중",
-		"link": "www.yna.co.kr/view/AKR20220226006700091?section=safe/news",
-		"date": "02-26 04:19"
-	},
-	"5034c901f539b86e53f30967bc14b526ffc9547c3cdbc1ee47c43867fe486228": {
-		"title": "오후 9시까지 전국서 15만8397명 확진…어제보다 1만5168명 많아(종합)",
-		"link": "www.yna.co.kr/view/AKR20220225162951530?section=safe/news",
-		"date": "02-25 21:42"
-	},
-	"3ce2fe6b9f39e53847a7e62c2bf0a689a8ea2410e85c689073c76eb31152b84b": {
-		"title": "[속보] 오후 9시까지 전국서 15만8397명 확진…어제보다 1만5168명 많아",
-		"link": "www.yna.co.kr/view/AKR20220225175600530?section=safe/news",
-		"date": "02-25 21:28"
-	},
-	"1f607a53b611687cf78e7a759acb7700e9125485071e4c4259d88d974d5b9a9b": {
-		"title": "日 코로나19 정점 지났다는데…사망자 두번째로 많은 278명",
-		"link": "www.yna.co.kr/view/AKR20220225173300073?section=safe/news",
-		"date": "02-25 21:27"
-	},
-	"f2784cd5b115a62ba257b672ed7c627e7b3cf07daa8a045aefe98df342dd76ac": {
-		"title": "오후 6시까지 전국서 13만5986명 확진…어제보다 553명 많아",
-		"link": "www.yna.co.kr/view/AKR20220225162900530?section=safe/news",
-		"date": "02-25 18:54"
-	},
-	"c747d66c14703031db30cafb432693a4b07ea366f165978c215035a42176c27f": {
-		"title": "[속보] 오후 6시까지 전국서 13만5986명 확진…어제보다 553명 많아",
-		"link": "www.yna.co.kr/view/AKR20220225162100530?section=safe/news",
-		"date": "02-25 18:40"
-	},
-	"5c5667f57c16a395b6a6b5aaa836b82390cc5925066587c0fbeca8b702dbe193": {
-		"title": "[우크라 침공] 젤렌스키, '동병상련' 동유럽국들에 군사지원 호소",
-		"link": "www.yna.co.kr/view/AKR20220225159900080?section=safe/news",
-		"date": "02-25 18:28"
-	},
-	"cf20fb862f14a902a78e9c5f4f1d8d48ea4e33cd84df4c2be85212222df3646e": {
-		"title": "홍콩 신규환자 1만명 넘어…\"엄격한 방역에 EU주민 10% 떠나\"",
-		"link": "www.yna.co.kr/view/AKR20220225152900074?section=safe/news",
-		"date": "02-25 18:06"
-	},
-	"9149a033b6f2602ad1a1a19d1e577a2878a507aa5d5201c3de022edd055904e4": {
-		"title": "울산 오후 6시까지 3128명 확진…나흘 연속 3000명대(종합)",
-		"link": "www.yna.co.kr/view/AKR20220225062251057?section=safe/news",
-		"date": "02-25 18:00"
-	},
-	"d02f204d22b1be5d852cc0d5b6ef80883097ef72c378886b91c383e65d2a72ac": {
-		"title": "광주 4427명·전남 2733명 확진…연일 최다치",
-		"link": "www.yna.co.kr/view/AKR20220225152500054?section=safe/news",
-		"date": "02-25 17:50"
 	}
 }
