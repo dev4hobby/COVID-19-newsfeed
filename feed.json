@@ -1,4 +1,84 @@
 {
+	"48ae14008a91e5d686a2856b9ee4d1782190ac0b5a641df1b376a49584a96327": {
+		"title": "부산 하루 최다 확진 기록 또 경신…1만6천명 넘어",
+		"link": "www.yna.co.kr/view/AKR20220302077200051?section=safe/news",
+		"date": "03-02 11:00"
+	},
+	"dab83b94995bffefe10f73d48170e8d9054195434ded51476752ae23e845321a": {
+		"title": "[속보] 소아확진자 진료·입원 전담병원 26곳 지정…병상 1442개 확보",
+		"link": "www.yna.co.kr/view/AKR20220302079900530?section=safe/news",
+		"date": "03-02 11:00"
+	},
+	"6c02669bb21042f212f3a59b125c2ef39a2b38c85654d57b434fb8d787378c01": {
+		"title": "[속보] 한달간 코로나19 사망자 65.6% '장례 후 화장'…감염사례 없어",
+		"link": "www.yna.co.kr/view/AKR20220302080500530?section=safe/news",
+		"date": "03-02 11:00"
+	},
+	"e08cb029fbf20c2dd8720e3f2f1c9e0c0b9780000857c7b6f5a46cabf7e0a741": {
+		"title": "서울대병원-카카오, '코로나19 자가진단 챗봇' 구축",
+		"link": "www.yna.co.kr/view/AKR20220302079700017?section=safe/news",
+		"date": "03-02 10:58"
+	},
+	"3f4639c67224ce169e536d84765bae3444a4b760fd4e33b9a8ebba561c11de6c": {
+		"title": "대구 신규 확진 엿새 만에 또다시 7000명대로 증가",
+		"link": "www.yna.co.kr/view/AKR20220302076400053?section=safe/news",
+		"date": "03-02 10:55"
+	},
+	"8a63d72b705d076d98d72c38ab0c3d74b57fca9bd0d533d4386bfc9aee57fb7f": {
+		"title": "대전시 음식업 컨설팅 지원…\"코로나19 외식문화 변화 대응\"",
+		"link": "www.yna.co.kr/view/AKR20220302070600063?section=safe/news",
+		"date": "03-02 10:47"
+	},
+	"c59e578f01dbebe94616d241ce8810a3c71b51becf1614ac1331fa49ef5c2724": {
+		"title": "'집단감염' 부산구치소 누적 확진자 289명…점차 안정세",
+		"link": "www.yna.co.kr/view/AKR20220302073500051?section=safe/news",
+		"date": "03-02 10:43"
+	},
+	"f3c679de40ef4f22d4f01ee3be9cdb4fc79407988f0b0332565f224eb4d19797": {
+		"title": "뉴질랜드, 오미크론 확산에 '흔들'…신규 감염 2만 건 넘어",
+		"link": "www.yna.co.kr/view/AKR20220302070800009?section=safe/news",
+		"date": "03-02 10:39"
+	},
+	"3af765126adb399a4b1199d8aa89438fe074dbc53999c973d072ab1cdd9e2237": {
+		"title": "전북도 고위 공무원, 코로나 검사 '특혜' 논란",
+		"link": "www.yna.co.kr/view/AKR20220302065000055?section=safe/news",
+		"date": "03-02 10:21"
+	},
+	"346706581626ca1b9c07f4af6eae0a35c3b576e9166874afa2ac90e90689a590": {
+		"title": "경남 1만명 훌쩍 넘은 1만3201명 확진…기저질환 4명 숨져",
+		"link": "www.yna.co.kr/view/AKR20220302062600052?section=safe/news",
+		"date": "03-02 10:19"
+	},
+	"e94f9024b1ec4258e073f41d2aa1cae98d24367e0ed844b8bf9a951b44fafed7": {
+		"title": "울산 오전 10시까지 631명 확진…전날 5121명 '하루 최다'",
+		"link": "www.yna.co.kr/view/AKR20220302064900057?section=safe/news",
+		"date": "03-02 10:18"
+	},
+	"eea62272faeac84f1f79c9197dc464eff8c3f2014508d137d88005d4ba344094": {
+		"title": "인천 1만2105명 감염…확진자 6명 입원 중 사망",
+		"link": "www.yna.co.kr/view/AKR20220302063900065?section=safe/news",
+		"date": "03-02 10:16"
+	},
+	"a62875227edbc05b0b9844ee445ab8b01e861e4aa5fafdc8ef8ad0aab4c99d83": {
+		"title": "이천시, 코로나 피해 업소·근로자에 '3차 민생안정지원금'",
+		"link": "www.yna.co.kr/view/AKR20220302061300061?section=safe/news",
+		"date": "03-02 10:15"
+	},
+	"a7610e0f5f3d27a56f6fb12a6a27567cab868abd5c5cf4a22b8fe9921235ff51": {
+		"title": "개학 전날 대전 신규 코로나19 확진 5천명 넘었다",
+		"link": "www.yna.co.kr/view/AKR20220302044900063?section=safe/news",
+		"date": "03-02 10:00"
+	},
+	"691b4d7ff3fd528c319eaa3515c4aa58964ff4d4007cd53a32679c6827411d5c": {
+		"title": "경기 6만8623명 확진, 역대 최다…누적 100만명 넘어서",
+		"link": "www.yna.co.kr/view/AKR20220302049300061?section=safe/news",
+		"date": "03-02 10:00"
+	},
+	"b1771fcfa5291b31cd4427392ad6cab66d7a23e71d690603eae0947b050b2506": {
+		"title": "신규확진 22만명 근접…하루새 8만여명 폭증해 21만9241명(종합)",
+		"link": "www.yna.co.kr/view/AKR20220302029400530?section=safe/news",
+		"date": "03-02 09:57"
+	},
 	"f1e18cab07f2d50c9ddf89ec940494f8d28ce0637df17892486737d64349ed24": {
 		"title": "[속보] 경기 6만8623명-서울 4만6933명-인천 1만2105명 등 확진",
 		"link": "www.yna.co.kr/view/AKR20220302037200530?section=safe/news",
@@ -418,85 +498,5 @@
 		"title": "충북 16시까지 2903명 확진…누적 7만명 넘어",
 		"link": "www.yna.co.kr/view/AKR20220228135000064?section=safe/news",
 		"date": "02-28 16:45"
-	},
-	"2837eeb4937ed3d77c8d331ca8562e619f0deb280660d61b81999fc016be84ef": {
-		"title": "완주군, 코로나 재택치료 불편 최소화위해 행정력 집중",
-		"link": "www.yna.co.kr/view/AKR20220228137000055?section=safe/news",
-		"date": "02-28 16:44"
-	},
-	"7389037c2e058d5af45b722310d14106f19c8c249f25c23829a65b45612bbc8c": {
-		"title": "감염병 '주의' 단계 이상 땐 노숙인진료시설 확대한다",
-		"link": "www.yna.co.kr/view/AKR20220228135700530?section=safe/news",
-		"date": "02-28 16:34"
-	},
-	"50367f5f0d7ae42b839f91da632e055ef3100110f74c6c692202dd5d2324f568": {
-		"title": "[여행소식] 이탈리아, 백신 접종자에 '입국 빗장수비' 풀었다",
-		"link": "www.yna.co.kr/view/AKR20220228132000805?section=safe/news",
-		"date": "02-28 16:22"
-	},
-	"6513acf7388f681cc468fc11ce2f8679eab4e39df2060a3ee24730f32117cb40": {
-		"title": "유은혜 \"학교 중심 오미크론 대응, 불편해도 이해해달라\"",
-		"link": "www.yna.co.kr/view/AKR20220228127100530?section=safe/news",
-		"date": "02-28 16:16"
-	},
-	"d06a324308eb5310a3cc1b0539d1750d4855f31a7bcb26d066e3df9736c6d0b7": {
-		"title": "내일부터 확진자의 미접종 동거인도 격리 안한다…전원 수동감시",
-		"link": "www.yna.co.kr/view/AKR20220228128700530?section=safe/news",
-		"date": "02-28 16:15"
-	},
-	"8f15eb6022b78c2e427b85f8636052720810fadf7a048721a459810e3ee07d22": {
-		"title": "\"내달 9일 신규확진 23만명 이상·중증환자 1200명 이상 전망\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20220228106151530?section=safe/news",
-		"date": "02-28 16:08"
-	},
-	"76f590732bb88bfeab4e5d3d9b1d9ec84912938665e19b024ca43737b3a5e285": {
-		"title": "당국 \"접종 완료한 해외입국자 자가격리 면제 검토 중\"",
-		"link": "www.yna.co.kr/view/AKR20220228123800530?section=safe/news",
-		"date": "02-28 16:03"
-	},
-	"c59f2378eec4270538ecc7677e4ac2de128cbbed934acf110294a843bfa03c67": {
-		"title": "이재명 \"등교 전 신속항원검사, 강제되지 않게 할 것\"",
-		"link": "www.yna.co.kr/view/AKR20220228121500001?section=safe/news",
-		"date": "02-28 15:43"
-	},
-	"5f8e1302038d053cf7cc7f50724f577ad6fefd8d7293c59f6d829c490cc25af3": {
-		"title": "\"코로나19 확진자 폭증 대응\" 대전소방, 구급대원 50명 증원",
-		"link": "www.yna.co.kr/view/AKR20220228115900063?section=safe/news",
-		"date": "02-28 15:19"
-	},
-	"4975a8f58c438dd49113fde3ebde71801b2fcf56bf5a52da18617fd50c2e4a95": {
-		"title": "홍콩서 코로나에 쫓겨나는 쪽방 거주자·가사 도우미",
-		"link": "www.yna.co.kr/view/AKR20220228112300074?section=safe/news",
-		"date": "02-28 15:16"
-	},
-	"e700fa94098c17ac63f4de1fbd01484f860d4d0097efcc484c3c831cfab27d7a": {
-		"title": "부산, 6일 연속 1만명대 확진…28일 8522명 추가(종합)",
-		"link": "www.yna.co.kr/view/AKR20220228062651051?section=safe/news",
-		"date": "02-28 15:06"
-	},
-	"24eeed91e0b8f3b85c9774bb3ceabe571a8f558d8e21ca36f8a62afe7e891f8a": {
-		"title": "광주시, 소아·임신부 확진자 전담병원 운영",
-		"link": "www.yna.co.kr/view/AKR20220228112100054?section=safe/news",
-		"date": "02-28 15:01"
-	},
-	"332a321b24b0c516acab2545334a6e94d95d31c34ca66cb22b13e27e65d8bd86": {
-		"title": "정신의료기관 등 입원·입소자, 종사자도 오늘부터 4차접종",
-		"link": "www.yna.co.kr/view/AKR20220228108200530?section=safe/news",
-		"date": "02-28 14:46"
-	},
-	"4d18d5feb4971f88ef81e3293ec73faeb20127db949dfc0458653ecf20688ad9": {
-		"title": "빗장 푸는 뉴질랜드…\"백신 접종 완료자 입국 시 자가격리 없다\"",
-		"link": "www.yna.co.kr/view/AKR20220228102100009?section=safe/news",
-		"date": "02-28 14:40"
-	},
-	"218932d1be5849a9ff3a66652d9f554a4faead6ed37027ac1b72005a7506fd47": {
-		"title": "\"3월 9일 신규확진 23만명 이상·중증환자 1200명 이상 전망\"",
-		"link": "www.yna.co.kr/view/AKR20220228106100530?section=safe/news",
-		"date": "02-28 14:36"
-	},
-	"5779342668f857b925217370fa13ccd8af927b640799eec998f8e255f3346595": {
-		"title": "군 코로나19 확진자 740명 늘어…누적 1만8천471명",
-		"link": "www.yna.co.kr/view/AKR20220228105200504?section=safe/news",
-		"date": "02-28 14:33"
 	}
 }
