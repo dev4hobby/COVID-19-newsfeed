@@ -1,4 +1,44 @@
 {
+	"01dc16380a2dcb56fd69d0c4565012ce32ad3521061ecb2e6521f5cd282ad61b": {
+		"title": "대구·경북 각각 8000명대…대구 중증환자 병상가동률 78.5%",
+		"link": "www.yna.co.kr/view/AKR20220306025000053?section=safe/news",
+		"date": "03-06 10:28"
+	},
+	"c626547bb0f766655d8cb4917d92759b75d22ce2a8fa4443357e5eab263aa0fe": {
+		"title": "인천 1만4859명 확진…요양병원 관련 감염자 등 22명 사망",
+		"link": "www.yna.co.kr/view/AKR20220306024800065?section=safe/news",
+		"date": "03-06 10:22"
+	},
+	"fc9084cc24e90a654de7b21c88f0af769b2dcfa1ccf76f2b31cf126288798c67": {
+		"title": "신규확진 24만3628명…위중증 환자 885명·어제 161명 사망(종합)",
+		"link": "www.yna.co.kr/view/AKR20220306021300530?section=safe/news",
+		"date": "03-06 10:10"
+	},
+	"9818644fe8ed5c5794cb7734c6e6023274605c89bb1972ad775a55ac47b2c9e6": {
+		"title": "경남 어제 1만4425명 확진…70대∼80대 7명 사망",
+		"link": "www.yna.co.kr/view/AKR20220306023500052?section=safe/news",
+		"date": "03-06 10:10"
+	},
+	"c2b9ad331c71b41c7b3bb0075a8d15faa055edab7957da27cf4925cf10f96d82": {
+		"title": "전남도, 집단감염 위험시설 담당공무원 매일 방문 점검",
+		"link": "www.yna.co.kr/view/AKR20220306021700054?section=safe/news",
+		"date": "03-06 10:01"
+	},
+	"bcc312cf925c6668a6d050b95a2afa2e4a8a0ec470d9e3bd99b7856315c03c8b": {
+		"title": "대전 신규 확진자 6천명 넘었다…중등증 이상 386명으로 늘어",
+		"link": "www.yna.co.kr/view/AKR20220306016100063?section=safe/news",
+		"date": "03-06 10:00"
+	},
+	"3b91b257236e3deda823c839021a73fd615e1dc553935dea2089962008fbe103": {
+		"title": "울산 오전 10시까지 340명 확진…전날 확진자는 5015명",
+		"link": "www.yna.co.kr/view/AKR20220306019600057?section=safe/news",
+		"date": "03-06 10:00"
+	},
+	"24366593251c0879ebd280349e3d5beed5d584b971fef05a3659430066468e37": {
+		"title": "경기 6만6837명 확진…재택치료 30만명대로 증가",
+		"link": "www.yna.co.kr/view/AKR20220306017900061?section=safe/news",
+		"date": "03-06 10:00"
+	},
 	"81cf4597edb792c24db44b4be42b94d43b110b2d4356f28d2c761ec2ee0baa4e": {
 		"title": "프로야구 KIA 선수단 3명 코로나19 양성 반응…6일 kt전 취소",
 		"link": "www.yna.co.kr/view/AKR20220306019000007?section=safe/news",
@@ -458,45 +498,5 @@
 		"title": "中, '제로 코로나' 유지 시사…\"대가 지불할 가치 있다\"",
 		"link": "www.yna.co.kr/view/AKR20220304098900083?section=safe/news",
 		"date": "03-04 13:45"
-	},
-	"c10ded8b05d315464cf14356fabecfbd19486048930a9c8fd09507f72b47cac2": {
-		"title": "프로농구 한국가스공사, 코로나 여파로 5일 kt전도 연기",
-		"link": "www.yna.co.kr/view/AKR20220304094900007?section=safe/news",
-		"date": "03-04 13:25"
-	},
-	"70033723fd953287c46d724f557f49daf0ee58198007157898dd7444f153fe0f": {
-		"title": "일반병상서도 확진자 치료…경증환자 731명에 이동 권고(종합)",
-		"link": "www.yna.co.kr/view/AKR20220304082751530?section=safe/news",
-		"date": "03-04 12:56"
-	},
-	"41a2121d79d31c0de2190504334e5a3b9286b1b64d671070ce868221687b60c3": {
-		"title": "뉴질랜드, 코로나19 신규 감염 사흘째 2만여건…\"의료체계 긴장\"",
-		"link": "www.yna.co.kr/view/AKR20220304086000009?section=safe/news",
-		"date": "03-04 12:05"
-	},
-	"0d9c45d01850d155caf1b3019400c0b22e8540190c1b154911b096930f54c9de": {
-		"title": "정부 \"다음 거리두기 조정부터 본격적으로 완화 조치 검토\"",
-		"link": "www.yna.co.kr/view/AKR20220304086800530?section=safe/news",
-		"date": "03-04 12:03"
-	},
-	"6b4decd335bba027fce95474f11604e6d03d7348ad407ef7c03b22ae9b36cddd": {
-		"title": "베트남 총리 \"코로나19 일반화…엔데믹으로 간주해야\"",
-		"link": "www.yna.co.kr/view/AKR20220304084500084?section=safe/news",
-		"date": "03-04 11:45"
-	},
-	"51f847ea09ea1b6489365cb607b94c69a21fdaa4ba1671227dbdebbe3dca238c": {
-		"title": "한미약품, PHC와 '타액 검출' 코로나19 검사키트 수출 추진",
-		"link": "www.yna.co.kr/view/AKR20220304083700017?section=safe/news",
-		"date": "03-04 11:41"
-	},
-	"35c5dcd297dc0b4e9062287e5992c623f14584ea1f0f30570240ab1e26b5c208": {
-		"title": "준중증·중등증 병상도 효율화…731명에 '일반병상 이동' 권고",
-		"link": "www.yna.co.kr/view/AKR20220304082700530?section=safe/news",
-		"date": "03-04 11:38"
-	},
-	"1e61afdfcbc711f39f687517204957be4813c3fcd340f58ebe8b0f966232e480": {
-		"title": "서울시, 투석환자·임산부·아동 코로나 특수병상 297개 운영",
-		"link": "www.yna.co.kr/view/AKR20220304080300004?section=safe/news",
-		"date": "03-04 11:36"
 	}
 }
