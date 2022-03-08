@@ -1,4 +1,19 @@
 {
+	"00db8c97d596bc95f8d0b74b63892bb604f447d69e83760251da18dbaff97ce6": {
+		"title": "[속보] 오후 6시까지 전국서 26만3523명 확진…동시간대 최다",
+		"link": "www.yna.co.kr/view/AKR20220308159100530?section=safe/news",
+		"date": "03-08 18:20"
+	},
+	"4e286575062579613797e0f9c9e7bc6836983a5b781570408cb08ea5f3128847": {
+		"title": "울산 오후 6시까지 6635명 신규 확진…첫 6000명대(종합)",
+		"link": "www.yna.co.kr/view/AKR20220308069751057?section=safe/news",
+		"date": "03-08 18:15"
+	},
+	"43397064410fda54b4981fcc49bb20c01466b6c9e0f976cc71649ad7b0799b7f": {
+		"title": "서울 신규확진 첫 6만명대…오후 6시까지 6만4534명 확진",
+		"link": "www.yna.co.kr/view/AKR20220308156900004?section=safe/news",
+		"date": "03-08 18:07"
+	},
 	"955c0c32cb02729b3269fe92381359815c28a8fd17724912aafc9ef040960223": {
 		"title": "이지혜 '코로나19' 확진…김신영 자가진단키트 양성",
 		"link": "www.yna.co.kr/view/AKR20220308155400005?section=safe/news",
@@ -483,20 +498,5 @@
 		"title": "정은경 \"5~11세 고위험군 어린이 우선접종…14일 접종계획 발표\"",
 		"link": "www.yna.co.kr/view/AKR20220307114800530?section=safe/news",
 		"date": "03-07 15:30"
-	},
-	"4b5f6b7027dc03b4241784a2a51101a1e0b6688a20bff2b362073152982ba98c": {
-		"title": "경희대병원, 응급의료센터 확장…병상 20개→27개",
-		"link": "www.yna.co.kr/view/AKR20220307118900017?section=safe/news",
-		"date": "03-07 15:21"
-	},
-	"b651c04160f01d326e925fb2b37a5f7e206a88631228a1f0d648277edefdf284": {
-		"title": "방역당국 \"확진·격리자, 선거일 오후 5시30분 이후 투표외출\"",
-		"link": "www.yna.co.kr/view/AKR20220307116000530?section=safe/news",
-		"date": "03-07 15:19"
-	},
-	"ffacd8a8ec99bc2bfc980cdf9e6a1c7ac04685deed3e40552ad934e3a27f0efd": {
-		"title": "전남지역 정신건강시설 입원·종사자 4천명 4차 접종",
-		"link": "www.yna.co.kr/view/AKR20220307117800054?section=safe/news",
-		"date": "03-07 15:16"
 	}
 }
