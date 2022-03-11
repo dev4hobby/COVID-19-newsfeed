@@ -1,4 +1,34 @@
 {
+	"22f48e231cbe0928262c34ceb3a3b14e2314169c3ef4f8de1d3c8ce5dd254fc9": {
+		"title": "한달간 전문가용 신속검사 양성자도 확진 간주…즉시 격리·치료",
+		"link": "www.yna.co.kr/view/AKR20220311067500530?section=safe/news",
+		"date": "03-11 11:42"
+	},
+	"2eb0b0991b69881f0827f23be66dd859c43d9b8ccec32026db649195b0268359": {
+		"title": "21일부터 접종완료한 해외입국자, 7일격리 안해도 된다",
+		"link": "www.yna.co.kr/view/AKR20220311069500530?section=safe/news",
+		"date": "03-11 11:41"
+	},
+	"f0ca8d671ec753cca0a2a611e0f905f501ec0f1a450b67cb3196ec14868e66ad": {
+		"title": "서울시 '모바일 재택치료' 문자로 격리정보·진료센터 안내",
+		"link": "www.yna.co.kr/view/AKR20220311065500004?section=safe/news",
+		"date": "03-11 11:22"
+	},
+	"715a257cf6eafa39b72a5a2dd33d5da90f35151c4e163d1cec7c04f720c2db59": {
+		"title": "제주서 기저 질환 고령 코로나19 확진자 4명 숨져",
+		"link": "www.yna.co.kr/view/AKR20220311065800056?section=safe/news",
+		"date": "03-11 11:21"
+	},
+	"0fa3f2b16bffe3452b580fd1f6a2a333786451571e24de7badb56384dbb035d4": {
+		"title": "[속보] \"내주 하루 29만5천∼37만2천명 확진, 중환자 2천명 안팎 예상\"",
+		"link": "www.yna.co.kr/view/AKR20220311065100530?section=safe/news",
+		"date": "03-11 11:16"
+	},
+	"826fcbec43880c1df152c8338e1ea7939e78de8fa6a53c7ecc27af9910f88230": {
+		"title": "[속보] 병원 시행 응급용 PCR 검사 '양성'도 코로나 확진으로 판단",
+		"link": "www.yna.co.kr/view/AKR20220311064500530?section=safe/news",
+		"date": "03-11 11:13"
+	},
 	"f52bc92725ad3747b49e5fd5a129a355a88a4af166c172e1dc32a607c8d95bd2": {
 		"title": "서울 코로나 격리환자 100만명 육박…재택치료 23만9611명",
 		"link": "www.yna.co.kr/view/AKR20220311063400004?section=safe/news",
@@ -468,35 +498,5 @@
 		"title": "코로나19 백신 거부 조코비치, 미국 대회에도 출전 불가",
 		"link": "www.yna.co.kr/view/AKR20220310049800007?section=safe/news",
 		"date": "03-10 08:49"
-	},
-	"cdf55922f49fbbb99b7df1e309a64756d9606157e2294f6cc8a5995e94a18dc5": {
-		"title": "광주 6300명·전남 8470명 확진…코로나19 확산세 지속",
-		"link": "www.yna.co.kr/view/AKR20220310048400054?section=safe/news",
-		"date": "03-10 08:45"
-	},
-	"7f11f308e4c7e717260971885d2413f24f62086465cbd57fc5c2be8efb42854a": {
-		"title": "전북 일일 확진자 1만 명 넘어…전주 4241명 등",
-		"link": "www.yna.co.kr/view/AKR20220310041300055?section=safe/news",
-		"date": "03-10 08:07"
-	},
-	"f3ac18c2dc8a28108817be6608ce35cc4b021206a3aea6d22904f4c08aa390b9": {
-		"title": "강원 확진자 8169명…연이틀 8천 명대 쏟아져",
-		"link": "www.yna.co.kr/view/AKR20220310040600062?section=safe/news",
-		"date": "03-10 08:04"
-	},
-	"12f6fd693dc700d10645118d4c5bf797d7c4338e8e636d1b8fa4473f4022eaea": {
-		"title": "[윤석열 당선] 방역정책 큰 틀 바뀌나…팬데믹→엔데믹 전환 기로",
-		"link": "www.yna.co.kr/view/AKR20220309021000530?section=safe/news",
-		"date": "03-10 04:36"
-	},
-	"90fb4c26e75bcc0e5503bdcc875bb02507a177194c7e371d715dbcfc47078ac1": {
-		"title": "대선날 오후 9시까지 30만5191명 확진…어제보다 2만1643명 적어(종합)",
-		"link": "www.yna.co.kr/view/AKR20220309078651530?section=safe/news",
-		"date": "03-09 21:31"
-	},
-	"1e31239be679027ba3521715b68656d92a052f9e31f96dc434fcc9b33ec18da1": {
-		"title": "오스트리아, 코로나19 백신 접종 의무화 중단",
-		"link": "www.yna.co.kr/view/AKR20220309088700088?section=safe/news",
-		"date": "03-09 21:21"
 	}
 }
