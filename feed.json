@@ -1,4 +1,29 @@
 {
+	"3302a5592827f53e61a87f0d20ca52b9288c209d4ee1a49225b0ca7d8fd2e81b": {
+		"title": "[속보] 코로나 누적 사망자 1만명 넘어, 269명 증가…위중증 1066명",
+		"link": "www.yna.co.kr/view/AKR20220312020600530?section=safe/news",
+		"date": "03-12 09:34"
+	},
+	"6abf63acafacd7bdcb24d5244bcf2c426ce3c861f8f96e7a8890b734cc65065a": {
+		"title": "[1보] 신규확진 38만3665명 역대최다…하루새 10만명 늘어 40만명 근접",
+		"link": "www.yna.co.kr/view/AKR20220312020500530?section=safe/news",
+		"date": "03-12 09:30"
+	},
+	"630e969e8292b656608e0d032d00edcd05d80f7678c59e279b2394bc6b675abb": {
+		"title": "충북 어제 9876명 확진 '역대 최다'…사망도 17명 늘어",
+		"link": "www.yna.co.kr/view/AKR20220312023600064?section=safe/news",
+		"date": "03-12 09:17"
+	},
+	"79766c462a4750ddaf8a12ed24cae5385115a5a2cb1e67cfbc1bc0232a0d5c2e": {
+		"title": "광주·전남 일일 확진자 2만명 육박",
+		"link": "www.yna.co.kr/view/AKR20220312021100054?section=safe/news",
+		"date": "03-12 08:39"
+	},
+	"e3ee7783daa1dd037fe5a6a786080400a21fe964814a689e41a8b239fe16d924": {
+		"title": "아시아 지역 코로나19 사망자, 100만명 돌파",
+		"link": "www.yna.co.kr/view/AKR20220312017100009?section=safe/news",
+		"date": "03-12 08:38"
+	},
 	"5e7fc4040a0c494357b4888480015fb996614795902c659416a8fa67b5d95ab0": {
 		"title": "경북서 1만3566명 신규 확진…재택치료 5만명 넘어",
 		"link": "www.yna.co.kr/view/AKR20220312017200053?section=safe/news",
@@ -473,30 +498,5 @@
 		"title": "싱가포르 \"오미크론 급증 사태, 정점 찍은 뒤 진정세\"",
 		"link": "www.yna.co.kr/view/AKR20220310148400076?section=safe/news",
 		"date": "03-10 17:03"
-	},
-	"69c2f6ac0a356f361a23752e3901aaea666302462b67bad33436e3ea269ac36b": {
-		"title": "복지부, 노숙인복지시설에 코로나19 긴급예산 1억원 지원",
-		"link": "www.yna.co.kr/view/AKR20220310146800530?section=safe/news",
-		"date": "03-10 16:49"
-	},
-	"350c3bcfe63ed34955484d35c16afc9a2677dfc375eabd6a57ad43be08085a74": {
-		"title": "\"13∼18세, 80% 접종에도 감염 취약…확진자 4명중 1명 18세↓\"",
-		"link": "www.yna.co.kr/view/AKR20220310131300530?section=safe/news",
-		"date": "03-10 15:58"
-	},
-	"7e4cd789fac6ece2a40a3f2283395fb2cfdc5399a2b4511a39c4414b658322a8": {
-		"title": "\"코로나19 고통분담\" 공주시, 납세자에 지방세 지원 혜택",
-		"link": "www.yna.co.kr/view/AKR20220310135500063?section=safe/news",
-		"date": "03-10 15:45"
-	},
-	"ee23dee5b1732f3b953bf8d8524246156afd87c3459e6a250fb0edefcd4139ed": {
-		"title": "이틀간 서울 학생 1만4634명 확진…10명이상 확진 101개교",
-		"link": "www.yna.co.kr/view/AKR20220310135200530?section=safe/news",
-		"date": "03-10 15:45"
-	},
-	"ed7b46e9666214d10f3b412bba907e68686b9395c07177b078d50344462143c8": {
-		"title": "노바백스 이상신고 183건…10만건당 신고수 타 백신보다 적어",
-		"link": "www.yna.co.kr/view/AKR20220310134200530?section=safe/news",
-		"date": "03-10 15:42"
 	}
 }
