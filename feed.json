@@ -1,4 +1,39 @@
 {
+	"d1c242d728215e57d514b611b20373a3921bcedde271dab257d924f0611fe653": {
+		"title": "홍콩 연구진 \"애완용 햄스터, 사람에게 코로나 옮겨\"",
+		"link": "www.yna.co.kr/view/AKR20220312026500089?section=safe/news",
+		"date": "03-12 10:24"
+	},
+	"32c2bbfa600f0fc8d01886a29e9af35dae303704481d06215ddfebf2c30b90b7": {
+		"title": "울산 오전 10시까지 2118명 확진…전날 9100명 '하루 최다'",
+		"link": "www.yna.co.kr/view/AKR20220312026600057?section=safe/news",
+		"date": "03-12 10:19"
+	},
+	"be40ba3954f2dc34585aca903ac627c8f240dce63ced0e18cd3a2af1241c4754": {
+		"title": "전북 어제 1만834명 확진…역대 하루 최다",
+		"link": "www.yna.co.kr/view/AKR20220312026400055?section=safe/news",
+		"date": "03-12 10:17"
+	},
+	"2cf177295d5a0332fca531928956e7f3291c3d743843fdb4fcf68f940f1d0729": {
+		"title": "대구서 1만3414명 신규 확진…중증 치료 병상 가동률 87.2%",
+		"link": "www.yna.co.kr/view/AKR20220312026100053?section=safe/news",
+		"date": "03-12 10:13"
+	},
+	"750fc3484be99ab2598c65da72227a8b74793fcc19d05f29d4847199eb817a83": {
+		"title": "신규확진 하루새 10만명 늘어 40만명 근접…38만3665명 역대최다(종합)",
+		"link": "www.yna.co.kr/view/AKR20220312025600530?section=safe/news",
+		"date": "03-12 10:00"
+	},
+	"6d253d16f77bb9c2a924a3a8c63a88cfadb8bfb975bb2c3286439dd3d1375497": {
+		"title": "대전 하루 확진자 역대 최대 8515명…4명 추가 사망",
+		"link": "www.yna.co.kr/view/AKR20220312023800063?section=safe/news",
+		"date": "03-12 10:00"
+	},
+	"400678d07e777509fbf487d7f8d15b9c4f663424a20f48caecc881fca9066d79": {
+		"title": "경기 10만7943명 확진, 첫 10만명대…사망자도 61명으로 최다",
+		"link": "www.yna.co.kr/view/AKR20220312025300061?section=safe/news",
+		"date": "03-12 10:00"
+	},
 	"3302a5592827f53e61a87f0d20ca52b9288c209d4ee1a49225b0ca7d8fd2e81b": {
 		"title": "[속보] 코로나 누적 사망자 1만명 넘어, 269명 증가…위중증 1066명",
 		"link": "www.yna.co.kr/view/AKR20220312020600530?section=safe/news",
@@ -463,40 +498,5 @@
 		"title": "울산 오후 6시까지 5262명 확진…사망자 3명 늘어 누적 125명(종합)",
 		"link": "www.yna.co.kr/view/AKR20220310076551057?section=safe/news",
 		"date": "03-10 18:00"
-	},
-	"4a2aa885c15dd8c50fc62ddd2c9603495937a283cd61e59a4aa93ee06d0df1b0": {
-		"title": "신종 코로나 침방울에 오염된 식탁, 전염 위험 얼마나 클까",
-		"link": "www.yna.co.kr/view/AKR20220310156600009?section=safe/news",
-		"date": "03-10 17:47"
-	},
-	"a82fd7a86144c5c9437c683b7ef5e5a556e7cf4c05d58c6664661ebc8368cc49": {
-		"title": "규제 푼 스위스, 신규 확진 다시 급증…보건 담당 장관도 양성",
-		"link": "www.yna.co.kr/view/AKR20220310156500088?section=safe/news",
-		"date": "03-10 17:45"
-	},
-	"fba31abb281c97fe496c581cdac8af64ce59e1aed6fbcc821cc05c5f55e8b694": {
-		"title": "광주 8079명·전남 7214명 확진…요양병원 집단감염 확산",
-		"link": "www.yna.co.kr/view/AKR20220310155500054?section=safe/news",
-		"date": "03-10 17:32"
-	},
-	"f811e5227b3d89d2cd0c9d4ee5e05a345c84d2883ead837ab999a7ac5852a07a": {
-		"title": "충북 16시까지 5823명 확진…사흘 연속 동시간대 5000명↑",
-		"link": "www.yna.co.kr/view/AKR20220310143300064?section=safe/news",
-		"date": "03-10 17:19"
-	},
-	"698bf129e3563b44780904a08152c92d86e04d2b1b5ff2001c15091a0a3dcf11": {
-		"title": "제주 확진자 3744명 추가 발생…위중증 환자 13명",
-		"link": "www.yna.co.kr/view/AKR20220310153500056?section=safe/news",
-		"date": "03-10 17:16"
-	},
-	"5fc829d4b25a32245909c07177b135f15402cfd777a761e31c3ae18bc686bb95": {
-		"title": "접종완료 해외입국자 격리 조만간 면제될듯…\"이르면 내일 결정\"",
-		"link": "www.yna.co.kr/view/AKR20220310152200530?section=safe/news",
-		"date": "03-10 17:14"
-	},
-	"3f5f234d97bf8726b677d5b4d9ef5552880c2c211e3f9fdf15c43549d975a0e7": {
-		"title": "싱가포르 \"오미크론 급증 사태, 정점 찍은 뒤 진정세\"",
-		"link": "www.yna.co.kr/view/AKR20220310148400076?section=safe/news",
-		"date": "03-10 17:03"
 	}
 }
