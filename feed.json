@@ -1,4 +1,14 @@
 {
+	"92dd73e3d0365fe5876c6c0d22db52874fcf4442a633f33bd0d97d195ff677fd": {
+		"title": "[속보] 오후 6시까지 전국서 25만427명 확진…어제보다 9757명 적어",
+		"link": "www.yna.co.kr/view/AKR20220314152700530?section=safe/news",
+		"date": "03-14 18:23"
+	},
+	"7521aed57534928eec2725b420f6775a576836ae65221c80fb4b81fffd5d5175": {
+		"title": "[Q&A] 확진자 동거인, PCR 대신 신속항원검사로 대체 가능",
+		"link": "www.yna.co.kr/view/AKR20220314149400530?section=safe/news",
+		"date": "03-14 18:09"
+	},
 	"85a954669bfaa86172e89add310c8ed2791a7e2685c72f9dd0e06134b510a8d0": {
 		"title": "울산 오후 6시까지 8321명 확진…사망 1명 늘어 134명째(종합)",
 		"link": "www.yna.co.kr/view/AKR20220314056851057?section=safe/news",
@@ -488,15 +498,5 @@
 		"title": "서울 6만7814명 신규 확진…격리 환자 110만명 넘어",
 		"link": "www.yna.co.kr/view/AKR20220313023100004?section=safe/news",
 		"date": "03-13 11:00"
-	},
-	"0595ac8e88565d1bc30a6cd5b2b540ac462ff522fd72fb3438abf9d8ada83019": {
-		"title": "아프간 탈레반, 소아마비 백신접종팀 7명 살해 일당 체포",
-		"link": "www.yna.co.kr/view/AKR20220313021300104?section=safe/news",
-		"date": "03-13 10:44"
-	},
-	"8de10f25a0e263f8c4e06beb9eed264d7757da294ab89d1272724c3a73e63fef": {
-		"title": "대구 1만2696명·경북 1만3773명 신규 확진…사망자 16명",
-		"link": "www.yna.co.kr/view/AKR20220313021500053?section=safe/news",
-		"date": "03-13 10:34"
 	}
 }
