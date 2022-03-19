@@ -1,4 +1,44 @@
 {
+	"ba20c29d6347bd6549d8ffc51ada338d8db3573cf267289281c89b4c28048fff": {
+		"title": "대구 1만4845명, 경북 1만4946명 추가 확진(종합)",
+		"link": "www.yna.co.kr/view/AKR20220319018851053?section=safe/news",
+		"date": "03-19 10:53"
+	},
+	"579de4be14fdd9f437998a66dd43c3faab7bd3d76c4b3f90cc1b39095eddca8c": {
+		"title": "인천 누적 확진자 60만명 육박…'5명 중 1명꼴'",
+		"link": "www.yna.co.kr/view/AKR20220319025600065?section=safe/news",
+		"date": "03-19 10:42"
+	},
+	"7f98e6126a858c38d52384ed7473acddd0e7a121745388ac469e444483c2c7c6": {
+		"title": "경남 신규 확진 2만2734명…사망 27명, 위중증 37명",
+		"link": "www.yna.co.kr/view/AKR20220319025500052?section=safe/news",
+		"date": "03-19 10:41"
+	},
+	"be07a03dd102c8bb1de71c212de775a4b3c1ce41f97eb7651f62d0bb253f60fe": {
+		"title": "중국 \"경증환자 시설격리로 변경은 방역정책 완화 의미 아냐\"",
+		"link": "www.yna.co.kr/view/AKR20220319023400083?section=safe/news",
+		"date": "03-19 10:36"
+	},
+	"0d8863ae7c8c1a757e127f2a56ab2e2ec0fb1040f53492ede3d60bd9dcfa3d06": {
+		"title": "신규확진 소폭 줄어 38만1454명…사망 319명, 위중증 1049명(종합)",
+		"link": "www.yna.co.kr/view/AKR20220319023100530?section=safe/news",
+		"date": "03-19 10:08"
+	},
+	"8214191ccba90c8f41ef091e4311be108f40415b3ac06b91f2bb34311bb18027": {
+		"title": "대전 신규 확진 사흘째 1만명대…준중증 이상 병상 가동률 78%",
+		"link": "www.yna.co.kr/view/AKR20220318032651063?section=safe/news",
+		"date": "03-19 10:00"
+	},
+	"2a32e6fee7ea0d854cc9e3ea8c1ae1b70258dc7ce17e68957d59b3f65a424801": {
+		"title": "경기 10만1526명 확진…재택치료 53만명으로 증가",
+		"link": "www.yna.co.kr/view/AKR20220319021700061?section=safe/news",
+		"date": "03-19 10:00"
+	},
+	"e0b3ec4cf3597bfe775782cc7624768893ace2a73dc5a74c33f4a07802726b69": {
+		"title": "강원 코로나19 나흘 연속 1만 명대…누적 21만 명 상회",
+		"link": "www.yna.co.kr/view/AKR20220319023000062?section=safe/news",
+		"date": "03-19 09:58"
+	},
 	"fb7c837eec6b5199b79eb88b2dbef5ccd8e2c5df270489253d6a18645470f306": {
 		"title": "[1보] 신규확진 소폭 줄어 38만1454명…사망 319명, 위중증 1049명",
 		"link": "www.yna.co.kr/view/AKR20220319020400530?section=safe/news",
@@ -458,45 +498,5 @@
 		"title": "울산 신규 확진자 8432명…전날 1만4768명 '역대 최다'",
 		"link": "www.yna.co.kr/view/AKR20220317171600057?section=safe/news",
 		"date": "03-17 19:03"
-	},
-	"9ac9e0cc9ce0ee4a5437d3d52012c9473694a74c80215ff660f79cf40a620a1c": {
-		"title": "오후 6시까지 전국서 30만4739명 확진…어제보다 3만9445명 적어",
-		"link": "www.yna.co.kr/view/AKR20220317171100530?section=safe/news",
-		"date": "03-17 18:58"
-	},
-	"72713a26f11a6510f44babb1b6e234d7aaa0c641aefad9ba4ebf15d912f03ed0": {
-		"title": "정재훈 교수 \"1주일에 14%가 감염으로 면역 획득…곧 감소국면\"",
-		"link": "www.yna.co.kr/view/AKR20220317167700530?section=safe/news",
-		"date": "03-17 18:51"
-	},
-	"573afd015bd5e3de627bee01a321ad72846d038c7e97d15423df8073dc1f3b1a": {
-		"title": "[속보] 오후 6시까지 전국서 30만4739명 확진…어제보다 3만9445명 적어",
-		"link": "www.yna.co.kr/view/AKR20220317169500530?section=safe/news",
-		"date": "03-17 18:42"
-	},
-	"3c10b5bf56f9a77371617519f36b6fa1275ca7f2fa04b6adb045167fa255c1c3": {
-		"title": "중국, 내달 20∼22일 보아오포럼 개최…주제는 감염병과 세계",
-		"link": "www.yna.co.kr/view/AKR20220317167900083?section=safe/news",
-		"date": "03-17 18:38"
-	},
-	"9104fd502d670074658fc5869996e7baf8cbf0e2f920cb42925553f4cefb6957": {
-		"title": "고스트나인 이강성·씨야 출신 김연지, 코로나19 확진",
-		"link": "www.yna.co.kr/view/AKR20220317167200005?section=safe/news",
-		"date": "03-17 18:11"
-	},
-	"d265d2aada4f03aff2a3b0f646715804202d910ece9c1bc4746ab5f5e4fe1381": {
-		"title": "인니 '코로나19 최전선 의사' 751명 사망…불꽃형상 추모탑",
-		"link": "www.yna.co.kr/view/AKR20220317162400104?section=safe/news",
-		"date": "03-17 17:58"
-	},
-	"5cf8aa8d97d63f044794e227debc217e5ece48f080db97b5f2b2a5e6c9d2f680": {
-		"title": "정준하·김현숙·박경림, 코로나19 확진(종합)",
-		"link": "www.yna.co.kr/view/AKR20220317137251005?section=safe/news",
-		"date": "03-17 17:42"
-	},
-	"9916c8d1508b8c2f3f1c13343c9fe197394555cbf1a388718a3d0e4d0b9b4c06": {
-		"title": "광주 1만3211명·전남 9951명 확진…요양병원 등 확산 지속",
-		"link": "www.yna.co.kr/view/AKR20220317160900054?section=safe/news",
-		"date": "03-17 17:36"
 	}
 }
