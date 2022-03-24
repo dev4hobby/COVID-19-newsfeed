@@ -1,4 +1,9 @@
 {
+	"5ac81fcc2478d231b1e43147d8ddcbba5dfcf8fd915d68f337573dc9fc2205f7": {
+		"title": "전북 코로나 1만2204명 확진… 추가 사망자 30명",
+		"link": "www.yna.co.kr/view/AKR20220325025000055?section=safe/news",
+		"date": "03-25 08:30"
+	},
 	"c1cd92de880cc33480f9d01d26726020a28d462f6f28ee38cdb71a4209be9485": {
 		"title": "광주·전남 사흘째 2만명대 신규 확진",
 		"link": "www.yna.co.kr/view/AKR20220325024700054?section=safe/news",
@@ -493,10 +498,5 @@
 		"title": "[연합시론] 국민 5명 중 1명 확진…마지막 고비 슬기롭게 넘겨야",
 		"link": "www.yna.co.kr/view/AKR20220323089700022?section=safe/news",
 		"date": "03-23 14:12"
-	},
-	"105f6cdd97a561a98d5722937376132706e792caac495bd87e91144b73911dbb": {
-		"title": "코로나 숨겨진 사망도 급증…\"간접사망 포함시 누적 3만명 추정\"",
-		"link": "www.yna.co.kr/view/AKR20220323102400530?section=safe/news",
-		"date": "03-23 14:10"
 	}
 }
