@@ -1,4 +1,69 @@
 {
+	"61cfb3115f12f449ab91de23942c283511415a7edd4f434bdcf1cdc8b055b728": {
+		"title": "주말 영향? 정점 통과?…대전 신규 확진 닷새 만에 3분의 1로 뚝",
+		"link": "www.yna.co.kr/view/AKR20220327009051063?section=safe/news",
+		"date": "03-28 10:00"
+	},
+	"655aec939d37e8e8f6b2b607c893a4be89ceb50afc123ecbc354b3ee058fa788": {
+		"title": "경기 5만574명 신규 확진…전날보다 3만명 감소",
+		"link": "www.yna.co.kr/view/AKR20220328038000061?section=safe/news",
+		"date": "03-28 10:00"
+	},
+	"b22eb7b5b2a4440c73884c0b8cee8d3003c6046ee9d59027964b838c6f31dd19": {
+		"title": "[우크라 침공] 낮은 백신접종률에 피란민들 코로나19 무방비 노출",
+		"link": "www.yna.co.kr/view/AKR20220328032700009?section=safe/news",
+		"date": "03-28 09:53"
+	},
+	"22515dc121028269563340c166fbc4de54295eed989a8e5fee730c64bd3ac70d": {
+		"title": "[속보] 위중증 환자 1273명, 역대 최다 규모…어제 287명 사망",
+		"link": "www.yna.co.kr/view/AKR20220328027400530?section=safe/news",
+		"date": "03-28 09:32"
+	},
+	"56a23ac9b7ba89fedc6c792342d6591b9ec1226c0e0e768c7bd8e6ff9835d1d0": {
+		"title": "[1보] 신규확진 13만명 급감한 18만7213명…25일 만에 20만명 아래로",
+		"link": "www.yna.co.kr/view/AKR20220328027300530?section=safe/news",
+		"date": "03-28 09:31"
+	},
+	"37a1b9d949fe71a973f95c28200f17c9d9bf9c4ea2da728732a4c1bd56c44e2e": {
+		"title": "\"테슬라, 코로나 봉쇄령 속 상하이 공장 가동 중단\"",
+		"link": "www.yna.co.kr/view/AKR20220328031400009?section=safe/news",
+		"date": "03-28 09:28"
+	},
+	"7171b8d17aa926f246b11581f9b773f48023e4f4c253fdbeb391a60167a61111": {
+		"title": "중대본 \"11주만에 감소세 전환…스텔스오미크론 56.3%로 우세종\"(종합)",
+		"link": "www.yna.co.kr/view/AKR20220328023951530?section=safe/news",
+		"date": "03-28 09:24"
+	},
+	"59a2748a53be335e017e65f48647648bdc9acfbcdfc4740bb71841fbbdc9ded2": {
+		"title": "아산시 코로나19 검사 이순신운동장서 통합 운영",
+		"link": "www.yna.co.kr/view/AKR20220328032800063?section=safe/news",
+		"date": "03-28 09:18"
+	},
+	"82dac2c0bc53b4836e0eae678b5f8891128d5825035649a66fb8374ec2c4ff00": {
+		"title": "\"교육 공백 없도록\"…대전교육청, 코로나19 수업 지원단 구성",
+		"link": "www.yna.co.kr/view/AKR20220328032300063?section=safe/news",
+		"date": "03-28 09:18"
+	},
+	"5811a0f3577b6c3514c5621fc3bf37070ef5e25ad8c469253782db3a4c1c5929": {
+		"title": "김창룡 경찰청장 코로나 확진…4월 3일까지 격리·치료",
+		"link": "www.yna.co.kr/view/AKR20220328031000004?section=safe/news",
+		"date": "03-28 09:14"
+	},
+	"7dbace29c930054b02596411e6c2c7201412ed258c88f0e3d4c29a7be2ce0fbf": {
+		"title": "충북 어제 5835명 확진, 사망 8명…휴일 영향인 듯",
+		"link": "www.yna.co.kr/view/AKR20220328028900064?section=safe/news",
+		"date": "03-28 09:09"
+	},
+	"f5d7a393ed7d083ffaee9d098bf6aa52bf25b5f09d18499d5b295f152d2b8976": {
+		"title": "경북 신규 확진 9401명…재택치료 8만1775명",
+		"link": "www.yna.co.kr/view/AKR20220327011251053?section=safe/news",
+		"date": "03-28 08:53"
+	},
+	"c72332ab78f22270fd6867c21ead2996df31e044046e8908a53383b8d9be19af": {
+		"title": "중대본 \"11주만에 감소세 전환…스텔스오미크론 56.3%로 우세종\"",
+		"link": "www.yna.co.kr/view/AKR20220328023900530?section=safe/news",
+		"date": "03-28 08:53"
+	},
 	"39baa502b45bf3faec82e4b6ffad79a460dda0bc142b527cf3f36f0fc74953c1": {
 		"title": "전북 6957명 추가 확진…일주일 만에 1만명 밑으로",
 		"link": "www.yna.co.kr/view/AKR20220328021400055?section=safe/news",
@@ -433,70 +498,5 @@
 		"title": "울산 7451명 신규 확진…사망자 7명 늘어 누적 214명",
 		"link": "www.yna.co.kr/view/AKR20220325145700057?section=safe/news",
 		"date": "03-25 18:08"
-	},
-	"ed3e5eb20c4a237fab1a05001eed9ccf188b150d93a66b6212318674ac20e414": {
-		"title": "충남도 고병원성 AI 방역대 이동 제한 전면 해제",
-		"link": "www.yna.co.kr/view/AKR20220325138600063?section=safe/news",
-		"date": "03-25 17:39"
-	},
-	"b0ab3ff446eacd93fc1a4c70a48a71cda75c74d3636d62bdba7322ac28651227": {
-		"title": "광주 9475명·전남 1만1723명 코로나19 신규 확진",
-		"link": "www.yna.co.kr/view/AKR20220325138700054?section=safe/news",
-		"date": "03-25 17:37"
-	},
-	"1c3a6cd00670246d2b0919fc72a55dbf72c865eba03efe16a7e81d888073a836": {
-		"title": "제주 코로나 확진자 3480명 추가 발생",
-		"link": "www.yna.co.kr/view/AKR20220325131600056?section=safe/news",
-		"date": "03-25 17:11"
-	},
-	"3e3a267dcb23d8edfa8a1352efc38e1c07127383b8953ba024b10cd12648d26e": {
-		"title": "충북 16시까지 4979명 확진…확산세 주춤",
-		"link": "www.yna.co.kr/view/AKR20220325119100064?section=safe/news",
-		"date": "03-25 16:21"
-	},
-	"2ed9d0b68cb535e2c6e766911ba2ab3a42717fd6a299c088278aa75c18c0249f": {
-		"title": "말레이, '효능 논란' 시노백 접종 완료자들에 부스터샷 의무화",
-		"link": "www.yna.co.kr/view/AKR20220325107200104?section=safe/news",
-		"date": "03-25 16:08"
-	},
-	"96bdeee2e924ac9789fca51580a3d408e74fa4a3adb1ebe1513577f81b77a51b": {
-		"title": "전북 확진자, 국가직 공무원 시험 김제에서 본다",
-		"link": "www.yna.co.kr/view/AKR20220325110600055?section=safe/news",
-		"date": "03-25 15:53"
-	},
-	"a4ef0ef51cd621e3be15b748979bee08d5fec8c5d0a9cdeb1090a2701cf9ac96": {
-		"title": "유은혜 \"학교 방역 안전망 안착…4월에도 유지할 계획\"",
-		"link": "www.yna.co.kr/view/AKR20220325107600530?section=safe/news",
-		"date": "03-25 15:48"
-	},
-	"e5e9b6372d2bbe47b20493cb38bf5f6c38f98f81995cfce718613299f5972f39": {
-		"title": "2시간 넘게 병원 찾다 구급차서 출산한 확진 임산부",
-		"link": "www.yna.co.kr/view/AKR20220325110500065?section=safe/news",
-		"date": "03-25 15:47"
-	},
-	"5cfd498a025b73e7b2bb7f638a374b9be894045eca59e5fc4eac14d118eb6fab": {
-		"title": "\"보건소 감염병 대응 역량 강화해야\"…안산시, 정부에 건의",
-		"link": "www.yna.co.kr/view/AKR20220325106300061?section=safe/news",
-		"date": "03-25 15:46"
-	},
-	"f3b9edfed67903be94733c51d62f00292cf449518c0922684999b6a031c84602": {
-		"title": "K방역 실패론에 정부 \"감소세 전환 판단·치명률 낮다\" 반박(종합)",
-		"link": "www.yna.co.kr/view/AKR20220325076051530?section=safe/news",
-		"date": "03-25 15:46"
-	},
-	"04245da49d3c138c4e3ac51bcd8617d1c972ba75cae8ec6cdad6c33035e27621": {
-		"title": "군 코로나19 확진자 2천669명 증가…누적 6만7천명 넘어",
-		"link": "www.yna.co.kr/view/AKR20220325108400504?section=safe/news",
-		"date": "03-25 15:37"
-	},
-	"96d6cd6852826d898301f9da9f4b1ea9610d080c771d1a2004b98469cf59f6e6": {
-		"title": "[사천소식] 코로나19로 매출 감소 버스기사 특별지원금 지원",
-		"link": "www.yna.co.kr/view/AKR20220325097700052?section=safe/news",
-		"date": "03-25 15:15"
-	},
-	"5088eb3bdd9b51c93224c1645dce45843978613cbec6e606a0852c02c189c63a": {
-		"title": "김해시, 코로나 입원·격리자 생활지원금 온라인 접수",
-		"link": "www.yna.co.kr/view/AKR20220325096400052?section=safe/news",
-		"date": "03-25 15:12"
 	}
 }
