@@ -1,4 +1,64 @@
 {
+	"72cea16b62cc87b0a3ee1d50f1811a4b966b8cdd31eb0bc81ade14f92af34f9a": {
+		"title": "코로나 환자 대면진료기관에 최대 3만1천원 가산수가 한시 적용",
+		"link": "www.yna.co.kr/view/AKR20220401077700530?section=safe/news",
+		"date": "04-01 11:45"
+	},
+	"c7e0b4f25dbf909c8551fb27f7003a149b59a012ff5de4d06554a552a5d8188a": {
+		"title": "[속보] 정부 \"거리두기 완화해도 확진자 10~20% 증가에 그칠 듯\"",
+		"link": "www.yna.co.kr/view/AKR20220401078700530?section=safe/news",
+		"date": "04-01 11:44"
+	},
+	"0074b161f86f1b61b756ea3b23b4bfadb2b15f7f24f03aa6fd656fc2e14c08de": {
+		"title": "[속보] \"BA.2 유행에 위중증-사망 증가 가능성…우선 점진적 완화 결정\"",
+		"link": "www.yna.co.kr/view/AKR20220401076800530?section=safe/news",
+		"date": "04-01 11:36"
+	},
+	"dfd9939854679acb14b207113f23ef7adba3eec07186543d730b971e363b767d": {
+		"title": "[속보] 코로나환자 대면진료기관에 정책가산 수가 한시적용",
+		"link": "www.yna.co.kr/view/AKR20220401071100530?section=safe/news",
+		"date": "04-01 11:30"
+	},
+	"08d8becc531d1ba1f4cf7caa312eef99d174e9ba942853923c83da1c30b37bcb": {
+		"title": "[속보] \"2주간 유행 안정시 실내마스크 외 모든 거리두기 해제 검토\"",
+		"link": "www.yna.co.kr/view/AKR20220401070900530?section=safe/news",
+		"date": "04-01 11:30"
+	},
+	"3269233e1784e8a98758690a1128ebaf466ff3d5e6beb616ab5c184e670c73c2": {
+		"title": "서울 5만1717명 신규 확진…1주 전보다 1만5천명 줄어",
+		"link": "www.yna.co.kr/view/AKR20220401072900004?section=safe/news",
+		"date": "04-01 11:25"
+	},
+	"e1597ddaa3e5e5f24a7ae7ed96e748b0768b5c54580cee35ba95294ce03d7a86": {
+		"title": "파주시, 휴대용 방역기·모기 퇴치기 무료대여",
+		"link": "www.yna.co.kr/view/AKR20220401071200060?section=safe/news",
+		"date": "04-01 11:18"
+	},
+	"2da51ed13944ffc624577f7d5ba5e08021583b2429317731040dae950bd77978": {
+		"title": "\"방역 무슨 소용\"…또 찔끔 거리두기 완화에 자영업자들 불만",
+		"link": "www.yna.co.kr/view/AKR20220401064600004?section=safe/news",
+		"date": "04-01 11:11"
+	},
+	"56a0fc44f3aaa852c920385281d7deedb734e8ad4c6935007afbca7a6e446d5d": {
+		"title": "부산, 나흘 연속 1만 명대 확진…중환자 병상 가동률 90.9%",
+		"link": "www.yna.co.kr/view/AKR20220401063100051?section=safe/news",
+		"date": "04-01 11:00"
+	},
+	"9a930fc70ef946dec3dc0c20f571362beb6ee27115bc7d4b8d4135bf1aee757c": {
+		"title": "경남 1만7255명 확진…전날보다 2천여명 줄어 이틀 연속 1만명대",
+		"link": "www.yna.co.kr/view/AKR20220401051800052?section=safe/news",
+		"date": "04-01 10:21"
+	},
+	"7894ae05b5d0056e229d4a8e4eef9bd6cacf8c5cfb43869f06e6ad13de12beee": {
+		"title": "인천 1만4797명 확진…누적 사망자 1천명 넘어",
+		"link": "www.yna.co.kr/view/AKR20220401052600065?section=safe/news",
+		"date": "04-01 10:11"
+	},
+	"89eb53ab0bb02f9bd8fcffefac31e4ac69c3cab4d209ccbeb11994a800024e3e": {
+		"title": "신규확진 28만273명…위중증 1299명, 사망 360명(종합)",
+		"link": "www.yna.co.kr/view/AKR20220401038651530?section=safe/news",
+		"date": "04-01 10:07"
+	},
 	"be12e485e44732ec8d3d4e6dc2d477e75a3dbabe49499da93bbcd271dda9cdc1": {
 		"title": "대전 신규 확진 사흘 만에 1만명 아래로…중환자병상 가동률 86%",
 		"link": "www.yna.co.kr/view/AKR20220327009055063?section=safe/news",
@@ -438,65 +498,5 @@
 		"title": "가나 \"2024년 1월 코로나 백신 국내 생산 시작\"",
 		"link": "www.yna.co.kr/view/AKR20220331004500099?section=safe/news",
 		"date": "03-31 03:00"
-	},
-	"0a7de9b5099ed934b89549a202184d039990d4d0477ec282cd49c8112cf85dea": {
-		"title": "WHO 사무총장 \"코로나, 시간 지나면서 중증 감소 가능성 커\"",
-		"link": "www.yna.co.kr/view/AKR20220331003900088?section=safe/news",
-		"date": "03-31 02:35"
-	},
-	"0eea1e868ae47147ce3baae50b5851d5ba5fc0e3ccef764d66e0822495c827e3": {
-		"title": "바이든, 보건당국 승인 하루 만에 코로나 2차 부스터샷 접종",
-		"link": "www.yna.co.kr/view/AKR20220331003200071?section=safe/news",
-		"date": "03-31 01:48"
-	},
-	"e79d962a573d78716dbfb9cd057cc3f570db3af8f9d920ddc48d906b9a32b41e": {
-		"title": "코로나19 규제 풀린 뉴욕, 올해 관광객 작년보다 70% 급증 전망",
-		"link": "www.yna.co.kr/view/AKR20220331003000072?section=safe/news",
-		"date": "03-31 01:43"
-	},
-	"ef37f0337b9fe89b85f08868a71f8009b2313e555d5426bb84d6d224b84353f2": {
-		"title": "오후 9시까지 전국 31만3096명 확진…어제보다 10만1072명 줄어(종합)",
-		"link": "www.yna.co.kr/view/AKR20220330172651530?section=safe/news",
-		"date": "03-30 22:21"
-	},
-	"ba95108ff23f95692f36b9ee22f4900767687883bf3c62f24fc780e39b15a21c": {
-		"title": "코로나 사망자 급증에 냉장고밖에 시신 보관한 장례식장 적발",
-		"link": "www.yna.co.kr/view/AKR20220330187000060?section=safe/news",
-		"date": "03-30 22:17"
-	},
-	"ec45821f398ca7a4b3ef3fd187bb1bcae482582d73ea6c89bc13b15a5230850c": {
-		"title": "[속보] 오후 9시까지 전국 31만3096명 확진…어제보다 10만1072명 줄어",
-		"link": "www.yna.co.kr/view/AKR20220330186900530?section=safe/news",
-		"date": "03-30 22:03"
-	},
-	"1d4db23644b3f2628d74ebfc99dcc851632152412d18b4e0e039422a421ac3ad": {
-		"title": "인수위, 정부에 \"내주까지 상세한 '코로나 손실규모' 보고하라\"",
-		"link": "www.yna.co.kr/view/AKR20220330180600001?section=safe/news",
-		"date": "03-30 20:42"
-	},
-	"85015880dc67500cb99a33fd192e0f9a036a5c6b1414a9e42f7b342e90529e20": {
-		"title": "오후 6시까지 전국서 24만83명 확진…어제보다 8만5358명 줄어",
-		"link": "www.yna.co.kr/view/AKR20220330172600530?section=safe/news",
-		"date": "03-30 18:49"
-	},
-	"7e3f5246daebad958e4c0cc0047e3676935608ace42f00b6d04193e5baf0ee52": {
-		"title": "정부 거리두기 수위 놓고 고심…영업시간 제한 폐지도 검토(종합)",
-		"link": "www.yna.co.kr/view/AKR20220330142951530?section=safe/news",
-		"date": "03-30 18:38"
-	},
-	"881d5ba12f29ae0adf697d092b1978fc5582b09ef1dc694a7f90f02150677684": {
-		"title": "인니 \"외부지원 백신 1천900만회 유통기한 경과…선별 수용\"",
-		"link": "www.yna.co.kr/view/AKR20220330168900104?section=safe/news",
-		"date": "03-30 18:28"
-	},
-	"daa8e36354791e203f0c3d613e073cbfe578e855040bda30f33bdd484730aece": {
-		"title": "[속보] 오후 6시까지 전국서 24만83명 확진…어제보다 8만5358명 줄어",
-		"link": "www.yna.co.kr/view/AKR20220330171200530?section=safe/news",
-		"date": "03-30 18:31"
-	},
-	"9402413b0df218370e11dc75fbd69030efee962d7f9196609a328f1fcb2d64b8": {
-		"title": "인니 \"외부 지원 백신 1900만회 분량 유통기한 경과…선별 수용\"",
-		"link": "www.yna.co.kr/view/AKR20220330168900104?section=safe/news",
-		"date": "03-30 18:28"
 	}
 }
