@@ -1,4 +1,34 @@
 {
+	"723d8ed39f46cea79a488152800bd4ee1e72c684607fa8abfdee13990b5217c2": {
+		"title": "[속보] 10세 미만 코로나19 사망자 2명 늘어…이 연령대 누적 13명",
+		"link": "www.yna.co.kr/view/AKR20220402023600530?section=safe/news",
+		"date": "04-02 09:37"
+	},
+	"ec6c231dcbbfff23e0e1e4af4d792cc529b7e157bad1f21b9953e3f324cfdf48": {
+		"title": "[속보] 어제 코로나19로 339명 사망…누적 치명률 0.12%",
+		"link": "www.yna.co.kr/view/AKR20220402020000530?section=safe/news",
+		"date": "04-02 09:31"
+	},
+	"ca6a9508f0b4146dcfb26c3d0dcb75339410270149432560e7ad321f04a8dc25": {
+		"title": "[1보] 신규확진 26만4171명, 이틀연속 20만명대…위중증 1165명",
+		"link": "www.yna.co.kr/view/AKR20220402019500530?section=safe/news",
+		"date": "04-02 09:30"
+	},
+	"8777ae245f1c862a435a3e238bff0b75cf942440505b1655286ee055fb06b5e6": {
+		"title": "[톺뉴스] '스텔스 오미크론'…코로나 변이 이름 어떻게 짓나?",
+		"link": "www.yna.co.kr/view/AKR20220401051100797?section=safe/news",
+		"date": "04-02 09:00"
+	},
+	"4e497f0d3352cdf9fa49e9b3ae10c7a22fbbd3c51169c79d95a9414bded77fa8": {
+		"title": "전북 어제 9464명 확진…병상 가동률 44%",
+		"link": "www.yna.co.kr/view/AKR20220402020800055?section=safe/news",
+		"date": "04-02 08:57"
+	},
+	"311a664b1a04a53172b8772835c4d1f9e1149627317c5dc79761dce909356ec3": {
+		"title": "광주 8033명·전남 1만1160명 확진…사흘 만에 2만명 아래로",
+		"link": "www.yna.co.kr/view/AKR20220402018700054?section=safe/news",
+		"date": "04-02 08:34"
+	},
 	"79cea24816814d6d8d6cf99dfffa49c11ac74531d985a7caf1a65f87e9b1f402": {
 		"title": "'링컨의 땅'에 157년 전 설립된 링컨대학, 코로나 여파로 폐교",
 		"link": "www.yna.co.kr/view/AKR20220402014500009?section=safe/news",
@@ -468,35 +498,5 @@
 		"title": "전남지역 확진자 대면진료 동네병원 확대",
 		"link": "www.yna.co.kr/view/AKR20220331133400054?section=safe/news",
 		"date": "03-31 15:37"
-	},
-	"f491d5a1e0eb0a0a1c412f12309400ea58a693fb6bfb8cf9a1dfdebe236139ff": {
-		"title": "대전 코로나19 백신 소아 접종 예약률 1.5%",
-		"link": "www.yna.co.kr/view/AKR20220331136200063?section=safe/news",
-		"date": "03-31 15:33"
-	},
-	"13184f5eddee5ef25abb4f947f914deb9ff7e55a4cdd3aee3ac85ff5b66f4fd0": {
-		"title": "SK바사 \"상반기 코로나 백신 허가 자신…'넥스트 팬데믹' 준비\"",
-		"link": "www.yna.co.kr/view/AKR20220331132100017?section=safe/news",
-		"date": "03-31 15:20"
-	},
-	"bb64dcf11b611cdd2856b9468b0af8c7ee77c4ff0ba8dd326e24add9793ad4b5": {
-		"title": "대구지역 전문대들 코로나19 속 해외 취업 재시동",
-		"link": "www.yna.co.kr/view/AKR20220331130400053?section=safe/news",
-		"date": "03-31 15:11"
-	},
-	"1c090fd8dde8b94e4d5cb81f3c957dbc7de39a41b7ce2e9edc2b9a9a2b7958f2": {
-		"title": "대한항공 노조 \"입국시 PCR 검사 면제하고 방역 완화해야\"",
-		"link": "www.yna.co.kr/view/AKR20220331126400003?section=safe/news",
-		"date": "03-31 15:11"
-	},
-	"634dd94cecf72bcc24ccc36712a174878cb8bca290b1d8df04c251c7409ed17c": {
-		"title": "정부, 확진자 1천명 대상으로 코로나19 후유증 추적조사",
-		"link": "www.yna.co.kr/view/AKR20220331125100530?section=safe/news",
-		"date": "03-31 15:07"
-	},
-	"5914736a8a0407a5bd2d13b8b93f7e76a2092c0ba7760a6acb04f1a07110ecca": {
-		"title": "5∼11세 코로나19 백신, 4만7천761명 예약 완료…예약률 1.5%",
-		"link": "www.yna.co.kr/view/AKR20220331121900530?section=safe/news",
-		"date": "03-31 14:57"
 	}
 }
