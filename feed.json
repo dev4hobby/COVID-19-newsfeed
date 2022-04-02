@@ -1,4 +1,9 @@
 {
+	"a1b100795a4cf202af4725554335165d66e9490ba9dc40c590a3042bcc5b8de6": {
+		"title": "중국 코로나 신규감염 1만명 육박…대다수가 상하이·지린",
+		"link": "www.yna.co.kr/view/AKR20220402043100083?section=safe/news",
+		"date": "04-02 16:55"
+	},
 	"913ba34c84ed2efd7b001b2b205cc0421f977afabb46c365934890ed281c3e43": {
 		"title": "충북 16시까지 3537명 확진…전날 동시간대보다 364명↓",
 		"link": "www.yna.co.kr/view/AKR20220402041700064?section=safe/news",
@@ -493,10 +498,5 @@
 		"title": "[속보] 오후 6시까지 전국서 22만841명 확진…어제보다 1만9242명 줄어",
 		"link": "www.yna.co.kr/view/AKR20220331185000530?section=safe/news",
 		"date": "03-31 19:01"
-	},
-	"480dc60d67746b106a8efa61a34d2f07f065805cab6cd4de4f1d06606066395f": {
-		"title": "[속보] 내일부터 접종완료 입국자는 모두 격리면제",
-		"link": "www.yna.co.kr/view/AKR20220331183800530?section=safe/news",
-		"date": "03-31 18:53"
 	}
 }
