@@ -1,4 +1,9 @@
 {
+	"2e02e0f8ec78a83da5c61ff68f037a7fc088f280610d3ebcc3b7bfe7e90f97ea": {
+		"title": "제주 코로나 1783명 추가 발생…위중증 9명",
+		"link": "www.yna.co.kr/view/AKR20220404134100056?section=safe/news",
+		"date": "04-04 17:11"
+	},
 	"11bb1e0173c2e7eb712f0fc14269893a69573487ba9881588167d2828b849243": {
 		"title": "올해 버려진 코로나19 백신 64만회분…노바백스도 210회분 폐기",
 		"link": "www.yna.co.kr/view/AKR20220404130700530?section=safe/news",
@@ -493,10 +498,5 @@
 		"title": "서울 4만8673명 신규 확진…1주 전보다 1만5천명 줄어",
 		"link": "www.yna.co.kr/view/AKR20220402027900004?section=safe/news",
 		"date": "04-02 11:00"
-	},
-	"05899633238193a4018f5384a489a0ef492b6138bfdae5afc6c5b912f7ee4df9": {
-		"title": "인천 1만4284명 확진…요양시설 5곳 새 집단감염",
-		"link": "www.yna.co.kr/view/AKR20220402027700065?section=safe/news",
-		"date": "04-02 10:57"
 	}
 }
