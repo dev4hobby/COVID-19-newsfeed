@@ -1,4 +1,69 @@
 {
+	"6c2c18395bf300c3cec4b1cc24d5aca1d20ede533967c9b321530d60bd432e52": {
+		"title": "서울 신규확진 2만894명…6주 만에 최소 기록",
+		"link": "www.yna.co.kr/view/AKR20220404068200004?section=safe/news",
+		"date": "04-04 11:24"
+	},
+	"67619ec1eedef21cda5ff35724f389b50d4ecaf05422f74418a09a69f02422bb": {
+		"title": "충북 학교 코로나19 정점 찍었나…신규 확진 엿새째 감소",
+		"link": "www.yna.co.kr/view/AKR20220404065700064?section=safe/news",
+		"date": "04-04 11:20"
+	},
+	"a2a327d1cb084a061f0e4217d65861f8f8523704190f8c161901735cc3b34139": {
+		"title": "충주시, 코로나19 격리자 생활지원비 지급 재개",
+		"link": "www.yna.co.kr/view/AKR20220404066100064?section=safe/news",
+		"date": "04-04 11:11"
+	},
+	"337724ceeedcd31b5cb3dd629d55f7b3b9c8c7a8440d119bdd16a6a5d6cadaa8": {
+		"title": "부산, 4078명 신규 확진…48일 만에 5천명 밑으로",
+		"link": "www.yna.co.kr/view/AKR20220404057700051?section=safe/news",
+		"date": "04-04 11:00"
+	},
+	"2570f6dc30bbd55811e6bec3e43a7b74b4074fefd9f98035740479486dd6763c": {
+		"title": "코로나19로 테슬라·폭스바겐 상하이 공장 조업 중단 지속",
+		"link": "www.yna.co.kr/view/AKR20220404053700097?section=safe/news",
+		"date": "04-04 10:46"
+	},
+	"eeff5e441a71661c80d09c80e758cb025efcabd8ca89564e54883f2894923754": {
+		"title": "中 감염자 이틀째 1만3천명대…상하이에 의료인력 1.2만명 지원",
+		"link": "www.yna.co.kr/view/AKR20220404045400083?section=safe/news",
+		"date": "04-04 10:40"
+	},
+	"e92712187d1fb74930db3041437d7071689b017ebf1e8d649de0ead1361f8cfd": {
+		"title": "대구서 3452명 확진…월요일 기준 3주 연속 감소세",
+		"link": "www.yna.co.kr/view/AKR20220404055600053?section=safe/news",
+		"date": "04-04 10:33"
+	},
+	"9b432e29faca89eaa732e7b7dc0e90e715c6f2be808abe7e86f4eea3d45d7840": {
+		"title": "충북 보건환경연구원 \"청주 등 3곳서 감염병 매개 모기 감시\"",
+		"link": "www.yna.co.kr/view/AKR20220404054700064?section=safe/news",
+		"date": "04-04 10:30"
+	},
+	"097bcfd79fb69af82f8492d203f2cc497a121ed297e475e49ad020e39b4518fa": {
+		"title": "부산대, 코로나19로 중단했던 교육 기부활동 재개",
+		"link": "www.yna.co.kr/view/AKR20220404053100051?section=safe/news",
+		"date": "04-04 10:27"
+	},
+	"6d0026888cd06e517cd848257f08b7f83ea46ebd1ab46dac96b43fffb0db6952": {
+		"title": "인천 5545명 확진…48일만에 감염자 가장 적어",
+		"link": "www.yna.co.kr/view/AKR20220404052000065?section=safe/news",
+		"date": "04-04 10:19"
+	},
+	"aeb5bce3946b5e19870146724b15d69f7b5331f6ab1c00a6d4eb31a167f6137b": {
+		"title": "경남 7385명 확진, 34일 만에 1만명 밑으로…주말 영향",
+		"link": "www.yna.co.kr/view/AKR20220404048300052?section=safe/news",
+		"date": "04-04 10:10"
+	},
+	"5b4adb9ffcfeec5b9b284ea933ea7e7ba4e21038201b9b94018552c694b545d9": {
+		"title": "경기 3만6천937명 확진…34일만에 3만명대로 감소",
+		"link": "www.yna.co.kr/view/AKR20220404032000061?section=safe/news",
+		"date": "04-04 10:00"
+	},
+	"cb8e5275815567690dbeb4b0520165552d61426c87f2daca785bb39fbf167175": {
+		"title": "일요일 대전 신규 확진자 수 4천명대로 내려와",
+		"link": "www.yna.co.kr/view/AKR20220327009057063?section=safe/news",
+		"date": "04-04 10:00"
+	},
 	"6d7630bdc99d806f7fd609d547f23f36c88e38d783711a62e9920fe51e93035b": {
 		"title": "신규확진 12만7190명, 41일만에 최소…위중증 1108명(종합)",
 		"link": "www.yna.co.kr/view/AKR20220404027700530?section=safe/news",
@@ -433,70 +498,5 @@
 		"title": "전북 어제 9464명 확진…병상 가동률 44%",
 		"link": "www.yna.co.kr/view/AKR20220402020800055?section=safe/news",
 		"date": "04-02 08:57"
-	},
-	"311a664b1a04a53172b8772835c4d1f9e1149627317c5dc79761dce909356ec3": {
-		"title": "광주 8033명·전남 1만1160명 확진…사흘 만에 2만명 아래로",
-		"link": "www.yna.co.kr/view/AKR20220402018700054?section=safe/news",
-		"date": "04-02 08:34"
-	},
-	"79cea24816814d6d8d6cf99dfffa49c11ac74531d985a7caf1a65f87e9b1f402": {
-		"title": "'링컨의 땅'에 157년 전 설립된 링컨대학, 코로나 여파로 폐교",
-		"link": "www.yna.co.kr/view/AKR20220402014500009?section=safe/news",
-		"date": "04-02 08:18"
-	},
-	"e252eebb048327317509b276753f5aa157aad70077eb121777a4193e18ea87a2": {
-		"title": "美 '코로나 차단 명분 이민자 추방' 5월 종료…캐러밴 북상 늘듯",
-		"link": "www.yna.co.kr/view/AKR20220402013500087?section=safe/news",
-		"date": "04-02 07:49"
-	},
-	"97039d652e18598f6d216f7b84daabb3136b8ae082dad358431ebbe0aeb5f85e": {
-		"title": "[특파원 시선] 중국의 '제로 코로나' 굴레",
-		"link": "www.yna.co.kr/view/AKR20220401139700083?section=safe/news",
-		"date": "04-02 07:01"
-	},
-	"3501abe13f137fa7a7dfbc738856e5d1372b071c40d328ecc4ea70c1df408d51": {
-		"title": "[위클리 건강] 확진 후 격리해제돼도…코로나 후유증 주의",
-		"link": "www.yna.co.kr/view/AKR20220401104900017?section=safe/news",
-		"date": "04-02 07:00"
-	},
-	"f4b44f862944dfff8bbe4cef5a3a2d787c048cb3855866a64f6039cc20fb8d5c": {
-		"title": "디즈니랜드, 코로나로 중단했던 '미키마우스 포옹' 재개",
-		"link": "www.yna.co.kr/view/AKR20220402006600075?section=safe/news",
-		"date": "04-02 04:56"
-	},
-	"f48df84bfbd01e00663b861db3ce3f139c8af8e569bd7b84176289ef2a9ba5c7": {
-		"title": "'거리두기 끝물' 서울 번화가 인산인해…홍대선 버스킹 재개",
-		"link": "www.yna.co.kr/view/AKR20220401168000004?section=safe/news",
-		"date": "04-01 22:30"
-	},
-	"caef203398a20e9949408d9f172a4f1e34f044601e8ae4b50ac458430ed98d7e": {
-		"title": "오후 9시까지 전국서 25만9232명 확진…어제보다 1만2367명 감소(종합)",
-		"link": "www.yna.co.kr/view/AKR20220401156151530?section=safe/news",
-		"date": "04-01 21:49"
-	},
-	"fa6d58264f294678137bc6552a6953ad256868fbd3dd3343eff0994a33a856bf": {
-		"title": "[속보] 오후 9시까지 전국서 25만9232명 확진…어제보다 1만2367명 감소",
-		"link": "www.yna.co.kr/view/AKR20220401166100530?section=safe/news",
-		"date": "04-01 21:37"
-	},
-	"cabb68d9ff2362faee5904a3661181b8eb81a15770db6c4adf8da38aa317ca2b": {
-		"title": "홍콩 연구진 \"오미크론 변이, 아동에 독감보다 7배 치명적\"",
-		"link": "www.yna.co.kr/view/AKR20220401160900074?section=safe/news",
-		"date": "04-01 19:25"
-	},
-	"734267bc7ea08a66f1da6b6f0d9394268612948795340116136cb6511a488f4f": {
-		"title": "오후 6시까지 전국서 20만8149명 확진…어제보다 1만2692명 감소",
-		"link": "www.yna.co.kr/view/AKR20220401156100530?section=safe/news",
-		"date": "04-01 18:39"
-	},
-	"368b715f377e0b40fe93e4e5f3ccc5e2c86f4dbfd78669a00486351b1c5adc0f": {
-		"title": "[속보] 오후 6시까지 전국서 20만8149명 확진…어제보다 1만2692명 줄어",
-		"link": "www.yna.co.kr/view/AKR20220401155200530?section=safe/news",
-		"date": "04-01 18:26"
-	},
-	"3a378c5abd7f012e0e84983a4e6a742aea32b5ed015e8b08dfe4300419e282a1": {
-		"title": "내주부터 정부 코로나19 정례브리핑 주 5회에서 3회로 축소",
-		"link": "www.yna.co.kr/view/AKR20220401152700530?section=safe/news",
-		"date": "04-01 18:20"
 	}
 }
