@@ -1,4 +1,94 @@
 {
+	"77a7bbb92940f569e207f4078e7b7ecadf4972318e1f6f1adc05147e7f52bfbb": {
+		"title": "정부, 감염취약계층에 신속항원검사 키트 4천158만개 무상지급",
+		"link": "www.yna.co.kr/view/AKR20220408066600530?section=safe/news",
+		"date": "04-08 11:36"
+	},
+	"d24bb8973ba0817efe34e32b6d981a4a826b7e7cb74b7bb69b59bdc83ae4c921": {
+		"title": "김관영 \"코로나 완치 70세 이상 어르신에 폐 CT 검사비 지원\"",
+		"link": "www.yna.co.kr/view/AKR20220408064900055?section=safe/news",
+		"date": "04-08 11:27"
+	},
+	"72407d58b9d1d8f62cf51be50499331e68fbe794a744ccfd24bc5cfafdde4a8e": {
+		"title": "[속보] \"내주 거리두기 조정 논의…포스트 오미크론 체계도 내주 발표\"",
+		"link": "www.yna.co.kr/view/AKR20220408063800530?section=safe/news",
+		"date": "04-08 11:21"
+	},
+	"863a7e44003eaeab506a30c4d53ae2570322e7247b0e33a19dfdc070bbe07bf1": {
+		"title": "부산, 이틀 연속 1만명 미만 확진…감소세 지속",
+		"link": "www.yna.co.kr/view/AKR20220408057000051?section=safe/news",
+		"date": "04-08 11:00"
+	},
+	"62136d1c1d3582df1769e62bd6088f71514d00e38116ac86897984591206e90a": {
+		"title": "서울 3만6212명 신규 확진…1주 전보다 1만5천여명 감소",
+		"link": "www.yna.co.kr/view/AKR20220408059100004?section=safe/news",
+		"date": "04-08 11:00"
+	},
+	"103864d02bc82a41e3f3e561eb3859f19dd4cd105b5bf1fb303f97537c54727a": {
+		"title": "[속보] 감염병전담병원 30% 축소…18일부터 일반격리병상으로 전환",
+		"link": "www.yna.co.kr/view/AKR20220408059800530?section=safe/news",
+		"date": "04-08 11:00"
+	},
+	"d56dce9e27d1dd98bb4f976e822c9c228be24e308fcf8c31b182716234cce90a": {
+		"title": "상하이 공산당, 당원들에 \"코로나와 싸움 방해 세력에 맞서야\"",
+		"link": "www.yna.co.kr/view/AKR20220408058600074?section=safe/news",
+		"date": "04-08 10:55"
+	},
+	"63d0ac07cab95ae57f429658fa243adccb0f96d980e1fc5a7f5753eccf236e73": {
+		"title": "유초중고생 3명중 1명 감염…학교도 '포스트 오미크론' 준비한다(종합)",
+		"link": "www.yna.co.kr/view/AKR20220407080951530?section=safe/news",
+		"date": "04-08 10:37"
+	},
+	"9261413358545ff10e3b3ce0e8818232d9d98a452db8f7f8cf55141e7bfb60b9": {
+		"title": "대구서 9224명 확진…위중증 병상 한 달 만에 70% 이하로",
+		"link": "www.yna.co.kr/view/AKR20220408053500053?section=safe/news",
+		"date": "04-08 10:34"
+	},
+	"91858a7b2e498219f18693e79ff706766dd6c65520095fe679018c742c2255eb": {
+		"title": "안산시, 코로나19 피해 소상공인 등 4만명에 최대 100만원 지원",
+		"link": "www.yna.co.kr/view/AKR20220408050200061?section=safe/news",
+		"date": "04-08 10:33"
+	},
+	"45a1dedbe71911e928a75a2e5d97f97e998c9bb604564780612d4d34442f3b93": {
+		"title": "경남 1만2192명 신규 확진…나흘 연속 1만명대",
+		"link": "www.yna.co.kr/view/AKR20220408050700052?section=safe/news",
+		"date": "04-08 10:30"
+	},
+	"0c6e6c4e184c2811654a9ddf283f6001274bcde5e5dfcbb93d0694ef77d120aa": {
+		"title": "인천 1만559명 확진…요양시설 3곳서 집단감염 확산",
+		"link": "www.yna.co.kr/view/AKR20220408051600065?section=safe/news",
+		"date": "04-08 10:20"
+	},
+	"1a02bb34fe1691b2bd2aa28b73a6ea402ddddcb799b1931e24f57cbfdb3eb602": {
+		"title": "상하이 신규감염자 2만명 넘어서…연일 최고치 경신",
+		"link": "www.yna.co.kr/view/AKR20220408048500083?section=safe/news",
+		"date": "04-08 10:19"
+	},
+	"3933647985ab94c2b36019c6caed693941a7f5cfcda3d33e5dfb0e247cef9552": {
+		"title": "\"부스터샷 맞으면 2회 접종보다 오미크론 나흘 빨리 회복\"",
+		"link": "www.yna.co.kr/view/AKR20220408039500009?section=safe/news",
+		"date": "04-08 10:06"
+	},
+	"70de3797bc1b4688df529c3c29e8c988d8ae0c346a0aab7b557d04a1b0234bd5": {
+		"title": "\"2∼3주 후 확진자 10만명대 초반 수준까지 떨어질 것\"",
+		"link": "www.yna.co.kr/view/AKR20220408044300530?section=safe/news",
+		"date": "04-08 10:05"
+	},
+	"d08cd007346d4e228bba7411b6a10bece7980146fbed7af9f01c995bffaaba3c": {
+		"title": "대전 6927명 추가 확진…시민 27.7% 감염",
+		"link": "www.yna.co.kr/view/AKR20220408033800063?section=safe/news",
+		"date": "04-08 10:00"
+	},
+	"1a147eddcd294eeee4db5ad9d66684fec04c85e639634e856a7c15e6fba9e6d9": {
+		"title": "경기 5만4814명 확진…누적 414만명, 전체 도민의 30%",
+		"link": "www.yna.co.kr/view/AKR20220408041400061?section=safe/news",
+		"date": "04-08 10:00"
+	},
+	"a3fc94f9bcd06c12fee0320e64ae005a093c0597d147552316d33a32d6613731": {
+		"title": "20만5333명 신규 확진…오늘중 누적 1천500만명 넘을 듯(종합)",
+		"link": "www.yna.co.kr/view/AKR20220408023300530?section=safe/news",
+		"date": "04-08 09:58"
+	},
 	"0a1d329eb6d3eda801060a01f71323ae6710e30304b8c45fde1d701e4d18f271": {
 		"title": "충북서 어제 7348명 확진…완만한 감소세, 사망은 23명",
 		"link": "www.yna.co.kr/view/AKR20220408039200064?section=safe/news",
@@ -408,95 +498,5 @@
 		"title": "울산 4654명 신규 확진…누적 확진자 30만 명 넘어",
 		"link": "www.yna.co.kr/view/AKR20220406149900057?section=safe/news",
 		"date": "04-06 18:00"
-	},
-	"6a473fb0a39b30ff639139cc8eed4b3cac0ec45492c3c0c487663f4655ace361": {
-		"title": "[팩트체크] 한국이 수출한 의류 때문에 중국에서 코로나 감염?",
-		"link": "www.yna.co.kr/view/AKR20220406117000502?section=safe/news",
-		"date": "04-06 17:39"
-	},
-	"f607d6bee4043b3aee7269e965b87fb200724cd169a7b7b0816e0ac5c17a397e": {
-		"title": "광주 8009명·전남 8982명 확진…전날보다 다소 감소",
-		"link": "www.yna.co.kr/view/AKR20220406147300054?section=safe/news",
-		"date": "04-06 17:28"
-	},
-	"edbde7491de956d6a8245f4ac39c85096a61a5d26ea3998bdcdd2194fd0ebb1a": {
-		"title": "WHO \"지난주 전 세계 신규확진 2주 연속 감소…한국도 16% 줄어\"",
-		"link": "www.yna.co.kr/view/AKR20220406141500088?section=safe/news",
-		"date": "04-06 17:20"
-	},
-	"3fe9a65a6c1720bc9b3fb992c964dd40ad1aada7a95615f8d9d98db6e01cadd3": {
-		"title": "제주 확진자 2340명 추가 발생…위중증 11명",
-		"link": "www.yna.co.kr/view/AKR20220406145300056?section=safe/news",
-		"date": "04-06 17:14"
-	},
-	"7e4c4814fea4c1b4be786156790255eccb19d0f8083eb68ad19c8fc65690b193": {
-		"title": "오늘부터 확진자가 직접 약국 가서 처방약 받을 수 있다(종합2보)",
-		"link": "www.yna.co.kr/view/AKR20220406072452530?section=safe/news",
-		"date": "04-06 17:12"
-	},
-	"61a2f2f3a06524c9f0ab455582aae585a6e2b910ad4c2fedc1c430537efc86bf": {
-		"title": "올가을 '엔데믹' 가능할까…정부 '포스트 오미크론' 계획 준비",
-		"link": "www.yna.co.kr/view/AKR20220406127500530?section=safe/news",
-		"date": "04-06 17:04"
-	},
-	"4f0a38dc2df01c97bffa14045868d9a93fa3cdbf5d7fe226868da0ae3b2d5701": {
-		"title": "충북 16시까지 3390명 확진…전날 동시간보다 1359명↓",
-		"link": "www.yna.co.kr/view/AKR20220406140000064?section=safe/news",
-		"date": "04-06 16:54"
-	},
-	"cd141d30206cd534eccb641adc5ce5228ac668f8a776b5be5f1a91e1b0bd54da": {
-		"title": "뉴질랜드 '코로나19 방역 스타' 보건국장 사임",
-		"link": "www.yna.co.kr/view/AKR20220406119000009?section=safe/news",
-		"date": "04-06 16:54"
-	},
-	"cd474a59a9e4be56440b51c62b055afb127637758ec36fbe8950a7b8b6030095": {
-		"title": "[영상] 상하이 코로나19 급속 확산…국가회의전람센터에 4만명 격리한다",
-		"link": "www.yna.co.kr/view/AKR20220406135000534?section=safe/news",
-		"date": "04-06 16:46"
-	},
-	"83e6e30be36e926555dd2fba3288ee0447ab9db7fae7ab89491ec130c2ebe6a2": {
-		"title": "[대전소식] 보건환경연구원, 일본뇌염 등 모기 매개 감염병 감시",
-		"link": "www.yna.co.kr/view/AKR20220406134900063?section=safe/news",
-		"date": "04-06 16:45"
-	},
-	"def4769427e599b46105cdc8d148094fd2cd7403c65509a2a9d9e73b9d37c313": {
-		"title": "태국 노인층 백신 기피 어떻길래'…\"접종하고 현금 타가세요\"",
-		"link": "www.yna.co.kr/view/AKR20220406129100076?section=safe/news",
-		"date": "04-06 16:39"
-	},
-	"a404bc5fcb6af14e5d8049dd90664fc33292758748c4ecb8fbc5175c9da5bfb9": {
-		"title": "바이든 \"코로나19 후유증 적극 연구하라\" 지시",
-		"link": "www.yna.co.kr/view/AKR20220406128200009?section=safe/news",
-		"date": "04-06 16:22"
-	},
-	"483c7572c03f2d98a6153e7988957d1e491c1287e6960be2fefab341d6d5029e": {
-		"title": "중국 신규 감염자 2만명 넘어서…상하이 2차 전수검사(종합)",
-		"link": "www.yna.co.kr/view/AKR20220406074251083?section=safe/news",
-		"date": "04-06 16:02"
-	},
-	"90b15e039eabe4e3344bbd24a6d9b02194bbf53d69604aeba55a014afebc51b0": {
-		"title": "남양주시, 코로나19 생활지원비 온라인 신청 시스템 갖춰",
-		"link": "www.yna.co.kr/view/AKR20220406125000060?section=safe/news",
-		"date": "04-06 16:02"
-	},
-	"40b2ded0804bc683621c4f8cc6321646961a0870257e2499c9c50b59c33900fc": {
-		"title": "\"비인도적\" 비판에 중국 '감염아동과 부모 분리' 정책 바꿔(종합)",
-		"link": "www.yna.co.kr/view/AKR20220406079051089?section=safe/news",
-		"date": "04-06 15:59"
-	},
-	"e509d44ccc8e73d33b0b499a39a3e37c6d749c43eef67b3f394092e27554c825": {
-		"title": "상하이 '자택격리 안된다'…국가회의전람센터에 4만명 격리(종합)",
-		"link": "www.yna.co.kr/view/AKR20220406047351089?section=safe/news",
-		"date": "04-06 15:49"
-	},
-	"c88a9c01d8921c72c98d1db82a011847e6ffccdbaaf7865790b2ace6238b483c": {
-		"title": "강원도, 코로나로 소비 부진한 농특산물 홍보마케팅 강화",
-		"link": "www.yna.co.kr/view/AKR20220406113800062?section=safe/news",
-		"date": "04-06 15:16"
-	},
-	"3ce2df18f9a827452311ddc58ed6a399d898e67cac1eedfc4f2b68baa215beeb": {
-		"title": "부산, 이틀 연속 1만명대…누적 확진 95만명 넘어(종합)",
-		"link": "www.yna.co.kr/view/AKR20220406065051051?section=safe/news",
-		"date": "04-06 15:00"
 	}
 }
