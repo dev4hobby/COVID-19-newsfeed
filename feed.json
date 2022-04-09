@@ -1,4 +1,39 @@
 {
+	"788ea5bea6356cad57b98605e4d63b04bfd8eb8c36129891e2ec7006021647f9": {
+		"title": "서울 3만2320명 신규 확진…1주 전보다 1만6천여명 감소",
+		"link": "www.yna.co.kr/view/AKR20220409026100004?section=safe/news",
+		"date": "04-09 11:11"
+	},
+	"efb72f71d215a734118f952b3196a1b9680011463126b51738dbfb6865bedba0": {
+		"title": "하노이, 코로나 확산세 줄자 11개월만에 유치원 등원 재개",
+		"link": "www.yna.co.kr/view/AKR20220409024700084?section=safe/news",
+		"date": "04-09 10:56"
+	},
+	"cdc837992daa40b305d962c96a1e37453c80bcb44d46c123305426ff5b631455": {
+		"title": "대구 코로나19 신규 확진 7683명 발생",
+		"link": "www.yna.co.kr/view/AKR20220409024600053?section=safe/news",
+		"date": "04-09 10:42"
+	},
+	"f1b7d297cd42cd64b7d74cf0f825e31c76d9b7bbcc1bbcac87e2d3e5c19647ae": {
+		"title": "경남 1만858명 확진…누적 감염자 90만명 넘어",
+		"link": "www.yna.co.kr/view/AKR20220409023700052?section=safe/news",
+		"date": "04-09 10:22"
+	},
+	"488fde9ee105b4074ac90963f44311feb8af3d7734644a8d9c2a293c62243921": {
+		"title": "인천 코로나19 신규 확진 9759명…사망 13명",
+		"link": "www.yna.co.kr/view/AKR20220409023500065?section=safe/news",
+		"date": "04-09 10:17"
+	},
+	"ce2a634c2d103723f95a6ad3882d5894611dc9f5535c2c4031c569d85cfe5c43": {
+		"title": "대전서 7005명 코로나19 추가 확진…사망자 13명",
+		"link": "www.yna.co.kr/view/AKR20220409020000063?section=safe/news",
+		"date": "04-09 10:00"
+	},
+	"a86f507f6bad5b75bcff5971c19946b21e514d245292fca692e81ad1f70b7ffd": {
+		"title": "경기 4만8198명 신규 확진…1주 전보다 2만3천명 감소",
+		"link": "www.yna.co.kr/view/AKR20220409021400061?section=safe/news",
+		"date": "04-09 10:00"
+	},
 	"d2b5967f28fd1e73c3982d4bc2097cb4480f706b6e4acb8b31c46048680cc7f1": {
 		"title": "신규 확진 18만5566명…닷새만에 20만명 아래로(종합)",
 		"link": "www.yna.co.kr/view/AKR20220409010800530?section=safe/news",
@@ -463,40 +498,5 @@
 		"title": "\"확진자라고 안 받을 수 없어요\"…수술 위해 음압실 설치 W 병원",
 		"link": "www.yna.co.kr/view/AKR20220407088100053?section=safe/news",
 		"date": "04-07 14:48"
-	},
-	"2f12536278b8eb0cc584f49e2bb646cd4b846f5880b47ee6007872f2e3883671": {
-		"title": "安, 서울 시내 어린이집 방문…코로나19 보육현장 점검",
-		"link": "www.yna.co.kr/view/AKR20220407084400001?section=safe/news",
-		"date": "04-07 14:09"
-	},
-	"4d0bceb9a7c7a6b518a064829bea7ebc59c733f0043962c8674a8d769b1efa92": {
-		"title": "아산시, 코로나19 재택치료 관리 의료기관·인원 확충",
-		"link": "www.yna.co.kr/view/AKR20220407086800063?section=safe/news",
-		"date": "04-07 13:51"
-	},
-	"5ef2d99737e91b920716aab8a6d5b33e6d4cb7b6ca0b1c2d81a80000812bdcd8": {
-		"title": "소아 2명 중 1명 코로나19 확진…\"돌봄·접촉 많은 연령대\"",
-		"link": "www.yna.co.kr/view/AKR20220407079100530?section=safe/news",
-		"date": "04-07 12:53"
-	},
-	"605b0c7481835ea8c902477d2061c0466372c09ac686b24510663b8e8af34956": {
-		"title": "\"기승전접종\"…방역당국, 확진 이력자에도 '3차접종 권고' 검토",
-		"link": "www.yna.co.kr/view/AKR20220407078600530?section=safe/news",
-		"date": "04-07 12:29"
-	},
-	"1caf9e9da88d4ede1dd0495ac1fa6fecbcdbf07a23858669f321f622025c6030": {
-		"title": "코로나에 멍드는 중국경제…\"확산 꺾여도 충격 반년 이상\"",
-		"link": "www.yna.co.kr/view/AKR20220407077400089?section=safe/news",
-		"date": "04-07 12:21"
-	},
-	"9fdfab91f974d51106e5181d1d2f1b4969ce0321b00efc0e60d11d527c42b8b7": {
-		"title": "캄보디아 정부 스스로 \"코로나 통계, 현실 제대로 반영 못 해\"",
-		"link": "www.yna.co.kr/view/AKR20220407077700076?section=safe/news",
-		"date": "04-07 12:20"
-	},
-	"52939d9c657d5de9cc4b03902f6196221044d861d3bcb0649c2749a03c923f06": {
-		"title": "방역당국 \"확진자 중간고사, 교육당국 관리계획 마련시 지원\"",
-		"link": "www.yna.co.kr/view/AKR20220407077500530?section=safe/news",
-		"date": "04-07 12:19"
 	}
 }
