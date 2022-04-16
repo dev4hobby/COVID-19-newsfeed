@@ -1,4 +1,49 @@
 {
+	"ee9ff300f17da56f953063270d5c6db66476119d53acbdef2225ead0cd6b0448": {
+		"title": "부산, 3909명 신규 확진…60일 만에 최저",
+		"link": "www.yna.co.kr/view/AKR20220416021700051?section=safe/news",
+		"date": "04-16 11:00"
+	},
+	"0f4144107c9892461426583487eb67bd1640038c3ac6f7ba7be18f55c2dc965f": {
+		"title": "서울 신규 확진 1만8118명…나흘째 감소",
+		"link": "www.yna.co.kr/view/AKR20220416022400004?section=safe/news",
+		"date": "04-16 11:00"
+	},
+	"1608610e465be630cf31aea6f6d12b624113b34c0a25d9aad8c5f92fa09d506b": {
+		"title": "中 상하이 일일감염자 2만명대…봉쇄 20일째 지속",
+		"link": "www.yna.co.kr/view/AKR20220416022200083?section=safe/news",
+		"date": "04-16 10:56"
+	},
+	"d36a0814c5f57d338e925c932b63e062e707f82afc3975b069f445a836d138b8": {
+		"title": "인천 누적 확진자 100만명 육박…시민 3명당 1명꼴",
+		"link": "www.yna.co.kr/view/AKR20220416021800065?section=safe/news",
+		"date": "04-16 10:36"
+	},
+	"b69934b8c8ebd776dc6a217f327d50a352ec8a5ece9e6dbacd796d85dca9795d": {
+		"title": "경남 6천354명 신규 확진…전날보다 758명 감소",
+		"link": "www.yna.co.kr/view/AKR20220416021000052?section=safe/news",
+		"date": "04-16 10:22"
+	},
+	"177f967847940892cfe1670ebb37f7ce285160a3c044b1b47743b7aef892aa23": {
+		"title": "대구 4703명 신규 확진…나흘 연속 1만 명 이하",
+		"link": "www.yna.co.kr/view/AKR20220416020900053?section=safe/news",
+		"date": "04-16 10:21"
+	},
+	"2bd5c59fd01b53f7b8a3acbbe16b63fc3f7073fdda8aba8aa4e7af7f52e7de51": {
+		"title": "신규확진 10만7916명, 감소세 '뚜렷'…위중증 사흘째 900명대(종합)",
+		"link": "www.yna.co.kr/view/AKR20220416020700530?section=safe/news",
+		"date": "04-16 10:19"
+	},
+	"f4e8956de28e1f65c3e3e13a41a29ffd98e5e88d87b225f6b36938d2b1ad85a7": {
+		"title": "경기 2만7481명 신규 확진…전날보다 5103명↓",
+		"link": "www.yna.co.kr/view/AKR20220416018700061?section=safe/news",
+		"date": "04-16 10:00"
+	},
+	"a95d479842bd4ecf0ae4abbb88fbe1d298533635ce5b3d05253405a2999ccbfe": {
+		"title": "대전서 3천836명 코로나19 추가 확진…누적 감염률 30% 돌파",
+		"link": "www.yna.co.kr/view/AKR20220416018900063?section=safe/news",
+		"date": "04-16 10:00"
+	},
 	"0cd2725611ef3cf93e58919766eefda1e5aa46881d6704e1769986c70609fd32": {
 		"title": "오미크론 하위변위 확산에 美 확진자 2주새 32%↑",
 		"link": "www.yna.co.kr/view/AKR20220416018400091?section=safe/news",
@@ -453,50 +498,5 @@
 		"title": "충북 16시까지 1696명 확진…전날 동시간보다 431명↓",
 		"link": "www.yna.co.kr/view/AKR20220414140400064?section=safe/news",
 		"date": "04-14 16:23"
-	},
-	"f4ce8a89ee4f1ebe2a641c3bef713105b1e982a1d52fd4eca9c4db318a5ba6a0": {
-		"title": "여주시보건소, '코로나19 공인 검사기관'으로 인증받아",
-		"link": "www.yna.co.kr/view/AKR20220414132300061?section=safe/news",
-		"date": "04-14 16:08"
-	},
-	"3d49008c2bce325718a9f5fadf8d2419b9ced7000088350e3043aa86d0acc336": {
-		"title": "부산, 8일째 1만명 미만 확진…14일 3298명 확진(종합)",
-		"link": "www.yna.co.kr/view/AKR20220414067851051?section=safe/news",
-		"date": "04-14 15:00"
-	},
-	"74a4ca54e3af237f291afa6519efd4ff86fe68024475e61928fd3b1447313c5f": {
-		"title": "홍콩 21일부터 사회적 거리두기 완화…신규 감염 1천명대",
-		"link": "www.yna.co.kr/view/AKR20220414114600074?section=safe/news",
-		"date": "04-14 14:55"
-	},
-	"31d14f9d171dbc3b0887beaef66b8e7ea045da763012c4bc9ebaf83262b508d8": {
-		"title": "광주 확진자·감염지수·병상 가동률 감소…차츰 안정화",
-		"link": "www.yna.co.kr/view/AKR20220414116500054?section=safe/news",
-		"date": "04-14 14:44"
-	},
-	"c1b07547c436c31c56bdf4e303bffbd49623629da7b46e551ae5e731c136d2d5": {
-		"title": "중국 백신 외교 약발 떨어지나…\"효능 우려·수요 감소\"",
-		"link": "www.yna.co.kr/view/AKR20220414101400074?section=safe/news",
-		"date": "04-14 14:11"
-	},
-	"207177658262548e482b841251404ca35fdc06842df645d432d6f5ebf85aed4d": {
-		"title": "中 '제로 코로나' 안 바꾸는 건가? 못 바꾸는 건가?",
-		"link": "www.yna.co.kr/view/AKR20220414086600083?section=safe/news",
-		"date": "04-14 13:14"
-	},
-	"28b31fd7bfebecc93c58d5205621407322cc9420d2cb912f4b5908b36c2beb7b": {
-		"title": "대만서도 코로나19 본격 확산 조짐…\"하루 1만명 감염 가능성\"",
-		"link": "www.yna.co.kr/view/AKR20220414084500009?section=safe/news",
-		"date": "04-14 12:48"
-	},
-	"264500aeba46ec229f65aba563bebb2592ec97e7f468f0586f6213cff53fc2a1": {
-		"title": "중국 코로나 봉쇄에 애플 맥북 배송 최장 6월까지 늦춰져",
-		"link": "www.yna.co.kr/view/AKR20220414091800009?section=safe/news",
-		"date": "04-14 12:43"
-	},
-	"8203042a7ebf53a0c67acdfb18f81f9c27302557bb45450276098acf719344c5": {
-		"title": "중국, 코로나 충격에 지준율 인하에 대손충당 완화까지",
-		"link": "www.yna.co.kr/view/AKR20220414087700089?section=safe/news",
-		"date": "04-14 12:23"
 	}
 }
