@@ -1,4 +1,34 @@
 {
+	"38ca0ea438f5d7367f3b80d2eb2c711e1aa4b341375b992c6d14b44b9d111e5d": {
+		"title": "[다시 일상으로] 마스크는 언제 벗나요…\"이제는\" vs \"아직은\"",
+		"link": "www.yna.co.kr/view/AKR20220416043600004?section=safe/news",
+		"date": "04-17 08:05"
+	},
+	"addf201353f4fe6e47650c34a69f1ae938cf9aeb9a4f725809af8b7d4753f8ce": {
+		"title": "[다시 일상으로] 병원내 코로나 '특별취급' 끝…\"이제 환자 살려야죠\"",
+		"link": "www.yna.co.kr/view/AKR20220416045900017?section=safe/news",
+		"date": "04-17 08:05"
+	},
+	"d928ababd8673b659f748e8850c5011385e1e09c38f75e20ac9e246321c0a9ca": {
+		"title": "[다시 일상으로] 의료체계 정상화…확진자 격리도 없앤다",
+		"link": "www.yna.co.kr/view/AKR20220415121300530?section=safe/news",
+		"date": "04-17 08:05"
+	},
+	"6bb5759dcb7b6ae04d3f695d1e89547b81a6ad74c646915969b886db61cdca75": {
+		"title": "[다시 일상으로] 757일만에…내일부터 거리두기 풀린다",
+		"link": "www.yna.co.kr/view/AKR20220415154200530?section=safe/news",
+		"date": "04-17 08:05"
+	},
+	"91e298619aca4bb59012656b4c5ed05178fa17b184bf9cfbdc61c6e1fa1b87e0": {
+		"title": "경북 5053명 신규 확진…나흘째 1만명 아래",
+		"link": "www.yna.co.kr/view/AKR20220417008400053?section=safe/news",
+		"date": "04-17 08:04"
+	},
+	"1dfc95735fb66dabe824db7e609da9cbf1c73cbb87d02b2f42a90d1fdc1b999d": {
+		"title": "외식업 경기 소폭 개선…\"방역완화·소상공인 지원책 영향\"",
+		"link": "www.yna.co.kr/view/AKR20220415146600003?section=safe/news",
+		"date": "04-17 08:00"
+	},
 	"91e94eb81efd9a298afd773c6574937d3f8bc76a8861f9c7d2ffcc5037768358": {
 		"title": "오후 9시까지 전국서 9만1566명 확진…어제보다 1만3349명 적어(종합)",
 		"link": "www.yna.co.kr/view/AKR20220416040051530?section=safe/news",
@@ -468,35 +498,5 @@
 		"title": "영국, 발네바 코로나19 백신 승인…모더나 6∼11세 사용 가능(종합)",
 		"link": "www.yna.co.kr/view/AKR20220414142851085?section=safe/news",
 		"date": "04-15 02:35"
-	},
-	"2ddd204afd6963d8210f7e4255213b6d912e06a44970fdc7c23e545470f168a2": {
-		"title": "화이자 \"부스터 샷이 5∼11세 항체 6배 늘려…곧 FDA 신청\"",
-		"link": "www.yna.co.kr/view/AKR20220415001600072?section=safe/news",
-		"date": "04-15 01:04"
-	},
-	"986e7e6c77ac6cddb485d77aeeb3cf9846b1235a4755fa60e35f5a0073f6512b": {
-		"title": "국민이 꼽은 효과적 코로나 대응 조치 1위 '마스크 착용'",
-		"link": "www.yna.co.kr/view/AKR20220414187300017?section=safe/news",
-		"date": "04-14 23:17"
-	},
-	"d39e6f0d4ac1bcc94cf6327ef15ee883961cff6c9e9d15483f3cb64b5de94558": {
-		"title": "모임-영업-행사 제한 등 거리두기 완전 해제…마스크는 '유지'(종합)",
-		"link": "www.yna.co.kr/view/AKR20220414162651530?section=safe/news",
-		"date": "04-14 22:04"
-	},
-	"bf18f56f9f853a8004055e32d2fb6f2394436d98bea9aa4fe420d354ffcd4e34": {
-		"title": "오후 9시까지 전국서 12만3627명 확진…어제보다 2만885명 적어(종합)",
-		"link": "www.yna.co.kr/view/AKR20220414165951530?section=safe/news",
-		"date": "04-14 21:39"
-	},
-	"91fcd8690ca82ef733607089546f3175caa0ac3e1c7faacb3b5c2268b1e4fcf5": {
-		"title": "[속보] 오후 9시까지 전국서 12만3627명 확진…어제보다 2만885명↓",
-		"link": "www.yna.co.kr/view/AKR20220414178600530?section=safe/news",
-		"date": "04-14 21:30"
-	},
-	"cebac5eed54022f1fe51cf6b1ba392296f0e40dc6573d45e014296f43f0dfdad": {
-		"title": "아프리카 팬데믹 시작 이후 코로나 신규확진 최저",
-		"link": "www.yna.co.kr/view/AKR20220414177300099?section=safe/news",
-		"date": "04-14 21:19"
 	}
 }
