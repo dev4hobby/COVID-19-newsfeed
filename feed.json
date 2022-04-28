@@ -1,4 +1,69 @@
 {
+	"7218d445cb57a91c3aa99f7c5665c2b194d0ee52808fd11f3a883df40ed44e4a": {
+		"title": "인천 2845명 확진…요양시설 감염자 등 4명 사망",
+		"link": "www.yna.co.kr/view/AKR20220428060600065?section=safe/news",
+		"date": "04-28 10:13"
+	},
+	"37c2e9f185cc29340921181f8e12f775744058033117e724200cefb1a74e2881": {
+		"title": "경남 3728명 확진, 보름째 1만명 아래…사망 6명·위중증 22명",
+		"link": "www.yna.co.kr/view/AKR20220428059200052?section=safe/news",
+		"date": "04-28 10:11"
+	},
+	"0f6f593e2ccc4e999feba6e90357e12a937a81ed99eba1a5c403de90d109829b": {
+		"title": "5만7464명 확진, 목요일 기준 11주만에 5만명대…사망 122명(종합)",
+		"link": "www.yna.co.kr/view/AKR20220428051500530?section=safe/news",
+		"date": "04-28 10:01"
+	},
+	"ec34e46212db1d82c393c3c7e4666e8e8d49a2185445cec7c59bb0866d03becd": {
+		"title": "경기 1만3657명 신규 확진…전날보다 4767명 감소",
+		"link": "www.yna.co.kr/view/AKR20220428046200061?section=safe/news",
+		"date": "04-28 10:00"
+	},
+	"d814460a8940aae298de0edec4ea6018cf6cca872c95eb7542c79b68106e0d24": {
+		"title": "대전 1999명 추가확진…최근 1주간 전주보다 일평균 31.5% 줄어",
+		"link": "www.yna.co.kr/view/AKR20220428047200063?section=safe/news",
+		"date": "04-28 10:00"
+	},
+	"fd8415d1e3b3715a08e2ff15d437e415cf99dc91c64d275a5d159409a75ee991": {
+		"title": "중국 베이징 신규감염 50명…상하이 감소세 유지",
+		"link": "www.yna.co.kr/view/AKR20220428046700083?section=safe/news",
+		"date": "04-28 09:46"
+	},
+	"26702e31fbe20957eff1217613137820d3f3a4e29ddfeaca056194fcddb923ab": {
+		"title": "거리두기 완화에 올해 1분기 카드 승인액 늘었다",
+		"link": "www.yna.co.kr/view/AKR20220428047500002?section=safe/news",
+		"date": "04-28 09:39"
+	},
+	"b5e8ff2f116c32bb6cd599546f2696f479198b0c77bce47406568cf6b2b80d78": {
+		"title": "[1보] 신규확진 5만7464명, 감소세 지속…사망 122명·위중증 552명",
+		"link": "www.yna.co.kr/view/AKR20220428028900530?section=safe/news",
+		"date": "04-28 09:30"
+	},
+	"69de845c7defa9cfefa4b14954558e6ac85495b4d5dcdd71a176935da19d3e09": {
+		"title": "코로나 이후 바이오산업은…바이오코리아 다음달 11∼13일 개최",
+		"link": "www.yna.co.kr/view/AKR20220428036600530?section=safe/news",
+		"date": "04-28 09:22"
+	},
+	"cf73d337252139e773dcadb25735e7971ffc9a0b03e2ad3ffbfedbc24e82b5bb": {
+		"title": "전북 2654명 추가 확진…전주 970·군산 444명 등",
+		"link": "www.yna.co.kr/view/AKR20220428039600055?section=safe/news",
+		"date": "04-28 09:20"
+	},
+	"05159070af5b59621c28fd2624b5ac5e594c9efec6b81fd066020fcd01a670ac": {
+		"title": "질병청, SK바사 개발 백신 대상 델타·오미크론 효능 평가 착수",
+		"link": "www.yna.co.kr/view/AKR20220428041300530?section=safe/news",
+		"date": "04-28 09:19"
+	},
+	"326c600e464512a9e4e15a1257453eb0b69593180ba65ff37e672ee41218ab74": {
+		"title": "충북 어제 2024명 확진…전날보다 901명↓",
+		"link": "www.yna.co.kr/view/AKR20220428036500064?section=safe/news",
+		"date": "04-28 09:05"
+	},
+	"d72f796bd8d5aedf5df8578c75f3a06c1e0cf37c6eadb2441303c351e11bdc9c": {
+		"title": "강원 신규 확진 2196명…이틀째 2천 명대 감소세",
+		"link": "www.yna.co.kr/view/AKR20220428036800062?section=safe/news",
+		"date": "04-28 09:01"
+	},
 	"5e16e959d4c431cde94cac56d6df7571588c7d6077a625968a0e4bf7f0955fcf": {
 		"title": "코로나19 광주·전남 확진자 각각 2천명대",
 		"link": "www.yna.co.kr/view/AKR20220428024200054?section=safe/news",
@@ -433,70 +498,5 @@
 		"title": "대구권 대학 외국인 유학생 점차 늘어…코로나19 전 수준",
 		"link": "www.yna.co.kr/view/AKR20220426107200053?section=safe/news",
 		"date": "04-26 14:19"
-	},
-	"e810ef18d7d9b1147dc0d3e37fa8d21f2896cc65c5291c82d0af5d3b70e64511": {
-		"title": "경남 주간 하루 평균 4882명 확진…2주 연속 1만명 아래",
-		"link": "www.yna.co.kr/view/AKR20220426106500052?section=safe/news",
-		"date": "04-26 14:19"
-	},
-	"6d141c3c62d1351a57e1874cdcf53e613bb160e54f45b026cc8f1157746ce8c9": {
-		"title": "코로나 위험도 14주만에 높음→중간…\"5월 하루확진 4만명 미만\"(종합2보)",
-		"link": "www.yna.co.kr/view/AKR20220426081752530?section=safe/news",
-		"date": "04-26 14:06"
-	},
-	"441a483e073debab7d6b3f74d3d9cf481de2e4e32ccad4b539756de3eef2aef5": {
-		"title": "\"5월 하루확진 4만명 미만 예측…시간 지나면서 재증가 가능성\"(종합)",
-		"link": "www.yna.co.kr/view/AKR20220426081751530?section=safe/news",
-		"date": "04-26 13:11"
-	},
-	"873f05e6c362f4a39ca762ff28dba980cdede1d34182274726cdd93729e58447": {
-		"title": "'코로나 모범' 대만 확산 조짐…이틀 연속 5천명대",
-		"link": "www.yna.co.kr/view/AKR20220426090600009?section=safe/news",
-		"date": "04-26 13:06"
-	},
-	"8cfe14aa3710d836ebf99000599b961652f5cf216a50c52a0f14d1b1da219825": {
-		"title": "\"거리두기 전면해제에도 모임 규모·시간 최소화\"…6대 방역수칙",
-		"link": "www.yna.co.kr/view/AKR20220426085700530?section=safe/news",
-		"date": "04-26 11:53"
-	},
-	"1547213ee2d8bb2d6f3561577260e11b7c1d9b74274651f6d38f58db676231e0": {
-		"title": "코로나가 이직 기회?…美 옛 직장 돌아가는 '부메랑 직원' 늘어",
-		"link": "www.yna.co.kr/view/AKR20220426064600009?section=safe/news",
-		"date": "04-26 11:44"
-	},
-	"4294f6b5336f0c4183c0abff9a500d97005e1acf75b3d4dc3861935b1e34fcc5": {
-		"title": "\"5월 하루확진 4만명 미만 예측…시간 지나면서 재증가 가능성\"",
-		"link": "www.yna.co.kr/view/AKR20220426081700530?section=safe/news",
-		"date": "04-26 11:39"
-	},
-	"5da72c9239b768943d23cf1f0728ccc4df90eb8ca691dae81c23a403c0127641": {
-		"title": "국내 코로나19 재감염 5만5906명 추정…재감염으로 사망 52명",
-		"link": "www.yna.co.kr/view/AKR20220426077300530?section=safe/news",
-		"date": "04-26 11:39"
-	},
-	"3f4820799d448b472a986bb11d1ca1d42858586520f12e7b067988096c6b6ed3": {
-		"title": "주한미군, 영내 마스크 착용 의무 해제",
-		"link": "www.yna.co.kr/view/AKR20220426078900504?section=safe/news",
-		"date": "04-26 11:30"
-	},
-	"be33559d4add451dfca6f3e62517f38a5ba8dcf8b34efb7bb951a87614b69278": {
-		"title": "서울 1만3560명 신규 확진…1주 전보다 8천여명 줄어",
-		"link": "www.yna.co.kr/view/AKR20220426073600004?section=safe/news",
-		"date": "04-26 11:19"
-	},
-	"b801b734cb435de424460848a1d3e19623dbebb01e41911eecc2c6d7f91b8320": {
-		"title": "거리두기 해제로 돌아온 축제의 계절…서울 곳곳 공연·전시",
-		"link": "www.yna.co.kr/view/AKR20220425162200004?section=safe/news",
-		"date": "04-26 11:15"
-	},
-	"af926e1ebf46c2f25be72916d0c996eb8c0e95776d73bbc7da4db03de5614782": {
-		"title": "제주 확진자 사흘째 1천 명 이하 발생…전주 대비 줄어",
-		"link": "www.yna.co.kr/view/AKR20220426074100056?section=safe/news",
-		"date": "04-26 11:14"
-	},
-	"4ed0ac6245f0c21bd37ef3c9d9ee8a705111ad23094cee6ec77fd78837310947": {
-		"title": "[속보] 국내 코로나19 재감염 5만5906명 추정…3회 감염 65명",
-		"link": "www.yna.co.kr/view/AKR20220426070000530?section=safe/news",
-		"date": "04-26 11:00"
 	}
 }
