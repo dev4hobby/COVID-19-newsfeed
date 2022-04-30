@@ -1,4 +1,49 @@
 {
+	"a52565c3096745f77b757f604d92ef7d44029db478471907d07ed3c9505e580c": {
+		"title": "싱가포르서 BA.2보다 '더 빠른' BA.2.12.1 변이 2건 확인",
+		"link": "www.yna.co.kr/view/AKR20220430026000076?section=safe/news",
+		"date": "04-30 11:48"
+	},
+	"cfefaeae0fa0305b1736ba13f0870e85c1121698a91231d0c47dfbb6175f459d": {
+		"title": "중국 제조업 '코로나 충격'…PMI 26개월 만에 최저",
+		"link": "www.yna.co.kr/view/AKR20220430025500097?section=safe/news",
+		"date": "04-30 11:42"
+	},
+	"4e07b124065e4469dfb6ed8b0e3ca6ad9b9e4a24bb6dc37229b9728e020703e9": {
+		"title": "서울 6455명 신규 확진…전날보다 1271명 줄어",
+		"link": "www.yna.co.kr/view/AKR20220430024800004?section=safe/news",
+		"date": "04-30 11:30"
+	},
+	"4c8c9f4b81fd99d1127664e5ea0599c783179693306c86feeb584974dbbd829c": {
+		"title": "부산 코로나19 감소세 지속…사흘째 2천명대",
+		"link": "www.yna.co.kr/view/AKR20220430025100051?section=safe/news",
+		"date": "04-30 11:11"
+	},
+	"ca345be470d476f5ea26ea94a5aa7ac87d970cc42d791e0173ea56e58f1e3268": {
+		"title": "전북서 코로나19 1998명 확진…감소세 지속",
+		"link": "www.yna.co.kr/view/AKR20220430024000055?section=safe/news",
+		"date": "04-30 10:42"
+	},
+	"26aa410018ed64175c4c2d57686877480dadaba03d7d85bf71b75a0559756c54": {
+		"title": "캐나다 몬트리올에 모더나 첫 해외 백신공장 건설",
+		"link": "www.yna.co.kr/view/AKR20220430023600009?section=safe/news",
+		"date": "04-30 10:41"
+	},
+	"8abc7a12f47a7f3d65c6c8a5aeb95829170e2e051dbf53b8e68939dd6aa872ee": {
+		"title": "경남 2717명 확진…17일째 1만명 아래 유지",
+		"link": "www.yna.co.kr/view/AKR20220430023500052?section=safe/news",
+		"date": "04-30 10:31"
+	},
+	"349619d755e66acfb8e20aede83c442c2dd2eb164d8d6e29e617e8a0c42d6d82": {
+		"title": "인천 1960명 확진…요양시설 감염자 등 4명 사망",
+		"link": "www.yna.co.kr/view/AKR20220430023100065?section=safe/news",
+		"date": "04-30 10:24"
+	},
+	"3025f13e2890234a19f77262d3f3219c0070318ed9717cde7722d2c09a74bf2d": {
+		"title": "4만3286명 확진…위중증 67일만에 500명 밑으로(종합)",
+		"link": "www.yna.co.kr/view/AKR20220430022700530?section=safe/news",
+		"date": "04-30 10:14"
+	},
 	"df95667f9eca5952fbc74af423e304d19ed67eea67350ae1fd2cd987f1933779": {
 		"title": "중국 베이징 신규감염자 54명…봉쇄 관리구역 1곳 추가",
 		"link": "www.yna.co.kr/view/AKR20220430021600083?section=safe/news",
@@ -453,50 +498,5 @@
 		"title": "\"오미크론도 입원할 정도면 델타만큼 집중치료 필요\"",
 		"link": "www.yna.co.kr/view/AKR20220428129200009?section=safe/news",
 		"date": "04-28 15:19"
-	},
-	"0dbcc1335d7d37308630738a9bf93830e522f37bc0750e14654a4ff97c241539": {
-		"title": "[속초소식] 코로나19 감염 예방 어린이날 행사 취소",
-		"link": "www.yna.co.kr/view/AKR20220428123400062?section=safe/news",
-		"date": "04-28 15:00"
-	},
-	"af777c91d442c97c762e9f6897e3e7a2898c5c2a4460031f13aabfbc7f542aac": {
-		"title": "부산, 코로나19 감소세 지속…28일 낮까지 1506명 확진(종합)",
-		"link": "www.yna.co.kr/view/AKR20220428066751051?section=safe/news",
-		"date": "04-28 15:00"
-	},
-	"b571377f9ea01bc3982b2af09d1eff4a2f437197043226e5d9531d0163deefbc": {
-		"title": "코로나 사망 영아 담당 간호사, 의사 처방과 다른 방식으로 투약",
-		"link": "www.yna.co.kr/view/AKR20220428092000056?section=safe/news",
-		"date": "04-28 14:53"
-	},
-	"26a71112cf545b1f2777e26c1658907fbf00586e7a2a55c1e04c3eda620ed9a6": {
-		"title": "'코로나19 엔데믹' 동아대, 대규모 취업 설명회 재개",
-		"link": "www.yna.co.kr/view/AKR20220428116300051?section=safe/news",
-		"date": "04-28 14:34"
-	},
-	"32e1f328c8e7e912248081d4af04efa5c40be3fb1997d42630946c489e4e8d12": {
-		"title": "다음 주부터 야외 마스크 벗는다…정부, 내일 발표 가닥",
-		"link": "www.yna.co.kr/view/AKR20220428113100001?section=safe/news",
-		"date": "04-28 14:27"
-	},
-	"d2ea89e1261f63cb369a08803cec66ffe59b2e1a344f1473f500f08c960fa4af": {
-		"title": "중국 코로나 확산에…인천항 카페리 2개 항로 중단",
-		"link": "www.yna.co.kr/view/AKR20220428104600065?section=safe/news",
-		"date": "04-28 13:44"
-	},
-	"8397af4af25396a6a6c3dd35bfbeb1243582da762694e072352d9a50bb4b2d46": {
-		"title": "문대통령, 방역 관계자들과 오찬…\"대한민국 지킨 영웅\"",
-		"link": "www.yna.co.kr/view/AKR20220428062200001?section=safe/news",
-		"date": "04-28 13:43"
-	},
-	"adccae1cb50650b90764887a60cd2527071c7e7209f9af1edc87e85f3ece39b9": {
-		"title": "\"中, 시진핑 3연임 확정 당대회까지 '제로 코로나' 포기 안해\"",
-		"link": "www.yna.co.kr/view/AKR20220428094300009?section=safe/news",
-		"date": "04-28 13:27"
-	},
-	"f95a843ef73023420b28c52f25a352505ff069d436f29616021158569089b85a": {
-		"title": "中경제 망치는 과잉방역에 최고 지도부도 나서…\"물류 막지마라\"",
-		"link": "www.yna.co.kr/view/AKR20220428093500089?section=safe/news",
-		"date": "04-28 13:07"
 	}
 }
